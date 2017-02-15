@@ -1,0 +1,2358 @@
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	2
+Len:	50
+
+Cumulative Diff:	0.9358231554165609
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	3
+Len:	45
+
+Cumulative Diff:	0.9215765218692276
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	4
+Len:	37
+
+Cumulative Diff:	0.9350789048234108
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	5
+Len:	39
+
+Cumulative Diff:	0.9313892418852766
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	6
+Len:	34
+
+Cumulative Diff:	0.9408356238589393
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	7
+Len:	35
+
+Cumulative Diff:	0.9341922568275305
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	8
+Len:	33
+
+Cumulative Diff:	0.9397909147894082
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	9
+Len:	30
+
+Cumulative Diff:	0.9424531765685144
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	10
+Len:	30
+
+Cumulative Diff:	0.9456908168929875
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	11
+Len:	29
+
+Cumulative Diff:	0.9440919047686634
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	12
+Len:	27
+
+Cumulative Diff:	0.9505048092091084
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	13
+Len:	25
+
+Cumulative Diff:	0.9544309834633837
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	14
+Len:	24
+
+Cumulative Diff:	0.9565806027955086
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	15
+Len:	23
+
+Cumulative Diff:	0.9592785448918095
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	16
+Len:	22
+
+Cumulative Diff:	0.9571276961364468
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	17
+Len:	20
+
+Cumulative Diff:	0.956434135119975
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	18
+Len:	19
+
+Cumulative Diff:	0.9564341351199749
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	19
+Len:	18
+
+Cumulative Diff:	0.9607304352687047
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	20
+Len:	17
+
+Cumulative Diff:	0.9650483248654178
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	21
+Len:	19
+
+Cumulative Diff:	0.9614051177018522
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	22
+Len:	19
+
+Cumulative Diff:	0.9614051177018522
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9645031306593163
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	24
+Len:	19
+
+Cumulative Diff:	0.9623210630710861
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	25
+Len:	18
+
+Cumulative Diff:	0.9634035389575549
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	26
+Len:	20
+
+Cumulative Diff:	0.957614641961835
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	27
+Len:	19
+
+Cumulative Diff:	0.9576340294245975
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	28
+Len:	19
+
+Cumulative Diff:	0.9533493134092751
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	29
+Len:	18
+
+Cumulative Diff:	0.9576340294245975
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	30
+Len:	17
+
+Cumulative Diff:	0.9597908628242025
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	31
+Len:	19
+
+Cumulative Diff:	0.9511925449217413
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	32
+Len:	18
+
+Cumulative Diff:	0.9554917366961572
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	33
+Len:	18
+
+Cumulative Diff:	0.9563564351004072
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	34
+Len:	18
+
+Cumulative Diff:	0.9517684084633147
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	35
+Len:	18
+
+Cumulative Diff:	0.9498516674303834
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	36
+Len:	19
+
+Cumulative Diff:	0.9517684084633148
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	37
+Len:	18
+
+Cumulative Diff:	0.9517779996156261
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	38
+Len:	18
+
+Cumulative Diff:	0.9517567075192609
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	39
+Len:	15
+
+Cumulative Diff:	0.952072605844506
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	40
+Len:	14
+
+Cumulative Diff:	0.9542120948464038
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9617449755999632
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	42
+Len:	12
+
+Cumulative Diff:	0.9633649839810974
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	43
+Len:	11
+
+Cumulative Diff:	0.9669857602582977
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	44
+Len:	13
+
+Cumulative Diff:	0.9665010821480181
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	45
+Len:	14
+
+Cumulative Diff:	0.9643508404092677
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	46
+Len:	14
+
+Cumulative Diff:	0.9643508404092677
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	47
+Len:	13
+
+Cumulative Diff:	0.966501082148018
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	48
+Len:	14
+
+Cumulative Diff:	0.9621523543225924
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	49
+Len:	15
+
+Cumulative Diff:	0.9621523543225924
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	50
+Len:	15
+
+Cumulative Diff:	0.9586948868151683
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	51
+Len:	14
+
+Cumulative Diff:	0.9586851386313399
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	52
+Len:	14
+
+Cumulative Diff:	0.9608394872574777
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	53
+Len:	12
+
+Cumulative Diff:	0.9705972158119531
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	54
+Len:	13
+
+Cumulative Diff:	0.9724871860898581
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	55
+Len:	14
+
+Cumulative Diff:	0.972487186089858
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	56
+Len:	13
+
+Cumulative Diff:	0.970597215811953
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	57
+Len:	13
+
+Cumulative Diff:	0.970597215811953
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	58
+Len:	13
+
+Cumulative Diff:	0.977184979720179
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	59
+Len:	13
+
+Cumulative Diff:	0.9749890584174372
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	60
+Len:	13
+
+Cumulative Diff:	0.9771949160156665
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	61
+Len:	13
+
+Cumulative Diff:	0.9771949160156665
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	62
+Len:	13
+
+Cumulative Diff:	0.9771949160156665
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	63
+Len:	12
+
+Cumulative Diff:	0.9777439019235404
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	64
+Len:	12
+
+Cumulative Diff:	0.9777439019235404
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	65
+Len:	12
+
+Cumulative Diff:	0.9768598658458518
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	66
+Len:	13
+
+Cumulative Diff:	0.9746646751360859
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	67
+Len:	13
+
+Cumulative Diff:	0.9724645291425508
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	68
+Len:	11
+
+Cumulative Diff:	0.9768598658458518
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	69
+Len:	13
+
+Cumulative Diff:	0.9766838867671552
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	70
+Len:	13
+
+Cumulative Diff:	0.9657590110762475
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	71
+Len:	12
+
+Cumulative Diff:	0.9659330217088739
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	72
+Len:	12
+
+Cumulative Diff:	0.9659330217088739
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	73
+Len:	12
+
+Cumulative Diff:	0.9659330217088739
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	74
+Len:	11
+
+Cumulative Diff:	0.9681183905362692
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	75
+Len:	11
+
+Cumulative Diff:	0.9681183905362692
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	76
+Len:	11
+
+Cumulative Diff:	0.9681183905362692
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	77
+Len:	10
+
+Cumulative Diff:	0.9724792841873334
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	78
+Len:	9
+
+Cumulative Diff:	0.9768499775994113
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	79
+Len:	9
+
+Cumulative Diff:	0.9768499775994113
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	80
+Len:	8
+
+Cumulative Diff:	0.9777340047284607
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	81
+Len:	8
+
+Cumulative Diff:	0.9777340047284607
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	82
+Len:	8
+
+Cumulative Diff:	0.9777340047284607
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	83
+Len:	7
+
+Cumulative Diff:	0.9799410792312339
+
+Tick:	../data/EGLT.txt
+K in:	1
+D in:	84
+Len:	7
+
+Cumulative Diff:	0.9799410792312339
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	3
+Len:	46
+
+Cumulative Diff:	0.9531797177309141
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	4
+Len:	35
+
+Cumulative Diff:	0.9480293133003207
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	5
+Len:	31
+
+Cumulative Diff:	0.9448197290637167
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	6
+Len:	29
+
+Cumulative Diff:	0.9442237684927216
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	7
+Len:	29
+
+Cumulative Diff:	0.9397312774126535
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	8
+Len:	26
+
+Cumulative Diff:	0.943852895061958
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9529881128569024
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	10
+Len:	23
+
+Cumulative Diff:	0.958355564904541
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	11
+Len:	22
+
+Cumulative Diff:	0.9543804162285348
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	12
+Len:	19
+
+Cumulative Diff:	0.9674110825947049
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9716020171816656
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	14
+Len:	18
+
+Cumulative Diff:	0.9759835314321044
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	15
+Len:	18
+
+Cumulative Diff:	0.9759859833286039
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	16
+Len:	18
+
+Cumulative Diff:	0.9737976739489433
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	17
+Len:	17
+
+Cumulative Diff:	0.9708483045407652
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	18
+Len:	15
+
+Cumulative Diff:	0.9677907941845098
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	19
+Len:	14
+
+Cumulative Diff:	0.9670599839084246
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	20
+Len:	14
+
+Cumulative Diff:	0.9708633324737734
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	21
+Len:	14
+
+Cumulative Diff:	0.9724641824568657
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	22
+Len:	13
+
+Cumulative Diff:	0.9680837131665195
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	23
+Len:	13
+
+Cumulative Diff:	0.9699240733917553
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	24
+Len:	14
+
+Cumulative Diff:	0.9677346285308259
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	25
+Len:	14
+
+Cumulative Diff:	0.9702791712520049
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	26
+Len:	14
+
+Cumulative Diff:	0.9702791712520049
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	27
+Len:	13
+
+Cumulative Diff:	0.9711769135907117
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	28
+Len:	13
+
+Cumulative Diff:	0.9668217720959242
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	29
+Len:	11
+
+Cumulative Diff:	0.9711670384873666
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	30
+Len:	11
+
+Cumulative Diff:	0.9733494363266639
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	31
+Len:	11
+
+Cumulative Diff:	0.9689748321184543
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	32
+Len:	10
+
+Cumulative Diff:	0.9718888962422565
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	33
+Len:	11
+
+Cumulative Diff:	0.9686238719547686
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	34
+Len:	12
+
+Cumulative Diff:	0.9661432339217265
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	35
+Len:	14
+
+Cumulative Diff:	0.9624236530489433
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	36
+Len:	13
+
+Cumulative Diff:	0.9664471890964434
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	37
+Len:	12
+
+Cumulative Diff:	0.9621230405993676
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	38
+Len:	13
+
+Cumulative Diff:	0.96466710889603
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	39
+Len:	12
+
+Cumulative Diff:	0.9654003878297405
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	40
+Len:	10
+
+Cumulative Diff:	0.9668512212660877
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	41
+Len:	9
+
+Cumulative Diff:	0.9744752374560796
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	42
+Len:	9
+
+Cumulative Diff:	0.9739280868454924
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	43
+Len:	8
+
+Cumulative Diff:	0.9786832882407979
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	51
+Len:	8
+
+Cumulative Diff:	0.9799409451820964
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	70
+Len:	9
+
+Cumulative Diff:	0.9770605689145238
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	71
+Len:	9
+
+Cumulative Diff:	0.9768845536796265
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	72
+Len:	9
+
+Cumulative Diff:	0.9790847441158418
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	73
+Len:	8
+
+Cumulative Diff:	0.9777636522308701
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9762245594569519
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	75
+Len:	7
+
+Cumulative Diff:	0.9762245594569519
+
+Tick:	../data/EGLT.txt
+K in:	2
+D in:	76
+Len:	7
+
+Cumulative Diff:	0.9762245594569519
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	5
+Len:	30
+
+Cumulative Diff:	0.9741753537642737
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	7
+Len:	27
+
+Cumulative Diff:	0.9699971993812563
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	9
+Len:	21
+
+Cumulative Diff:	0.9774388759119492
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	10
+Len:	21
+
+Cumulative Diff:	0.9717691555108005
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	11
+Len:	18
+
+Cumulative Diff:	0.9686802928563514
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	12
+Len:	17
+
+Cumulative Diff:	0.9763384760750227
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	15
+Len:	14
+
+Cumulative Diff:	0.9779695557256133
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	17
+Len:	12
+
+Cumulative Diff:	0.9794096240429175
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	22
+Len:	9
+
+Cumulative Diff:	0.9799510432502885
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	23
+Len:	9
+
+Cumulative Diff:	0.9799510432502885
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	27
+Len:	9
+
+Cumulative Diff:	0.9799609631887698
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	28
+Len:	8
+
+Cumulative Diff:	0.9755763503780819
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	29
+Len:	7
+
+Cumulative Diff:	0.9799609631887698
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	30
+Len:	8
+
+Cumulative Diff:	0.9777488616917297
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	31
+Len:	8
+
+Cumulative Diff:	0.9755565996699994
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	32
+Len:	8
+
+Cumulative Diff:	0.9799609631887698
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	33
+Len:	9
+
+Cumulative Diff:	0.9777488616917297
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	34
+Len:	11
+
+Cumulative Diff:	0.9722841859182914
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	35
+Len:	12
+
+Cumulative Diff:	0.97063139984951
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	36
+Len:	12
+
+Cumulative Diff:	0.974790503107494
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	37
+Len:	13
+
+Cumulative Diff:	0.9704290243463868
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	38
+Len:	11
+
+Cumulative Diff:	0.9638749562783219
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	39
+Len:	10
+
+Cumulative Diff:	0.972604830027546
+
+Tick:	../data/EGLT.txt
+K in:	3
+D in:	40
+Len:	9
+
+Cumulative Diff:	0.9747904588590686
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	5
+Len:	40
+
+Cumulative Diff:	0.9710152588897557
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	6
+Len:	29
+
+Cumulative Diff:	0.9798253075505508
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	8
+Len:	21
+
+Cumulative Diff:	0.9718786664791528
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	9
+Len:	20
+
+Cumulative Diff:	0.9675182258768701
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9719478877947249
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	11
+Len:	16
+
+Cumulative Diff:	0.9768711734569958
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	12
+Len:	14
+
+Cumulative Diff:	0.9780511417972136
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	16
+Len:	12
+
+Cumulative Diff:	0.9756539105645312
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	23
+Len:	9
+
+Cumulative Diff:	0.977819469069468
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	26
+Len:	10
+
+Cumulative Diff:	0.9756220776617888
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	28
+Len:	7
+
+Cumulative Diff:	0.9799807582804662
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	35
+Len:	10
+
+Cumulative Diff:	0.9703911672420422
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	36
+Len:	10
+
+Cumulative Diff:	0.9745492411162451
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	37
+Len:	10
+
+Cumulative Diff:	0.9701888418271345
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	38
+Len:	11
+
+Cumulative Diff:	0.9756248859350047
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	39
+Len:	9
+
+Cumulative Diff:	0.976356611025589
+
+Tick:	../data/EGLT.txt
+K in:	4
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9785506708256465
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	6
+Len:	37
+
+Cumulative Diff:	0.9749676392378538
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	9
+Len:	21
+
+Cumulative Diff:	0.9727339153000908
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	10
+Len:	17
+
+Cumulative Diff:	0.9670454210790823
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	11
+Len:	15
+
+Cumulative Diff:	0.9724954297676401
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	12
+Len:	15
+
+Cumulative Diff:	0.9707212729282068
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	13
+Len:	14
+
+Cumulative Diff:	0.9750889892362249
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	14
+Len:	13
+
+Cumulative Diff:	0.9789440522354218
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	16
+Len:	12
+
+Cumulative Diff:	0.966365610137367
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	17
+Len:	11
+
+Cumulative Diff:	0.9685226109471438
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	18
+Len:	9
+
+Cumulative Diff:	0.9778316435602764
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	22
+Len:	8
+
+Cumulative Diff:	0.9736622152252844
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	26
+Len:	10
+
+Cumulative Diff:	0.9687468383387223
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	27
+Len:	7
+
+Cumulative Diff:	0.9709336257841823
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	28
+Len:	7
+
+Cumulative Diff:	0.9775236730180116
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	29
+Len:	7
+
+Cumulative Diff:	0.9797005208251229
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9797153856604205
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	34
+Len:	8
+
+Cumulative Diff:	0.9794863394877262
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	35
+Len:	7
+
+Cumulative Diff:	0.9742298571852782
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	36
+Len:	10
+
+Cumulative Diff:	0.9783696826227977
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	37
+Len:	10
+
+Cumulative Diff:	0.9783795418412371
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	38
+Len:	10
+
+Cumulative Diff:	0.9724887453931516
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	39
+Len:	9
+
+Cumulative Diff:	0.9703398510663938
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9725203900575541
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	41
+Len:	8
+
+Cumulative Diff:	0.9750940240640146
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	42
+Len:	8
+
+Cumulative Diff:	0.9772901817758705
+
+Tick:	../data/EGLT.txt
+K in:	5
+D in:	43
+Len:	7
+
+Cumulative Diff:	0.9798549181448102
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	11
+Len:	13
+
+Cumulative Diff:	0.9789688374811295
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	12
+Len:	13
+
+Cumulative Diff:	0.9767688852654188
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	13
+Len:	14
+
+Cumulative Diff:	0.9769874506906292
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	15
+Len:	13
+
+Cumulative Diff:	0.9737137416782445
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	16
+Len:	10
+
+Cumulative Diff:	0.9760578951554719
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	17
+Len:	9
+
+Cumulative Diff:	0.9787861009594436
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	18
+Len:	10
+
+Cumulative Diff:	0.9760211423471304
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	37
+Len:	8
+
+Cumulative Diff:	0.9769883839212538
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	38
+Len:	8
+
+Cumulative Diff:	0.9742237807164102
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	39
+Len:	8
+
+Cumulative Diff:	0.9688765693137448
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	40
+Len:	7
+
+Cumulative Diff:	0.9719050275927231
+
+Tick:	../data/EGLT.txt
+K in:	6
+D in:	41
+Len:	7
+
+Cumulative Diff:	0.9792608130531464
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	10
+Len:	19
+
+Cumulative Diff:	0.9728121750648385
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.965691933071102
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	12
+Len:	14
+
+Cumulative Diff:	0.9709027118966984
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	13
+Len:	12
+
+Cumulative Diff:	0.9779996893204104
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	16
+Len:	8
+
+Cumulative Diff:	0.9694078565561198
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	17
+Len:	9
+
+Cumulative Diff:	0.9762961676196311
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	26
+Len:	6
+
+Cumulative Diff:	0.9799460726124617
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	35
+Len:	5
+
+Cumulative Diff:	0.9791169420047003
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	37
+Len:	7
+
+Cumulative Diff:	0.9766981296210134
+
+Tick:	../data/EGLT.txt
+K in:	7
+D in:	39
+Len:	8
+
+Cumulative Diff:	0.9775664140361628
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	9
+Len:	32
+
+Cumulative Diff:	0.9711912833993053
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	10
+Len:	25
+
+Cumulative Diff:	0.9716289215276827
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	16
+Len:	10
+
+Cumulative Diff:	0.9779104518513123
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	18
+Len:	9
+
+Cumulative Diff:	0.9750014218072303
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	22
+Len:	8
+
+Cumulative Diff:	0.9774562269796119
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	23
+Len:	8
+
+Cumulative Diff:	0.9766651303529333
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	29
+Len:	5
+
+Cumulative Diff:	0.9785038025533737
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	30
+Len:	5
+
+Cumulative Diff:	0.9785038025533737
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	32
+Len:	5
+
+Cumulative Diff:	0.9788979001832229
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	34
+Len:	5
+
+Cumulative Diff:	0.97888803574124
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	35
+Len:	5
+
+Cumulative Diff:	0.9795909083855313
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	36
+Len:	5
+
+Cumulative Diff:	0.9795909083855313
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	37
+Len:	5
+
+Cumulative Diff:	0.9773994298432818
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	38
+Len:	9
+
+Cumulative Diff:	0.9762744629738219
+
+Tick:	../data/EGLT.txt
+K in:	8
+D in:	39
+Len:	8
+
+Cumulative Diff:	0.9762134862415085
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	15
+Len:	11
+
+Cumulative Diff:	0.977822118356329
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	27
+Len:	6
+
+Cumulative Diff:	0.9797382564681087
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	28
+Len:	6
+
+Cumulative Diff:	0.9781960554797396
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	32
+Len:	6
+
+Cumulative Diff:	0.9788979001832229
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	33
+Len:	6
+
+Cumulative Diff:	0.9770054054370738
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	34
+Len:	5
+
+Cumulative Diff:	0.9795139641486171
+
+Tick:	../data/EGLT.txt
+K in:	9
+D in:	35
+Len:	5
+
+Cumulative Diff:	0.9795139641486171
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	18
+Len:	11
+
+Cumulative Diff:	0.9789585071020345
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	21
+Len:	9
+
+Cumulative Diff:	0.9764493407123512
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	22
+Len:	7
+
+Cumulative Diff:	0.9775489458257659
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	24
+Len:	9
+
+Cumulative Diff:	0.9786436088937271
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.977161634101229
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	27
+Len:	6
+
+Cumulative Diff:	0.9784819125777009
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	28
+Len:	7
+
+Cumulative Diff:	0.9781741723886349
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	31
+Len:	5
+
+Cumulative Diff:	0.9790314723380709
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	32
+Len:	5
+
+Cumulative Diff:	0.9790971835584439
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	33
+Len:	5
+
+Cumulative Diff:	0.9794920515747563
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	34
+Len:	5
+
+Cumulative Diff:	0.9794920515747563
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	39
+Len:	6
+
+Cumulative Diff:	0.9778392212038344
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9750940240640147
+
+Tick:	../data/EGLT.txt
+K in:	10
+D in:	41
+Len:	8
+
+Cumulative Diff:	0.9772803335350102
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	15
+Len:	13
+
+Cumulative Diff:	0.9716697797169029
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	16
+Len:	11
+
+Cumulative Diff:	0.9735996896260724
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	17
+Len:	10
+
+Cumulative Diff:	0.9752933739971392
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	18
+Len:	11
+
+Cumulative Diff:	0.9740842410604973
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	20
+Len:	10
+
+Cumulative Diff:	0.979295105786106
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	21
+Len:	10
+
+Cumulative Diff:	0.9776830662321868
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	22
+Len:	7
+
+Cumulative Diff:	0.978833020220417
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	23
+Len:	7
+
+Cumulative Diff:	0.9784113686234455
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	24
+Len:	7
+
+Cumulative Diff:	0.9783964791613717
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.9775922502220287
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	27
+Len:	9
+
+Cumulative Diff:	0.9797990047372028
+
+Tick:	../data/EGLT.txt
+K in:	11
+D in:	28
+Len:	6
+
+Cumulative Diff:	0.9762541614890577
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	15
+Len:	15
+
+Cumulative Diff:	0.9704463237134503
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	16
+Len:	12
+
+Cumulative Diff:	0.9731333054241633
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	17
+Len:	10
+
+Cumulative Diff:	0.9712568341211392
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	18
+Len:	10
+
+Cumulative Diff:	0.9653891560288473
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9712496242024042
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	21
+Len:	10
+
+Cumulative Diff:	0.978240050027637
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	23
+Len:	7
+
+Cumulative Diff:	0.977568344018766
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	24
+Len:	7
+
+Cumulative Diff:	0.9762393937838422
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	25
+Len:	8
+
+Cumulative Diff:	0.973025019192344
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.9731537558524136
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	27
+Len:	8
+
+Cumulative Diff:	0.9783662180875828
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	28
+Len:	7
+
+Cumulative Diff:	0.9739740071653262
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	29
+Len:	6
+
+Cumulative Diff:	0.9783663072098141
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	30
+Len:	7
+
+Cumulative Diff:	0.9724825465906414
+
+Tick:	../data/EGLT.txt
+K in:	12
+D in:	31
+Len:	6
+
+Cumulative Diff:	0.9777797360797195
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	18
+Len:	10
+
+Cumulative Diff:	0.9778589290488904
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	19
+Len:	10
+
+Cumulative Diff:	0.9714740987635377
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	23
+Len:	8
+
+Cumulative Diff:	0.9740505162193045
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	24
+Len:	7
+
+Cumulative Diff:	0.9775634074282143
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	25
+Len:	8
+
+Cumulative Diff:	0.9764525989340078
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.9774866001858715
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	28
+Len:	8
+
+Cumulative Diff:	0.9778573310609172
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	29
+Len:	6
+
+Cumulative Diff:	0.975586181447578
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	30
+Len:	6
+
+Cumulative Diff:	0.9773855583585674
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	31
+Len:	5
+
+Cumulative Diff:	0.9788746741940305
+
+Tick:	../data/EGLT.txt
+K in:	13
+D in:	32
+Len:	5
+
+Cumulative Diff:	0.9788746741940305
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	15
+Len:	27
+
+Cumulative Diff:	0.9661598925570822
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	16
+Len:	20
+
+Cumulative Diff:	0.971546000110124
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	17
+Len:	16
+
+Cumulative Diff:	0.9751931050738917
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	18
+Len:	12
+
+Cumulative Diff:	0.9735565743029891
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	19
+Len:	10
+
+Cumulative Diff:	0.9745333363327656
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	21
+Len:	10
+
+Cumulative Diff:	0.9740308409153533
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	22
+Len:	9
+
+Cumulative Diff:	0.9740308409153533
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	23
+Len:	10
+
+Cumulative Diff:	0.9718517565890126
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	24
+Len:	10
+
+Cumulative Diff:	0.9696530858860835
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9729288931797617
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.9731390128855631
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	27
+Len:	8
+
+Cumulative Diff:	0.974172412567734
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	28
+Len:	8
+
+Cumulative Diff:	0.9734525683083906
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	29
+Len:	7
+
+Cumulative Diff:	0.969009195954673
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	30
+Len:	7
+
+Cumulative Diff:	0.9718884682191445
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	35
+Len:	5
+
+Cumulative Diff:	0.9780491093605971
+
+Tick:	../data/EGLT.txt
+K in:	14
+D in:	37
+Len:	5
+
+Cumulative Diff:	0.9780491093605971
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	21
+Len:	10
+
+Cumulative Diff:	0.9720495864564366
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	22
+Len:	9
+
+Cumulative Diff:	0.9799658674033703
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	23
+Len:	9
+
+Cumulative Diff:	0.9762146776413887
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	24
+Len:	9
+
+Cumulative Diff:	0.9761182811283504
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	25
+Len:	8
+
+Cumulative Diff:	0.9772162769451427
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.9761232104211691
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	27
+Len:	8
+
+Cumulative Diff:	0.9719733777763847
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	28
+Len:	8
+
+Cumulative Diff:	0.9697678612855825
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	29
+Len:	8
+
+Cumulative Diff:	0.9696606721839222
+
+Tick:	../data/EGLT.txt
+K in:	15
+D in:	31
+Len:	6
+
+Cumulative Diff:	0.9790798625037348
+
+Tick:	../data/EGLT.txt
+K in:	18
+D in:	26
+Len:	8
+
+Cumulative Diff:	0.9748730207683333
+
+Tick:	../data/EGLT.txt
+K in:	18
+D in:	28
+Len:	6
+
+Cumulative Diff:	0.978544951119351
+
+Tick:	../data/EGLT.txt
+K in:	19
+D in:	26
+Len:	9
+
+Cumulative Diff:	0.9776003348155454
+
+Tick:	../data/EGLT.txt
+K in:	20
+D in:	25
+Len:	11
+
+Cumulative Diff:	0.9731058328173303
+
+Tick:	../data/EGLT.txt
+K in:	21
+D in:	25
+Len:	11
+
+Cumulative Diff:	0.972337885500351
+
+Tick:	../data/EGLT.txt
+K in:	21
+D in:	26
+Len:	11
+
+Cumulative Diff:	0.9790748333481107
+
+Tick:	../data/EGLT.txt
+K in:	32
+D in:	39
+Len:	7
+
+Cumulative Diff:	0.9793609378023291
+
+Tick:	../data/EGLT.txt
+K in:	33
+D in:	35
+Len:	13
+
+Cumulative Diff:	0.9784723916280929
+
+Tick:	../data/EGLT.txt
+K in:	33
+D in:	37
+Len:	9
+
+Cumulative Diff:	0.9788200083054253
+
+Tick:	../data/EGLT.txt
+K in:	35
+D in:	39
+Len:	8
+
+Cumulative Diff:	0.9791992979672066
+
+Tick:	../data/EGLT.txt
+K in:	36
+D in:	39
+Len:	11
+
+Cumulative Diff:	0.9775847055429995
+
+Tick:	../data/EGLT.txt
+K in:	43
+D in:	45
+Len:	11
+
+Cumulative Diff:	0.9760764759645079
+
+Tick:	../data/EGLT.txt
+K in:	51
+D in:	53
+Len:	10
+
+Cumulative Diff:	1.0216957217795657
+
+Tick:	../data/EGLT.txt
+K in:	62
+D in:	63
+Len:	16
+
+Cumulative Diff:	1.027896629020251
+
+Tick:	../data/EGLT.txt
+K in:	77
+D in:	80
+Len:	5
+
+Cumulative Diff:	1.0216284398060176

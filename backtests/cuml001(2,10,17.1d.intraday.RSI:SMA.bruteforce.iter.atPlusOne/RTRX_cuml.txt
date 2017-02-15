@@ -1,0 +1,419 @@
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	28
+Len:	12
+
+Cumulative Diff:	0.9793174979932613
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	29
+Len:	12
+
+Cumulative Diff:	0.9765335875176228
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	30
+Len:	13
+
+Cumulative Diff:	0.9765382310439541
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	36
+Len:	7
+
+Cumulative Diff:	0.9739619951318452
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	37
+Len:	6
+
+Cumulative Diff:	0.9735178044986138
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	38
+Len:	6
+
+Cumulative Diff:	0.974443201651179
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	39
+Len:	10
+
+Cumulative Diff:	0.9759011079329908
+
+Tick:	../data/RTRX.txt
+K in:	3
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9784604480829497
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	29
+Len:	13
+
+Cumulative Diff:	0.979234926872765
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	30
+Len:	14
+
+Cumulative Diff:	0.9792395832442672
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	31
+Len:	13
+
+Cumulative Diff:	0.9790095300432043
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	36
+Len:	7
+
+Cumulative Diff:	0.9725979027016886
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	37
+Len:	6
+
+Cumulative Diff:	0.97215433418419
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	38
+Len:	6
+
+Cumulative Diff:	0.9730784352623119
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	39
+Len:	6
+
+Cumulative Diff:	0.9740042948581846
+
+Tick:	../data/RTRX.txt
+K in:	4
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9784604480829497
+
+Tick:	../data/RTRX.txt
+K in:	5
+D in:	37
+Len:	8
+
+Cumulative Diff:	0.976342741470864
+
+Tick:	../data/RTRX.txt
+K in:	5
+D in:	38
+Len:	7
+
+Cumulative Diff:	0.9770949951942925
+
+Tick:	../data/RTRX.txt
+K in:	5
+D in:	39
+Len:	10
+
+Cumulative Diff:	0.976171758469576
+
+Tick:	../data/RTRX.txt
+K in:	5
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9784604480829497
+
+Tick:	../data/RTRX.txt
+K in:	6
+D in:	38
+Len:	7
+
+Cumulative Diff:	0.9770949951942925
+
+Tick:	../data/RTRX.txt
+K in:	6
+D in:	39
+Len:	7
+
+Cumulative Diff:	0.9799054314220806
+
+Tick:	../data/RTRX.txt
+K in:	6
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9784604480829497
+
+Tick:	../data/RTRX.txt
+K in:	7
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9784604480829497
+
+Tick:	../data/RTRX.txt
+K in:	8
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.9784604480829497
+
+Tick:	../data/RTRX.txt
+K in:	9
+D in:	12
+Len:	4
+
+Cumulative Diff:	0.9783517110389623
+
+Tick:	../data/RTRX.txt
+K in:	10
+D in:	12
+Len:	4
+
+Cumulative Diff:	0.9783517110389623
+
+Tick:	../data/RTRX.txt
+K in:	11
+D in:	11
+Len:	3
+
+Cumulative Diff:	0.9780530826345536
+
+Tick:	../data/RTRX.txt
+K in:	11
+D in:	12
+Len:	4
+
+Cumulative Diff:	0.9783517110389623
+
+Tick:	../data/RTRX.txt
+K in:	11
+D in:	15
+Len:	3
+
+Cumulative Diff:	0.9766212863583414
+
+Tick:	../data/RTRX.txt
+K in:	12
+D in:	12
+Len:	4
+
+Cumulative Diff:	0.9783517110389623
+
+Tick:	../data/RTRX.txt
+K in:	13
+D in:	13
+Len:	2
+
+Cumulative Diff:	0.9738741806683234
+
+Tick:	../data/RTRX.txt
+K in:	13
+D in:	14
+Len:	2
+
+Cumulative Diff:	0.9770966671185932
+
+Tick:	../data/RTRX.txt
+K in:	13
+D in:	15
+Len:	3
+
+Cumulative Diff:	0.9755935483736993
+
+Tick:	../data/RTRX.txt
+K in:	14
+D in:	14
+Len:	2
+
+Cumulative Diff:	0.9770966671185932
+
+Tick:	../data/RTRX.txt
+K in:	14
+D in:	15
+Len:	2
+
+Cumulative Diff:	0.9775641774856357
+
+Tick:	../data/RTRX.txt
+K in:	17
+D in:	20
+Len:	4
+
+Cumulative Diff:	0.9780022771075423
+
+Tick:	../data/RTRX.txt
+K in:	18
+D in:	20
+Len:	4
+
+Cumulative Diff:	0.9780022771075423
+
+Tick:	../data/RTRX.txt
+K in:	18
+D in:	21
+Len:	3
+
+Cumulative Diff:	0.9775823827629911
+
+Tick:	../data/RTRX.txt
+K in:	19
+D in:	20
+Len:	4
+
+Cumulative Diff:	0.9780022771075423
+
+Tick:	../data/RTRX.txt
+K in:	19
+D in:	21
+Len:	3
+
+Cumulative Diff:	0.9775823827629911
+
+Tick:	../data/RTRX.txt
+K in:	19
+D in:	22
+Len:	3
+
+Cumulative Diff:	0.9775823827629911
+
+Tick:	../data/RTRX.txt
+K in:	20
+D in:	20
+Len:	4
+
+Cumulative Diff:	0.9780022771075423
+
+Tick:	../data/RTRX.txt
+K in:	20
+D in:	21
+Len:	3
+
+Cumulative Diff:	0.9775823827629911
+
+Tick:	../data/RTRX.txt
+K in:	20
+D in:	22
+Len:	3
+
+Cumulative Diff:	0.9775823827629911
+
+Tick:	../data/RTRX.txt
+K in:	20
+D in:	23
+Len:	3
+
+Cumulative Diff:	0.9775823827629911
+
+Tick:	../data/RTRX.txt
+K in:	21
+D in:	23
+Len:	2
+
+Cumulative Diff:	0.9757236227824462
+
+Tick:	../data/RTRX.txt
+K in:	21
+D in:	29
+Len:	5
+
+Cumulative Diff:	0.9799101659077958
+
+Tick:	../data/RTRX.txt
+K in:	23
+D in:	31
+Len:	5
+
+Cumulative Diff:	0.9794122863005328
+
+Tick:	../data/RTRX.txt
+K in:	33
+D in:	35
+Len:	5
+
+Cumulative Diff:	0.9796253768579096
+
+Tick:	../data/RTRX.txt
+K in:	33
+D in:	37
+Len:	4
+
+Cumulative Diff:	0.979622863595597
+
+Tick:	../data/RTRX.txt
+K in:	33
+D in:	41
+Len:	2
+
+Cumulative Diff:	0.9793464148005009
+
+Tick:	../data/RTRX.txt
+K in:	33
+D in:	42
+Len:	3
+
+Cumulative Diff:	0.977497591808976
+
+Tick:	../data/RTRX.txt
+K in:	33
+D in:	45
+Len:	3
+
+Cumulative Diff:	0.9798540016392975
+
+Tick:	../data/RTRX.txt
+K in:	33
+D in:	46
+Len:	3
+
+Cumulative Diff:	0.9798634485350951
+
+Tick:	../data/RTRX.txt
+K in:	34
+D in:	42
+Len:	3
+
+Cumulative Diff:	0.977497591808976
+
+Tick:	../data/RTRX.txt
+K in:	34
+D in:	43
+Len:	3
+
+Cumulative Diff:	0.9779655178940928
+
+Tick:	../data/RTRX.txt
+K in:	34
+D in:	46
+Len:	3
+
+Cumulative Diff:	0.9798634485350951
+
+Tick:	../data/RTRX.txt
+K in:	34
+D in:	47
+Len:	3
+
+Cumulative Diff:	0.9798634485350951
+
+Tick:	../data/RTRX.txt
+K in:	35
+D in:	47
+Len:	4
+
+Cumulative Diff:	0.9798040165272139
