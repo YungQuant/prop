@@ -1,7 +1,7 @@
 Tick:	../data/RTRX.txt
 K in:	37
-D in:	89
-Len:	5
+D in:	98
+Len:	4
 
-Cumulative Diff:	1.0051681080508965
-bitchCunt:	0.6060000000000004
+Cumulative Diff:	1.00102920620799
+bitchCunt:	0.2900000000000002

@@ -4013,3 +4013,59 @@ Len:	113
 
 Cumulative Diff:	1.024534508707429
 bitchCunt:	0.016
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	136
+
+Cumulative Diff:	1.0307074947780857
+bitchCunt:	0.0
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	136
+
+Cumulative Diff:	1.031194715839769
+bitchCunt:	0.002
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	134
+
+Cumulative Diff:	1.032672370466864
+bitchCunt:	0.004
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	117
+
+Cumulative Diff:	1.0255832878692355
+bitchCunt:	0.01
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	116
+
+Cumulative Diff:	1.027061783719119
+bitchCunt:	0.012
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	114
+
+Cumulative Diff:	1.028174586792198
+bitchCunt:	0.014
+
+Tick:	../data/RTRX.txt
+K in:	37
+D in:	98
+Len:	113
+
+Cumulative Diff:	1.0270342639309664
+bitchCunt:	0.016

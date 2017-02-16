@@ -1565,3 +1565,1083 @@ Len:	128
 
 Cumulative Diff:	1.023577773541194
 bitchCunt:	0.024000000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	182
+
+Cumulative Diff:	1.025951204893168
+bitchCunt:	0.014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	174
+
+Cumulative Diff:	1.0212784438784548
+bitchCunt:	0.016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	149
+
+Cumulative Diff:	1.0227695629481233
+bitchCunt:	0.018000000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	135
+
+Cumulative Diff:	1.023771405442152
+bitchCunt:	0.020000000000000004
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	127
+
+Cumulative Diff:	1.0249291038056656
+bitchCunt:	0.022000000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	116
+
+Cumulative Diff:	1.0232247746067304
+bitchCunt:	0.024000000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	66
+
+Cumulative Diff:	1.0212596988931246
+bitchCunt:	0.030000000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	53
+
+Cumulative Diff:	1.0238694130635322
+bitchCunt:	0.032000000000000015
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	20
+
+Cumulative Diff:	1.0203164723245735
+bitchCunt:	0.03600000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.04000000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.04200000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.044000000000000025
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.04600000000000003
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.04800000000000003
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.05000000000000003
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.05200000000000003
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.054000000000000034
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.056000000000000036
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.05800000000000004
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.06000000000000004
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.06200000000000004
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.06400000000000004
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.06600000000000004
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.06800000000000005
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.07000000000000005
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.07200000000000005
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.07400000000000005
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.07600000000000005
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.07800000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.08000000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.08200000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.08400000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.08600000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.08800000000000006
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.09000000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.09200000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.09400000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.09600000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.09800000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.10000000000000007
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.10200000000000008
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.10400000000000008
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.10600000000000008
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.10800000000000008
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.11000000000000008
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.11200000000000009
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.11400000000000009
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.11600000000000009
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.11800000000000009
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.12000000000000009
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1220000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1240000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.12600000000000008
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.12800000000000009
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1300000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1320000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1340000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1360000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1380000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1400000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1420000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1440000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1460000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1480000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1500000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1520000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1540000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1560000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.1580000000000001
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.16000000000000011
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.16200000000000012
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.16400000000000012
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.16600000000000012
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.16800000000000012
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.17000000000000012
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.17200000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.17400000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.17600000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.17800000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.18000000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.18200000000000013
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.18400000000000014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.18600000000000014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.18800000000000014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.19000000000000014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.19200000000000014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.19400000000000014
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.19600000000000015
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.19800000000000015
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.20000000000000015
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.20200000000000015
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.20400000000000015
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.20600000000000016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.20800000000000016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.21000000000000016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.21200000000000016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.21400000000000016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.21600000000000016
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.21800000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.22000000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.22200000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.22400000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.22600000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.22800000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.23000000000000018
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.23200000000000018
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.23400000000000018
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.23600000000000018
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.23800000000000018
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.24000000000000019
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2420000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2440000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2460000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2480000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.25000000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.25200000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.25400000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.25600000000000017
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2580000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2600000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2620000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2640000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2660000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2680000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2700000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2720000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2740000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2760000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2780000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2800000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2820000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2840000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2860000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2880000000000002
+
+Tick:	../data/RICE.txt
+K in:	37
+D in:	98
+Len:	5
+
+Cumulative Diff:	1.0216286956847571
+bitchCunt:	0.2900000000000002
