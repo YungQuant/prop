@@ -16,7 +16,7 @@ for fi, file in enumerate(fileCuml):
                         bestFile = open(bestFiles[bi], "w")
                         best[bi] = int(si)
                         #bestFile.write(delete (lowest) saved log result/last 6 lines?)
-                        #bestFile.write(last 6 lines (including cumulative diff))
+                        bestFile.write(str(int(si)))
     fp.close()
     bestFile.close()
 

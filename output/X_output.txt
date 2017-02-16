@@ -1,7 +1,0 @@
-Tick:	../data/X.txt
-K in:	2954
-D in:	3044
-Len:	75
-
-Cumulative Diff:	1.0459175632557658
-bitchCunt:	0.03138428376721004

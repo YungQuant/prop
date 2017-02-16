@@ -1,0 +1,175 @@
+Tick:	../data/NTP.txt
+K in:	5
+D in:	7
+Len:	21
+
+Cumulative Diff:	1.0247643935115411
+bitchCunt:	0.002
+
+Tick:	../data/NTP.txt
+K in:	5
+D in:	7
+Len:	21
+
+Cumulative Diff:	1.0247643935115411
+bitchCunt:	0.004
+
+Tick:	../data/NTP.txt
+K in:	5
+D in:	7
+Len:	21
+
+Cumulative Diff:	1.0247643935115411
+bitchCunt:	0.006
+
+Tick:	../data/NTP.txt
+K in:	13
+D in:	16
+Len:	20
+
+Cumulative Diff:	1.031070484418102
+bitchCunt:	0.0
+
+Tick:	../data/NTP.txt
+K in:	13
+D in:	16
+Len:	20
+
+Cumulative Diff:	1.031070484418102
+bitchCunt:	0.002
+
+Tick:	../data/NTP.txt
+K in:	13
+D in:	16
+Len:	20
+
+Cumulative Diff:	1.031070484418102
+bitchCunt:	0.004
+
+Tick:	../data/NTP.txt
+K in:	13
+D in:	16
+Len:	20
+
+Cumulative Diff:	1.031070484418102
+bitchCunt:	0.006
+
+Tick:	../data/NTP.txt
+K in:	17
+D in:	23
+Len:	18
+
+Cumulative Diff:	1.0242104380278854
+bitchCunt:	0.0
+
+Tick:	../data/NTP.txt
+K in:	17
+D in:	23
+Len:	18
+
+Cumulative Diff:	1.0242104380278854
+bitchCunt:	0.002
+
+Tick:	../data/NTP.txt
+K in:	17
+D in:	23
+Len:	18
+
+Cumulative Diff:	1.0242104380278854
+bitchCunt:	0.004
+
+Tick:	../data/NTP.txt
+K in:	17
+D in:	23
+Len:	18
+
+Cumulative Diff:	1.0242104380278854
+bitchCunt:	0.006
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.0
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.002
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.004
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.006
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.008
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.01
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.012
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.014
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.016
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.018000000000000002
+
+Tick:	../data/NTP.txt
+K in:	34
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0231100264884045
+bitchCunt:	0.020000000000000004

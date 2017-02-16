@@ -159,7 +159,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=10):
+    def __init__(self, symbol, interval_seconds=60, num_days=3):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -298,30 +298,30 @@ for i, file in enumerate(fileTicker):
 
 #fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
 k1 = 1
-k2 = 2685
+k2 = 500
 l1 = 2
-l2 = 3600
+l2 = 600
 j1 = 0.000
-j2 = 0.080
-k = k2
+j2 = 0.80
+k = k1
 i = l1
 j = j1
 returns = []
 if __name__ == '__main__':
-    while (k > k1):
+    while (k < k2):
         while (i < l2):
             while (j < j2):
-                if i > k:
+                if i > k and i - k < 100:
                     if (int(np.floor(i)) % 10 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j)
+                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j))
                     # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.02, 0.98, 100000, j))
                     # p.start()
                     # p.join()
                 if j < 0.01:
-                    j += 0.001
+                    j += 0.002
                 else:
-                    j *= 1.1
+                    j += 0.002
             j = j1
             if (i < 10):
                 i += 1
@@ -329,9 +329,10 @@ if __name__ == '__main__':
                 i *= 1.1
         i = l1
         if (k < 10):
-            k -= 1
+            k += 1
         else:
-            k -= 1
+            k *= 1.1
+plot(returns)
 
 
 
