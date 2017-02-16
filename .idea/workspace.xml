@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a86e1c33-b30d-4087-a0d8-2c094122c0e1" name="Default" comment="" />
+    <list default="true" id="a86e1c33-b30d-4087-a0d8-2c094122c0e1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cuml/C_cuml.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cuml/FNBC_cuml.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cuml/M_cuml.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cuml/PTLA_cuml.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cuml/RICE_cuml.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cuml/X_cuml.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/A.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/AAPL.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/AMZN.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/B.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/C.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/D.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/E.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/F.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/G.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/GOOG.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/I.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/K.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/L.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/LMT.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/M.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/N.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/NVDA.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/O.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/P.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/T.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/TSLA.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/X.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/B_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/C_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/D_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/E_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/F_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/I_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/K_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/M_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/N_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/R_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/T_output.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/X_output.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/EGLT.txt" afterPath="$PROJECT_DIR$/data/EGLT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/FNBC.txt" afterPath="$PROJECT_DIR$/data/FNBC.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/MNKD.txt" afterPath="$PROJECT_DIR$/data/MNKD.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/NTP.txt" afterPath="$PROJECT_DIR$/data/NTP.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/OA.txt" afterPath="$PROJECT_DIR$/data/OA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/PTLA.txt" afterPath="$PROJECT_DIR$/data/PTLA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/RICE.txt" afterPath="$PROJECT_DIR$/data/RICE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/RTRX.txt" afterPath="$PROJECT_DIR$/data/RTRX.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/EGLT_output.txt" afterPath="$PROJECT_DIR$/output/EGLT_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/FNBC_output.txt" afterPath="$PROJECT_DIR$/output/FNBC_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/MNKD_output.txt" afterPath="$PROJECT_DIR$/output/MNKD_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/NTP_output.txt" afterPath="$PROJECT_DIR$/output/NTP_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/OA_output.txt" afterPath="$PROJECT_DIR$/output/OA_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/PTLA_output.txt" afterPath="$PROJECT_DIR$/output/PTLA_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/RICE_output.txt" afterPath="$PROJECT_DIR$/output/RICE_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/RTRX_output.txt" afterPath="$PROJECT_DIR$/output/RTRX_output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/srcs/ip1.py" afterPath="$PROJECT_DIR$/srcs/ip1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/srcs/poolTest.py" afterPath="$PROJECT_DIR$/srcs/poolTest.py" />
+    </list>
     <ignored path="prop.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +84,8 @@
       <file leaf-file-name="crawlNcrunch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/srcs/crawlNcrunch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="180" column="3" selection-start-line="179" selection-start-column="0" selection-end-line="182" selection-end-column="33" />
+            <state relative-caret-position="3006">
+              <caret line="180" column="3" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="182" selection-end-column="33" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -35,8 +96,8 @@
       <file leaf-file-name="poolTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/srcs/poolTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -47,18 +108,30 @@
       <file leaf-file-name="ip1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/srcs/ip1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="285" column="52" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
+            <state relative-caret-position="138">
+              <caret line="280" column="15" lean-forward="true" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MNKD_cuml.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cuml/MNKD_cuml.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5256">
+              <caret line="161" column="9" lean-forward="true" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logParser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/srcs/logParser.py">
+      <file leaf-file-name="NTP_cuml.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cuml/NTP_cuml.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,6 +155,9 @@
       <find>1.02</find>
       <find>1.07</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,26 +199,20 @@
         <option value="$PROJECT_DIR$/output/OA_output.txt" />
         <option value="$PROJECT_DIR$/srcs/ch1.py" />
         <option value="$PROJECT_DIR$/srcs/ch1.1.py" />
-        <option value="$PROJECT_DIR$/srcs/ip1.py" />
-        <option value="$PROJECT_DIR$/srcs/poolTest.py" />
         <option value="$PROJECT_DIR$/srcs/logParser.py" />
+        <option value="$PROJECT_DIR$/srcs/poolTest.py" />
+        <option value="$PROJECT_DIR$/srcs/ip1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="828" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -159,14 +229,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="prop" />
@@ -191,10 +257,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="prop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cuml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +309,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.poolTest">
+  <component name="RunManager" selected="Python.ip1 (1)">
     <configuration default="false" name="ip1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -446,8 +538,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.poolTest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ip1 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ip1 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.poolTest" />
         <item index="2" class="java.lang.String" itemvalue="Python.crawlNcrunch" />
         <item index="3" class="java.lang.String" itemvalue="Python.nptest" />
         <item index="4" class="java.lang.String" itemvalue="Python.ip1" />
@@ -480,26 +572,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1663143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16603774" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2462585" sideWeight="0.503876" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789117" sideWeight="0.49753347" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41590214" sideWeight="0.49612403" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44481605" sideWeight="0.49612403" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -541,8 +633,38 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/srcs/crawlNcrunch.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="180" column="3" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="182" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/poolTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/ip1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/crawlNcrunch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -552,44 +674,121 @@
     <entry file="file://$PROJECT_DIR$/srcs/ip1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4800">
-          <caret line="320" column="28" selection-start-line="320" selection-start-column="28" selection-end-line="320" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/srcs/crawlNcrunch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="180" column="3" selection-start-line="179" selection-start-column="0" selection-end-line="182" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/srcs/poolTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <caret line="320" column="28" lean-forward="false" selection-start-line="320" selection-start-column="28" selection-end-line="320" selection-end-column="28" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/srcs/logParser.py">
+    <entry file="file://$PROJECT_DIR$/srcs/crawlNcrunch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="3006">
+          <caret line="180" column="3" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="182" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/logParser.py" />
+    <entry file="file://$PROJECT_DIR$/data/E.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4428">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/G.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/srcs/poolTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/MNKD.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/OA.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10908">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/FNBC.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/EGLT.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/RICE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/RTRX.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cuml/MNKD_cuml.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5256">
+          <caret line="161" column="9" lean-forward="true" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cuml/NTP_cuml.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/srcs/ip1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="285" column="52" selection-start-line="285" selection-start-column="52" selection-end-line="285" selection-end-column="52" />
-          <folding />
+        <state relative-caret-position="138">
+          <caret line="280" column="15" lean-forward="true" selection-start-line="280" selection-start-column="15" selection-end-line="280" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

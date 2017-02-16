@@ -5,6 +5,7 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Process
+import yahoo_finance
 
 def plot(a):
     y = np.arange(len(a))
@@ -287,41 +288,41 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        temp = GoogleIntradayQuote(ticker[i])
-        # tick = yahoo_finance.Share(ticker[i]).get_historical('2016-01-02', '2017-01-01')
-        # dataset = np.zeros(len(tick))
-        # for i in range(len(tick)):
-        #     dataset[i] = tick[i]['Close']
-        for i, close in enumerate(temp.close):
+        #temp = GoogleIntradayQuote(ticker[i])
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2003-01-01', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        for i in range(len(tick)):
+            dataset[i] = tick[i]['Close']
+        for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
 #fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
 k1 = 1
-k2 = 2685
+k2 = 150
 l1 = 2
-l2 = 3600
+l2 = 300
 j1 = 0.000
-j2 = 0.080
-k = k2
+j2 = 0.08
+k = k1
 i = l1
 j = j1
 returns = []
 if __name__ == '__main__':
-    while (k > k1):
+    while (k < k2):
         while (i < l2):
             while (j < j2):
-                if i > k:
+                if i > k and i - k < 1000:
                     if (int(np.floor(i)) % 10 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j)
-                    # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.02, 0.98, 100000, j))
+                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.03, save_min=0.00, max_len=20000, bitchCunt=j)
+                    # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.03, 0.00, 1000, j))
                     # p.start()
                     # p.join()
                 if j < 0.01:
-                    j += 0.001
+                    j += 0.002
                 else:
-                    j *= 1.1
+                    j += 0.002
             j = j1
             if (i < 10):
                 i += 1
@@ -329,9 +330,9 @@ if __name__ == '__main__':
                 i *= 1.1
         i = l1
         if (k < 10):
-            k -= 1
+            k += 1
         else:
-            k -= 1
+            k *= 1.1
 
 
 
