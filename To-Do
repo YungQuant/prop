@@ -2,3 +2,4 @@
 -Fix/restructure multiprocessing/threading system 
 -Build ML-based strategy
 -Build overarching ML framework
+-BB Convergence based Strategy
