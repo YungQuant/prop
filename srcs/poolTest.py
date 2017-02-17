@@ -5,6 +5,7 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
+import yahoo_finance
 
 def plot(a):
     y = np.arange(len(a))
@@ -289,32 +290,32 @@ def dothething(ticker):
     for i, file in enumerate(fileTicker):
         if (os.path.isfile(file) == False):
             fileWrite = open(file, 'w')
-            temp = GoogleIntradayQuote(ticker[i])
-            # tick = yahoo_finance.Share(ticker[i]).get_historical('2016-01-02', '2017-01-01')
-            # dataset = np.zeros(len(tick))
-            # for i in range(len(tick)):
-            #     dataset[i] = tick[i]['Close']
-            for i, close in enumerate(temp.close):
+            #temp = GoogleIntradayQuote(ticker[i])
+            tick = yahoo_finance.Share(ticker[i]).get_historical('2003-01-01', '2017-01-01')
+            dataset = np.zeros(len(tick))
+            for i in range(len(tick)):
+                dataset[i] = tick[i]['Close']
+            for i, close in enumerate(dataset):
                 fileWrite.write(str(close))
                 fileWrite.write('\n')
     k1 = 1
-    k2 = 2955
+    k2 = 150
     l1 = 2
-    l2 = 3600
+    l2 = 300
     j1 = 0.000
     j2 = 0.1
     k = k2
     i = l1
     j = j1
-    while (k > k1):
+    while (k < k2):
         while (i < l2):
             while (j < j2):
                 if i > k:
-                    if (int(np.floor(i)) % 10 == 0):
+                    if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j)
-                if j < 0.01:
-                    j += 0.001
+                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.03, save_min=0.00, max_len=1000, bitchCunt=j)
+                if j < 0.02:
+                    j += 0.002
                 else:
                     j *= 1.1
             j = j1
@@ -324,9 +325,9 @@ def dothething(ticker):
                 i *= 1.1
         i = l1
         if (k < 10):
-            k -= 1
+            k += 1
         else:
-            k -= 1
+            k *= 1.1
 
 if __name__ == '__main__':
     ticks = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
