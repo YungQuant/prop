@@ -1,7 +1,0 @@
-Tick:	../data/PTLA.txt
-K in:	37
-D in:	108
-Len:	42
-
-Cumulative Diff:	1.0082422902046178
-bitchCunt:	0.020000000000000004

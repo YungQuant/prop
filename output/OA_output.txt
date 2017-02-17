@@ -1,7 +1,0 @@
-Tick:	../data/OA.txt
-K in:	37
-D in:	108
-Len:	3
-
-Cumulative Diff:	0.9955884475313603
-bitchCunt:	0.020000000000000004

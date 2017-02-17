@@ -1,0 +1,2456 @@
+Tick:	../data/OA.txt
+K in:	3
+D in:	4
+Len:	201
+
+Cumulative Diff:	1.0221663875961329
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	4
+Len:	201
+
+Cumulative Diff:	1.0221663875961329
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	7
+Len:	180
+
+Cumulative Diff:	1.0227062523592132
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	7
+Len:	180
+
+Cumulative Diff:	1.0227062523592132
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	8
+Len:	148
+
+Cumulative Diff:	1.0414393398682442
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	9
+Len:	137
+
+Cumulative Diff:	1.021362781052267
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	11
+Len:	163
+
+Cumulative Diff:	1.0349206450859376
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	12
+Len:	185
+
+Cumulative Diff:	1.0342016493081
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	13
+Len:	173
+
+Cumulative Diff:	1.030467252937759
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	15
+Len:	176
+
+Cumulative Diff:	1.0478529090600273
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	20
+Len:	140
+
+Cumulative Diff:	1.025082510088225
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	35
+Len:	91
+
+Cumulative Diff:	1.0352193419900102
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	39
+Len:	108
+
+Cumulative Diff:	1.0379329066090457
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	43
+Len:	104
+
+Cumulative Diff:	1.0415230462723732
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	47
+Len:	113
+
+Cumulative Diff:	1.0398250257883745
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	52
+Len:	102
+
+Cumulative Diff:	1.0422385000829764
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	57
+Len:	101
+
+Cumulative Diff:	1.0484483885693228
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	63
+Len:	108
+
+Cumulative Diff:	1.0506164871187187
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	69
+Len:	72
+
+Cumulative Diff:	1.0224678574394248
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	76
+Len:	86
+
+Cumulative Diff:	1.0380541312007256
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	84
+Len:	81
+
+Cumulative Diff:	1.0354775618695535
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	92
+Len:	88
+
+Cumulative Diff:	1.040794945609075
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	102
+Len:	59
+
+Cumulative Diff:	1.0245852668786193
+
+Tick:	../data/OA.txt
+K in:	3
+D in:	112
+Len:	64
+
+Cumulative Diff:	1.0295424579560812
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	8
+Len:	147
+
+Cumulative Diff:	1.0382337863863131
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	12
+Len:	182
+
+Cumulative Diff:	1.034851100982024
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	13
+Len:	173
+
+Cumulative Diff:	1.0309101371922198
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	15
+Len:	160
+
+Cumulative Diff:	1.024888075195222
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	20
+Len:	138
+
+Cumulative Diff:	1.0282112996237651
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	29
+Len:	131
+
+Cumulative Diff:	1.0204170862042992
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	39
+Len:	96
+
+Cumulative Diff:	1.0316650274770887
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	43
+Len:	95
+
+Cumulative Diff:	1.0411028134365439
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	47
+Len:	112
+
+Cumulative Diff:	1.0413499602893443
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	52
+Len:	108
+
+Cumulative Diff:	1.0450344615887337
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	57
+Len:	103
+
+Cumulative Diff:	1.0391444884445789
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	63
+Len:	109
+
+Cumulative Diff:	1.0463414631662724
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	69
+Len:	71
+
+Cumulative Diff:	1.022867063104493
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	76
+Len:	90
+
+Cumulative Diff:	1.0379223474866264
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	84
+Len:	82
+
+Cumulative Diff:	1.032888342992027
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	92
+Len:	87
+
+Cumulative Diff:	1.0388782777789738
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	102
+Len:	61
+
+Cumulative Diff:	1.026042143667259
+
+Tick:	../data/OA.txt
+K in:	4
+D in:	112
+Len:	65
+
+Cumulative Diff:	1.0312823317671262
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	8
+Len:	144
+
+Cumulative Diff:	1.0365334836359903
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	13
+Len:	147
+
+Cumulative Diff:	1.0210962708472069
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	15
+Len:	155
+
+Cumulative Diff:	1.0308586902391308
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	26
+Len:	119
+
+Cumulative Diff:	1.0206697874478943
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	39
+Len:	91
+
+Cumulative Diff:	1.0316174259909792
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	43
+Len:	98
+
+Cumulative Diff:	1.0489681053663924
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	47
+Len:	105
+
+Cumulative Diff:	1.0466057983688546
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0426794750042183
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	57
+Len:	102
+
+Cumulative Diff:	1.0460471156839595
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	63
+Len:	100
+
+Cumulative Diff:	1.0473073637700636
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	76
+Len:	68
+
+Cumulative Diff:	1.0377490491785282
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	84
+Len:	53
+
+Cumulative Diff:	1.0233038183979293
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	92
+Len:	76
+
+Cumulative Diff:	1.0440548708015431
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	102
+Len:	59
+
+Cumulative Diff:	1.0280976684518546
+
+Tick:	../data/OA.txt
+K in:	5
+D in:	112
+Len:	64
+
+Cumulative Diff:	1.0283514191235736
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	7
+Len:	62
+
+Cumulative Diff:	0.977062861726949
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	7
+Len:	62
+
+Cumulative Diff:	0.977062861726949
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	8
+Len:	147
+
+Cumulative Diff:	1.034799564094611
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	15
+Len:	141
+
+Cumulative Diff:	1.02614791930894
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	26
+Len:	116
+
+Cumulative Diff:	1.0200655387421467
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	29
+Len:	111
+
+Cumulative Diff:	1.0226857285837911
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	39
+Len:	86
+
+Cumulative Diff:	1.033179587267816
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	43
+Len:	95
+
+Cumulative Diff:	1.0427860985085686
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	47
+Len:	99
+
+Cumulative Diff:	1.0454852813376887
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	52
+Len:	87
+
+Cumulative Diff:	1.041261508381762
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	57
+Len:	104
+
+Cumulative Diff:	1.0439806695471634
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	63
+Len:	102
+
+Cumulative Diff:	1.0495627048277132
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	69
+Len:	38
+
+Cumulative Diff:	1.030964087571619
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	76
+Len:	70
+
+Cumulative Diff:	1.0368364399154897
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	84
+Len:	52
+
+Cumulative Diff:	1.0218482281214996
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	92
+Len:	74
+
+Cumulative Diff:	1.0426032792950568
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	102
+Len:	56
+
+Cumulative Diff:	1.0249589331005502
+
+Tick:	../data/OA.txt
+K in:	6
+D in:	112
+Len:	63
+
+Cumulative Diff:	1.0298849270242068
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	7
+Len:	34
+
+Cumulative Diff:	1.0218074867487001
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	7
+Len:	34
+
+Cumulative Diff:	1.0218074867487001
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	8
+Len:	147
+
+Cumulative Diff:	1.0357468574362703
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	29
+Len:	111
+
+Cumulative Diff:	1.0214034371197047
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	39
+Len:	71
+
+Cumulative Diff:	1.0359434315993454
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	43
+Len:	93
+
+Cumulative Diff:	1.0421890480085383
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	47
+Len:	97
+
+Cumulative Diff:	1.0536790090142838
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	52
+Len:	86
+
+Cumulative Diff:	1.041563612260706
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	57
+Len:	103
+
+Cumulative Diff:	1.0422369275812227
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	63
+Len:	96
+
+Cumulative Diff:	1.0516006086372909
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.029434051342347
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	76
+Len:	69
+
+Cumulative Diff:	1.0356958737830217
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	84
+Len:	52
+
+Cumulative Diff:	1.024447269851905
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	92
+Len:	75
+
+Cumulative Diff:	1.0445679789205182
+
+Tick:	../data/OA.txt
+K in:	7
+D in:	112
+Len:	63
+
+Cumulative Diff:	1.030622234202924
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	8
+Len:	147
+
+Cumulative Diff:	1.0361015165182375
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	9
+Len:	137
+
+Cumulative Diff:	1.020519845125015
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	29
+Len:	113
+
+Cumulative Diff:	1.0245251173177192
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	43
+Len:	91
+
+Cumulative Diff:	1.0415343692726542
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	47
+Len:	93
+
+Cumulative Diff:	1.0461371696867634
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0411469170947005
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	57
+Len:	98
+
+Cumulative Diff:	1.0414353602889146
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	63
+Len:	89
+
+Cumulative Diff:	1.0401815383515252
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.0291981319997683
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	76
+Len:	68
+
+Cumulative Diff:	1.0328020377272398
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	84
+Len:	51
+
+Cumulative Diff:	1.024331198328016
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	92
+Len:	76
+
+Cumulative Diff:	1.045526789526751
+
+Tick:	../data/OA.txt
+K in:	8
+D in:	112
+Len:	60
+
+Cumulative Diff:	1.0303941576713778
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	10
+Len:	57
+
+Cumulative Diff:	1.0203899660250064
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	12
+Len:	42
+
+Cumulative Diff:	1.0246196388221858
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	13
+Len:	70
+
+Cumulative Diff:	1.0220492217671058
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	15
+Len:	81
+
+Cumulative Diff:	1.0269332354614527
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	26
+Len:	89
+
+Cumulative Diff:	1.0233824951680286
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	43
+Len:	87
+
+Cumulative Diff:	1.041336801562408
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	47
+Len:	89
+
+Cumulative Diff:	1.0517685096578901
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	52
+Len:	83
+
+Cumulative Diff:	1.0405020074820315
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	57
+Len:	88
+
+Cumulative Diff:	1.0442000757313925
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	63
+Len:	89
+
+Cumulative Diff:	1.0473537888452165
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.0293150348139752
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	84
+Len:	51
+
+Cumulative Diff:	1.0235621313855976
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	92
+Len:	62
+
+Cumulative Diff:	1.0357685784196309
+
+Tick:	../data/OA.txt
+K in:	9
+D in:	112
+Len:	63
+
+Cumulative Diff:	1.0307767788860898
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	10
+Len:	56
+
+Cumulative Diff:	1.0201136593296685
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	11
+Len:	53
+
+Cumulative Diff:	1.022035322935922
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	12
+Len:	43
+
+Cumulative Diff:	1.026724787410516
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	13
+Len:	44
+
+Cumulative Diff:	1.0273045620954082
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	15
+Len:	68
+
+Cumulative Diff:	1.0315643033877047
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	26
+Len:	86
+
+Cumulative Diff:	1.0215893630675197
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	43
+Len:	78
+
+Cumulative Diff:	1.0579735104626824
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	47
+Len:	85
+
+Cumulative Diff:	1.0565079233310979
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0412886336576503
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	57
+Len:	82
+
+Cumulative Diff:	1.0442933146421023
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	63
+Len:	94
+
+Cumulative Diff:	1.0582249814656124
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.02913842385072
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	84
+Len:	51
+
+Cumulative Diff:	1.0248531525453677
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	92
+Len:	62
+
+Cumulative Diff:	1.0356077890499558
+
+Tick:	../data/OA.txt
+K in:	10
+D in:	112
+Len:	64
+
+Cumulative Diff:	1.0297328613907877
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	11
+Len:	31
+
+Cumulative Diff:	1.0333058320545374
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	12
+Len:	43
+
+Cumulative Diff:	1.026724787410516
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	13
+Len:	43
+
+Cumulative Diff:	1.0264788493919215
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	15
+Len:	53
+
+Cumulative Diff:	1.029648514741769
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	26
+Len:	64
+
+Cumulative Diff:	1.0216110788354744
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	43
+Len:	65
+
+Cumulative Diff:	1.0345874304022387
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	47
+Len:	80
+
+Cumulative Diff:	1.055275813530357
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0402030784968812
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	57
+Len:	82
+
+Cumulative Diff:	1.0430260531895346
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	63
+Len:	89
+
+Cumulative Diff:	1.0499242248291263
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.02913842385072
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	84
+Len:	50
+
+Cumulative Diff:	1.0244416357629536
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	92
+Len:	63
+
+Cumulative Diff:	1.0370048654182544
+
+Tick:	../data/OA.txt
+K in:	11
+D in:	112
+Len:	62
+
+Cumulative Diff:	1.0291422258932088
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	12
+Len:	42
+
+Cumulative Diff:	1.027313886252605
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	13
+Len:	44
+
+Cumulative Diff:	1.0274233461590094
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	15
+Len:	43
+
+Cumulative Diff:	1.0396788152704384
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	26
+Len:	64
+
+Cumulative Diff:	1.0216597157124576
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0230945201431059
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	43
+Len:	52
+
+Cumulative Diff:	1.0244593772378503
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	47
+Len:	71
+
+Cumulative Diff:	1.030096290106599
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0405731762159742
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	57
+Len:	82
+
+Cumulative Diff:	1.044173844138708
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	63
+Len:	90
+
+Cumulative Diff:	1.0490568126217734
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.0293165699593114
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	84
+Len:	48
+
+Cumulative Diff:	1.0236201494743384
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	92
+Len:	62
+
+Cumulative Diff:	1.0350148611963834
+
+Tick:	../data/OA.txt
+K in:	12
+D in:	112
+Len:	62
+
+Cumulative Diff:	1.0299697851179979
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	13
+Len:	28
+
+Cumulative Diff:	1.0246753991684576
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	15
+Len:	34
+
+Cumulative Diff:	1.0321403927840913
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	26
+Len:	64
+
+Cumulative Diff:	1.0216597157124576
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0230945201431059
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	43
+Len:	52
+
+Cumulative Diff:	1.0244593772378503
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	47
+Len:	66
+
+Cumulative Diff:	1.0288008122504324
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0405117710130094
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	57
+Len:	84
+
+Cumulative Diff:	1.0445930982849008
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	63
+Len:	87
+
+Cumulative Diff:	1.0485164017915847
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.0288501570720834
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0310405489112044
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	84
+Len:	51
+
+Cumulative Diff:	1.0273977583164213
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	92
+Len:	51
+
+Cumulative Diff:	1.023991528257821
+
+Tick:	../data/OA.txt
+K in:	13
+D in:	112
+Len:	62
+
+Cumulative Diff:	1.0299697851179979
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	15
+Len:	24
+
+Cumulative Diff:	1.0208336801990368
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	26
+Len:	64
+
+Cumulative Diff:	1.0216597157124576
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	39
+Len:	49
+
+Cumulative Diff:	1.0222742224465369
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	43
+Len:	53
+
+Cumulative Diff:	1.0259904601665077
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	47
+Len:	63
+
+Cumulative Diff:	1.0309150272682146
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	52
+Len:	84
+
+Cumulative Diff:	1.0405117710130094
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	57
+Len:	83
+
+Cumulative Diff:	1.0445332018916509
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	63
+Len:	84
+
+Cumulative Diff:	1.0457830187607986
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.0288501570720834
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0310405489112044
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	84
+Len:	51
+
+Cumulative Diff:	1.0254608699904257
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	92
+Len:	49
+
+Cumulative Diff:	1.0233168802905903
+
+Tick:	../data/OA.txt
+K in:	14
+D in:	112
+Len:	62
+
+Cumulative Diff:	1.0302035769203177
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	26
+Len:	62
+
+Cumulative Diff:	1.020004216151556
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0228159280622893
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	43
+Len:	53
+
+Cumulative Diff:	1.027442796140888
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	47
+Len:	55
+
+Cumulative Diff:	1.0323544816855286
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	52
+Len:	85
+
+Cumulative Diff:	1.0397429198608488
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	57
+Len:	82
+
+Cumulative Diff:	1.042963671735441
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	63
+Len:	87
+
+Cumulative Diff:	1.0499348411282148
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.029561380423159
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0302145995398526
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	84
+Len:	52
+
+Cumulative Diff:	1.0281645306592941
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	92
+Len:	48
+
+Cumulative Diff:	1.022771514004116
+
+Tick:	../data/OA.txt
+K in:	16
+D in:	112
+Len:	60
+
+Cumulative Diff:	1.0265990758017807
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	22
+Len:	52
+
+Cumulative Diff:	1.0225246757276174
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	26
+Len:	50
+
+Cumulative Diff:	1.0209245980774324
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	29
+Len:	54
+
+Cumulative Diff:	1.0201610327442716
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0228159280622893
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	43
+Len:	53
+
+Cumulative Diff:	1.027442796140888
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	47
+Len:	55
+
+Cumulative Diff:	1.0323544816855286
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	52
+Len:	71
+
+Cumulative Diff:	1.0251725411660948
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	57
+Len:	80
+
+Cumulative Diff:	1.0399770279931781
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	63
+Len:	83
+
+Cumulative Diff:	1.0422566444914794
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.029561380423159
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0302145995398526
+
+Tick:	../data/OA.txt
+K in:	17
+D in:	92
+Len:	48
+
+Cumulative Diff:	1.0252072356502862
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0208888412437878
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	43
+Len:	52
+
+Cumulative Diff:	1.0265988242931798
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	47
+Len:	56
+
+Cumulative Diff:	1.0318723559073566
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	52
+Len:	70
+
+Cumulative Diff:	1.0213067549164283
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	57
+Len:	71
+
+Cumulative Diff:	1.0332173299990026
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	63
+Len:	79
+
+Cumulative Diff:	1.0412535295932257
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.0283229528912154
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	76
+Len:	44
+
+Cumulative Diff:	1.0303330150110641
+
+Tick:	../data/OA.txt
+K in:	19
+D in:	92
+Len:	49
+
+Cumulative Diff:	1.0252071619841217
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0225815791270016
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	43
+Len:	51
+
+Cumulative Diff:	1.0269480783816842
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	47
+Len:	54
+
+Cumulative Diff:	1.031752807086026
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	52
+Len:	51
+
+Cumulative Diff:	1.0270133030167135
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	57
+Len:	72
+
+Cumulative Diff:	1.0357726992153724
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	63
+Len:	73
+
+Cumulative Diff:	1.0352546241492506
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.0274298757982345
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	76
+Len:	44
+
+Cumulative Diff:	1.0311617733276535
+
+Tick:	../data/OA.txt
+K in:	21
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.034362899764733
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0228159280622893
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	43
+Len:	53
+
+Cumulative Diff:	1.0272719718382026
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	47
+Len:	52
+
+Cumulative Diff:	1.029643063487999
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	52
+Len:	52
+
+Cumulative Diff:	1.0281770574677238
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	57
+Len:	72
+
+Cumulative Diff:	1.0360100712101508
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	63
+Len:	66
+
+Cumulative Diff:	1.0386074682385589
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.0271779254543187
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	76
+Len:	44
+
+Cumulative Diff:	1.0311617733276535
+
+Tick:	../data/OA.txt
+K in:	23
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.0338891819265075
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.0212413581088586
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	43
+Len:	52
+
+Cumulative Diff:	1.0272501405452799
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	47
+Len:	53
+
+Cumulative Diff:	1.0312820632479573
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	52
+Len:	52
+
+Cumulative Diff:	1.0281770574677238
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	57
+Len:	62
+
+Cumulative Diff:	1.034754430489132
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	63
+Len:	62
+
+Cumulative Diff:	1.038260544530242
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.0271779254543187
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	76
+Len:	44
+
+Cumulative Diff:	1.0311617733276535
+
+Tick:	../data/OA.txt
+K in:	25
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.0350758437507854
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	39
+Len:	49
+
+Cumulative Diff:	1.0218183958295666
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	43
+Len:	54
+
+Cumulative Diff:	1.0253357687224753
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	47
+Len:	52
+
+Cumulative Diff:	1.0291715072418404
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	52
+Len:	52
+
+Cumulative Diff:	1.0281775114768208
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	57
+Len:	48
+
+Cumulative Diff:	1.0288744191052732
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	63
+Len:	57
+
+Cumulative Diff:	1.0239551518415728
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.0271779254543187
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0287524858806072
+
+Tick:	../data/OA.txt
+K in:	28
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.034601799398255
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	39
+Len:	48
+
+Cumulative Diff:	1.020051427391449
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	43
+Len:	53
+
+Cumulative Diff:	1.0258940385333917
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	47
+Len:	52
+
+Cumulative Diff:	1.0288949236443532
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	52
+Len:	52
+
+Cumulative Diff:	1.028114004753873
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	57
+Len:	48
+
+Cumulative Diff:	1.0291136365940219
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	63
+Len:	43
+
+Cumulative Diff:	1.0205404757132028
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.0258852985236993
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	76
+Len:	42
+
+Cumulative Diff:	1.0281584981889882
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	84
+Len:	35
+
+Cumulative Diff:	1.0321778254453233
+
+Tick:	../data/OA.txt
+K in:	31
+D in:	92
+Len:	38
+
+Cumulative Diff:	1.0396493075480122
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	39
+Len:	43
+
+Cumulative Diff:	1.0301160573348065
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	43
+Len:	41
+
+Cumulative Diff:	1.026042488825311
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	47
+Len:	50
+
+Cumulative Diff:	1.0354501293641392
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	57
+Len:	31
+
+Cumulative Diff:	1.0222616744205084
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	63
+Len:	44
+
+Cumulative Diff:	1.0208420951463373
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	69
+Len:	39
+
+Cumulative Diff:	1.0258852985236993
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	76
+Len:	42
+
+Cumulative Diff:	1.028041022919523
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	84
+Len:	35
+
+Cumulative Diff:	1.0321778254453233
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	92
+Len:	38
+
+Cumulative Diff:	1.0396493075480122
+
+Tick:	../data/OA.txt
+K in:	34
+D in:	112
+Len:	43
+
+Cumulative Diff:	1.0281888433064525
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	39
+Len:	19
+
+Cumulative Diff:	1.0229749821984753
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	47
+Len:	35
+
+Cumulative Diff:	1.0231457784269082
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	52
+Len:	19
+
+Cumulative Diff:	1.0227424564259375
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	57
+Len:	31
+
+Cumulative Diff:	1.0222616744205084
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	63
+Len:	34
+
+Cumulative Diff:	1.0212206098604388
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.02611848372529
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0309418992380972
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	84
+Len:	35
+
+Cumulative Diff:	1.0324647846786585
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	92
+Len:	36
+
+Cumulative Diff:	1.039053457363912
+
+Tick:	../data/OA.txt
+K in:	37
+D in:	112
+Len:	41
+
+Cumulative Diff:	1.025952218394601
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	43
+Len:	18
+
+Cumulative Diff:	1.0277869970899711
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	47
+Len:	20
+
+Cumulative Diff:	1.029125483462878
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	52
+Len:	19
+
+Cumulative Diff:	1.0227424564259375
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	57
+Len:	20
+
+Cumulative Diff:	1.0222962434521226
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.0262617496745228
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	76
+Len:	44
+
+Cumulative Diff:	1.0326616338109875
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.0332367773255546
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	92
+Len:	36
+
+Cumulative Diff:	1.0379314887164521
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	102
+Len:	39
+
+Cumulative Diff:	1.038230686992879
+
+Tick:	../data/OA.txt
+K in:	41
+D in:	112
+Len:	41
+
+Cumulative Diff:	1.0267587594382235
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	47
+Len:	8
+
+Cumulative Diff:	1.0306065624977343
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	52
+Len:	18
+
+Cumulative Diff:	1.0225659896766839
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	57
+Len:	18
+
+Cumulative Diff:	1.0242248400940666
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	63
+Len:	20
+
+Cumulative Diff:	1.0265748452258687
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	69
+Len:	40
+
+Cumulative Diff:	1.027197622515074
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0334763204645188
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.0332367773255546
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	92
+Len:	36
+
+Cumulative Diff:	1.0367628172275702
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	102
+Len:	39
+
+Cumulative Diff:	1.03834782808758
+
+Tick:	../data/OA.txt
+K in:	45
+D in:	112
+Len:	41
+
+Cumulative Diff:	1.0267587594382235
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	52
+Len:	8
+
+Cumulative Diff:	1.0410990900381951
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	57
+Len:	6
+
+Cumulative Diff:	1.0376482028802738
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	63
+Len:	16
+
+Cumulative Diff:	1.0464858446743046
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.026849846465285
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0317655478916856
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.0332367773255546
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	92
+Len:	36
+
+Cumulative Diff:	1.0367628172275702
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	102
+Len:	39
+
+Cumulative Diff:	1.03834782808758
+
+Tick:	../data/OA.txt
+K in:	50
+D in:	112
+Len:	43
+
+Cumulative Diff:	1.0415565406686942
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	57
+Len:	6
+
+Cumulative Diff:	1.0376482028802738
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	63
+Len:	8
+
+Cumulative Diff:	1.0428410049849428
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.026732999646161
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0318823162877804
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	84
+Len:	35
+
+Cumulative Diff:	1.0329993880602306
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	92
+Len:	36
+
+Cumulative Diff:	1.0367628172275702
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	102
+Len:	39
+
+Cumulative Diff:	1.03834782808758
+
+Tick:	../data/OA.txt
+K in:	55
+D in:	112
+Len:	43
+
+Cumulative Diff:	1.0425766744009837
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	63
+Len:	5
+
+Cumulative Diff:	1.0328724998432564
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	69
+Len:	41
+
+Cumulative Diff:	1.026497753226263
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	76
+Len:	43
+
+Cumulative Diff:	1.0335932824745304
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	84
+Len:	35
+
+Cumulative Diff:	1.0329993880602306
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	92
+Len:	36
+
+Cumulative Diff:	1.0363499917222267
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	102
+Len:	39
+
+Cumulative Diff:	1.03834782808758
+
+Tick:	../data/OA.txt
+K in:	61
+D in:	112
+Len:	42
+
+Cumulative Diff:	1.0419183309211677
+
+Tick:	../data/OA.txt
+K in:	67
+D in:	69
+Len:	21
+
+Cumulative Diff:	1.046669517901008
+
+Tick:	../data/OA.txt
+K in:	67
+D in:	76
+Len:	33
+
+Cumulative Diff:	1.0370206840906604
+
+Tick:	../data/OA.txt
+K in:	67
+D in:	84
+Len:	36
+
+Cumulative Diff:	1.0400634037932708
+
+Tick:	../data/OA.txt
+K in:	67
+D in:	92
+Len:	38
+
+Cumulative Diff:	1.0362487975770198
+
+Tick:	../data/OA.txt
+K in:	67
+D in:	102
+Len:	23
+
+Cumulative Diff:	1.0420497224510075
+
+Tick:	../data/OA.txt
+K in:	67
+D in:	112
+Len:	21
+
+Cumulative Diff:	1.0346798814011104
+
+Tick:	../data/OA.txt
+K in:	74
+D in:	76
+Len:	8
+
+Cumulative Diff:	1.0474414367691864
+
+Tick:	../data/OA.txt
+K in:	74
+D in:	84
+Len:	15
+
+Cumulative Diff:	1.0446912232217096
+
+Tick:	../data/OA.txt
+K in:	74
+D in:	92
+Len:	21
+
+Cumulative Diff:	1.0393776155245167
+
+Tick:	../data/OA.txt
+K in:	74
+D in:	102
+Len:	15
+
+Cumulative Diff:	1.0434459933744507
+
+Tick:	../data/OA.txt
+K in:	74
+D in:	112
+Len:	21
+
+Cumulative Diff:	1.034089782232979
+
+Tick:	../data/OA.txt
+K in:	81
+D in:	84
+Len:	7
+
+Cumulative Diff:	1.0366925113705678
+
+Tick:	../data/OA.txt
+K in:	81
+D in:	92
+Len:	7
+
+Cumulative Diff:	1.0349366192812803
+
+Tick:	../data/OA.txt
+K in:	81
+D in:	102
+Len:	15
+
+Cumulative Diff:	1.0434459933744507
+
+Tick:	../data/OA.txt
+K in:	81
+D in:	112
+Len:	16
+
+Cumulative Diff:	1.043682865713192
+
+Tick:	../data/OA.txt
+K in:	89
+D in:	92
+Len:	6
+
+Cumulative Diff:	1.053484717968666
+
+Tick:	../data/OA.txt
+K in:	89
+D in:	102
+Len:	15
+
+Cumulative Diff:	1.0434459933744507
+
+Tick:	../data/OA.txt
+K in:	89
+D in:	112
+Len:	16
+
+Cumulative Diff:	1.043682865713192
+
+Tick:	../data/OA.txt
+K in:	98
+D in:	102
+Len:	9
+
+Cumulative Diff:	1.0436316318198542
+
+Tick:	../data/OA.txt
+K in:	98
+D in:	112
+Len:	6
+
+Cumulative Diff:	1.0259472037609065
+
+Tick:	../data/OA.txt
+K in:	108
+D in:	112
+Len:	6
+
+Cumulative Diff:	1.0259472037609065
