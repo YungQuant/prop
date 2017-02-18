@@ -6,6 +6,8 @@
 -AUTOSELL variable?
 -Environment Filter conceptualization and implementation
 -HigherHigh/LowerLow strategy
+-Straddle/Strangle Options strategy
+-Intrisic Value Sentiment Analysis strategy for cryptocurrencies
 
 -TESTING-
   -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
