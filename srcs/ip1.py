@@ -179,6 +179,35 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
+
+def write_that_shit(log, tick, kin, din, perc, cuml, bitchcunt):
+    # desc = sp.describe(perc)
+    file = open(log, 'w')
+    file.write("Tick:\t")
+    file.write(tick)
+    file.write("\nK in:\t")
+    file.write(str(int(np.floor(kin))))
+    file.write("\nD in:\t")
+    file.write(str(int(np.floor(din))))
+    file.write("\nLen:\t")
+    file.write(str(len(perc)))
+    # file.write("\n\n\nPercent Diff:\n")
+    # file.write(str(perc))
+    # file.write("\n\nDescribed Diff:\n")
+    # file.write(str(desc))
+    file.write("\n\nCumulative Diff:\t")
+    file.write(str(cuml))
+    file.write("\nbitchCunt:\t")
+    file.write(str(bitchCunt))
+    file.close()
+    # print("Described diff")
+    # print(desc)
+    # print("Cumulative Diff")
+    # print("len:", len(perc))
+    # print(cuml[j])
+
+
+
 def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchCunt):
     cuml = []
     for j, tik in enumerate(tick):
@@ -192,6 +221,7 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
         kar = []; dar = []; cumld = [];
         stockBought = False
+        stopLoss = False
         bull = 0; shit = 0; max = 0;
         cuml.append(1)
 
@@ -202,7 +232,7 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                     kar.append(Kv)
                     Dv = SMAn(arr, Din)
                     dar.append(Dv)
-                    if ((Kv > Dv) and stockBought == False):
+                    if (((Kv > Dv) and stockBought == False) and stopLoss == True):
                         if closeData > max:
                             max = closeData
                         buy.append(closeData)
@@ -216,6 +246,9 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                         sell.append(closeData)
                         shit += 1
                         stockBought = False
+                        stopLoss = True
+                    elif ((Kv < Dv) and stopLoss == True):
+                        stopLoss = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
             shit += 1
@@ -226,33 +259,10 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml)
-        #desc = sp.describe(perc)
-        file = open(log[j], 'w')
-        file.write("Tick:\t")
-        file.write(tik)
-        file.write("\nK in:\t")
-        file.write(str(int(np.floor(Kin))))
-        file.write("\nD in:\t")
-        file.write(str(int(np.floor(Din))))
-        file.write("\nLen:\t")
-        file.write(str(len(perc)))
-        # file.write("\n\n\nPercent Diff:\n")
-        # file.write(str(perc))
-        # file.write("\n\nDescribed Diff:\n")
-        # file.write(str(desc))
-        file.write("\n\nCumulative Diff:\t")
-        file.write(str(cuml[j]))
-        file.write("\nbitchCunt:\t")
-        file.write(str(bitchCunt))
-        file.close()
-        # print("Described diff")
-        # print(desc)
-        # print("Cumulative Diff")
-        # print("len:", len(perc))
-        # print(cuml[j])
+
+        write_that_shit(log[j], tik, Kin, Din, perc, cuml, bitchCunt)
         # plot(perc)
         # plot2(kar, dar)
-
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -260,7 +270,6 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                     with open(log[i]) as f:
                         with open(fcuml[i], "w") as f1:
                             for line in f:
-                                #if "ROW" in line:
                                 f1.write(line)
                     f.close()
                     f1.close()
@@ -269,7 +278,6 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                         with open(fcuml[i], "a") as f1:
                             f1.write("\n\n")
                             for line in f:
-                                #if "ROW" in line:
                                 f1.write(line)
                     f.close()
                     f1.close()
@@ -303,7 +311,7 @@ k2 = 60
 l1 = 2
 l2 = 120
 j1 = 0.000
-j2 = 0.080
+j2 = 0.003
 k = k1
 i = l1
 j = j1
@@ -315,7 +323,7 @@ if __name__ == '__main__':
                 if i > k and i - k < 100:
                     if (int(np.floor(i)) % 10 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j))
+                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=200, bitchCunt=j))
                     # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.02, 0.98, 100000, j))
                     # p.start()
                     # p.join()

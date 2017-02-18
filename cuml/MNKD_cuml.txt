@@ -1,5410 +1,6402 @@
 Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	92
-
-Cumulative Diff:	1.0222190281043293
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	92
-
-Cumulative Diff:	1.0222190281043293
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	92
-
-Cumulative Diff:	1.0222190281043293
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	92
-
-Cumulative Diff:	1.0222190281043293
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	91
-
-Cumulative Diff:	1.0229874693958942
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	91
-
-Cumulative Diff:	1.0229874693958942
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	91
-
-Cumulative Diff:	1.0229874693958942
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	91
-
-Cumulative Diff:	1.0229874693958942
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	88
-
-Cumulative Diff:	1.0280010193062443
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	88
-
-Cumulative Diff:	1.0280010193062443
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	88
-
-Cumulative Diff:	1.0280010193062443
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	88
-
-Cumulative Diff:	1.0280010193062443
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	84
-
-Cumulative Diff:	1.0206157284427235
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	84
-
-Cumulative Diff:	1.0206157284427235
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	84
-
-Cumulative Diff:	1.0206157284427235
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
-Len:	84
-
-Cumulative Diff:	1.0206157284427235
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
+K in:	1
+D in:	2
 Len:	83
 
-Cumulative Diff:	1.020422904764575
-bitchCunt:	0.008
+Cumulative Diff:	0.9502377337572925
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
+K in:	1
+D in:	2
 Len:	83
 
-Cumulative Diff:	1.020422904764575
-bitchCunt:	0.008
+Cumulative Diff:	0.9502377337572925
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
+K in:	1
+D in:	2
 Len:	83
 
-Cumulative Diff:	1.020422904764575
-bitchCunt:	0.008
+Cumulative Diff:	0.9502377337572925
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	5
-D in:	6
+K in:	1
+D in:	2
 Len:	83
 
-Cumulative Diff:	1.020422904764575
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	9
-Len:	70
-
-Cumulative Diff:	1.021700504168649
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	9
-Len:	70
-
-Cumulative Diff:	1.021700504168649
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	9
-Len:	70
-
-Cumulative Diff:	1.021700504168649
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	5
-D in:	9
-Len:	70
-
-Cumulative Diff:	1.021700504168649
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	63
-
-Cumulative Diff:	1.0203843146010978
+Cumulative Diff:	0.9502377337572925
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	63
+K in:	1
+D in:	2
+Len:	83
 
-Cumulative Diff:	1.0203843146010978
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	63
-
-Cumulative Diff:	1.0203843146010978
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	63
-
-Cumulative Diff:	1.0203843146010978
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	62
-
-Cumulative Diff:	1.0211513766680786
+Cumulative Diff:	0.9502377337572925
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	62
+K in:	1
+D in:	2
+Len:	83
 
-Cumulative Diff:	1.0211513766680786
+Cumulative Diff:	0.9502377337572925
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	62
+K in:	1
+D in:	2
+Len:	83
 
-Cumulative Diff:	1.0211513766680786
+Cumulative Diff:	0.9502377337572925
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	62
+K in:	1
+D in:	2
+Len:	83
 
-Cumulative Diff:	1.0211513766680786
+Cumulative Diff:	0.9502377337572925
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	60
-
-Cumulative Diff:	1.020190131347865
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	60
-
-Cumulative Diff:	1.020190131347865
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	60
-
-Cumulative Diff:	1.020190131347865
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	25
-Len:	60
-
-Cumulative Diff:	1.020190131347865
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	57
-
-Cumulative Diff:	1.0289849596847236
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	57
-
-Cumulative Diff:	1.0289849596847236
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	57
-
-Cumulative Diff:	1.0289849596847236
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	57
-
-Cumulative Diff:	1.0289849596847236
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0297584871868355
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0297584871868355
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0297584871868355
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0297584871868355
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0287891396940199
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0287891396940199
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0287891396940199
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0287891396940199
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0284011735846397
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0284011735846397
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0284011735846397
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0284011735846397
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.028206879011886
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.028206879011886
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.028206879011886
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.028206879011886
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.023913456285976
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	50
-
-Cumulative Diff:	1.0233384752286863
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	50
-
-Cumulative Diff:	1.0233384752286863
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	50
-
-Cumulative Diff:	1.0233384752286863
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	10
-D in:	31
-Len:	50
-
-Cumulative Diff:	1.0233384752286863
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0252107944941111
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0252107944941111
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0252107944941111
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0252107944941111
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0254025232604076
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0254025232604076
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0254025232604076
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0254025232604076
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	54
-
-Cumulative Diff:	1.0250158342760975
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	54
-
-Cumulative Diff:	1.0250158342760975
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	54
-
-Cumulative Diff:	1.0250158342760975
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	54
-
-Cumulative Diff:	1.0250158342760975
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0248221792913486
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0248221792913486
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0248221792913486
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0248221792913486
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	11
-D in:	28
-Len:	53
-
-Cumulative Diff:	1.0205428898561189
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	61
-
-Cumulative Diff:	1.0343916125069579
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	61
-
-Cumulative Diff:	1.0343916125069579
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	61
-
-Cumulative Diff:	1.0343916125069579
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	61
-
-Cumulative Diff:	1.0343916125069579
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0341965546882697
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0341965546882697
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0341965546882697
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0341965546882697
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.03400116520127
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.03400116520127
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.03400116520127
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.03400116520127
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	13
-D in:	28
-Len:	56
-
-Cumulative Diff:	1.028696844894217
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	70
-
-Cumulative Diff:	1.0305097159791805
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	70
-
-Cumulative Diff:	1.0305097159791805
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	70
-
-Cumulative Diff:	1.0305097159791805
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	70
-
-Cumulative Diff:	1.0305097159791805
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	69
-
-Cumulative Diff:	1.0312843896991428
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	69
-
-Cumulative Diff:	1.0312843896991428
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	69
-
-Cumulative Diff:	1.0312843896991428
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	69
-
-Cumulative Diff:	1.0312843896991428
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0303136058212004
-bitchCunt:	0.004
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0303136058212004
-bitchCunt:	0.004
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0303136058212004
-bitchCunt:	0.004
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0303136058212004
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	63
-
-Cumulative Diff:	1.0301193170024525
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	63
-
-Cumulative Diff:	1.0301193170024525
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	63
-
-Cumulative Diff:	1.0301193170024525
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	63
-
-Cumulative Diff:	1.0301193170024525
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	62
-
-Cumulative Diff:	1.0299246978229692
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	62
-
-Cumulative Diff:	1.0299246978229692
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	62
-
-Cumulative Diff:	1.0299246978229692
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	62
-
-Cumulative Diff:	1.0299246978229692
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.0258206194625759
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.025048160427974
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.025048160427974
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.025048160427974
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	23
-Len:	61
-
-Cumulative Diff:	1.025048160427974
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	47
-
-Cumulative Diff:	1.0267196751228618
+Cumulative Diff:	0.9742939206543827
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	47
-
-Cumulative Diff:	1.0267196751228618
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	47
-
-Cumulative Diff:	1.0267196751228618
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	47
-
-Cumulative Diff:	1.0267196751228618
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	46
-
-Cumulative Diff:	1.0265256982335507
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0210638575458448
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0216652545866123
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0216652545866123
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0216652545866123
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	14
-D in:	37
-Len:	45
-
-Cumulative Diff:	1.0216652545866123
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0283240231379578
-bitchCunt:	0.0
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0283240231379578
-bitchCunt:	0.0
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0283240231379578
-bitchCunt:	0.0
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
+K in:	1
+D in:	3
 Len:	67
 
-Cumulative Diff:	1.0283240231379578
+Cumulative Diff:	0.9742939206543827
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	17
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.9774649967459472
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9720999291855962
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9706653018862001
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
 D in:	25
-Len:	62
-
-Cumulative Diff:	1.029099677690579
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	62
-
-Cumulative Diff:	1.029099677690579
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	62
-
-Cumulative Diff:	1.029099677690579
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	62
-
-Cumulative Diff:	1.029099677690579
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0289052511503014
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0289052511503014
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0289052511503014
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0289052511503014
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	25
-Len:	61
-
-Cumulative Diff:	1.0234307495628614
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	60
-
-Cumulative Diff:	1.0219091022137456
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	60
-
-Cumulative Diff:	1.0219091022137456
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	60
-
-Cumulative Diff:	1.0219091022137456
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	60
-
-Cumulative Diff:	1.0219091022137456
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0267313902366
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0267313902366
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0267313902366
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	56
-
-Cumulative Diff:	1.0267313902366
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	55
-
-Cumulative Diff:	1.026537411133967
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	55
-
-Cumulative Diff:	1.026537411133967
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	55
-
-Cumulative Diff:	1.026537411133967
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	55
-
-Cumulative Diff:	1.026537411133967
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0212713791225168
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0216769120282188
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0216769120282188
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0216769120282188
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0216769120282188
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	50
-
-Cumulative Diff:	1.027503276517591
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	50
-
-Cumulative Diff:	1.027503276517591
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	50
-
-Cumulative Diff:	1.027503276517591
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	50
-
-Cumulative Diff:	1.027503276517591
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	49
-
-Cumulative Diff:	1.0273091515834296
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	17
-D in:	34
-Len:	48
-
-Cumulative Diff:	1.0220391606223416
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	64
-
-Cumulative Diff:	1.0230786883664211
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	64
-
-Cumulative Diff:	1.0230786883664211
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	64
-
-Cumulative Diff:	1.0230786883664211
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	64
-
-Cumulative Diff:	1.0230786883664211
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0232659413300804
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0232659413300804
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0232659413300804
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	58
-
-Cumulative Diff:	1.0232659413300804
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0280999641065827
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0280999641065827
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0280999641065827
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0280999641065827
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	28
-Len:	57
-
-Cumulative Diff:	1.0230221231327388
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	59
-
-Cumulative Diff:	1.0291680269409873
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	59
-
-Cumulative Diff:	1.0291680269409873
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	59
-
-Cumulative Diff:	1.0291680269409873
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	59
-
-Cumulative Diff:	1.0291680269409873
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0340245691119803
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0340245691119803
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0340245691119803
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	54
-
-Cumulative Diff:	1.0340245691119803
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0338292121180042
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0338292121180042
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0338292121180042
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0338292121180042
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	53
-
-Cumulative Diff:	1.0287230740803373
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0289341874394156
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0289341874394156
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0289341874394156
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	52
-
-Cumulative Diff:	1.0289341874394156
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.0211096212466788
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.0211096212466788
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.0211096212466788
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	19
-D in:	31
-Len:	51
-
-Cumulative Diff:	1.0211096212466788
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	34
-Len:	53
-
-Cumulative Diff:	1.0204786391603968
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	34
-Len:	53
-
-Cumulative Diff:	1.0204786391603968
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	34
-Len:	53
-
-Cumulative Diff:	1.0204786391603968
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	34
-Len:	53
-
-Cumulative Diff:	1.0204786391603968
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	55
-Len:	40
-
-Cumulative Diff:	1.0227910977183035
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	55
-Len:	40
-
-Cumulative Diff:	1.0227910977183035
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	55
-Len:	40
-
-Cumulative Diff:	1.0227910977183035
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	21
-D in:	55
-Len:	40
-
-Cumulative Diff:	1.0227910977183035
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	36
-
-Cumulative Diff:	1.0225350590602251
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	36
-
-Cumulative Diff:	1.0225350590602251
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	36
-
-Cumulative Diff:	1.0225350590602251
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	36
-
-Cumulative Diff:	1.0225350590602251
-bitchCunt:	0.0
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	26
-
-Cumulative Diff:	1.0215589928850513
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	26
-
-Cumulative Diff:	1.0215589928850513
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	26
-
-Cumulative Diff:	1.0215589928850513
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	26
-
-Cumulative Diff:	1.0215589928850513
-bitchCunt:	0.002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
 Len:	18
 
-Cumulative Diff:	1.020188561091346
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	18
-
-Cumulative Diff:	1.020188561091346
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	18
-
-Cumulative Diff:	1.020188561091346
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	18
-
-Cumulative Diff:	1.020188561091346
-bitchCunt:	0.004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.008
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.01
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.014
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.018000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.018000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.018000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.018000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.020000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.020000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.020000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.020000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.022000000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.022000000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.022000000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.022000000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.024000000000000007
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.024000000000000007
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.024000000000000007
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.024000000000000007
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02600000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02600000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02600000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02600000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02800000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02800000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02800000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.02800000000000001
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.030000000000000013
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.030000000000000013
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.030000000000000013
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.030000000000000013
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.032000000000000015
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.032000000000000015
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.032000000000000015
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.032000000000000015
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.034000000000000016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.034000000000000016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.034000000000000016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.034000000000000016
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03600000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03600000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03600000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03600000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03800000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03800000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03800000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.03800000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04000000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04200000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04200000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04200000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04200000000000002
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.044000000000000025
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.044000000000000025
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.044000000000000025
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.044000000000000025
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04600000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04600000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04600000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04600000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04800000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04800000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04800000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.04800000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05000000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05000000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05000000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05000000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05200000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05200000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05200000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05200000000000003
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.054000000000000034
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.054000000000000034
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.054000000000000034
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.054000000000000034
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.056000000000000036
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.056000000000000036
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.056000000000000036
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.056000000000000036
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05800000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05800000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05800000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.05800000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06000000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06200000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06200000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06200000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06200000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06400000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06400000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06400000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06400000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06600000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06600000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06600000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06600000000000004
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06800000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06800000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06800000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.06800000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07000000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07000000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07000000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07000000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07200000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07200000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07200000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07200000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07400000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07400000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07400000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07400000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07600000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07600000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07600000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07600000000000005
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07800000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07800000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07800000000000006
-
-Tick:	../data/MNKD.txt
-K in:	23
-D in:	45
-Len:	5
-
-Cumulative Diff:	1.0209720407988259
-bitchCunt:	0.07800000000000006
-
-Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	77
-
-Cumulative Diff:	1.0311874600782585
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	77
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.0311874600782585
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	77
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.0311874600782585
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	77
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.0311874600782585
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	75
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.023445066574115
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	75
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.023445066574115
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	75
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.023445066574115
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	75
+K in:	1
+D in:	25
+Len:	18
 
-Cumulative Diff:	1.023445066574115
+Cumulative Diff:	0.974052245555516
 bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0236410464420655
-bitchCunt:	0.008
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0236410464420655
-bitchCunt:	0.008
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0236410464420655
-bitchCunt:	0.008
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0236410464420655
-bitchCunt:	0.008
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.01
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.01
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.01
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
 D in:	28
-Len:	67
+Len:	19
 
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.01
+Cumulative Diff:	0.9761034954720822
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	67
+K in:	1
+D in:	31
+Len:	17
 
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	67
-
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.012
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	67
+K in:	1
+D in:	31
+Len:	17
 
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.012
-
-Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	67
-
-Cumulative Diff:	1.0226689936170839
-bitchCunt:	0.012
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	18
+K in:	1
+D in:	31
+Len:	17
 
-Cumulative Diff:	1.0224302349565395
-bitchCunt:	0.024000000000000007
-
-Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	18
-
-Cumulative Diff:	1.0224302349565395
-bitchCunt:	0.024000000000000007
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	18
+K in:	1
+D in:	31
+Len:	17
 
-Cumulative Diff:	1.0224302349565395
-bitchCunt:	0.024000000000000007
-
-Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	18
-
-Cumulative Diff:	1.0224302349565395
-bitchCunt:	0.024000000000000007
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	1
+D in:	31
+Len:	17
+
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	31
+Len:	17
+
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	31
+Len:	17
+
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	31
+Len:	17
+
+Cumulative Diff:	0.9766796022768892
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	34
+Len:	16
+
+Cumulative Diff:	0.9734845878306801
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	37
+Len:	16
+
+Cumulative Diff:	0.9775096746144557
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9797591828798159
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	45
+Len:	15
+
+Cumulative Diff:	0.976011276226141
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	1
+D in:	98
+Len:	9
+
+Cumulative Diff:	0.9775434444665067
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9743477315040994
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9773483058583898
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9751011158155247
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	2
 D in:	28
 Len:	14
 
-Cumulative Diff:	1.0222336515620083
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
 Len:	14
 
-Cumulative Diff:	1.0222336515620083
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
 Len:	14
 
-Cumulative Diff:	1.0222336515620083
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
 Len:	14
 
-Cumulative Diff:	1.0222336515620083
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
-Len:	11
+Len:	14
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
-Len:	11
+Len:	14
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
-Len:	11
+Len:	14
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	2
 D in:	28
-Len:	11
+Len:	14
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9766233349711034
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	31
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9751447012366853
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	34
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9792102922271481
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	81
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.974555870438203
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	89
+Len:	9
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9747422099927799
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	2
+D in:	98
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	0.9781473990521309
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	10
+Len:	23
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	0.9787455673259704
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.056000000000000036
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.056000000000000036
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.056000000000000036
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	11
+Len:	22
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.056000000000000036
+Cumulative Diff:	0.9674282619950881
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05800000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05800000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05800000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.05800000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	21
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9778985637635506
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	25
+Len:	13
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790124209593405
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
+K in:	3
+D in:	34
 Len:	11
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9764328871341539
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	74
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.9775635366821567
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	81
+Len:	7
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9732941451561369
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	89
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	89
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	89
+Len:	8
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	28
-Len:	11
+K in:	3
+D in:	89
+Len:	8
+
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	89
+Len:	8
+
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	89
+Len:	8
+
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	89
+Len:	8
+
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	89
+Len:	8
+
+Cumulative Diff:	0.9731066528194814
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	3
+D in:	98
+Len:	7
+
+Cumulative Diff:	0.9760915337715441
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9754165069898914
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9719133422762022
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	10
+Len:	22
+
+Cumulative Diff:	0.966674201778349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	11
+Len:	20
+
+Cumulative Diff:	0.9732467175403384
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	13
+Len:	18
+
+Cumulative Diff:	0.9773298314874357
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9778828460543354
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	0.9765812835646855
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9777046616888219
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9759056908402051
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9738527574872102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9740389626033645
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	4
+D in:	98
+Len:	6
+
+Cumulative Diff:	0.977958570174006
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	19
+Len:	12
+
+Cumulative Diff:	0.9721179003010113
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
+
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	25
+Len:	10
 
-Cumulative Diff:	1.0236123097378547
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9766436241143874
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	54
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0265265940022623
-bitchCunt:	0.006
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	54
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0265265940022623
-bitchCunt:	0.006
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	54
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0265265940022623
-bitchCunt:	0.006
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	54
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0265265940022623
-bitchCunt:	0.006
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	51
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0282716336530784
-bitchCunt:	0.01
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	51
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0282716336530784
-bitchCunt:	0.01
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	51
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0282716336530784
-bitchCunt:	0.01
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	51
+K in:	5
+D in:	31
+Len:	10
 
-Cumulative Diff:	1.0282716336530784
-bitchCunt:	0.01
+Cumulative Diff:	0.9781635267242645
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	50
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.026866938069693
-bitchCunt:	0.012
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	50
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.026866938069693
-bitchCunt:	0.012
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	50
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.026866938069693
-bitchCunt:	0.012
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	50
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.026866938069693
-bitchCunt:	0.012
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	15
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.022148640456209
-bitchCunt:	0.018000000000000002
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	15
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.022148640456209
-bitchCunt:	0.018000000000000002
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	15
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.022148640456209
-bitchCunt:	0.018000000000000002
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	15
+K in:	5
+D in:	34
+Len:	10
 
-Cumulative Diff:	1.022148640456209
-bitchCunt:	0.018000000000000002
+Cumulative Diff:	0.9798637601928593
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	5
 D in:	37
 Len:	10
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.020000000000000004
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	5
 D in:	37
 Len:	10
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.020000000000000004
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	5
 D in:	37
 Len:	10
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.020000000000000004
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	5
 D in:	37
 Len:	10
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.020000000000000004
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	5
+D in:	37
+Len:	10
+
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	37
+Len:	10
+
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	37
+Len:	10
+
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	37
+Len:	10
+
+Cumulative Diff:	0.9759042798860896
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9796486355739048
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9792734350240873
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	5
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9798334314723913
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	7
+Len:	41
+
+Cumulative Diff:	0.9733632183574308
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	10
+Len:	18
+
+Cumulative Diff:	0.9697697388948495
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	11
+Len:	17
+
+Cumulative Diff:	0.9727021758825023
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9796491298720603
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9785373457752687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.974416230486102
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	6
 D in:	37
 Len:	9
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.022000000000000006
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
 Len:	9
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.022000000000000006
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
 Len:	9
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.022000000000000006
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
 Len:	9
 
-Cumulative Diff:	1.0229355139284617
-bitchCunt:	0.022000000000000006
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.024000000000000007
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.024000000000000007
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.024000000000000007
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	6
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.024000000000000007
+Cumulative Diff:	0.9796514694224715
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02600000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	41
+Len:	8
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.02800000000000001
+Cumulative Diff:	0.9775396303768854
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.030000000000000013
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	81
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.032000000000000015
+Cumulative Diff:	0.9779603031384735
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.034000000000000016
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	6
+D in:	98
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03600000000000002
+Cumulative Diff:	0.9783875034073135
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	8
+Len:	40
+
+Cumulative Diff:	0.9638200255315038
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	9
+Len:	24
+
+Cumulative Diff:	0.9709075214633455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	10
+Len:	20
+
+Cumulative Diff:	0.9732531676839044
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9770093663365648
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.03800000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
+K in:	7
 D in:	37
-Len:	7
+Len:	9
+
+Cumulative Diff:	0.9783180828035479
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	74
+Len:	6
+
+Cumulative Diff:	0.9777755382975255
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.97814765185555
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	7
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.973429163314236
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	9
+Len:	34
+
+Cumulative Diff:	0.9666816551474446
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	74
+Len:	7
+
+Cumulative Diff:	0.9779628156043045
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	89
+Len:	7
+
+Cumulative Diff:	0.9767045373238491
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	8
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.977150925936598
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9713811551687419
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	9
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.9734284462187442
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9755961678335349
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9711950296862455
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	10
+D in:	98
+Len:	4
+
+Cumulative Diff:	0.972510378010782
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9665680579007944
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	11
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9762154236361592
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9754680833416607
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	12
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9743601070034981
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9793280555027686
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.97175201445274
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	13
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9696541235937673
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9729729609661261
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9752805293937004
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	89
+Len:	4
+
+Cumulative Diff:	0.9738000942612731
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	14
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9731879541354008
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9731596045419875
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739866460034687
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	16
+D in:	108
+Len:	5
+
+Cumulative Diff:	0.9720691339683215
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9757711109728636
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9793974288514793
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	17
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9739863597714131
+bitchCunt:	0.002
+
+Tick:	../data/MNKD.txt
+K in:	19
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	19
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	19
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.0
+
+Tick:	../data/MNKD.txt
+K in:	19
+D in:	81
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04000000000000002
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	81
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	81
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	81
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	81
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04200000000000002
+Cumulative Diff:	0.9788442241644204
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.044000000000000025
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	19
+D in:	89
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04600000000000003
+Cumulative Diff:	0.9750495511673808
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.04800000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	23
+D in:	45
+Len:	5
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05000000000000003
+Cumulative Diff:	1.0209720407988259
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05200000000000003
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
-D in:	37
-Len:	7
+D in:	28
+Len:	11
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.054000000000000034
+Cumulative Diff:	1.0236123097378547
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5412,7 +6404,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.056000000000000036
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5420,7 +6412,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.056000000000000036
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5428,7 +6420,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.056000000000000036
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5436,7 +6428,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.056000000000000036
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5444,7 +6436,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05800000000000004
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5452,7 +6444,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05800000000000004
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5460,7 +6452,7 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05800000000000004
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
 K in:	25
@@ -5468,324 +6460,324 @@ D in:	37
 Len:	7
 
 Cumulative Diff:	1.023330317379811
-bitchCunt:	0.05800000000000004
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06000000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	34
+D in:	61
+Len:	4
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06200000000000004
+Cumulative Diff:	0.9784034320868809
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06400000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	41
+Len:	9
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06600000000000004
+Cumulative Diff:	0.9790530332369883
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.06800000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	37
+D in:	50
+Len:	6
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07000000000000005
+Cumulative Diff:	0.9728616945888018
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07200000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
-Len:	7
+K in:	41
+D in:	45
+Len:	12
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07400000000000005
+Cumulative Diff:	0.970428884459523
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07600000000000005
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.0
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.002
 
 Tick:	../data/MNKD.txt
-K in:	25
-D in:	37
+K in:	41
+D in:	50
 Len:	7
 
-Cumulative Diff:	1.023330317379811
-bitchCunt:	0.07800000000000006
+Cumulative Diff:	0.9799664543571044
+bitchCunt:	0.002
