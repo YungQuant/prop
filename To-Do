@@ -5,6 +5,7 @@
 -BB Convergence based Strategy
 -AUTOSELL variable?
 -Environment Filter conceptualization and implementation
+-HigherHigh/LowerLow strategy
 
 -TESTING-
   -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
