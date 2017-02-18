@@ -21549,3 +21549,147 @@ Len:	4
 
 Cumulative Diff:	0.9701396915160021
 bitchCunt:	0.002
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	30
+Len:	9
+
+Cumulative Diff:	[0.9890618511076463, 0.9722073999304834]
+bitchCunt:	0.02
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	30
+Len:	9
+
+Cumulative Diff:	[0.9890618511076463, 0.9722073999304834]
+bitchCunt:	0.02
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	30
+Len:	9
+
+Cumulative Diff:	[0.9890618511076463, 0.9722073999304834]
+bitchCunt:	0.02
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9884908562890795, 0.9391118339306027]
+bitchCunt:	0.02
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9884908562890795, 0.9391118339306027]
+bitchCunt:	0.02
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9884908562890795, 0.9391118339306027]
+bitchCunt:	0.02
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	55
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989]
+bitchCunt:	0.2

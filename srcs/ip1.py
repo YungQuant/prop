@@ -180,7 +180,7 @@ class GoogleIntradayQuote(Quote):
             self.append(dt, open_, high, low, close, volume)
 
 
-def write_that_shit(log, tick, kin, din, perc, cuml, bitchcunt):
+def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
     file = open(log, 'w')
     file.write("Tick:\t")
@@ -217,8 +217,8 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
 
-        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
-        kar = []; dar = []; cumld = [];
+        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
+        kar = []; dar = []; cumld = []; kar1 = []; dar1 = [];
         stockBought = False
         stopLoss = False
         bull = 0; shit = 0; max = 0;
@@ -233,11 +233,12 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                     dar.append(Dv)
                     if closeData > max:
                         max = closeData
-                    if ((Kv > Dv) and stockBought == False):
+                    if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                         buy.append(closeData * (1-tradeCost))
                         bull += 1
                         stockBought = True
                     elif ((Kv < Dv) and stockBought == True):
+                        #OR AUTOSELL CROSSED?
                         sell.append(closeData)
                         shit += 1
                         stockBought = False
@@ -260,8 +261,9 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
             cumld.append(cuml)
 
         write_that_shit(log[j], tik, Kin, Din, perc, cuml, bitchCunt)
-        # plot(perc)
-        # plot2(kar, dar)
+        plot(perc)
+        plot2(kar, dar)
+        plot(cuml)
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -304,44 +306,44 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-#fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
+plot(fucking_paul(fileTicker, 9, 10, fileOutput, fileCuml, save_max=1.00, save_min=0.99, max_len=100000, bitchCunt=0.2, tradeCost=0.0))
 k1 = 1
-k2 = 60
+k2 = 14
 l1 = 2
-l2 = 120
+l2 = 20
 j1 = 0.000
-j2 = 0.003
+j2 = 0.02
 k = k1
 i = l1
 j = j1
 returns = []
-if __name__ == '__main__':
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i > k and i - k < 100:
-                    if (int(np.floor(i)) % 10 == 0):
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j, tradeCost=0.0005))
-                    # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.02, 0.98, 100000, j))
-                    # p.start()
-                    # p.join()
-                if j < 0.01:
-                    j += 0.002
-                else:
-                    j += 0.002
-            j = j1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.1
-        i = l1
-        if (k < 10):
-            k += 1
-        else:
-            k *= 1.1
-
-plot(returns)
+# if __name__ == '__main__':
+#     while (k < k2):
+#         while (i < l2):
+#             while (j < j2):
+#                 if i > k:
+#                     if (int(np.floor(i)) % 10 == 0):
+#                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+#                     returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j, tradeCost=0.0005))
+#                     # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.02, 0.98, 100000, j))
+#                     # p.start()
+#                     # p.join()
+#                 if j < 0.01:
+#                     j += 0.002
+#                 else:
+#                     j *= 1.1
+#             j = j1
+#             if (i < 10):
+#                 i += 1
+#             else:
+#                 i *= 1.1
+#         i = l1
+#         if (k < 10):
+#             k += 1
+#         else:
+#             k *= 1.1
+#
+# plot(returns)
 
 
 

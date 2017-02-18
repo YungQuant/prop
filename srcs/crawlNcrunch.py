@@ -61,7 +61,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=10):
+    def __init__(self, symbol, interval_seconds=2, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -177,15 +177,15 @@ def create_dataset(dataset, look_back=1):
         dataY.append(dataset[i + look_back])
     return np.array(dataX), np.array(dataY)
 
-tick = yahoo_finance.Share("RTRX").get_historical('2016-01-02', '2017-01-01')
-dataset = np.zeros(len(tick))
+tick = yahoo_finance.Share("GOOG").get_historical('2004-02-02', '2017-01-01')
+data = np.zeros(len(tick))
 for i in range(len(tick)):
-    dataset[i] = tick[i]['Close']
-#dataset = GoogleIntradayQuote('MNKD').close
+    data[i] = tick[i]['Close']
+#data = GoogleIntradayQuote('GOOG').close
 
 np.random.seed(7)
 scaler = MinMaxScaler(feature_range=(0, 1))
-dataset = scaler.fit_transform(dataset)
+dataset = scaler.fit_transform(data)
 
 train_size = int(len(dataset) * 0.67)
 test_size = len(dataset) - train_size
@@ -202,7 +202,7 @@ model = Sequential()
 model.add(LSTM(4, input_dim=look_back))
 model.add(Dense(1))
 model.compile(loss='mean_squared_error', optimizer='adam')
-model.fit(trainX, trainY, nb_epoch=100, batch_size=1, verbose=2)
+model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
 # make predictions
 trainPredict = model.predict(trainX)
 testPredict = model.predict(testX)
@@ -216,11 +216,16 @@ trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:,0]))
 print('Train Score: %.2f RMSE' % (trainScore))
 testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:,0]))
 print('Test Score: %.2f RMSE' % (testScore))
-
 # plot baseline and predictions
+for i in range(10):
+    trainPredict = np.insert(trainPredict, 0, data[i], axis=0)
+for i in range(10):
+    testPredict = np.insert(testPredict, 0, data[len(trainPredict)], axis=0)
 plt.plot(scaler.inverse_transform(dataset))
 plt.plot(trainPredict)
-plt.plot(testPredict)
+plt.show()
+plt.plot(testPredict, "o")
+plt.plot(scaler.inverse_transform(dataset[len(trainPredict):]), "o")
 plt.show()
 
 

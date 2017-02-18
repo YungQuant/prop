@@ -2589,3 +2589,51 @@ Len:	2
 
 Cumulative Diff:	1.0203497545260407
 bitchCunt:	0.002
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	30
+Len:	7
+
+Cumulative Diff:	[0.9890618511076463, 0.9722073999304834, 1.0092949850520938, 1.0065956428565943]
+bitchCunt:	0.02
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	10
+Len:	29
+
+Cumulative Diff:	[0.9884908562890795, 0.9391118339306027, 0.9880823825401734, 1.0314164236592422]
+bitchCunt:	0.02
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	10
+Len:	29
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989, 0.9880823825401734, 1.0314164236592422]
+bitchCunt:	0.2
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	10
+Len:	29
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989, 0.9880823825401734, 1.0314164236592422]
+bitchCunt:	0.2
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	10
+Len:	29
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989, 0.9880823825401734, 1.0314164236592422]
+bitchCunt:	0.2
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	10
+Len:	29
+
+Cumulative Diff:	[0.9893662618663651, 0.9415831808619989, 0.9880823825401734, 1.0314164236592422]
+bitchCunt:	0.2
