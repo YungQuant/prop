@@ -1,9 +1,17 @@
 -Create backtest logfile parsing system to record Nth best results
 -Fix/restructure multiprocessing/threading system 
 -Build ML-based strategy
+  -Using existing keras LSTM to predict future data for existing strategies?
 -Build overarching ML framework
 -BB Convergence based Strategy
+-AUTOSELL variable?
+-Environment Filter conceptualization and implementation
+-HigherHigh/LowerLow strategy
+-Straddle/Strangle Options strategy
+-Intrisic Value Sentiment Analysis strategy for cryptocurrencies
 
+-Check how accurate stuff is (# correct test / total test)
+-Organize
 
 -TESTING-
   -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
