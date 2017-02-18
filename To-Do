@@ -9,6 +9,9 @@
 -Straddle/Strangle Options strategy
 -Intrisic Value Sentiment Analysis strategy for cryptocurrencies
 
+-Check how accurate stuff is (# correct test / total test)
+-Organize
+
 -TESTING-
   -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
 
