@@ -160,7 +160,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=1):
+    def __init__(self, symbol, interval_seconds=60, num_days=3):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -179,7 +179,7 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
-def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchCunt):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -197,25 +197,25 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
+            if closeData > max:
+                max = closeData
             if i >= int(Din) and i >= int(Kin):
-                    Kv = SMAn(arr, Kin)
-                    kar.append(Kv)
-                    Dv = SMAn(arr, Din)
-                    dar.append(Dv)
-                    if closeData > max:
-                        max = closeData
-                    if ((Kv > Dv) and stockBought == False):
-                        buy.append(closeData * (1-tradeCost))
-                        bull += 1
-                        stockBought = True
-                    elif ((Kv < Dv) and stockBought == True):
-                        sell.append(closeData)
-                        shit += 1
-                        stockBought = False
-                    elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData)
-                        shit += 1
-                        stockBought = False
+                Kv = SMAn(arr, Kin)
+                kar.append(Kv)
+                Dv = SMAn(arr, Din)
+                dar.append(Dv)
+                if ((Kv > Dv) and stockBought == False):
+                    buy.append(closeData)
+                    bull += 1
+                    stockBought = True
+                elif ((Kv < Dv) and stockBought == True):
+                    sell.append(closeData)
+                    shit += 1
+                    stockBought = False
+                elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
+                    sell.append(closeData)
+                    shit += 1
+                    stockBought = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
             shit += 1
@@ -250,33 +250,33 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
         # print("Cumulative Diff")
         # print("len:", len(perc))
         # print(cuml[j])
-        # plot(perc)
+        # # plot(perc)
         # plot2(kar, dar)
 
 
-        for i, cum in enumerate(cuml):
-            if (cum > save_max or cum < save_min and len(perc) <= max_len):
-                if (os.path.isfile(fcuml[i]) == False):
-                    with open(log[i]) as f:
-                        with open(fcuml[i], "w") as f1:
-                            for line in f:
-                                #if "ROW" in line:
-                                f1.write(line)
-                    f.close()
-                    f1.close()
-                else:
-                    with open(log[i]) as f:
-                        with open(fcuml[i], "a") as f1:
-                            f1.write("\n\n")
-                            for line in f:
-                                #if "ROW" in line:
-                                f1.write(line)
-                    f.close()
-                    f1.close()
+    for i, cum in enumerate(cuml):
+        if (cum > save_max or cum < save_min and len(perc) <= max_len):
+            if (os.path.isfile(fcuml[i]) == False):
+                with open(log[i]) as f:
+                    with open(fcuml[i], "w") as f1:
+                        for line in f:
+                            #if "ROW" in line:
+                            f1.write(line)
+                f.close()
+                f1.close()
+            else:
+                with open(log[i]) as f:
+                    with open(fcuml[i], "a") as f1:
+                        f1.write("\n\n")
+                        for line in f:
+                            #if "ROW" in line:
+                            f1.write(line)
+                f.close()
+                f1.close()
 
     return cuml
 
-ticker = ["MNKD", "FNBC", "RTRX", "PTLA"]
+ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -288,22 +288,22 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = GoogleIntradayQuote(ticker[i]).close
+        dataset = GoogleIntradayQuote(ticker[i])
         # tick = yahoo_finance.Share(ticker[i]).get_historical('2003-01-01', '2017-01-01')
         # dataset = np.zeros(len(tick))
         # for i in range(len(tick)):
         #     dataset[i] = tick[i]['Close']
-        for i, close in enumerate(dataset):
+        for i, close in enumerate(dataset.close):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
 #fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
 k1 = 1
-k2 = 60
+k2 = 150
 l1 = 2
-l2 = 120
+l2 = 300
 j1 = 0.000
-j2 = 0.080
+j2 = 0.08
 k = k1
 i = l1
 j = j1
@@ -312,11 +312,11 @@ if __name__ == '__main__':
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                if i > k and i - k < 100:
+                if i > k and i - k < 1000:
                     if (int(np.floor(i)) % 10 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j, tradeCost=0.0005))
-                    # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.02, 0.98, 100000, j))
+                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.03, save_min=0.00, max_len=20000, bitchCunt=j)
+                    # p = Process(target=fucking_paul, args=(fileTicker, k, i, fileOutput, fileCuml, 1.03, 0.00, 1000, j))
                     # p.start()
                     # p.join()
                 if j < 0.01:
@@ -333,8 +333,6 @@ if __name__ == '__main__':
             k += 1
         else:
             k *= 1.1
-
-plot(returns)
 
 
 
