@@ -1,3 +1,4 @@
+-FOREX, Options Chain, and Cryptocurrency Data Scraper/Source
 -Create backtest logfile parsing system to record Nth best results
 -Fix/restructure multiprocessing/threading system 
 -Build ML-based strategy
