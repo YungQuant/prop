@@ -3,7 +3,7 @@
 -Fix/restructure multiprocessing/threading system 
 -Build ML-based strategy
   -Using existing keras LSTM to predict future data for existing strategies?  
-  -Daily gap up/down strat w/keras
+  *Daily gap up/down strat w/keras is done but needs to have data normalized and inverse transformed correctly for further testing
 -Build overarching ML framework
 -BB Convergence based Strategy
 -AUTOSELL variable?
