@@ -279,7 +279,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml)
 
-        write_that_shit(log[j], tik, Kin, Din, perc, cuml, bitchCunt)
+        write_that_shit(log[j], tik, Kin, Din, perc, cuml[j], bitchCunt)
         plot(perc)
         plot2(s1ar, s2ar)
 
