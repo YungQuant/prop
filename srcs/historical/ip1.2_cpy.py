@@ -250,7 +250,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
                     s2 = Dvl[0] + Dvl[1] + Dvl[2] / 3
                     s1ar.append(s1)
                     s2ar.append(s2)
-                    if stopLoss == true and closeData > max:
+                    if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
                         buy.append(closeData * (1-tradeCost))

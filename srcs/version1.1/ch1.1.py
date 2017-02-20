@@ -189,7 +189,7 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
 
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
         kar = []; dar = []; cumld = [];
-        stockBought = False
+        stockBought = False; stopLoss = False;
         bull = 0; shit = 0; max = stock[0]
         cuml.append(1)
 
@@ -202,7 +202,7 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                 kar.append(Kv)
                 Dv = SMAn(arr, Din)
                 dar.append(Dv)
-                if closeData > max:
+                if stockBought == True and closeData > max:
                     max = closeData
                 if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1 - tradeCost))

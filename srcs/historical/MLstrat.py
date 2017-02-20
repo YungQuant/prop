@@ -187,7 +187,7 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
-def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchCunt):
+def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -209,14 +209,12 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
             scaler = MinMaxScaler(feature_range=(0, 1))
             dataset = scaler.fit_transform(arr)
             train_size = int(len(dataset))
-            train =
             # reshape into X=t and Y=t+1
             look_back = 10
-            trainX, trainY = create_dataset(train, look_back)
-            testX, testY = create_dataset(test, look_back)
+            trainX, trainY = create_dataset(dataset, look_back)
             # reshape input to be [samples, time steps, features]
             trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-            testX = np.reshape(testX, (testX.shape[0], 1, testX.shape[1]))
+            shapedData = np.reshape(dataset, (dataset.shape[0], 1, dataset.shape[1]))
             # create and fit the LSTM network
             model = Sequential()
             model.add(LSTM(4, input_dim=look_back))
@@ -225,20 +223,19 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
             model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
             # make predictions
             trainPredict = model.predict(trainX)
-            testPredict = model.predict(testX)
+            predict = model.predict(shapedData[-11:-1])
             # invert predictions
             trainPredict = scaler.inverse_transform(trainPredict)
             trainY = scaler.inverse_transform([trainY])
-            testPredict = scaler.inverse_transform(testPredict)
-            testY = scaler.inverse_transform([testY])
+            predict = scaler.inverse_transform(predict)
             # calculate root mean squared error
             trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
             print('Train Score: %.2f RMSE' % (trainScore))
             testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:, 0]))
             print('Test Score: %.2f RMSE' % (testScore))
-            if closeData > max:
+            if stockBought == True and closeData > max:
                 max = closeData
-            if i >= int(Din) and i >= int(Kin):
+            if i >= int(Nin):
                 Kv = SMAn(arr, Kin)
                 kar.append(Kv)
                 Dv = SMAn(arr, Din)
@@ -269,10 +266,10 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
         file = open(log[j], 'w')
         file.write("Tick:\t")
         file.write(tik)
-        file.write("\nK in:\t")
-        file.write(str(int(np.floor(Kin))))
-        file.write("\nD in:\t")
-        file.write(str(int(np.floor(Din))))
+        # file.write("\nK in:\t")
+        # file.write(str(int(np.floor(Kin))))
+        file.write("\nN in:\t")
+        file.write(str(int(np.floor(Nin))))
         file.write("\nLen:\t")
         file.write(str(len(perc)))
         # file.write("\n\n\nPercent Diff:\n")
