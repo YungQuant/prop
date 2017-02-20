@@ -246,6 +246,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
                     stockBought = True
                 elif ((Kv < Dv) and stockBought == True):
                     sell.append(closeData)
+                    max = 0
                     shit += 1
                     stockBought = False
                 elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
