@@ -177,13 +177,16 @@ def create_dataset(dataset, look_back=1):
         dataY.append(dataset[i + look_back])
     return np.array(dataX), np.array(dataY)
 
+<<<<<<< HEAD
 tick = yahoo_finance.Share("GOOG").get_historical('2016-02-02', '2017-01-01')
+=======
+tick = yahoo_finance.Share("GOOG").get_historical('2012-02-02', '2017-01-01')
+>>>>>>> 62fcdae9f5ce146e514918a49c2921df3d78599b
 data = np.zeros(len(tick))
 for i in range(len(tick)):
     data[i] = tick[i]['Close']
 #data = GoogleIntradayQuote('GOOG').close
 
-np.random.seed(7)
 scaler = MinMaxScaler(feature_range=(0, 1))
 dataset = scaler.fit_transform(data)
 

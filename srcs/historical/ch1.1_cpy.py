@@ -1,14 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import math
-from keras.models import Sequential
-from keras.layers import Dense
-from keras.layers import LSTM
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import mean_squared_error
-
-import numpy as np
 import urllib.request
 import urllib, time, datetime
 import scipy.stats as sp
@@ -187,33 +177,7 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
-def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
-    # desc = sp.describe(perc)
-    file = open(log, 'w')
-    file.write("Tick:\t")
-    file.write(tick)
-    file.write("\nK in:\t")
-    file.write(str(int(np.floor(kin))))
-    # file.write("\nD in:\t")
-    # file.write(str(int(np.floor(din))))
-    file.write("\nLen:\t")
-    file.write(str(len(perc)))
-    # file.write("\n\n\nPercent Diff:\n")
-    # file.write(str(perc))
-    # file.write("\n\nDescribed Diff:\n")
-    # file.write(str(desc))
-    file.write("\n\nCumulative Diff:\t")
-    file.write(str(cuml))
-    file.write("\nbitchCunt:\t")
-    file.write(str(bitchCunt))
-    file.close()
-    # print("Described diff")
-    # print(desc)
-    # print("Cumulative Diff")
-    # print("len:", len(perc))
-    # print(cuml[j])
-
-def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
+def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchCunt):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -225,62 +189,36 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
 
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
         kar = []; dar = []; cumld = [];
-        stockBought = False
+        stockBought = False; stopLoss == False;
         bull = 0; shit = 0; max = stock[0]
         cuml.append(1)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            np.random.seed(7)
-            scaler = MinMaxScaler(feature_range=(0, 1))
-            dataset = scaler.fit_transform(arr)
-            train_size = int(len(dataset))
-            # reshape into X=t and Y=t+1
-            look_back = Nin
-            trainX, trainY = create_dataset(dataset, look_back)
-            # reshape input to be [samples, time steps, features]
-            trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-            shapedData = np.reshape(dataset, (dataset.shape[0], 1, dataset.shape[1]))
-            # create and fit the LSTM network
-            model = Sequential()
-            model.add(LSTM(4, input_dim=look_back))
-            model.add(Dense(1))
-            model.compile(loss='mean_squared_error', optimizer='adam')
-            model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
-            # make predictions
-            trainPredict = model.predict(trainX)
-            predict = model.predict(shapedData[-11:-1])
-            # invert predictions
-            trainPredict = scaler.inverse_transform(trainPredict)
-            trainY = scaler.inverse_transform([trainY])
-            predict = scaler.inverse_transform(predict)
-            print("predict:", predict)
-            # calculate root mean squared error
-            trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
-            print('Train Score: %.2f RMSE' % (trainScore))
-            testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:, 0]))
-            print('Test Score: %.2f RMSE' % (testScore))
-            if stockBought == True and closeData > max:
+            if closeData > max:
                 max = closeData
-            if i >= int(Nin):
+            if i >= int(Din) and i >= int(Kin):
                 Kv = SMAn(arr, Kin)
                 kar.append(Kv)
                 Dv = SMAn(arr, Din)
                 dar.append(Dv)
-                if ((predict > closeData) and stockBought == False):
-                    buy.append(closeData)
+                if stockBought == True and closeData > max:
+                    max = closeData
+                if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
+                    buy.append(closeData * (1 - tradeCost))
                     bull += 1
                     stockBought = True
-                elif ((predict < closeData) and stockBought == True):
+                elif ((Kv < Dv) and stockBought == True):
                     sell.append(closeData)
-                    max = 0
                     shit += 1
                     stockBought = False
-                elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
+                elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
                     sell.append(closeData)
-                    max = 0
                     shit += 1
                     stockBought = False
+                    stopLoss = True
+                elif ((Kv < Dv) and stopLoss == True):
+                    stopLoss = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
             shit += 1
@@ -291,8 +229,33 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml)
+        #desc = sp.describe(perc)
+        file = open(log[j], 'w')
+        file.write("Tick:\t")
+        file.write(tik)
+        file.write("\nK in:\t")
+        file.write(str(int(np.floor(Kin))))
+        file.write("\nD in:\t")
+        file.write(str(int(np.floor(Din))))
+        file.write("\nLen:\t")
+        file.write(str(len(perc)))
+        # file.write("\n\n\nPercent Diff:\n")
+        # file.write(str(perc))
+        # file.write("\n\nDescribed Diff:\n")
+        # file.write(str(desc))
+        file.write("\n\nCumulative Diff:\t")
+        file.write(str(cuml[j]))
+        file.write("\nbitchCunt:\t")
+        file.write(str(bitchCunt))
+        file.close()
+        # print("Described diff")
+        # print(desc)
+        # print("Cumulative Diff")
+        # print("len:", len(perc))
+        # print(cuml[j])
+        # # plot(perc)
+        # plot2(kar, dar)
 
-    write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
 
     for i, cum in enumerate(cuml):
         if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -337,7 +300,7 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 10, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
+fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
 # k1 = 1
 # k2 = 3000
 # l1 = 2
@@ -374,3 +337,22 @@ fucking_paul(fileTicker, 10, fileOutput, fileCuml, save_max=1.02, save_min=0.98,
 #             k += 1
 #         else:
 #             k *= 1.1
+
+
+
+
+
+            ###WHAT THIS BITCH NIGGA WANTS ME TO DO###
+        # 1)    Make ch1 not crawl if call is redundant.                                                                  **COMPLETE**
+        # 3)    Make ch1 take an array of ticker symbols that get cycled through                                          **COMPLETE**
+        # 3.5)  Create and write to directories for the data and output                                                   **COMPLETE**
+
+        # 4)    Make ch1 be able to take arbitrary chunks of data out of the last 10 days of data                         *INCOMPLETE*
+        # 5)    Make ch1 automatically sell when it reaches the end of each data chunk                                    *INCOMPLETE*
+        # 6)    Make ch1 calculate a variable (starting with 1%) commisions/slippage cost                                 *INCOMPLETE*
+
+        # 7)    Make ch1 write the input, trades, result, sp.describe results, etc to a third file that is never          *INCOMPLETE*
+        #             overwritten if the backtest is over 1.0n
+        # 8)    Make ch1 do a thing that diffs the results from each stock with eachother to find the common inputs that  *INCOMPLETE*
+        #             worked for both situation
+        # 9)    Make ch1 simulate "trailing-stop" order type

@@ -250,7 +250,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
                     s2 = Dvl[0] + Dvl[1] + Dvl[2] / 3
                     s1ar.append(s1)
                     s2ar.append(s2)
-                    if closeData > max:
+                    if stopLoss == true and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
                         buy.append(closeData * (1-tradeCost))
@@ -258,10 +258,12 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
                         stockBought = True
                     elif ((s1 < s2) and stockBought == True):
                         sell.append(closeData)
+                        max = 0
                         shit += 1
                         stockBought = False
                     elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
                         sell.append(closeData)
+                        max = 0
                         shit += 1
                         stockBought = False
                         stopLoss = True
@@ -279,8 +281,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
             cumld.append(cuml)
 
         write_that_shit(log[j], tik, Kin, Din, perc, cuml, bitchCunt)
-        plot(perc)
-        plot2(s1ar, s2ar)
+        #plot(perc)
+        #plot2(s1ar, s2ar)
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
