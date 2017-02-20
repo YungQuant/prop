@@ -15,6 +15,7 @@
 -Check how accurate stuff is (# correct test / total test)
 -Organize
 -Update README.md
+-Hadoop
 
 -TESTING-
   -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
