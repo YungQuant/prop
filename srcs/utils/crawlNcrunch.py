@@ -177,7 +177,7 @@ def create_dataset(dataset, look_back=1):
         dataY.append(dataset[i + look_back])
     return np.array(dataX), np.array(dataY)
 
-tick = yahoo_finance.Share("GOOG").get_historical('2004-02-02', '2017-01-01')
+tick = yahoo_finance.Share("GOOG").get_historical('2016-02-02', '2017-01-01')
 data = np.zeros(len(tick))
 for i in range(len(tick)):
     data[i] = tick[i]['Close']
@@ -202,7 +202,7 @@ model = Sequential()
 model.add(LSTM(4, input_dim=look_back))
 model.add(Dense(1))
 model.compile(loss='mean_squared_error', optimizer='adam')
-model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
+model.fit(trainX, trainY, nb_epoch=12, batch_size=1, verbose=2)
 # make predictions
 trainPredict = model.predict(trainX)
 testPredict = model.predict(testX)
