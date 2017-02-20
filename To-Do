@@ -16,6 +16,7 @@
 -Organize
 -Update README.md
 -Hadoop
+-Refactor fucking_paul function to be scalable. 14 paramter wtf.  
 
 -TESTING-
   -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
