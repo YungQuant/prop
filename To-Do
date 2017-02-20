@@ -2,7 +2,8 @@
 -Create backtest logfile parsing system to record Nth best results
 -Fix/restructure multiprocessing/threading system 
 -Build ML-based strategy
-  -Using existing keras LSTM to predict future data for existing strategies?
+  -Using existing keras LSTM to predict future data for existing strategies?  
+  -Daily gap up/down strat w/keras
 -Build overarching ML framework
 -BB Convergence based Strategy
 -AUTOSELL variable?

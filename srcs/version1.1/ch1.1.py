@@ -202,18 +202,23 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                 kar.append(Kv)
                 Dv = SMAn(arr, Din)
                 dar.append(Dv)
-                if ((Kv > Dv) and stockBought == False):
-                    buy.append(closeData)
+                if closeData > max:
+                    max = closeData
+                if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
+                    buy.append(closeData * (1 - tradeCost))
                     bull += 1
                     stockBought = True
                 elif ((Kv < Dv) and stockBought == True):
                     sell.append(closeData)
                     shit += 1
                     stockBought = False
-                elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
+                elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
                     sell.append(closeData)
                     shit += 1
                     stockBought = False
+                    stopLoss = True
+                elif ((Kv < Dv) and stopLoss == True):
+                    stopLoss = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
             shit += 1
@@ -295,43 +300,43 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-#fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
-k1 = 1
-k2 = 3000
-l1 = 2
-l2 = 3600
-j1 = 0.000
-j2 = 0.100
-k = k1
-i = l1
-j = j1
-returns = []
-if __name__ == '__main__':
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i > k:
-                    if (int(np.floor(i)) % 10 == 0):
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j))
-                if j < 0.01:
-                    j += 0.001
-                else:
-                    j *= 1.1
-            j = j1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.1
-        i = l1
-        if (k < 10):
-            k += 1
-        else:
-            k *= 1.1
+fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
+# k1 = 1
+# k2 = 3000
+# l1 = 2
+# l2 = 3600
+# j1 = 0.000
+# j2 = 0.100
+# k = k1
+# i = l1
+# j = j1
+# returns = []
+# if __name__ == '__main__':
+#     while (k < k2):
+#         while (i < l2):
+#             while (j < j2):
+#                 if i > k:
+#                     if (int(np.floor(i)) % 10 == 0):
+#                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+#                     returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j))
+#                 if j < 0.01:
+#                     j += 0.001
+#                 else:
+#                     j *= 1.1
+#             j = j1
+#             if (i < 10):
+#                 i += 1
+#             else:
+#                 i *= 1.1
+#             if (i < 10):
+#                 i += 1
+#             else:
+#                 i *= 1.1
+#         i = l1
+#         if (k < 10):
+#             k += 1
+#         else:
+#             k *= 1.1
 
 
 
