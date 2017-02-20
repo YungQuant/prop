@@ -257,12 +257,12 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
                         bull += 1
                         stockBought = True
                     elif ((s1 < s2) and stockBought == True):
-                        sell.append(closeData)
+                        sell.append(closeData * (1+tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False
                     elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData)
+                        sell.append(closeData * (1+tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False

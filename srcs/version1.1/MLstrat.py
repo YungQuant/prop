@@ -1,4 +1,3 @@
-import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 import math
@@ -7,7 +6,7 @@ from keras.layers import Dense
 from keras.layers import LSTM
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
-
+import yahoo_finance
 import numpy as np
 import urllib.request
 import urllib, time, datetime
@@ -121,6 +120,15 @@ def stochD(a, d, ll):
     D = SMAn(K, d) # d = STOCH D INPUT VAL, ll = STOCH K INPUT VAL
     return D
 
+def create_dataset(dataset, look_back):
+    dataX, dataY = [], []
+    for i in range(len(dataset)-look_back-1):
+        a = dataset[i:(i+look_back)]
+        dataX.append(a)
+        dataY.append(dataset[i + look_back])
+    return np.array(dataX), np.array(dataY)
+
+
 class Quote(object):
     DATE_FMT = '%Y-%m-%d'
     TIME_FMT = '%H:%M:%S'
@@ -225,62 +233,61 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
 
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
         kar = []; dar = []; cumld = [];
-        stockBought = False
-        bull = 0; shit = 0; max = stock[0]
+        stockBought = False; stopLoss = False
+        bull = 0; shit = 0; max = 0;
+        scaler = MinMaxScaler(feature_range=(0,1))
+        scaler1 = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
-
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            np.random.seed(7)
-            scaler = MinMaxScaler(feature_range=(0, 1))
-            dataset = scaler.fit_transform(arr)
-            train_size = int(len(dataset))
-            # reshape into X=t and Y=t+1
-            look_back = Nin
-            trainX, trainY = create_dataset(dataset, look_back)
-            # reshape input to be [samples, time steps, features]
-            trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-            shapedData = np.reshape(dataset, (dataset.shape[0], 1, dataset.shape[1]))
-            # create and fit the LSTM network
-            model = Sequential()
-            model.add(LSTM(4, input_dim=look_back))
-            model.add(Dense(1))
-            model.compile(loss='mean_squared_error', optimizer='adam')
-            model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
-            # make predictions
-            trainPredict = model.predict(trainX)
-            predict = model.predict(shapedData[-11:-1])
-            # invert predictions
-            trainPredict = scaler.inverse_transform(trainPredict)
-            trainY = scaler.inverse_transform([trainY])
-            predict = scaler.inverse_transform(predict)
-            print("predict:", predict)
-            # calculate root mean squared error
-            trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
-            print('Train Score: %.2f RMSE' % (trainScore))
-            testScore = math.sqrt(mean_squared_error(testY[0], testPredict[:, 0]))
-            print('Test Score: %.2f RMSE' % (testScore))
-            if stockBought == True and closeData > max:
-                max = closeData
-            if i >= int(Nin):
-                Kv = SMAn(arr, Kin)
-                kar.append(Kv)
-                Dv = SMAn(arr, Din)
-                dar.append(Dv)
-                if ((predict > closeData) and stockBought == False):
-                    buy.append(closeData - tradeCost)
+            if i > Nin:
+                arry = scaler.fit_transform(arr[-10:])
+                dataset = scaler1.fit_transform(arr)
+                print(dataset, arry)
+                train_size = int(len(dataset))
+                # reshape into X=t and Y=t+1
+                look_back = Nin
+                trainX, trainY = create_dataset(arr, look_back)
+                # reshape input to be [samples, time steps, features]
+                trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+                dataset = np.reshape(dataset, (1, 1, dataset.shape[0]))
+                arry = np.reshape(arry, (1, 1, arry.shape[0]))
+                # create and fit the LSTM network
+                model = Sequential()
+                model.add(LSTM(4, input_dim=look_back))
+                model.add(Dense(1))
+                model.compile(loss='mean_squared_error', optimizer='adam')
+                model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
+                # make predictions
+                trainPredict = model.predict(trainX)
+                predict = model.predict(arry)
+                # invert predictions
+                trainPredict = scaler1.inverse_transform(trainPredict)
+                trainY = scaler1.inverse_transform([trainY])
+                predict = scaler.inverse_transform(predict)
+                print("predict:", predict)
+                # calculate root mean squared error
+                trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
+                print('Train Score: %.2f RMSE' % (trainScore))
+                if stockBought == True and closeData > max:
+                    max = closeData
+                if ((predict > closeData) and (stockBought == False and stopLoss == False)):
+                    buy.append(closeData * (1 - tradeCost))
                     bull += 1
                     stockBought = True
                 elif ((predict < closeData) and stockBought == True):
-                    sell.append(closeData)
+                    sell.append(closeData * (1 + tradeCost))
                     max = 0
                     shit += 1
                     stockBought = False
-                elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                    sell.append(closeData)
+                elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
+                    sell.append(closeData * (1 + tradeCost))
                     max = 0
                     shit += 1
                     stockBought = False
+                    stopLoss = True
+                elif ((predict < closeData) and stopLoss == True):
+                    stopLoss = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
             shit += 1
@@ -322,9 +329,9 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../data/" + tick + ".txt")
-    fileOutput.append("../output/" + tick + "_output.txt")
-    fileCuml.append("../cuml/" + tick + "_cuml.txt")
+    fileTicker.append("./data/" + tick + ".txt")
+    fileOutput.append("./output/" + tick + "_output.txt")
+    fileCuml.append("./cuml/" + tick + "_cuml.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
@@ -337,7 +344,7 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 10, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
+fucking_paul(fileTicker, 10, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00, tradeCost=0.00001)
 # k1 = 1
 # k2 = 3000
 # l1 = 2

@@ -231,19 +231,19 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                     kar.append(Kv)
                     Dv = SMAn(arr, Din)
                     dar.append(Dv)
-                    if stopLoss == True and closeData > max:
+                    if stockBought == True and closeData > max:
                         max = closeData
                     if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                         buy.append(closeData * (1-tradeCost))
                         bull += 1
                         stockBought = True
                     elif ((Kv < Dv) and stockBought == True):
-                        sell.append(closeData)
+                        sell.append(closeData * (1+tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False
                     elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData)
+                        sell.append(closeData * (1+tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False

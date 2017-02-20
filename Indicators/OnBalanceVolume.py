@@ -14,22 +14,14 @@ def plot(a):
     plt.show()
 
 # Putting made up stock market prices in an array
-data = []
-data.append(12)
-data.append(7)
-data.append(8)
-data.append(13)
-data.append(32)
-data.append(3)
-data.append(12)
-data.append(54)
+data = [12,7,8,13,32,3,12,54]
 
 # Putting in made up Volume Data
+# DL: I changed the array declaration above, and the volume initialization below
 initvolume = []
 x = 0
 for i in range(len(data)):
-    x += 300
-    initvolume.append(x)
+    initvolume.append(300)
 
 '''
 This is the On Balance Volume Function
