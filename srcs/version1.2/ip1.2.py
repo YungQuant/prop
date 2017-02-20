@@ -263,6 +263,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
                         stockBought = False
                     elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
                         sell.append(closeData)
+                        max = 0
                         shit += 1
                         stockBought = False
                         stopLoss = True
@@ -280,8 +281,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
             cumld.append(cuml)
 
         write_that_shit(log[j], tik, Kin, Din, perc, cuml, bitchCunt)
-        plot(perc)
-        plot2(s1ar, s2ar)
+        #plot(perc)
+        #plot2(s1ar, s2ar)
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):

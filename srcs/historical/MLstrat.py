@@ -187,6 +187,32 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
+def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
+    # desc = sp.describe(perc)
+    file = open(log, 'w')
+    file.write("Tick:\t")
+    file.write(tick)
+    file.write("\nK in:\t")
+    file.write(str(int(np.floor(kin))))
+    # file.write("\nD in:\t")
+    # file.write(str(int(np.floor(din))))
+    file.write("\nLen:\t")
+    file.write(str(len(perc)))
+    # file.write("\n\n\nPercent Diff:\n")
+    # file.write(str(perc))
+    # file.write("\n\nDescribed Diff:\n")
+    # file.write(str(desc))
+    file.write("\n\nCumulative Diff:\t")
+    file.write(str(cuml))
+    file.write("\nbitchCunt:\t")
+    file.write(str(bitchCunt))
+    file.close()
+    # print("Described diff")
+    # print(desc)
+    # print("Cumulative Diff")
+    # print("len:", len(perc))
+    # print(cuml[j])
+
 def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
     cuml = []
     for j, tik in enumerate(tick):
@@ -210,7 +236,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
             dataset = scaler.fit_transform(arr)
             train_size = int(len(dataset))
             # reshape into X=t and Y=t+1
-            look_back = 10
+            look_back = Nin
             trainX, trainY = create_dataset(dataset, look_back)
             # reshape input to be [samples, time steps, features]
             trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
@@ -228,6 +254,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
             trainPredict = scaler.inverse_transform(trainPredict)
             trainY = scaler.inverse_transform([trainY])
             predict = scaler.inverse_transform(predict)
+            print("predict:", predict)
             # calculate root mean squared error
             trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
             print('Train Score: %.2f RMSE' % (trainScore))
@@ -240,17 +267,18 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
                 kar.append(Kv)
                 Dv = SMAn(arr, Din)
                 dar.append(Dv)
-                if ((Kv > Dv) and stockBought == False):
+                if ((predict > closeData) and stockBought == False):
                     buy.append(closeData)
                     bull += 1
                     stockBought = True
-                elif ((Kv < Dv) and stockBought == True):
+                elif ((predict < closeData) and stockBought == True):
                     sell.append(closeData)
                     max = 0
                     shit += 1
                     stockBought = False
                 elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
                     sell.append(closeData)
+                    max = 0
                     shit += 1
                     stockBought = False
         if stockBought == True:
@@ -263,33 +291,8 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt):
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml)
-        #desc = sp.describe(perc)
-        file = open(log[j], 'w')
-        file.write("Tick:\t")
-        file.write(tik)
-        # file.write("\nK in:\t")
-        # file.write(str(int(np.floor(Kin))))
-        file.write("\nN in:\t")
-        file.write(str(int(np.floor(Nin))))
-        file.write("\nLen:\t")
-        file.write(str(len(perc)))
-        # file.write("\n\n\nPercent Diff:\n")
-        # file.write(str(perc))
-        # file.write("\n\nDescribed Diff:\n")
-        # file.write(str(desc))
-        file.write("\n\nCumulative Diff:\t")
-        file.write(str(cuml[j]))
-        file.write("\nbitchCunt:\t")
-        file.write(str(bitchCunt))
-        file.close()
-        # print("Described diff")
-        # print(desc)
-        # print("Cumulative Diff")
-        # print("len:", len(perc))
-        # print(cuml[j])
-        # # plot(perc)
-        # plot2(kar, dar)
 
+    write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
 
     for i, cum in enumerate(cuml):
         if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -334,40 +337,40 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-#fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
-k1 = 1
-k2 = 3000
-l1 = 2
-l2 = 3600
-j1 = 0.000
-j2 = 0.100
-k = k1
-i = l1
-j = j1
-returns = []
-if __name__ == '__main__':
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i > k:
-                    if (int(np.floor(i)) % 10 == 0):
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j))
-                if j < 0.01:
-                    j += 0.001
-                else:
-                    j *= 1.1
-            j = j1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.1
-        i = l1
-        if (k < 10):
-            k += 1
-        else:
-            k *= 1.1
+fucking_paul(fileTicker, 10, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00)
+# k1 = 1
+# k2 = 3000
+# l1 = 2
+# l2 = 3600
+# j1 = 0.000
+# j2 = 0.100
+# k = k1
+# i = l1
+# j = j1
+# returns = []
+# if __name__ == '__main__':
+#     while (k < k2):
+#         while (i < l2):
+#             while (j < j2):
+#                 if i > k:
+#                     if (int(np.floor(i)) % 10 == 0):
+#                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+#                     returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j))
+#                 if j < 0.01:
+#                     j += 0.001
+#                 else:
+#                     j *= 1.1
+#             j = j1
+#             if (i < 10):
+#                 i += 1
+#             else:
+#                 i *= 1.1
+#             if (i < 10):
+#                 i += 1
+#             else:
+#                 i *= 1.1
+#         i = l1
+#         if (k < 10):
+#             k += 1
+#         else:
+#             k *= 1.1
