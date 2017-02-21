@@ -257,14 +257,18 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 model.add(LSTM(4, input_dim=look_back))
                 model.add(Dense(1))
                 model.compile(loss='mean_squared_error', optimizer='adam')
-                model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=2)
+                model.fit(trainX, trainY, nb_epoch=2, batch_size=1, verbose=2)
                 # make predictions
                 trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
+                plot(trainPredict)
+                print(predict)
                 # invert predictions
                 trainPredict = scaler1.inverse_transform(trainPredict)
                 trainY = scaler1.inverse_transform([trainY])
                 predict = scaler.inverse_transform(predict)
+                plot2(trainY, trainPredict)
+                print(predict)
                 print("predict:", predict)
                 # calculate root mean squared error
                 trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
@@ -329,9 +333,9 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("./data/" + tick + ".txt")
-    fileOutput.append("./output/" + tick + "_output.txt")
-    fileCuml.append("./cuml/" + tick + "_cuml.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_output.txt")
+    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
