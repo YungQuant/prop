@@ -24,7 +24,7 @@ def sma(data, peroid):
     temp = 0
     for x in range(len(data) - peroid):
         for i in range(peroid):
-            temp = data[x + i]
+            temp += data[x + i]
         data[x] = temp / peroid
     return (data)
 
