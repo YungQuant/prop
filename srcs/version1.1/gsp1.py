@@ -176,7 +176,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=10):
+    def __init__(self, symbol, interval_seconds=600, num_days=1):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -241,35 +241,38 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             if i > Nin:
-                arry = scaler.fit_transform(arr[-10:])
+                #print("\n\ninput array:", arr)
+                arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
-                print(dataset, arry)
                 train_size = int(len(dataset))
                 # reshape into X=t and Y=t+1
-                look_back = Nin
-                trainX, trainY = create_dataset(arr, look_back)
+                trainX, trainY = create_dataset(arr, Nin)
                 # reshape input to be [samples, time steps, features]
                 trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
                 dataset = np.reshape(dataset, (1, 1, dataset.shape[0]))
                 arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
-                model.add(LSTM(4, input_dim=look_back))
+                model.add(LSTM(4, input_dim=Nin))
                 model.add(Dense(1))
                 model.compile(loss='mean_squared_error', optimizer='adam')
-                model.fit(trainX, trainY, nb_epoch=2, batch_size=1, verbose=2)
+                model.fit(trainX, trainY, nb_epoch=42, batch_size=1, verbose=0)
                 # make predictions
                 trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
-                plot(trainPredict)
-                print(predict)
                 # invert predictions
+                arry = np.reshape(arry, (1, Nin))
                 trainPredict = scaler1.inverse_transform(trainPredict)
                 trainY = scaler1.inverse_transform([trainY])
                 predict = scaler.inverse_transform(predict)
-                plot2(trainY, trainPredict)
-                print(predict)
+                predict = predict[0][0]
+                arry = scaler.inverse_transform(arry)
+                #kar.append(predict)
+                print("arry", arry[0][Nin - 1])
+                #if i > 100:
+                #plot(trainPredict)
                 print("predict:", predict)
+                #print("predicted:", kar)
                 # calculate root mean squared error
                 trainScore = math.sqrt(mean_squared_error(trainY[0], trainPredict[:, 0]))
                 print('Train Score: %.2f RMSE' % (trainScore))
@@ -327,7 +330,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
 
     return cuml
 
-ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+ticker = ["RTRX", "PTLA", "EGLT", "OA", "NTP"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -339,16 +342,16 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        #temp = GoogleIntradayQuote(ticker[i])
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2016-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        for i in range(len(tick)):
-            dataset[i] = tick[i]['Close']
+        dataset = GoogleIntradayQuote(ticker[i]).close
+        # tick = yahoo_finance.Share(ticker[i]).get_historical('2016-01-02', '2017-01-01')
+        # dataset = np.zeros(len(tick))
+        # for i in range(len(tick)):
+        #     dataset[i] = tick[i]['Close']
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 10, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00, tradeCost=0.00001)
+fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.00, tradeCost=0.00001)
 # k1 = 1
 # k2 = 3000
 # l1 = 2
