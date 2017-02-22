@@ -82,6 +82,16 @@ def plot(a, b):
     plt.legend(handles=[green])
     plt.show()
 
+def score(data, close):
+    count = 0
+    total = 0
+    for i in range(len(data)):
+        if data[i] > close[i]:
+            count += 1
+        total += 1
+    score = count / total
+    return score
+
 def sma(data, peroid):
     temp = 0
     for x in range(len(data) - peroid):
@@ -94,30 +104,17 @@ def sma(data, peroid):
 def train(data, close):
     index = 0
     winner = 0
-    for i in range(10, 500):
-        hit = 0
-        count = 0
+    for i in range(30, 40):
         answer = sma(data, i)
-        for x in range(len(answer)):
-            if answer[x] > close[x]:
-                hit += 1
-            count += 1
-        score = hit / count
-        if score > winner:
-            winner = score
+        temp = score(answer, close)
+        print(temp)
+        if temp > winner:
+            winner = temp
             index = i
     return index
 
 def chartandtest(data, close):
-    total = 0
-    answer = 0
-    count = 0
-    for i in range(len(data)):
-        if data[i] > close[i]:
-            count += 1
-        total += 1
-    score = count / total
-    print(score)
+    print(score(data, close))
     plot(data, close)
 
 tick = "SPY"
@@ -133,13 +130,10 @@ for i in range(len(close)):
 
 start = timeit.default_timer()
 
-
 #stuff = train(google, close)
-
 chartandtest(sma(google, 150), close)
 
 stop = timeit.default_timer()
 
 print("------Time--------")
 print(stop - start)
-
