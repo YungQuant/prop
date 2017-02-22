@@ -177,7 +177,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=600, num_days=10):
+    def __init__(self, symbol, interval_seconds=1800, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -237,7 +237,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > (len(stock) - 480):
+            if i > (len(stock) - 15):
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
@@ -263,6 +263,8 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
                 predict = predict[0][0]
                 arry = scaler.inverse_transform(arry)
                 error = predict - arry[0][Nin - 1]
+                if error < 0:
+                    error *= -1
                 diff.append(error)
                 #kar.append(predict)
                 #print("arry", arry[0][Nin-1])
@@ -322,7 +324,7 @@ for i, file in enumerate(fileTicker):
 
 opts = ['sgd', 'Adam', 'Adadelta', 'Ada']
 errs = ['mean_absolute_error', 'mean_squared_error']
-nins = [10, 20, 30, 60, 90, 120, 150, 270]
+nins = [10, 20, 30, 60]
 batchs = [10, 30, 90, 150, 270, 1000]
 epochs = [10, 30, 90, 150, 270, 1000]
 
