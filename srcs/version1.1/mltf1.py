@@ -209,9 +209,11 @@ def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
     file.write(str(err))
     file.write("\nopt:\t")
     file.write(str(opt))
-    file.write("\nerror:\t")
+    file.write("\nerrors:\t")
     for i in range(len(diff) - 1):
         file.write(str(diff[i]))
+    file.write("\nmean error:\t")
+    file.write(str(np.mean(diff)))
     file.close()
 
 def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
@@ -257,13 +259,17 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
                 predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
                 arry = scaler.inverse_transform(arry)
+                error = predict - arry[0][Nin - 1]
+                diff.append(error)
                 #kar.append(predict)
-                print("arry", arry[0][Nin-1])
+                #print("arry", arry[0][Nin-1])
                 #if i > 100:
                 #plot(trainPredict)
-                print("predict:", predict)
-                error = predict - arry[0][Nin-1]
-                diff.append(error)
+                #print("predict:", predict)
+
+        print("errors:", diff)
+        print("mean error:", np.mean(diff))
+
 
         write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
 
@@ -301,7 +307,7 @@ for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
         #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('1985-01-02', '2017-01-01')
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         dataset = np.zeros(len(tick))
         for i in range(len(tick)):
             dataset[i] = tick[i]['Close']
@@ -316,11 +322,11 @@ nins = [10, 20, 30, 60, 90, 120, 150, 270]
 batchs = [10, 30, 90, 150, 270, 1000]
 epochs = [10, 30, 90, 150, 270, 1000]
 
-# for i in range(len(errs)):
-#     for j in range(len(batchs)):
-#         for k in range(len(epochs)):
-#             for l in range(len(opts)):
-#                 for m in range(len(nins)):
-#                     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, fileCuml, epochs, batchs[j])
-#
-fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)
+for i in range(len(errs)):
+    for j in range(len(batchs)):
+        for k in range(len(epochs)):
+            for l in range(len(opts)):
+                for m in range(len(nins)):
+                    fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, fileCuml, epochs[k], batchs[j])
+
+#fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)
