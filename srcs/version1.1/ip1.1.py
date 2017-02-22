@@ -1,6 +1,7 @@
 import numpy as np
 import urllib.request
 import urllib, time, datetime
+from matplotlib import patches as mpatches
 import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
@@ -8,18 +9,32 @@ from multiprocessing import Process
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 
-def plot(a):
+def plot(a, tick1, type):
+    tick = [tick1[11], tick1[12], tick1[13], tick1[14]]
+    plt.title(tick)
+
     y = np.arange(len(a))
     plt.plot(y, a, 'g')
-    plt.ylabel('Price')
-    plt.xlabel('Time Periods')
+    plt.ylabel('Percent')
+    plt.xlabel('Time Periods (Days)')
+
+    green = mpatches.Patch(color='green', label=type)
+    plt.legend(handles=[green])
     plt.show()
 
-def plot2(a, b):
+def plot2(a, b, tick1):
+    tick = [tick1[11], tick1[12], tick1[13], tick1[14]]
+    plt.title(tick)
+
     y = np.arange(len(a))
     plt.plot(y, a, 'g', y, b, 'r')
     plt.ylabel('Price')
-    plt.xlabel('Time Periods')
+    plt.xlabel('Time Periods (Minutes)')
+
+    green = mpatches.Patch(color='green', label='Orginal')
+    red = mpatches.Patch(color='red', label='SMA')
+    plt.legend(handles=[green, red])
+
     plt.show()
 
 def wildersSmoothingN(a, n): #COMPUTES WILDERS SMOOTHING, COMPARABLE TO EMA WITH DIFFERENT VALUES
@@ -266,9 +281,9 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
             cumld.append(cuml[j])
 
         write_that_shit(log[j], tik, Kin, Din, perc, cuml[j], bitchCunt)
-        # plot(perc)
-        # plot2(kar, dar)
-        # plot(cumld)
+        plot(perc, tik, 'Percent Return')
+        plot2(kar, dar, tik)
+        plot(cumld, tik, 'Cuml Percent Return')
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
