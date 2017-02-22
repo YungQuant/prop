@@ -296,9 +296,9 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("./data/" + tick + ".txt")
-    fileOutput.append("./output/" + tick + "_output.txt")
-    fileCuml.append("./cuml/" + tick + "_cuml.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_output.txt")
+    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
