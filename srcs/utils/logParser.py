@@ -19,7 +19,7 @@ for fi, file in enumerate(fileCuml):
                                 if (os.path.isfile(bestFiles[bi]) == False):
                                     bestFile = open(bestFiles[bi], 'w')
                                 else:
-                                    bestFile = open(bestFiles[bi], "w")
+                                    bestFile = open(bestFiles[bi], "a")
                                 best[bi] = int(si)
                                 #bestFile.write(delete (lowest) saved log result/last 6 lines?)
                                 bestFile.write(str(float(si)))

@@ -214,6 +214,8 @@ def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
         file.write(str(diff[i]))
     file.write("\nmean error:\t")
     file.write(str(np.mean(diff)))
+    file.write("\nerror variance:\t")
+    file.write(str(np.var(diff)))
     file.close()
 
 def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
@@ -269,6 +271,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
 
         print("errors:", diff)
         print("mean error:", np.mean(diff))
+        print("error variance", np.var(diff))
 
 
         write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
@@ -307,7 +310,7 @@ for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
         #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        tick = yahoo_finance.Share(ticker[i]).get_historical('1985-01-02', '2017-01-01')
         dataset = np.zeros(len(tick))
         for i in range(len(tick)):
             dataset[i] = tick[i]['Close']
