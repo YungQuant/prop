@@ -94,7 +94,6 @@ def sma(data, peroid):
 def train(data, close):
     index = 0
     winner = 0
-
     for i in range(10, 500):
         hit = 0
         count = 0
@@ -103,9 +102,9 @@ def train(data, close):
             if answer[x] > close[x]:
                 hit += 1
             count += 1
-        total = hit / count
-        if total > winner:
-            winner = total
+        score = hit / count
+        if score > winner:
+            winner = score
             index = i
     return index
 
@@ -117,8 +116,8 @@ def chartandtest(data, close):
         if data[i] > close[i]:
             count += 1
         total += 1
-    answer = count / total
-    print(answer)
+    score = count / total
+    print(score)
     plot(data, close)
 
 tick = "SPY"
