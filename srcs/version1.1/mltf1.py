@@ -317,12 +317,14 @@ for i, file in enumerate(fileTicker):
         #dataset = GoogleIntradayQuote(ticker[i]).close
         tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         dataset = np.zeros(len(tick))
-        for i in range(len(tick)):
-            dataset[i] = tick[i]['Close']
+        i = len(tick) - 1
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
-        fileWrite.close()
 
 opts = ['sgd', 'Adam', 'Adadelta', 'Ada']
 errs = ['mean_absolute_error', 'mean_squared_error']

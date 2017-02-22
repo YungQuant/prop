@@ -176,7 +176,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=1):
+    def __init__(self, symbol, interval_seconds=60, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -281,9 +281,9 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
             cumld.append(cuml[j])
 
         write_that_shit(log[j], tik, Kin, Din, perc, cuml[j], bitchCunt)
-        plot(perc, tik, 'Percent Return')
-        plot2(kar, dar, tik)
-        plot(cumld, tik, 'Cuml Percent Return')
+        # plot(perc, tik, 'Percent Return')
+        # plot2(kar, dar, tik)
+        # plot(cumld, tik, 'Cuml Percent Return')
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -310,6 +310,7 @@ fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
+ik = 0
 for i, tick in enumerate(ticker):
     fileTicker.append("../../data/" + tick + ".txt")
     fileOutput.append("../../output/" + tick + "_output.txt")
@@ -317,48 +318,51 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = GoogleIntradayQuote(ticker[i]).close
-        # tick = yahoo_finance.Share(ticker[i]).get_historical('2003-01-01', '2017-01-01')
-        # dataset = np.zeros(len(tick))
-        # for i in range(len(tick)):
-        #     dataset[i] = tick[i]['Close']
+        #dataset = GoogleIntradayQuote(ticker[i]).close
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        i = len(tick) - 1
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
+#fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 k1 = 1
-k2 = 60
+k2 = 120
 l1 = 2
-l2 = 120
+l2 = 60
 j1 = 0.000
-j2 = 0.003
+j2 = 0.08
 k = k1
 i = l1
 j = j1
 returns = []
-# if __name__ == '__main__':
-#     while (k < k2):
-#         while (i < l2):
-#             while (j < j2):
-#                 if i > k and i - k < 100:
-#                     if (int(np.floor(i)) % 10 == 0):
-#                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-#                     fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j, tradeCost=0.0005)
-#                 if j < 0.01:
-#                     j += 0.002
-#                 else:
-#                     j += 0.002
-#             j = j1
-#             if (i < 10):
-#                 i += 1
-#             else:
-#                 i *= 1.1
-#         i = l1
-#         if (k < 10):
-#             k += 1
-#         else:
-#             k *= 1.1
+if __name__ == '__main__':
+    while (k < k2):
+        while (i < l2):
+            while (j < j2):
+                if i > k:
+                    if (int(np.floor(i)) % 2 == 0):
+                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j, tradeCost=0.0005)
+                if j < 0.01:
+                    j += 0.0035
+                else:
+                    j *= 1.3
+            j = j1
+            if (i < 10):
+                i += 1
+            else:
+                i *= 1.3
+        i = l1
+        if (k < 10):
+            k += 1
+        else:
+            k *= 1.2
 #
 # plot(returns)
 

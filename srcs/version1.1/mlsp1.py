@@ -337,14 +337,16 @@ for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
         #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('1985-01-02', '2017-01-01')
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         dataset = np.zeros(len(tick))
-        for i in range(len(tick)):
-            dataset[i] = tick[i]['Close']
+        i = len(tick) - 1
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
-        fileWrite.close()
 
 fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)
 # k1 = 1
