@@ -240,7 +240,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > Nin:
+            if i > (Nin * 100):
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
@@ -256,7 +256,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 model.add(LSTM(4, input_dim=Nin))
                 model.add(Dense(1))
                 model.compile(loss='mean_absolute_error', optimizer='Adam')
-                model.fit(trainX, trainY, nb_epoch=420, batch_size=100000, verbose=1)
+                model.fit(trainX, trainY, nb_epoch=420, batch_size=10, verbose=0)
                 # make predictions
                 trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
@@ -304,10 +304,8 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
 
-    write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
-
     for i, cum in enumerate(cuml):
-        if (cum > save_max or cum < save_min and len(perc) <= max_len):
+        if (cum > 0 or cum < 0):
             if (os.path.isfile(fcuml[i]) == False):
                 with open(log[i]) as f:
                     with open(fcuml[i], "w") as f1:
@@ -325,8 +323,6 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                             f1.write(line)
                 f.close()
                 f1.close()
-
-    return cuml
 
 ticker = ["AAPL"]
 fileTicker = []
@@ -350,7 +346,7 @@ for i, file in enumerate(fileTicker):
             fileWrite.write('\n')
         fileWrite.close()
 
-fucking_paul(fileTicker, 7500, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)
+fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)
 # k1 = 1
 # k2 = 3000
 # l1 = 2

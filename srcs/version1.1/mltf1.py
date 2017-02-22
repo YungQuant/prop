@@ -195,33 +195,26 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
-def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
-    # desc = sp.describe(perc)
+def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
     file = open(log, 'w')
     file.write("Tick:\t")
     file.write(tick)
-    file.write("\nK in:\t")
-    file.write(str(int(np.floor(kin))))
-    # file.write("\nD in:\t")
-    # file.write(str(int(np.floor(din))))
-    file.write("\nLen:\t")
-    file.write(str(len(perc)))
-    # file.write("\n\n\nPercent Diff:\n")
-    # file.write(str(perc))
-    # file.write("\n\nDescribed Diff:\n")
-    # file.write(str(desc))
-    file.write("\n\nCumulative Diff:\t")
-    file.write(str(cuml))
-    file.write("\nbitchCunt:\t")
-    file.write(str(bitchCunt))
+    file.write("\nN in:\t")
+    file.write(str(int(np.floor(Nin))))
+    file.write("\nnumBatch:\t")
+    file.write(str(int(np.floor(numBatch))))
+    file.write("\nnumEpoch:\t")
+    file.write(str(numEpoch))
+    file.write("\nerrorCalc:")
+    file.write(str(err))
+    file.write("\nopt:\t")
+    file.write(str(opt))
+    file.write("\nerror:\t")
+    for i in range(len(diff) - 1):
+        file.write(str(diff[i]))
     file.close()
-    # print("Described diff")
-    # print(desc)
-    # print("Cumulative Diff")
-    # print("len:", len(perc))
-    # print(cuml[j])
 
-def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, tradeCost):
+def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -231,16 +224,13 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
 
-        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
-        kar = []; dar = []; cumld = [];
-        stockBought = False; stopLoss = False
-        bull = 0; shit = 0; max = 0;
+        arr = []; diff = [];
         scaler = MinMaxScaler(feature_range=(0,1))
         scaler1 = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > Nin:
+            if i > (len(stock) - 20):
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
@@ -255,8 +245,8 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 model = Sequential()
                 model.add(LSTM(4, input_dim=Nin))
                 model.add(Dense(1))
-                model.compile(loss='mean_absolute_error', optimizer='Adam')
-                model.fit(trainX, trainY, nb_epoch=420, batch_size=100000, verbose=1)
+                model.compile(loss= err, optimizer=opt)
+                model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
                 # make predictions
                 trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
@@ -268,63 +258,33 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 predict = predict[0][0]
                 arry = scaler.inverse_transform(arry)
                 #kar.append(predict)
-                print("arry", arry[0][Nin - 1])
+                print("arry", arry[0][Nin-1])
                 #if i > 100:
                 #plot(trainPredict)
                 print("predict:", predict)
-                #print("predicted:", kar)
-                # calculate root mean squared error
-                if stockBought == True and closeData > max:
-                    max = closeData
-                if ((predict > closeData) and (stockBought == False and stopLoss == False)):
-                    buy.append(closeData * (1 - tradeCost))
-                    bull += 1
-                    stockBought = True
-                elif ((predict < closeData) and stockBought == True):
-                    sell.append(closeData * (1 + tradeCost))
-                    max = 0
-                    shit += 1
-                    stockBought = False
-                elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
-                    sell.append(closeData * (1 + tradeCost))
-                    max = 0
-                    shit += 1
-                    stockBought = False
-                    stopLoss = True
-                elif ((predict < closeData) and stopLoss == True):
-                    stopLoss = False
-        if stockBought == True:
-            sell.append(stock[len(stock)-1])
-            shit += 1
-        for i in range(bull):
-            diff.append(sell[i] - buy[i])
-        for i in range(bull):
-            perc.append(diff[i] / buy[i])
-        for i in range(bull):
-            cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            cumld.append(cuml[j])
+                error = predict - arry[0][Nin-1]
+                diff.append(error)
 
-    write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
+        write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
 
-    for i, cum in enumerate(cuml):
-        if (cum > save_max or cum < save_min and len(perc) <= max_len):
-            if (os.path.isfile(fcuml[i]) == False):
-                with open(log[i]) as f:
-                    with open(fcuml[i], "w") as f1:
-                        for line in f:
-                            #if "ROW" in line:
-                            f1.write(line)
-                f.close()
-                f1.close()
-            else:
-                with open(log[i]) as f:
-                    with open(fcuml[i], "a") as f1:
-                        f1.write("\n\n")
-                        for line in f:
-                            #if "ROW" in line:
-                            f1.write(line)
-                f.close()
-                f1.close()
+    for i, cum in enumerate(fcuml):
+        if (os.path.isfile(fcuml[i]) == False):
+            with open(log[i]) as f:
+                with open(fcuml[i], "w") as f1:
+                    for line in f:
+                        #if "ROW" in line:
+                        f1.write(line)
+            f.close()
+            f1.close()
+        else:
+            with open(log[i]) as f:
+                with open(fcuml[i], "a") as f1:
+                    f1.write("\n\n")
+                    for line in f:
+                        #if "ROW" in line:
+                        f1.write(line)
+            f.close()
+            f1.close()
 
     return cuml
 
@@ -350,40 +310,17 @@ for i, file in enumerate(fileTicker):
             fileWrite.write('\n')
         fileWrite.close()
 
-fucking_paul(fileTicker, 7500, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)
-# k1 = 1
-# k2 = 3000
-# l1 = 2
-# l2 = 3600
-# j1 = 0.000
-# j2 = 0.100
-# k = k1
-# i = l1
-# j = j1
-# returns = []
-# if __name__ == '__main__':
-#     while (k < k2):
-#         while (i < l2):
-#             while (j < j2):
-#                 if i > k:
-#                     if (int(np.floor(i)) % 2 == 0):
-#                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-#                     returns.append(fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=j))
-#                 if j < 0.01:
-#                     j += 0.001
-#                 else:
-#                     j *= 1.1
-#             j = j1
-#             if (i < 10):
-#                 i += 1
-#             else:
-#                 i *= 1.1
-#             if (i < 10):
-#                 i += 1
-#             else:
-#                 i *= 1.1
-#         i = l1
-#         if (k < 10):
-#             k += 1
-#         else:
-#             k *= 1.1
+opts = ['sgd', 'Adam', 'Adadelta', 'Ada']
+errs = ['mean_absolute_error', 'mean_squared_error']
+nins = [10, 20, 30, 60, 90, 120, 150, 270]
+batchs = [10, 30, 90, 150, 270, 1000]
+epochs = [10, 30, 90, 150, 270, 1000]
+
+# for i in range(len(errs)):
+#     for j in range(len(batchs)):
+#         for k in range(len(epochs)):
+#             for l in range(len(opts)):
+#                 for m in range(len(nins)):
+#                     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, fileCuml, epochs, batchs[j])
+#
+fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)
