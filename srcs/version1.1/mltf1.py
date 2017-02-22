@@ -13,6 +13,7 @@ import urllib, time, datetime
 import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
+import scipy
 
 def plot(a):
     y = np.arange(len(a))
@@ -176,7 +177,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=600, num_days=1):
+    def __init__(self, symbol, interval_seconds=600, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -216,6 +217,8 @@ def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
     file.write(str(np.mean(diff)))
     file.write("\nerror variance:\t")
     file.write(str(np.var(diff)))
+    file.write("\nerror kurtosis:\t")
+    file.write(str(scipy.stats.kurtosis(diff, fisher=True)))
     file.close()
 
 def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
@@ -234,16 +237,14 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > (len(stock) - 20):
+            if i > (len(stock) - 480):
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
-                train_size = int(len(dataset))
                 # reshape into X=t and Y=t+1
                 trainX, trainY = create_dataset(dataset, Nin)
                 # reshape input to be [samples, time steps, features]
                 trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-                dataset = np.reshape(dataset, (1, 1, dataset.shape[0]))
                 arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
@@ -252,11 +253,11 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
                 model.compile(loss= err, optimizer=opt)
                 model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
                 # make predictions
-                trainPredict = model.predict(trainX)
+                #trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
                 # invert predictions
                 arry = np.reshape(arry, (1, Nin))
-                trainPredict = scaler1.inverse_transform(trainPredict)
+                #trainPredict = scaler1.inverse_transform(trainPredict)
                 trainY = scaler1.inverse_transform([trainY])
                 predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
@@ -269,10 +270,10 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
                 #plot(trainPredict)
                 #print("predict:", predict)
 
-        print("errors:", diff)
-        print("mean error:", np.mean(diff))
-        print("error variance", np.var(diff))
-
+        # print("errors:", diff)
+        # print("mean error:", np.mean(diff))
+        # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
+        # print("error variance", np.var(diff))
 
         write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
 
@@ -309,11 +310,11 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('1985-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        for i in range(len(tick)):
-            dataset[i] = tick[i]['Close']
+        dataset = GoogleIntradayQuote(ticker[i]).close
+        # tick = yahoo_finance.Share(ticker[i]).get_historical('1985-01-02', '2017-01-01')
+        # dataset = np.zeros(len(tick))
+        # for i in range(len(tick)):
+        #     dataset[i] = tick[i]['Close']
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
