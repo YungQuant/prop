@@ -177,7 +177,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=1800, num_days=10):
+    def __init__(self, symbol, interval_seconds=600, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -213,6 +213,7 @@ def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
     file.write("\nerrors:\t")
     for i in range(len(diff) - 1):
         file.write(str(diff[i]))
+        file.write(" ")
     file.write("\nmean error:\t")
     file.write(str(np.mean(diff)))
     file.write("\nerror variance:\t")
@@ -300,7 +301,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
 
     return cuml
 
-ticker = ["AAPL"]
+ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
 fileTicker = []
 fileOutput = []
 fileCuml = []

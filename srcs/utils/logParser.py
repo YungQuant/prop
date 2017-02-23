@@ -1,11 +1,11 @@
 import os.path
-ticker = ["MNKD", "FNBC", "RTRX"]
+ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
 fileCuml = []
 best = []
 bestFiles = []
 for i, tick in enumerate(ticker):
-    fileCuml.append("../cuml/" + tick + "_cuml.txt")
-    bestFiles.append("../best/" + tick + "_best.txt")
+    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
+    bestFiles.append("../../best/" + tick + "_best.txt")
     best.append(0)
 
 for fi, file in enumerate(fileCuml):
