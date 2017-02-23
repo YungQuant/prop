@@ -1,9 +1,9 @@
 Tick:	../../data/RTRX.txt
 K in:	12
-D in:	3
+D in:	4
 K1 in:	12
 D1 in:	12
 Len:	236
 
-Cumulative Diff:	1.2381618978476103
-bitchCunt:	0.08565172570500003
+Cumulative Diff:	1.1988708463666333
+bitchCunt:	0.0

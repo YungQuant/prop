@@ -14,6 +14,8 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 import scipy
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 def plot(a):
     y = np.arange(len(a))
@@ -177,7 +179,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=600, num_days=10):
+    def __init__(self, symbol, interval_seconds=60, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -249,7 +251,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
                 arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
-                model.add(LSTM(4, input_dim=Nin))
+                model.add(LSTM(4, input_dim=Nin, consume_less='gpu'))
                 model.add(Dense(1))
                 model.compile(loss= err, optimizer=opt)
                 model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
@@ -313,15 +315,17 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = GoogleIntradayQuote(ticker[i]).close
-        # tick = yahoo_finance.Share(ticker[i]).get_historical('1985-01-02', '2017-01-01')
-        # dataset = np.zeros(len(tick))
-        # for i in range(len(tick)):
-        #     dataset[i] = tick[i]['Close']
+        #dataset = GoogleIntradayQuote(ticker[i]).close
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        i = len(tick) - 1
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
-        fileWrite.close()
 
 opts = ['sgd', 'Adam', 'Adadelta', 'Ada']
 errs = ['mean_absolute_error', 'mean_squared_error']
