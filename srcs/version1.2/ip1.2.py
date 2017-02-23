@@ -4,7 +4,7 @@ import urllib, time, datetime
 import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
-from multiprocessing import Process
+from multiprocessing import Pool
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 
@@ -367,6 +367,7 @@ for i, file in enumerate(fileTicker):
         tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         dataset = np.zeros(len(tick))
         i = len(tick) - 1
+        ik = 0
         while i >= 0:
             dataset[ik] = tick[i]['Close']
             i -= 1
@@ -379,7 +380,7 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 12
+    k1 = 1
     k2 = 1200
     l1 = 2
     l2 = 600
@@ -396,7 +397,7 @@ def run():
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.40, save_min=0.00, max_len=2000, bitchCunt=j, tradeCost=0.0005))
+                                    save_max=1.40, save_min=0.20, max_len=2000, bitchCunt=j, tradeCost=0.0005))
                 if j < 0.01:
                     j += 0.0035
                 else:
