@@ -53,7 +53,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=12):
+    def __init__(self, symbol, interval_seconds=60, num_days=13):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -101,13 +101,16 @@ def sma(data, peroid):
         data[x] = temp / peroid
     return (data)
 
-def train(data, close):
+def train(close):
     index = 0
     winner = 0
-    for i in range(30, 40):
-        answer = sma(data, i)
+    data = getinfo("TWTR")
+    for i in range(10, 500):
+        temp = list(data)
+        answer = sma(temp, i)
         temp = score(answer, close)
         print(temp)
+        print(i)
         if temp > winner:
             winner = temp
             index = i
@@ -117,23 +120,28 @@ def chartandtest(data, close):
     print(score(data, close))
     plot(data, close)
 
-tick = "SPY"
-google = []
 
-close = GoogleIntradayQuote(tick).close
-high = GoogleIntradayQuote(tick).high
-low = GoogleIntradayQuote(tick).low
-open = GoogleIntradayQuote(tick).open_
+def getinfo(tick):
+    google = []
 
-for i in range(len(close)):
-    google.append((open[i] + high[i] + close[i] + low[i]) / 4)
+    close = GoogleIntradayQuote(tick).close
+    high = GoogleIntradayQuote(tick).high
+    low = GoogleIntradayQuote(tick).low
+    open = GoogleIntradayQuote(tick).open_
+    for i in range(len(close)):
+        google.append((open[i] + high[i] + close[i] + low[i]) / 4)
+    return google
 
 start = timeit.default_timer()
 
-#stuff = train(google, close)
-chartandtest(sma(google, 150), close)
+tick = "TWTR"
+close = GoogleIntradayQuote(tick).close
+bestparamter = train(close)
 
 stop = timeit.default_timer()
 
 print("------Time--------")
 print(stop - start)
+print(bestparamter)
+
+chartandtest(sma(getinfo(tick), bestparamter), close)
