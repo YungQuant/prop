@@ -107,7 +107,7 @@ def sma(data, peroid):
     return (data)
 
 ''' This looks for the sma with the highest return '''
-''' The range parameters are the sma periods it's checking so right now it's 10 - 500'''
+''' The range parameters are the sma periods it's checking so right now it's 1 - 500'''
 def train(close, data, amount):
     index = 0
     winner = 0
@@ -140,7 +140,7 @@ def getinfo(tick):
 
 start = timeit.default_timer()
 
-''' This is what would be considered the Main. I am timing how long the test takes to run '''
+''' This is what would be considered the main. I am timing how long the test takes to run '''
 ''' Chose the tickers you want to test here. I only go back 12 days with minute data'''
 ''' numberoftest is how many periods of the sma you want to test. Right now it is testing 1 - 500 '''
 ''' On average it takes 50 seconds per ticker to run with 500 test '''
@@ -150,6 +150,8 @@ numberoftest = 500
 
 ''' So the bestparamter is the number you want to use as the period for the sma on whatever stock it was testing '''
 ''' It will print results on the standard out then graph them'''
+totaltime = 0
+winner = []
 for i, tick in enumerate(tick):
     print("------%s--------" % tick)
 
@@ -160,6 +162,17 @@ for i, tick in enumerate(tick):
 
     time = stop - start
     print("Time = %d seconds" % time)
+    totaltime += time
     print('Best period for sma = %d' % bestparamter)
-    chartandtest(sma(getinfo(tick), bestparamter), close)
+    winner.append(bestparamter)
+
+    returns = score(sma(getinfo(tick), bestparamter), close) + 1 - .5
+    print('Returns = %.5f' % returns)
     print()
+
+print('--------Total Time----------')
+print(totaltime)
+
+for i, tick in enumerate(tick):
+    close = GoogleIntradayQuote(tick).close
+    plot(sma(getinfo(tick), winner[i]), close)
