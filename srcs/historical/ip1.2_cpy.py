@@ -220,7 +220,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
 
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
         kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; kar2 = [];
-        dar2 = []; s1ar = []; s2ar = [];
+        dar2 = []; s1ar = []; s2ar = []; shortDiff = []
         stockBought = False
         stopLoss = False
         bull = 0; shit = 0; max = 0;
@@ -274,8 +274,12 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, Kin2, Din2, log, fcuml, save_min, s
             shit += 1
         for i in range(bull):
             diff.append(sell[i] - buy[i])
+            if i < bull - 1:
+                shortDiff.append(sell[i] - buy[i + 1])
         for i in range(bull):
             perc.append(diff[i] / buy[i])
+        for i in range(bull - 1):
+            perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
