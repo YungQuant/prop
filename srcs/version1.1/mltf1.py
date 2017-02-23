@@ -179,7 +179,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=60, num_days=10):
+    def __init__(self, symbol, interval_seconds=1200, num_days=10):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -233,7 +233,6 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
         f.close()
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
-
         arr = []; diff = [];
         scaler = MinMaxScaler(feature_range=(0,1))
         scaler1 = MinMaxScaler(feature_range=(0,1))
@@ -320,6 +319,7 @@ for i, file in enumerate(fileTicker):
         dataset = np.zeros(len(tick))
         i = len(tick) - 1
         while i >= 0:
+            ik = 0
             dataset[ik] = tick[i]['Close']
             i -= 1
             ik += 1
