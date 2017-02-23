@@ -1,6 +1,26 @@
--FOREX, Options Chain, and Cryptocurrency Data Scraper/Source
--Create backtest logfile parsing system to record Nth best results
--Fix/restructure multiprocessing/threading system 
+>10bp:
+
+
+5-10bp:
+
+
+4bp:
+
+
+3bp:
+  -FOREX, Options Chain, and Cryptocurrency Data Scraper/Source
+    -1bp/data type
+    
+
+2bp:
+  -Fix/restructure multiprocessing/threading system 
+
+1bp:
+    -Create backtest logfile parsing system to record Nth best results
+
+
+
+
 -Build ML-based strategy
   -Using existing keras LSTM to predict future data for existing strategies?  
   *Daily gap up/down strat w/keras is done but needs to have data normalized and inverse transformed correctly for further testing
@@ -19,5 +39,6 @@
 -Refactor fucking_paul function to be scalable. 14 paramter wtf.  
 
 -TESTING-
-  -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
+  -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and BB Strategys
+  -ip1.2 runs on SMA, EMA, RSI, Stoch, and BB Strategys
 
