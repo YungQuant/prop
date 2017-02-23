@@ -2,7 +2,6 @@ import urllib.request
 import urllib, time, datetime
 import numpy as np
 import timeit
-import yahoo_finance
 from matplotlib import pyplot as plt
 from matplotlib import patches as mpatches
 
@@ -72,16 +71,21 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
+''' Everything above is just getting data'''
+
+''' Plot function just graphs results if your into that'''
 def plot(a, b):
     y = np.arange(len(a))
     plt.plot(y, a, 'r', b, 'g')
-    plt.ylabel('Volume')
-    plt.xlabel('Time Periods')
+    plt.ylabel('Mine as well just put (Y-Axis)')
+    plt.xlabel('Mine as well just put (X-Axis)')
     plt.title('This would tell people what the fuck this graph is')
-    green = mpatches.Patch(color='green', label='This tells you what the fuck the line is')
-    plt.legend(handles=[green])
+    green = mpatches.Patch(color='green', label='This tells you what the fuck this line is')
+    red = mpatches.Patch(color='red', label='This tells you what the fuck this line is')
+    plt.legend(handles=[green, red])
     plt.show()
 
+''' Score takes how often the SMA was above the close data'''
 def score(data, close):
     count = 0
     total = 0
@@ -92,6 +96,7 @@ def score(data, close):
     score = count / total
     return score
 
+'''Returns an array of what the SMA would be for the whole data set'''
 def sma(data, peroid):
     temp = 0
     for x in range(len(data) - peroid):
@@ -101,26 +106,27 @@ def sma(data, peroid):
         data[x] = temp / peroid
     return (data)
 
-def train(close):
+''' This looks for the sma with the highest return '''
+''' The range parameters are the sma periods it's checking so right now it's 10 - 500'''
+def train(close, data, amount):
     index = 0
     winner = 0
-    data = getinfo("TWTR")
-    for i in range(10, 500):
+    for i in range(1, amount):
         temp = list(data)
         answer = sma(temp, i)
         temp = score(answer, close)
-        print(temp)
-        print(i)
         if temp > winner:
             winner = temp
             index = i
     return index
 
+''' This charts the sma and ticker along with the return on it '''
 def chartandtest(data, close):
-    print(score(data, close))
+    returns = score(data, close) + 1 - .5
+    print('Returns = %.5f' % returns)
     plot(data, close)
 
-
+''' Here I'm getting the O H L C and smoothing them before I run the SMA '''
 def getinfo(tick):
     google = []
 
@@ -134,14 +140,26 @@ def getinfo(tick):
 
 start = timeit.default_timer()
 
-tick = "TWTR"
-close = GoogleIntradayQuote(tick).close
-bestparamter = train(close)
+''' This is what would be considered the Main. I am timing how long the test takes to run '''
+''' Chose the tickers you want to test here. I only go back 12 days with minute data'''
+''' numberoftest is how many periods of the sma you want to test. Right now it is testing 1 - 500 '''
+''' On average it takes 50 seconds per ticker to run with 500 test '''
 
-stop = timeit.default_timer()
+tick = ["GOOG", "TWTR"]
+numberoftest = 500
 
-print("------Time--------")
-print(stop - start)
-print(bestparamter)
+''' So the bestparamter is the number you want to use as the period for the sma on whatever stock it was testing '''
+''' It will print results on the standard out then graph them'''
+for i, tick in enumerate(tick):
+    print("------%s--------" % tick)
 
-chartandtest(sma(getinfo(tick), bestparamter), close)
+    start = timeit.default_timer()
+    close = GoogleIntradayQuote(tick).close
+    bestparamter = train(close, getinfo(tick), numberoftest)
+    stop = timeit.default_timer()
+
+    time = stop - start
+    print("Time = %d seconds" % time)
+    print('Best period for sma = %d' % bestparamter)
+    chartandtest(sma(getinfo(tick), bestparamter), close)
+    print()
