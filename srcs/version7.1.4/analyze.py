@@ -11,12 +11,13 @@ tick = "SPY"
 close = data.GoogleIntradayQuote(tick).close
 #volume = data.GoogleIntradayQuote(tick).volume
 
-SMA = indica.sma(close, 10)
-EMA = indica.ema(close, 25)
+# SMA = indica.sma(close, 10)
+# EMA = indica.ema(close, 25)
+RSI = indica.rsi(close, 60)
 # STOCH = indica.stoch(close, 50)
 # OBV = indica.obv(close, volume)
 
-graph.plot(EMA, SMA)
+graph.plot(RSI, RSI)
 
 # for i in range(len(close)):
 #     print(STOCH)

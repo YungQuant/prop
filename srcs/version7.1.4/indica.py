@@ -32,7 +32,27 @@ def stoch(data, period):
         answer.append(((data[x] - ll) / (hh - ll) * 100))
     return (answer)
 
+'''major room for speed up'''
+
+def rsi(data, period):
+    answer = []
+    for i in range(len(data) - period):
+        gain = 0.00
+        loss = 0.00
+        for x in range(i, i + period - 1):
+            change = data[x + 1] - data[x]
+            if change > 0:
+                gain += change
+            else:
+                loss -= change
+        gain /= period
+        loss /= period
+        rs = gain / loss
+        answer.append(100 - (100 / (1 + rs)))
+    return (answer)
+
 def obv(data, volume):
+    answer = []
     change = []
     for i in range(len(data) - 1):
         if data[i] < data[i + 1]:
@@ -44,4 +64,5 @@ def obv(data, volume):
             volume[z] += volume[z + 1]
         else:
             volume[z] -= volume[z + 1]
-    return (volume)
+        answer.append(volume[z])
+    return (answer)
