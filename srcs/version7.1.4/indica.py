@@ -33,7 +33,6 @@ def stoch(data, period):
     return (answer)
 
 '''major room for speed up'''
-
 def rsi(data, period):
     answer = []
     for i in range(len(data) - period):
@@ -53,16 +52,10 @@ def rsi(data, period):
 
 def obv(data, volume):
     answer = []
-    change = []
-    for i in range(len(data) - 1):
+    for i in range(len(data) - 2):
         if data[i] < data[i + 1]:
-           change.append(1)
+            volume[i] += volume[i + 1]
         else:
-            change.append(-1)
-    for z in range(len(data) - 1):
-        if change[z] == 1:
-            volume[z] += volume[z + 1]
-        else:
-            volume[z] -= volume[z + 1]
-        answer.append(volume[z])
+            volume[i] -= volume[i + 1]
+        answer.append(volume[i])
     return (answer)
