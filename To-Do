@@ -1,23 +1,42 @@
--FOREX, Options Chain, and Cryptocurrency Data Scraper/Source
--Create backtest logfile parsing system to record Nth best results
--Fix/restructure multiprocessing/threading system 
--Build ML-based strategy
-  -Using existing keras LSTM to predict future data for existing strategies?  
-  *Daily gap up/down strat w/keras is done but needs to have data normalized and inverse transformed correctly for further testing
--Build overarching ML framework
--BB Convergence based Strategy
--AUTOSELL variable?
--Environment Filter conceptualization and implementation
--HigherHigh/LowerLow strategy
--Straddle/Strangle Options strategy
--Intrisic Value Sentiment Analysis strategy for cryptocurrencies
+>10bp:
+    -Any, and every, independantly developed strategy included in the beta run of ip1.n will be evaluated for its impact 
+        on the beta phase profits. 
+        -Up to 30bp will be remited to the developer(s) of the strategy
+    
+    -Any, and every, independantly developed strategy included in the alpha run of iaN.N, daN.N, or any other independant
+        trading algorithm, will be evaluated for its impact on the alpha phase profits.
+        -Up to 300bp will be remited to the developer(s) of the strategy
 
--Check how accurate stuff is (# correct test / total test)
--Organize
--Update README.md
--Hadoop
--Refactor fucking_paul function to be scalable. 14 paramter wtf.  
+  
+5-10bp:
+    -Build overarching ML framework
+       -7bp w/o data sources, 10bp w/data sources
+    -Intrisic Value -and/or- Sentiment Analysis -or- Arbitrage strategy and Implementation for Cryptocurrencies
+       -7bp w/o data sources, 10bp w/data sources
+
+4bp:
+    -Environment Filter conceptualization and implementation
+       -3bp w/o data sources, 4bp w/data sources
+
+3bp:
+    -FOREX, Options Chain, and Cryptocurrency Data Scraper/Source
+       -1bp/data type
+    
+
+2bp:
+    -Fix/restructure multiprocessing/threading system 
+    -Build ML-based strategy using existing keras model to predict future data -or- parameters for existing strategies
+1bp:
+    -Create backtest logfile parsing system to record Nth best results
+    -BB Convergence based Strategy
+    -HigherHigh/LowerLow strategy
+    -Straddle/Strangle Options strategy
+    -Organize Everything, Update README.md
+  
 
 -TESTING-
-  -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and Wilders smoothing Strategys
+  #BP'S ONLY COUNTED IF BACKTEST RESULTS ARE VALID AND ACCURATE AND AN INDENTICAL BACKTEST HAS NOT ALREADY BEEN LOGGED
+  -0.2bp per cuml dir for 10d.intraday w/1min fidelity -or- 0.05bp per year for Ny.daily w/1day fidelity
+    -ch/ip1.1 reruns on SMA, EMA, RSI, Stoch, and BB Strategys
+    -ip1.2 runs on SMA, EMA, RSI, Stoch, and BB Strategys
 
