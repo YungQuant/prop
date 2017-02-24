@@ -1,9 +1,0 @@
-Tick:	../../data/FNBC.txt
-K in:	35
-D in:	9
-K1 in:	35
-D1 in:	35
-Len:	25
-
-Cumulative Diff:	3.2335708017586255
-bitchCunt:	0.01365

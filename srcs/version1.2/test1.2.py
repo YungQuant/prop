@@ -5,7 +5,6 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
-import mpi4py
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 
@@ -261,7 +260,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
         with open(tik, 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[-int(len(stock1)/100):]):
+        for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
 
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
@@ -352,20 +351,41 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
 
     return cuml
 
-ticker = ["GBPJPY", "EURNZD"]
-fileOutput = []; fileCuml = []; fileTicker = [];
+ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+fileTicker = []
+fileOutput = []
+fileCuml = []
+dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../FXstatic_data/" + tick + ".2016.csv")
-    fileOutput.append("../../FXoutput/" + tick + "_output.txt")
-    fileCuml.append("../../FXcuml/" + tick + "_cuml.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_output.txt")
+    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
+for i, file in enumerate(fileTicker):
+    if (os.path.isfile(file) == False):
+        fileWrite = open(file, 'w')
+        #dataset = GoogleIntradayQuote(ticker[i]).close
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        i = len(tick) - 1
+        ik = 0
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
+        for i, close in enumerate(dataset):
+            fileWrite.write(str(close))
+            fileWrite.write('\n')
+
+#fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
+
 
 def run():
-    k1 = 20
-    k2 = 200
+    k1 = 1
+    k2 = 1200
     l1 = 2
-    l2 = 30
+    l2 = 600
     j1 = 0.000
-    j2 = 0.03
+    j2 = 0.1
     k = k1
     i = l1
     j = j1
@@ -376,10 +396,10 @@ def run():
                 if i < k:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.30, save_min=0.20, max_len=20000, bitchCunt=j, tradeCost=0.0005)
+                    returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
+                                    save_max=1.40, save_min=0.20, max_len=2000, bitchCunt=j, tradeCost=0.0005))
                 if j < 0.01:
-                    j += 0.002
+                    j += 0.0035
                 else:
                     j *= 1.3
             j = j1
@@ -392,7 +412,7 @@ def run():
             k += 1
         else:
             k *= 1.2
-
+    return (returns)
 
 run()
 

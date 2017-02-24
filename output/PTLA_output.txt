@@ -1,9 +1,0 @@
-Tick:	../../data/PTLA.txt
-K in:	35
-D in:	9
-K1 in:	35
-D1 in:	35
-Len:	36
-
-Cumulative Diff:	0.8626189596354359
-bitchCunt:	0.0105

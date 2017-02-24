@@ -240,7 +240,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > (Nin * 100):
+            if i > len(stock) - Nin * 1:
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
@@ -256,7 +256,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 model.add(LSTM(4, input_dim=Nin))
                 model.add(Dense(1))
                 model.compile(loss='mean_absolute_error', optimizer='Adam')
-                model.fit(trainX, trainY, nb_epoch=420, batch_size=10, verbose=0)
+                model.fit(trainX, trainY, nb_epoch=42, batch_size=10, verbose=0)
                 # make predictions
                 trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
@@ -328,29 +328,29 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 f.close()
                 f1.close()
 
-ticker = ["AAPL"]
-fileTicker = []
+ticker = ["FX"]
+fileTicker = ["../../FXstatic_data/GBPJPY.2016.csv", "../../FXstatic_data/EURNZD.2016.csv"]
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
+    #fileTicker.append("../../data/" + tick + ".txt")
     fileOutput.append("../../output/" + tick + "_output.txt")
     fileCuml.append("../../cuml/" + tick + "_cuml.txt")
-for i, file in enumerate(fileTicker):
-    if (os.path.isfile(file) == False):
-        fileWrite = open(file, 'w')
-        #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        i = len(tick) - 1
-        while i >= 0:
-            dataset[ik] = tick[i]['Close']
-            i -= 1
-            ik += 1
-        for i, close in enumerate(dataset):
-            fileWrite.write(str(close))
-            fileWrite.write('\n')
+# for i, file in enumerate(fileTicker):
+#     if (os.path.isfile(file) == False):
+#         fileWrite = open(file, 'w')
+#         dataset = GoogleIntradayQuote(ticker[i]).close
+#         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+#         # dataset = np.zeros(len(tick))
+#         # i = len(tick) - 1
+#         # while i >= 0:
+#         #     dataset[ik] = tick[i]['Close']
+#         #     i -= 1
+#         #     ik += 1
+#         for i, close in enumerate(dataset):
+#             fileWrite.write(str(close))
+#             fileWrite.write('\n')
 
 fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)
 # k1 = 1

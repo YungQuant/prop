@@ -1,9 +1,0 @@
-Tick:	../../data/RICE.txt
-K in:	35
-D in:	9
-K1 in:	35
-D1 in:	35
-Len:	35
-
-Cumulative Diff:	0.8315555682951653
-bitchCunt:	0.01365
