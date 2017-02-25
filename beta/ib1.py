@@ -8,7 +8,7 @@ from multiprocessing import Pool
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 
-class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
+class paul(dataPath, Kin, max_len, bitchCunt, tradeCost):
 
     def plot(a):
         y = np.arange(len(a))
@@ -48,9 +48,8 @@ class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
     def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
         n = int(np.floor(n))
         cpy = a[-n:]
-        l = len(cpy)
         lc, gc, la, ga = 0.01
-        for i in range(1, l):
+        for i in range(1, n):
             if a[i] < a[i - 1]:
                 lc += 1
                 la += a[i - 1] - a[i]
@@ -220,7 +219,7 @@ class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
                 self.append(dt, open_, high, low, close, volume)
 
 
-    def fucking_paul(tick, Kin, max_len, bitchCunt, tradeCost):
+    def stochBB12001(tick, Kin, Din, max_len, bitchCunt, tradeCost):
         cuml = []
         for j, tik in enumerate(tick):
             stock = []
@@ -244,18 +243,12 @@ class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
                 if i >= int(Kin):
                         Kv = stochK(arr, int(np.floor(Kin)))
                         kar.append(Kv)
-                        Dv = stochD(arr, int(np.floor(Kin)), int(np.floor(Kin)))
+                        Dv = stochD(arr, int(np.floor(Din)), int(np.floor(Kin)))
                         dar.append(Dv)
                         Kv1 = bbK(arr, int(np.floor(Kin)))
                         kar1.append(Kv1)
                         Dv1 = bbD(arr, int(np.floor(Kin)))
                         dar1.append(Dv1)
-                        # Kv2 = SMAn(arr, Kin2)
-                        # kar2.append(Kv2)
-                        # Dv2 = SMAn(arr, Din2)
-                        # dar2.append(Dv2)
-                        # Kvl = scaler.fit_transform(Kvl)
-                        # Dvl = scaler.fit_transform(Dvl)
                         s1 = (Kv + Kv1) / 2
                         s2 = (Dv + Dv1) / 2
                         s1ar.append(s1)
@@ -295,15 +288,152 @@ class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
                 cumld.append(cuml)
 
             if len(perc) <= max_len:
-                params = [Kin, max_len, bitchCunt, tradeCost]
+                params = [Kin, Din, max_len, bitchCunt, tradeCost]
                 return cuml[j], "stochBB12001", params
 
+    def smaBB12001(tick, Kin, Din, max_len, bitchCunt, tradeCost):
+        cuml = []
+        for j, tik in enumerate(tick):
+            stock = []
+            with open(tik, 'r') as f:
+                stock1 = f.readlines()
+            f.close()
+            for i, stocks in enumerate(stock1):
+                stock.append(float(stocks))
 
+            arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
+            kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2);
+            Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []
+            stockBought = False
+            stopLoss = False
+            bull = 0; shit = 0; max = 0;
+            cuml.append(1)
 
+            for i, closeData in enumerate(stock):
+                arr.append(closeData)
+                scaler = MinMaxScaler(feature_range=(0, 1))
+                if i >= int(Kin):
+                        Kv = SMAn(arr, int(np.floor(Kin)))
+                        kar.append(Kv)
+                        Dv = SMAn(arr, int(np.floor(Din)))
+                        dar.append(Dv)
+                        Kv1 = bbK(arr, int(np.floor(Kin)))
+                        kar1.append(Kv1)
+                        Dv1 = bbD(arr, int(np.floor(Kin)))
+                        dar1.append(Dv1)
+                        s1 = (Kv + Kv1) / 2
+                        s2 = (Dv + Dv1) / 2
+                        s1ar.append(s1)
+                        s2ar.append(s2)
+                        if stockBought == True and closeData > max:
+                            max = closeData
+                        if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                            buy.append(closeData * (1-tradeCost))
+                            bull += 1
+                            stockBought = True
+                        elif ((s1 < s2) and stockBought == True):
+                            sell.append(closeData * (1+tradeCost))
+                            max = 0
+                            shit += 1
+                            stockBought = False
+                        elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
+                            sell.append(closeData * (1+tradeCost))
+                            max = 0
+                            shit += 1
+                            stockBought = False
+                            stopLoss = True
+                        elif ((s1 < s2) and stopLoss == True):
+                            stopLoss = False
+            if stockBought == True:
+                sell.append(stock[len(stock)-1])
+                shit += 1
+            for i in range(bull):
+                diff.append(sell[i] - buy[i])
+                if i < bull - 1:
+                    shortDiff.append(sell[i] - buy[i + 1])
+            for i in range(bull):
+                perc.append(diff[i] / buy[i])
+            for i in range(bull - 1):
+                perc[i] += shortDiff[i] / sell[i]
+            for i in range(bull):
+                cuml[j] = cuml[j] + (cuml[j] * perc[i])
+                cumld.append(cuml)
 
+            if len(perc) <= max_len:
+                params = [Kin, Din, max_len, bitchCunt, tradeCost]
+                return cuml[j], "smaBB12001", params
 
+    def rsiBB12001(tick, Kin, Din, max_len, bitchCunt, tradeCost):
+        cuml = []
+        for j, tik in enumerate(tick):
+            stock = []
+            with open(tik, 'r') as f:
+                stock1 = f.readlines()
+            f.close()
+            for i, stocks in enumerate(stock1):
+                stock.append(float(stocks))
 
+            arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
+            kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2);
+            Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []
+            stockBought = False
+            stopLoss = False
+            bull = 0; shit = 0; max = 0;
+            cuml.append(1)
 
+            for i, closeData in enumerate(stock):
+                arr.append(closeData)
+                scaler = MinMaxScaler(feature_range=(0, 1))
+                if i >= int(Kin):
+                        Kv = rsiN(arr, int(np.floor(Kin)))
+                        kar.append(Kv)
+                        Dv = SMAn(kar, int(np.floor(Din)))
+                        dar.append(Dv)
+                        Kv1 = bbK(arr, int(np.floor(Kin)))
+                        kar1.append(Kv1)
+                        Dv1 = bbD(arr, int(np.floor(Kin)))
+                        dar1.append(Dv1)
+                        s1 = (Kv + Kv1) / 2
+                        s2 = (Dv + Dv1) / 2
+                        s1ar.append(s1)
+                        s2ar.append(s2)
+                        if stockBought == True and closeData > max:
+                            max = closeData
+                        if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                            buy.append(closeData * (1-tradeCost))
+                            bull += 1
+                            stockBought = True
+                        elif ((s1 < s2) and stockBought == True):
+                            sell.append(closeData * (1+tradeCost))
+                            max = 0
+                            shit += 1
+                            stockBought = False
+                        elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
+                            sell.append(closeData * (1+tradeCost))
+                            max = 0
+                            shit += 1
+                            stockBought = False
+                            stopLoss = True
+                        elif ((s1 < s2) and stopLoss == True):
+                            stopLoss = False
+            if stockBought == True:
+                sell.append(stock[len(stock)-1])
+                shit += 1
+            for i in range(bull):
+                diff.append(sell[i] - buy[i])
+                if i < bull - 1:
+                    shortDiff.append(sell[i] - buy[i + 1])
+            for i in range(bull):
+                perc.append(diff[i] / buy[i])
+            for i in range(bull - 1):
+                perc[i] += shortDiff[i] / sell[i]
+            for i in range(bull):
+                cuml[j] = cuml[j] + (cuml[j] * perc[i])
+                cumld.append(cuml)
+
+            if len(perc) <= max_len:
+                params = [Kin, Din, max_len, bitchCunt, tradeCost]
+                return cuml[j], "rsiBB12001", params
 
 
 
@@ -312,9 +442,7 @@ class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
 class tests():
 
     def test1(dataPath, range1, range2, range3, max_len):
-        config1 = stochBB12001()
-        config2 =
-        config3 =
+        config1 = paul()
         commisions = 0.0005;
         returns = []; best = [0,0,0]
         k, i, j = k1, l1, j1 = 1
@@ -325,9 +453,9 @@ class tests():
             while (i < l2):
                 while (j < j2):
                     if i < k and (i > 0 and k > 0):
-                        tmp11, tmp12, tmp13 = config1.fucking_paul(dataPath, k, max_len, j, commisions)
-                        tmp21, tmp22, tmp23 = config2.fucking_paul(dataPath, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
-                        tmp31, tmp32, tmp33 = config1(dataPath, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
+                        tmp11, tmp12, tmp13 = config1.stochBB12001(dataPath, k, i, max_len, j, commisions)
+                        tmp21, tmp22, tmp23 = config1.smaBB12001(dataPath, k, i, max_len, j, commisions)
+                        tmp31, tmp32, tmp33 = config1.rsiBB12001(dataPath, k, i, max_len, j, commisions)
                         if tmp11 > best[0]:
                             best = [tmp11, tmp12, tmp13]
                         elif tmp21 > best[0]:
@@ -335,49 +463,6 @@ class tests():
                         elif tmp31 > best[0]:
                             best = [tmp31, tmp32, tmp33]
 
-
-                    if j < 0.01:
-                        j += 0.0035
-                    else:
-                        j *= 1.3
-                j = j1
-                if (i < 10):
-                    i += 1
-                else:
-                    i *= 1.3
-            i = l1
-            if (k < 10):
-                k += 1
-            else:
-                k *= 1.2
-        return (returns)
-
-    def test2(dataPath, range1, range2, range3, max_len):
-        config1 = stochBB12001()
-        config2 =
-        config3 =
-        commisions = 0.0005;
-        returns = [];
-        best = np.zeros(3)
-        k, i, j = k1, l1, j1 = 1
-        k2 = range1
-        l2 = range2
-        j2 = range3
-        while (k < k2):
-            while (i < l2):
-                while (j < j2):
-                    if i < k and (i > 0 and k > 0):
-                        tmp11, tmp12, tmp13 = config1.fucking_paul(dataPath, k, max_len, j, commisions)
-                        tmp21, tmp22, tmp23 = config2.fucking_paul(dataPath, k, max_len=2000, bitchCunt=j,
-                                                                   tradeCost=commisions)
-                        tmp31, tmp32, tmp33 = config1(dataPath, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
-                        for i, curr in enumerate(best):
-                            if tmp11 > curr[0]:
-                                best[i] = [tmp11, tmp12, tmp13]
-                            elif tmp21 > curr[0]:
-                                best[i] = [tmp21, tmp22, tmp23]
-                            elif tmp31 > curr[0]:
-                                best[i] = [tmp31, tmp32, tmp33]
 
                     if j < 0.01:
                         j += 0.0035
