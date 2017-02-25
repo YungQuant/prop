@@ -277,7 +277,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             if i >= int(Din) and i >= int(Kin):
                     Kv = stochK(arr, int(np.floor(Kin)))
                     kar.append(Kv)
-                    Dv = stochD(arr, int(np.floor(Kin)), int(np.floor(Kin)))
+                    Dv = stochD(arr, int(np.floor(Din)), int(np.floor(Kin)))
                     dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
                     kar1.append(Kv1)
@@ -296,16 +296,16 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
-                        buy.append(closeData * (1-tradeCost))
+                        buy.append(closeData * (1+tradeCost))
                         bull += 1
                         stockBought = True
                     elif ((s1 < s2) and stockBought == True):
-                        sell.append(closeData * (1+tradeCost))
+                        sell.append(closeData * (1-tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False
                     elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData * (1+tradeCost))
+                        sell.append(closeData * (1-tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False
@@ -328,8 +328,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             cumld.append(cuml)
 
         write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
-        #plot(perc)
-        #plot2(s1ar, s2ar)
+        plot(perc)
+        plot2(s1ar, s2ar)
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -363,15 +363,15 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        i = len(tick) - 1
-        ik = 0
-        while i >= 0:
-            dataset[ik] = tick[i]['Close']
-            i -= 1
-            ik += 1
+        dataset = GoogleIntradayQuote(ticker[i]).close
+        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        # dataset = np.zeros(len(tick))
+        # i = len(tick) - 1
+        # ik = 0
+        # while i >= 0:
+        #     dataset[ik] = tick[i]['Close']
+        #     i -= 1
+        #     ik += 10
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
@@ -415,6 +415,7 @@ def run():
     return (returns)
 
 run()
+
 
 
 
