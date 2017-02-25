@@ -17,7 +17,9 @@
 4bp:
     -Environment Filter conceptualization and implementation
        -3bp w/o data sources, 4bp w/data sources
-
+    -Position entry system
+       -must account for slippage and market impact
+    
 3bp:
     -Build ML-based strategy using existing keras model to predict future data -or- parameters for existing strategies 
 
