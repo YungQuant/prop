@@ -295,51 +295,102 @@ class stochBB12001(dataPath, Kin, max_len, bitchCunt, tradeCost):
                 cumld.append(cuml)
 
             if len(perc) <= max_len:
-                return cuml[j]
-
-    def __repr__(self, dataPath, Kin, max_len, bitchCunt, tradeCost):
-        params = [Kin, max_len, bitchCunt, tradeCost]
-        return self.fucking_paul(dataPath, Kin, max_len, bitchCunt, tradeCost), "stochBB12001", params
+                params = [Kin, max_len, bitchCunt, tradeCost]
+                return cuml[j], "stochBB12001", params
 
 
-def test(dataPath, range1, range2, range3):
-    config1 = stochBB12001()
-    config2 =
-    config3 =
-    commisions = 0.0005
-    returns = []; best = np.zeros(3)
-    k, i, j = k1, l1, j1 = 1
-    k2 = range1
-    l2 = range2
-    j2 = range3
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i < k and (i > 0 and k > 0):
-                    tmp11, tmp12, tmp13 = config1(dataPath, k, i, k, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
-                    tmp21, tmp22, tmp23 = config2(dataPath, k, i, k, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
-                    tmp31, tmp32, tmp33 = config1(dataPath, k, i, k, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
-                    for i, curr in enumerate(best):
-                        if tmp11 > curr[0]:
-                            best[i] = [tmp11, tmp12, tmp13]
-                        elif tmp21 > curr[0]:
-                            best[i] = [tmp21, tmp22, tmp23]
-                        elif tmp31 > curr[0]:
-                            best[i] = [tmp31, tmp32, tmp33]
 
 
-                if j < 0.01:
-                    j += 0.0035
+
+
+
+
+
+
+
+
+class tests():
+
+    def test1(dataPath, range1, range2, range3, max_len):
+        config1 = stochBB12001()
+        config2 =
+        config3 =
+        commisions = 0.0005;
+        returns = []; best = [0,0,0]
+        k, i, j = k1, l1, j1 = 1
+        k2 = range1
+        l2 = range2
+        j2 = range3
+        while (k < k2):
+            while (i < l2):
+                while (j < j2):
+                    if i < k and (i > 0 and k > 0):
+                        tmp11, tmp12, tmp13 = config1.fucking_paul(dataPath, k, max_len, j, commisions)
+                        tmp21, tmp22, tmp23 = config2.fucking_paul(dataPath, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
+                        tmp31, tmp32, tmp33 = config1(dataPath, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
+                        if tmp11 > best[0]:
+                            best = [tmp11, tmp12, tmp13]
+                        elif tmp21 > best[0]:
+                            best = [tmp21, tmp22, tmp23]
+                        elif tmp31 > best[0]:
+                            best = [tmp31, tmp32, tmp33]
+
+
+                    if j < 0.01:
+                        j += 0.0035
+                    else:
+                        j *= 1.3
+                j = j1
+                if (i < 10):
+                    i += 1
                 else:
-                    j *= 1.3
-            j = j1
-            if (i < 10):
-                i += 1
+                    i *= 1.3
+            i = l1
+            if (k < 10):
+                k += 1
             else:
-                i *= 1.3
-        i = l1
-        if (k < 10):
-            k += 1
-        else:
-            k *= 1.2
-    return (returns)
+                k *= 1.2
+        return (returns)
+
+    def test2(dataPath, range1, range2, range3, max_len):
+        config1 = stochBB12001()
+        config2 =
+        config3 =
+        commisions = 0.0005;
+        returns = [];
+        best = np.zeros(3)
+        k, i, j = k1, l1, j1 = 1
+        k2 = range1
+        l2 = range2
+        j2 = range3
+        while (k < k2):
+            while (i < l2):
+                while (j < j2):
+                    if i < k and (i > 0 and k > 0):
+                        tmp11, tmp12, tmp13 = config1.fucking_paul(dataPath, k, max_len, j, commisions)
+                        tmp21, tmp22, tmp23 = config2.fucking_paul(dataPath, k, max_len=2000, bitchCunt=j,
+                                                                   tradeCost=commisions)
+                        tmp31, tmp32, tmp33 = config1(dataPath, k, max_len=2000, bitchCunt=j, tradeCost=commisions)
+                        for i, curr in enumerate(best):
+                            if tmp11 > curr[0]:
+                                best[i] = [tmp11, tmp12, tmp13]
+                            elif tmp21 > curr[0]:
+                                best[i] = [tmp21, tmp22, tmp23]
+                            elif tmp31 > curr[0]:
+                                best[i] = [tmp31, tmp32, tmp33]
+
+                    if j < 0.01:
+                        j += 0.0035
+                    else:
+                        j *= 1.3
+                j = j1
+                if (i < 10):
+                    i += 1
+                else:
+                    i *= 1.3
+            i = l1
+            if (k < 10):
+                k += 1
+            else:
+                k *= 1.2
+        return (returns)

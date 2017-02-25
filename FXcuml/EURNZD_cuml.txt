@@ -12897,3 +12897,10083 @@ Len:	283
 
 Cumulative Diff:	1.714522032927729
 bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	5
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	6
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	7
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	8
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	9
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	10
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	13
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	16
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	21
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.714522032927729
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7155241136913553
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	34
+D in:	28
+K1 in:	34
+D1 in:	34
+Len:	283
+
+Cumulative Diff:	1.7177848571688394
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	2
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	3
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	4
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	5
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	6
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	7
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	8
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	9
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	10
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	13
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	16
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	21
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.620938944100061
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6154674283664245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	41
+D in:	28
+K1 in:	41
+D1 in:	41
+Len:	255
+
+Cumulative Diff:	1.6208757267559644
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	2
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	3
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	4
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	5
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	6
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	7
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	8
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	9
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	10
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	13
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	16
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	21
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.576244799516935
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5658612254618245
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	49
+D in:	28
+K1 in:	49
+D1 in:	49
+Len:	237
+
+Cumulative Diff:	1.5741066673900534
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	2
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	3
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	4
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	5
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	6
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	7
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	8
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	9
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	10
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	13
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	16
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	21
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5642231021060802
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5655976364957533
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	59
+D in:	28
+K1 in:	59
+D1 in:	59
+Len:	232
+
+Cumulative Diff:	1.5674106284056948
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	2
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	3
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	4
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	5
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	6
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	7
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	8
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	9
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	10
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	13
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	16
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	21
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4678292623463818
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4819998393546892
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	71
+D in:	28
+K1 in:	71
+D1 in:	71
+Len:	204
+
+Cumulative Diff:	1.4834985870205246
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	2
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	3
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	4
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	5
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	6
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	7
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	8
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	9
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	10
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	13
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	16
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	21
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5060380940986415
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.5296111082292898
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.526390320942748
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	85
+D in:	28
+K1 in:	85
+D1 in:	85
+Len:	216
+
+Cumulative Diff:	1.530530708239843
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	2
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	3
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	4
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	5
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	6
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	7
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	8
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	9
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	10
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	13
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	16
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	21
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.3911239602508687
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4308680281174702
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.4369502703231005
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.433930360618913
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	103
+D in:	28
+K1 in:	103
+D1 in:	103
+Len:	176
+
+Cumulative Diff:	1.435224997739783
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	2
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	3
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	4
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	5
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	6
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	7
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	8
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	9
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	10
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	13
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	16
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	21
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.43663333226984
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4619313468264314
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4645153466298777
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4614358239443483
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/EURNZD.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	187
+
+Cumulative Diff:	1.4627560175084615
+bitchCunt:	0.021970000000000003
