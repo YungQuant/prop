@@ -19,6 +19,8 @@
        -3bp w/o data sources, 4bp w/data sources
     -Position entry system
        -must account for slippage and market impact
+    -Fix/restructure multiprocessing/threading system for all ip, fip, and ib variants
+       -1bp/file
     
 3bp:
     -Build ML-based strategy using existing keras model to predict future data -or- parameters for existing strategies 
@@ -26,7 +28,7 @@
 2bp:
     -Options Chain, and Cryptocurrency Data Scraper/Source
        -1bp/data type
-    -Fix/restructure multiprocessing/threading system 
+
    
 1bp:
     -Finish logParser.py

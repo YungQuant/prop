@@ -45977,3 +45977,483 @@ Len:	183
 
 Cumulative Diff:	1.4407640049758614
 bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	183
+
+Cumulative Diff:	1.4407640049758614
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	123
+D in:	28
+K1 in:	123
+D1 in:	123
+Len:	183
+
+Cumulative Diff:	1.4407640049758614
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3861623092236055
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3861623092236055
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3598221018410408
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3598221018410408
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	2
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3861623092236055
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3861623092236055
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3598221018410408
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3598221018410408
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.006
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.008
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.01
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.013000000000000001
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.016900000000000002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.021970000000000003
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	3
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.028561000000000007
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	4
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3861623092236055
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	4
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3861623092236055
+bitchCunt:	0.0
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	4
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3598221018410408
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	4
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3598221018410408
+bitchCunt:	0.002
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	4
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.004
+
+Tick:	../../FXstatic_data/GBPJPY.2016.csv
+K in:	148
+D in:	4
+K1 in:	148
+D1 in:	148
+Len:	166
+
+Cumulative Diff:	1.3784212863647145
+bitchCunt:	0.004
