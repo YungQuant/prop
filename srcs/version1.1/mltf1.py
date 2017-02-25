@@ -239,7 +239,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > (len(stock) - 15):
+            if i > (len(stock) - 10):
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 dataset = scaler1.fit_transform(arr)
@@ -250,7 +250,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
                 arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
-                model.add(LSTM(4, input_dim=Nin, consume_less='gpu'))
+                model.add(LSTM(4, input_dim=Nin))
                 model.add(Dense(1))
                 model.compile(loss= err, optimizer=opt)
                 model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
@@ -302,7 +302,7 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
 
     return cuml
 
-ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+ticker = ["MNKD", "RICE", "FNBC", "RTRX"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -327,7 +327,7 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-opts = ['sgd', 'Adam', 'Adadelta', 'Ada']
+opts = ['sgd', 'Adam', 'Adadelta']
 errs = ['mean_absolute_error', 'mean_squared_error']
 nins = [10, 20, 30, 60]
 batchs = [10, 30, 90, 150, 270, 1000]

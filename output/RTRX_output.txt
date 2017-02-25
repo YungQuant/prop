@@ -1,0 +1,10 @@
+Tick:	../../data/RTRX.txt
+N in:	10
+numBatch:	10
+numEpoch:	10
+errorCalc:mean_absolute_error
+opt:	Adam
+errors:	
+mean error:	nan
+error variance:	nan
+error kurtosis:	nan
