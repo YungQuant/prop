@@ -277,7 +277,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             if i >= int(Din) and i >= int(Kin):
                     Kv = stochK(arr, int(np.floor(Kin)))
                     kar.append(Kv)
-                    Dv = stochD(arr, int(np.floor(Din)), int(np.floor(Kin)))
+                    Dv = SMAn(kar, int(np.floor(Din)))
                     dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
                     kar1.append(Kv1)
@@ -328,8 +328,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             cumld.append(cuml)
 
         write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
-        plot(perc)
-        plot2(s1ar, s2ar)
+        # plot(perc)
+        # plot2(s1ar, s2ar)
 
         for i, cum in enumerate(cuml):
             if (cum > save_max or cum < save_min and len(perc) <= max_len):
@@ -381,11 +381,11 @@ for i, file in enumerate(fileTicker):
 
 def run():
     k1 = 1
-    k2 = 1200
+    k2 = 1000
     l1 = 2
     l2 = 30
     j1 = 0.000
-    j2 = 0.1
+    j2 = 0.05
     k = k1
     i = l1
     j = j1
@@ -397,7 +397,7 @@ def run():
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.40, save_min=0.20, max_len=2000, bitchCunt=j, tradeCost=0.0005))
+                                    save_max=1.01, save_min=0.0001, max_len=1000, bitchCunt=j, tradeCost=0.0005))
                 if j < 0.01:
                     j += 0.0035
                 else:

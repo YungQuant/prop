@@ -243,7 +243,7 @@ class paul(dataPath, Kin, max_len, bitchCunt, tradeCost):
                 if i >= int(Kin):
                         Kv = stochK(arr, int(np.floor(Kin)))
                         kar.append(Kv)
-                        Dv = stochD(arr, int(np.floor(Din)), int(np.floor(Kin)))
+                        Dv = SMAn(kar, int(np.floor(Din)))
                         dar.append(Dv)
                         Kv1 = bbK(arr, int(np.floor(Kin)))
                         kar1.append(Kv1)

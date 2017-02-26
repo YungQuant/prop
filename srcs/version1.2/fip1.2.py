@@ -274,11 +274,11 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            scaler = MinMaxScaler(feature_range=(0, 1))
+            #scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
                     Kv = stochK(arr, int(np.floor(Kin)))
                     kar.append(Kv)
-                    Dv = stochD(arr, int(np.floor(Kin)), int(np.floor(Kin)))
+                    Dv = SMAn(kar, int(np.floor(Din)))
                     dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
                     kar1.append(Kv1)
@@ -297,16 +297,16 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
-                        buy.append(closeData * (1-tradeCost))
+                        buy.append(closeData * (1+tradeCost))
                         bull += 1
                         stockBought = True
                     elif ((s1 < s2) and stockBought == True):
-                        sell.append(closeData * (1+tradeCost))
+                        sell.append(closeData * (1-tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False
                     elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData * (1+tradeCost))
+                        sell.append(closeData * (1-tradeCost))
                         max = 0
                         shit += 1
                         stockBought = False
@@ -377,7 +377,7 @@ def run():
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.30, save_min=0.20, max_len=20000, bitchCunt=j, tradeCost=0.0005)
+                                    save_max=1.001, save_min=0.20, max_len=20000, bitchCunt=j, tradeCost=0.0005)
                 if j < 0.01:
                     j += 0.002
                 else:
