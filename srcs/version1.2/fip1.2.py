@@ -244,6 +244,8 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # file.write(str(desc))
     file.write("\n\nCumulative Diff:\t")
     file.write(str(cuml))
+    print("\n\nCumulative Diff:\t")
+    print(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
     file.close()
@@ -326,7 +328,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            cumld.append(cuml)
+            cumld.append(cuml[j])
 
         write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
         #plot(perc)
@@ -360,8 +362,8 @@ for i, tick in enumerate(ticker):
     fileCuml.append("../../FXcuml/" + tick + "_cuml.txt")
 
 def run():
-    k1 = 20
-    k2 = 200
+    k1 = 2
+    k2 = 40000
     l1 = 2
     l2 = 30
     j1 = 0.000
@@ -390,8 +392,12 @@ def run():
         i = l1
         if (k < 10):
             k += 1
-        else:
+        elif (k < 1000):
             k *= 1.2
+        elif (k < 10000):
+            k *= 1.05
+        else:
+            k *= 1.01
 
 
 run()

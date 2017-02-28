@@ -1,9 +1,0 @@
-Tick:	../../FXstatic_data/GBPJPY.2016.csv
-K in:	178
-D in:	28
-K1 in:	178
-D1 in:	178
-Len:	198
-
-Cumulative Diff:	0.6773121182615529
-bitchCunt:	0.028561000000000007

@@ -327,8 +327,8 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-opts = ['sgd', 'Adam', 'Adadelta']
-errs = ['mean_absolute_error', 'mean_squared_error']
+opts = ['sgd', 'Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
+errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 nins = [10, 20, 30, 60]
 batchs = [10, 30, 90, 150, 270, 1000]
 epochs = [10, 30, 90, 150, 270, 1000]

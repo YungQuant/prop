@@ -1,0 +1,9 @@
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	36
+
+Cumulative Diff:	0.2524957507778797
+bitchCunt:	0.0035

@@ -1,0 +1,9 @@
+Tick:	../../data/NTP.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	0
+
+Cumulative Diff:	1
+bitchCunt:	0.0035
