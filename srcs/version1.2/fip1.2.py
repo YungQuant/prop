@@ -263,7 +263,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
         with open(tik, 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[-int(len(stock1)/100):]):
+        for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
 
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
@@ -277,8 +277,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             #scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin):
-                    Kv = stochK(arr, int(np.floor(Kin)))
+            if i >= int(Din) and i >= int(Kin) and i > (len(arr) / 1.2):
+                    Kv = rsiN(arr, int(np.floor(Kin)))
                     kar.append(Kv)
                     Dv = SMAn(kar, int(np.floor(Din)))
                     dar.append(Dv)
@@ -296,6 +296,10 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
                     s2 = (Dv + Dv1) / 2
                     s1ar.append(s1)
                     s2ar.append(s2)
+                    if len(buy) > 20 and np.mean(buy) > (np.mean(sell) * 1.01):
+                        return 0
+                    if len(buy) > max_len:
+                        return 0
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
@@ -379,7 +383,7 @@ def run():
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.001, save_min=0.20, max_len=20000, bitchCunt=j, tradeCost=0.0005)
+                                    save_max=1.001, save_min=-1, max_len=40000, bitchCunt=j, tradeCost=0.0005)
                 if j < 0.01:
                     j += 0.002
                 else:

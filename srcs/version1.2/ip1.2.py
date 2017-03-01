@@ -7,6 +7,8 @@ import os.path
 from multiprocessing import Pool
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 def plot(a):
     y = np.arange(len(a))
@@ -47,7 +49,7 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
     n = int(np.floor(n))
     cpy = a[-n:]
     l = len(cpy)
-    lc, gc, la, ga = 0.01
+    lc, gc, la, ga = 0.01, 0.01, 0.01, 0.01
     for i in range(1, l):
         if a[i] < a[i - 1]:
             lc += 1
@@ -150,6 +152,14 @@ def bbD(arr, Din):
         return 1
     else:
         return 0.5
+
+#TIME WEIGHTED AVERAGE PRICE
+def twap(arr, ll):
+    a = arr[-ll:]
+    high = max(a)
+    low = min(a)
+    close = a[len(a) - 1]
+    return (high + low + close) / 3
 
 class Quote(object):
     DATE_FMT = '%Y-%m-%d'
@@ -275,9 +285,9 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
-                    Kv = stochK(arr, int(np.floor(Kin)))
+                    Kv = twap(arr, int(np.floor(Kin)))
                     kar.append(Kv)
-                    Dv = SMAn(kar, int(np.floor(Din)))
+                    Dv = SMAn(arr, int(np.floor(Din)))
                     dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
                     kar1.append(Kv1)
@@ -287,12 +297,14 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
                     # kar2.append(Kv2)
                     # Dv2 = SMAn(arr, Din2)
                     # dar2.append(Dv2)
-                    # Kvl = scaler.fit_transform(Kvl)
-                    # Dvl = scaler.fit_transform(Dvl)
+                    Kvl = scaler.fit_transform(Kvl)
+                    Dvl = scaler.fit_transform(Dvl)
                     s1 = (Kv + Kv1) / 2
                     s2 = (Dv + Dv1) / 2
                     s1ar.append(s1)
                     s2ar.append(s2)
+                    if len(buy) > max_len:
+                        return 0
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
@@ -363,15 +375,15 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        i = len(tick) - 1
-        ik = 0
-        while i >= 0:
-            dataset[ik] = tick[i]['Close']
-            i -= 1
-            ik += 1
+        dataset = GoogleIntradayQuote(ticker[i]).close
+        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        # dataset = np.zeros(len(tick))
+        # i = len(tick) - 1
+        # ik = 0
+        # while i >= 0:
+        #     dataset[ik] = tick[i]['Close']
+        #     i -= 1
+        #     ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
@@ -393,7 +405,7 @@ def run():
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                if i < k:
+                if i > 0:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,

@@ -274,6 +274,8 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 print("predict:", predict)
                 #print("predicted:", kar)
                 # calculate root mean squared error
+                if len(buy) > max_len:
+                    return 0
                 if stockBought == True and closeData > max:
                     max = closeData
                 if ((predict > closeData) and (stockBought == False and stopLoss == False)):

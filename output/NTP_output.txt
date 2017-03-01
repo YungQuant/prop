@@ -1,8 +1,8 @@
 Tick:	../../data/NTP.txt
-K in:	35
-D in:	3
-K1 in:	35
-D1 in:	35
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
 Len:	0
 
 Cumulative Diff:	1

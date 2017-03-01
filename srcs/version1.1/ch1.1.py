@@ -202,6 +202,8 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
                 kar.append(Kv)
                 Dv = SMAn(arr, Din)
                 dar.append(Dv)
+                if len(buy) > max_len:
+                    return 0
                 if stockBought == True and closeData > max:
                     max = closeData
                 if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
