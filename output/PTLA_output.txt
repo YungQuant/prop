@@ -1,9 +1,9 @@
 Tick:	../../data/PTLA.txt
-K in:	89
-D in:	5
-K1 in:	89
-D1 in:	89
-Len:	171
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	581
 
-Cumulative Diff:	0.6158996411926989
-bitchCunt:	0.0035
+Cumulative Diff:	0.2967399151727364
+bitchCunt:	0.0105
