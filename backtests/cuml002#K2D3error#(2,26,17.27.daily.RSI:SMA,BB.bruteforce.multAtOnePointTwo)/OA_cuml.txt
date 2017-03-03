@@ -1,4 +1,3124 @@
 Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1333242006297108
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.225328259965996
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.2166804025083995
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1198555828681356
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1301505304908135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1401264896604648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4647445829770565
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.4640449636138282
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	21
+
+Cumulative Diff:	1.1561504427829041
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0577956677303755
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0577956677303755
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.1293305445769906
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.1293305445769906
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.123181441470931
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.123181441470931
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.731776920810591
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.731776920810591
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5736711986123035
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	9
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5736711986123035
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0577956677303755
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0577956677303755
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.1293305445769906
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.1293305445769906
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.123181441470931
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.123181441470931
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.731776920810591
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.731776920810591
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5736711986123035
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	10
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5736711986123035
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0577956677303755
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0577956677303755
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.1293305445769906
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.1293305445769906
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.123181441470931
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.123181441470931
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.731776920810591
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.731776920810591
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5736711986123035
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	13
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5736711986123035
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0682692994702423
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.0682692994702423
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.140512469968934
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.140512469968934
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.134302482286176
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.134302482286176
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.7470996103368996
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.7470996103368996
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5875949753430527
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	16
+K1 in:	2
+D1 in:	2
+Len:	34
+
+Cumulative Diff:	1.5875949753430527
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	21
+K1 in:	2
+D1 in:	2
+Len:	31
+
+Cumulative Diff:	1.0326138265100588
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	2
+D in:	21
+K1 in:	2
+D1 in:	2
+Len:	31
+
+Cumulative Diff:	1.0326138265100588
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	60
+
+Cumulative Diff:	1.0744208845952699
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	60
+
+Cumulative Diff:	1.0744208845952699
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	60
+
+Cumulative Diff:	1.0744208845952699
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	60
+
+Cumulative Diff:	1.0744208845952699
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	60
+
+Cumulative Diff:	1.0744208845952699
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	60
+
+Cumulative Diff:	1.0744208845952699
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	8
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	8
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	9
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	4
+D in:	9
+K1 in:	4
+D1 in:	4
+Len:	42
+
+Cumulative Diff:	1.0375130957739953
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	2
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	2
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	4
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	4
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	9
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	5
+D in:	9
+K1 in:	5
+D1 in:	5
+Len:	39
+
+Cumulative Diff:	1.3106522628295751
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.190439698732736
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.190439698732736
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1888238652894614
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1888238652894614
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.2191489803093314
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.2191489803093314
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.2530102088484827
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.2530102088484827
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.252685580947906
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.252685580947906
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1728891515914812
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1728891515914812
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1480525829331898
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1480525829331898
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.0161938214656854
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.0161938214656854
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.0356591582964032
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.0356591582964032
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.0811525593784224
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.0811525593784224
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1443710357918648
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	6
+D in:	16
+K1 in:	6
+D1 in:	6
+Len:	58
+
+Cumulative Diff:	1.1443710357918648
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	3
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	3
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	3
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	3
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	3
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	3
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	4
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	4
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	4
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	4
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	4
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	4
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.13871529613966
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.326825244975808
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.931761043555706
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	9
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.134833348619409
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	9
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.134833348619409
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	9
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.3223020195594097
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	9
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.3223020195594097
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	9
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.9251755563683726
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	9
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.9251755563683726
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.134833348619409
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.134833348619409
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.3223020195594097
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.3223020195594097
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.9251755563683726
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	42
+
+Cumulative Diff:	1.9251755563683726
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3330833811862761
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3330833811862761
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3321862245833094
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3321862245833094
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3662827082328883
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3662827082328883
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3004140482535977
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.3004140482535977
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2953528826787528
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2953528826787528
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2340782215006367
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2340782215006367
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.307262267026313
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.307262267026313
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2556195768183671
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2556195768183671
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2944998224738962
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.2944998224738962
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.308032784888108
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.308032784888108
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.4875982677313422
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.4875982677313422
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.4875982677313422
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	13
+K1 in:	7
+D1 in:	7
+Len:	62
+
+Cumulative Diff:	1.4875982677313422
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.1701514000805922
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	41
+
+Cumulative Diff:	1.1701514000805922
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	2
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.0943571543239545
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	2
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.0943571543239545
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	2
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.7880140605751442
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	2
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.7880140605751442
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	2
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	2.014724450763644
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	2
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	2.014724450763644
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.0943571543239545
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.0943571543239545
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.7880140605751442
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.7880140605751442
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	2.014724450763644
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	3
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	2.014724450763644
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	4
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.0943571543239545
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	4
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.0943571543239545
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	4
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.7880140605751442
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	4
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	1.7880140605751442
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	4
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	2.014724450763644
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	4
+K1 in:	8
+D1 in:	8
+Len:	36
+
+Cumulative Diff:	2.014724450763644
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	8
 D in:	5
 K1 in:	8
@@ -120,6 +3240,46 @@ bitchCunt:	0.023068500000000002
 
 Tick:	../../data/OA.txt
 K in:	8
+D in:	5
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	5
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	5
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	5
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
 D in:	6
 K1 in:	8
 D1 in:	8
@@ -240,6 +3400,46 @@ bitchCunt:	0.023068500000000002
 
 Tick:	../../data/OA.txt
 K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
 D in:	7
 K1 in:	8
 D1 in:	8
@@ -359,6 +3559,1246 @@ Cumulative Diff:	1.0348010438422959
 bitchCunt:	0.023068500000000002
 
 Tick:	../../data/OA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1778505140217523
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1778505140217523
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0858110653213455
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0858110653213455
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1032770624146102
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1032770624146102
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0348010438422959
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0348010438422959
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1778505140217523
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1778505140217523
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0858110653213455
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0858110653213455
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1032770624146102
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1032770624146102
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0348010438422959
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0348010438422959
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1778505140217523
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1778505140217523
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0858110653213455
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0858110653213455
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1032770624146102
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1032770624146102
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.049951661698
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0348010438422959
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.0348010438422959
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	60
+
+Cumulative Diff:	1.1216349884778498
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.29727594377079
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.29727594377079
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1959043679591248
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1959043679591248
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2151412894473175
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2151412894473175
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.101706943004755
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.101706943004755
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.139722303284337
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.139722303284337
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0706724422204121
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0706724422204121
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0443370980809015
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0443370980809015
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.052812989706353
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.052812989706353
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.29727594377079
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.29727594377079
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1959043679591248
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1959043679591248
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2151412894473175
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2151412894473175
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.101706943004755
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.101706943004755
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.139722303284337
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.139722303284337
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0706724422204121
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0706724422204121
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0443370980809015
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0443370980809015
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.052812989706353
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.052812989706353
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	16
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.29727594377079
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.29727594377079
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1959043679591248
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1959043679591248
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2151412894473175
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2151412894473175
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.1564090830101943
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.101706943004755
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.101706943004755
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.139722303284337
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.139722303284337
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0706724422204121
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0706724422204121
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0443370980809015
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.0443370980809015
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.052812989706353
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.052812989706353
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	59
+
+Cumulative Diff:	1.2353605749813075
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	9
 D in:	2
 K1 in:	9
@@ -377,6 +4817,66 @@ Len:	34
 
 Cumulative Diff:	1.0736960273423306
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	9
@@ -400,6 +4900,66 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	9
+D in:	3
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	3
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	3
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	3
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	3
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	3
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
 D in:	4
 K1 in:	9
 D1 in:	9
@@ -417,6 +4977,66 @@ Len:	34
 
 Cumulative Diff:	1.0736960273423306
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	4
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	4
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	4
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	4
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	4
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	4
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	9
@@ -440,6 +5060,66 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	9
+D in:	5
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	5
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	5
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	5
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	5
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	5
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
 D in:	6
 K1 in:	9
 D1 in:	9
@@ -457,6 +5137,66 @@ Len:	34
 
 Cumulative Diff:	1.0736960273423306
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	6
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	6
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	6
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	6
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	6
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	6
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	9
@@ -480,6 +5220,66 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
 D in:	8
 K1 in:	9
 D1 in:	9
@@ -497,6 +5297,986 @@ Len:	34
 
 Cumulative Diff:	1.0736960273423306
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.0736960273423306
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.0736960273423306
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.0736960273423306
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.0736960273423306
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.1159488800835036
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	1.8984149345839123
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	34
+
+Cumulative Diff:	2.1391568562574372
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4456493024288264
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4456493024288264
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3139103615934626
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3139103615934626
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2911335902015386
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2911335902015386
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2464693633031825
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2464693633031825
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1857827569323671
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1857827569323671
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1832771581659312
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1832771581659312
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2023960602670622
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2023960602670622
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1615666235991433
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1615666235991433
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1234787511382969
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1234787511382969
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1325969603407124
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1325969603407124
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4456493024288264
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4456493024288264
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3139103615934626
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3139103615934626
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2911335902015386
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2911335902015386
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2464693633031825
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2464693633031825
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1857827569323671
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1857827569323671
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1832771581659312
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1832771581659312
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2023960602670622
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2023960602670622
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1615666235991433
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1615666235991433
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1234787511382969
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1234787511382969
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1325969603407124
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1325969603407124
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	16
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4050756588543094
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4456493024288264
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4456493024288264
+bitchCunt:	0.0
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3139103615934626
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3139103615934626
+bitchCunt:	0.0035
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2911335902015386
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2911335902015386
+bitchCunt:	0.007
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2464693633031825
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.2464693633031825
+bitchCunt:	0.0105
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1857827569323671
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1857827569323671
+bitchCunt:	0.01365
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.454251951448607
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.454251951448607
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4777491519973098
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4777491519973098
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4275696251289802
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.4275696251289802
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3807594906896705
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3807594906896705
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3919658031202111
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.3919658031202111
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.7268431193153129
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.7268431193153129
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.7268431193153129
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.7268431193153129
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1426308220764905
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1426308220764905
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1426308220764905
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	58
+
+Cumulative Diff:	1.1426308220764905
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	10
@@ -520,6 +6300,46 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
 D in:	3
 K1 in:	10
 D1 in:	10
@@ -537,6 +6357,46 @@ Len:	33
 
 Cumulative Diff:	1.112488859576703
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	3
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	3
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	3
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	3
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	10
@@ -560,6 +6420,46 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	10
+D in:	4
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	4
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	4
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	4
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
 D in:	6
 K1 in:	10
 D1 in:	10
@@ -577,6 +6477,46 @@ Len:	33
 
 Cumulative Diff:	1.112488859576703
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	6
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	6
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	6
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	6
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	10
@@ -600,6 +6540,46 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
 D in:	8
 K1 in:	10
 D1 in:	10
@@ -617,6 +6597,46 @@ Len:	33
 
 Cumulative Diff:	1.112488859576703
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	10
@@ -637,6 +6657,106 @@ Len:	33
 
 Cumulative Diff:	1.112488859576703
 bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.554364133489672
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	33
+
+Cumulative Diff:	1.7473835165776617
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	13
+K1 in:	10
+D1 in:	10
+Len:	53
+
+Cumulative Diff:	1.0154441883054148
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	13
+K1 in:	10
+D1 in:	10
+Len:	53
+
+Cumulative Diff:	1.0154441883054148
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	13
+K1 in:	10
+D1 in:	10
+Len:	53
+
+Cumulative Diff:	1.0154441883054148
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	13
+K1 in:	10
+D1 in:	10
+Len:	53
+
+Cumulative Diff:	1.0154441883054148
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	31
+
+Cumulative Diff:	1.0466767673586497
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	31
+
+Cumulative Diff:	1.0466767673586497
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	12
@@ -660,6 +6780,76 @@ bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
 K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.0139222504833458
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.0139222504833458
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.2000323568301179
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.2000323568301179
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.661420848989836
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.661420848989836
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	3
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.0872553103497355
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	12
 D in:	3
 K1 in:	12
 D1 in:	12
@@ -675,8 +6865,58 @@ K1 in:	12
 D1 in:	12
 Len:	32
 
-Cumulative Diff:	1.0872553103497355
-bitchCunt:	0.029989050000000003
+Cumulative Diff:	1.0139222504833458
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	3
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.0139222504833458
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	3
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.2000323568301179
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	3
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.2000323568301179
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	3
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.661420848989836
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	3
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.661420848989836
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	12
@@ -699,6 +6939,226 @@ Cumulative Diff:	1.0872553103497355
 bitchCunt:	0.029989050000000003
 
 Tick:	../../data/OA.txt
+K in:	12
+D in:	4
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.0139222504833458
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	4
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.0139222504833458
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	4
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.2000323568301179
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	4
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.2000323568301179
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	4
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.661420848989836
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	4
+K1 in:	12
+D1 in:	12
+Len:	32
+
+Cumulative Diff:	1.661420848989836
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	5
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	5
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	6
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	6
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	9
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	9
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	10
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	10
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	13
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	13
+K1 in:	12
+D1 in:	12
+Len:	54
+
+Cumulative Diff:	1.1442089768324981
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	16
+K1 in:	12
+D1 in:	12
+Len:	52
+
+Cumulative Diff:	1.0107190249982942
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	12
+D in:	16
+K1 in:	12
+D1 in:	12
+Len:	52
+
+Cumulative Diff:	1.0107190249982942
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	14
 D in:	2
 K1 in:	14
@@ -857,6 +7317,66 @@ Len:	30
 
 Cumulative Diff:	1.7317425181442683
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	2
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	2
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	2
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	2
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	2
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	2
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	14
@@ -1020,6 +7540,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	3
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	3
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	3
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	3
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	3
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	3
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	4
 K1 in:	14
 D1 in:	14
@@ -1180,6 +7760,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	4
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	4
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	4
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	4
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	4
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	4
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	5
 K1 in:	14
 D1 in:	14
@@ -1340,6 +7980,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	5
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	5
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	5
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	5
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	5
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	5
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	6
 K1 in:	14
 D1 in:	14
@@ -1500,6 +8200,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	6
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	6
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	6
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	6
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	6
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	6
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	7
 K1 in:	14
 D1 in:	14
@@ -1660,6 +8420,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	7
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	7
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	7
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	7
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	7
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	7
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	8
 K1 in:	14
 D1 in:	14
@@ -1820,6 +8640,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	9
 K1 in:	14
 D1 in:	14
@@ -1980,6 +8860,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
 D in:	10
 K1 in:	14
 D1 in:	14
@@ -2137,6 +9077,66 @@ Len:	30
 
 Cumulative Diff:	1.7317425181442683
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	10
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	10
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5526850680724746
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	10
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	10
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.5868647944173333
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	10
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	14
+D in:	10
+K1 in:	14
+D1 in:	14
+Len:	30
+
+Cumulative Diff:	1.86619393746771
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	17
@@ -2180,6 +9180,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
 D in:	3
 K1 in:	17
 D1 in:	17
@@ -2217,6 +9277,66 @@ Len:	27
 
 Cumulative Diff:	1.4284114470547737
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	3
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	3
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	3
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	3
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	3
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	3
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	17
@@ -2260,6 +9380,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	17
+D in:	4
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	4
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	4
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	4
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	4
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	4
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
 D in:	5
 K1 in:	17
 D1 in:	17
@@ -2300,6 +9480,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
 D in:	6
 K1 in:	17
 D1 in:	17
@@ -2337,6 +9577,66 @@ Len:	27
 
 Cumulative Diff:	1.4284114470547737
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	17
@@ -2379,6 +9679,186 @@ Cumulative Diff:	1.4284114470547737
 bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4491044146842074
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5558663507536388
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.584385458678299
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.019888710540625
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.019888710540625
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4113337879952919
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4113337879952919
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5532735910139996
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5532735910139996
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4369164616779193
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.4369164616779193
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5427804573046264
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.5427804573046264
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.571059700148727
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	27
+
+Cumulative Diff:	1.571059700148727
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	20
 D in:	2
 K1 in:	20
@@ -2397,6 +9877,106 @@ Len:	23
 
 Cumulative Diff:	1.0119936765729904
 bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	2
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	2
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	2
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	2
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	2
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	2
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	3
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.0159634274221572
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	3
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.0159634274221572
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	3
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.0159634274221572
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	3
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.0159634274221572
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	20
@@ -2420,6 +10000,66 @@ bitchCunt:	0.017745
 
 Tick:	../../data/OA.txt
 K in:	20
+D in:	4
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	4
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	4
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	4
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	4
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	4
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
 D in:	5
 K1 in:	20
 D1 in:	20
@@ -2437,6 +10077,66 @@ Len:	23
 
 Cumulative Diff:	1.0119936765729904
 bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	20
@@ -2457,6 +10157,206 @@ Len:	23
 
 Cumulative Diff:	1.0119936765729904
 bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0119936765729904
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0119936765729904
+bitchCunt:	0.017745
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0773503533382558
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0185988127170487
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	21
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	1.0621409221370337
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.0570566851958945
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.0570566851958945
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.1225826951226472
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.1225826951226472
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.1225826951226472
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	40
+
+Cumulative Diff:	1.1225826951226472
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	24
@@ -2537,6 +10437,66 @@ Len:	16
 
 Cumulative Diff:	1.350059151250229
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	2
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	2
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	2
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	2
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	2
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	2
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	24
@@ -2620,6 +10580,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	3
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	3
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	3
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	3
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	3
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	3
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	4
 K1 in:	24
 D1 in:	24
@@ -2697,6 +10717,66 @@ Len:	16
 
 Cumulative Diff:	1.350059151250229
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	4
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	4
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	4
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	4
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	4
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	4
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	24
@@ -2780,6 +10860,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	5
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	5
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	5
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	5
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	5
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	5
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	6
 K1 in:	24
 D1 in:	24
@@ -2857,6 +10997,66 @@ Len:	16
 
 Cumulative Diff:	1.350059151250229
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	6
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	6
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	6
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	6
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	6
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	6
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	24
@@ -2940,6 +11140,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	8
 K1 in:	24
 D1 in:	24
@@ -3020,6 +11280,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	9
 K1 in:	24
 D1 in:	24
@@ -3100,6 +11420,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	10
 K1 in:	24
 D1 in:	24
@@ -3177,6 +11557,66 @@ Len:	16
 
 Cumulative Diff:	1.350059151250229
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.7052057871342496
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.505641186566561
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.5502817105369862
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	24
@@ -3220,6 +11660,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	16
 K1 in:	24
 D1 in:	24
@@ -3260,6 +11760,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	24
+D in:	16
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	16
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	16
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	16
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	16
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	16
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
 D in:	21
 K1 in:	24
 D1 in:	24
@@ -3299,6 +11859,146 @@ Cumulative Diff:	1.1873973720298932
 bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
+K in:	24
+D in:	21
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	21
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	21
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	21
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	21
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	21
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.350202760743585
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.0797377783124096
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.0797377783124096
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.2991976464062829
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.2991976464062829
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.2991976464062829
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.2991976464062829
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.2991976464062829
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	29
+
+Cumulative Diff:	1.2991976464062829
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	29
 D in:	2
 K1 in:	29
@@ -3337,6 +12037,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	2
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	2
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	2
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	2
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	2
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	2
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	29
@@ -3380,6 +12140,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	29
+D in:	3
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	3
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	3
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	3
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	3
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	3
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
 D in:	4
 K1 in:	29
 D1 in:	29
@@ -3417,6 +12237,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	4
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	4
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	4
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	4
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	4
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	4
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	29
@@ -3460,6 +12340,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	29
+D in:	5
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	5
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	5
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	5
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	5
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	5
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
 D in:	6
 K1 in:	29
 D1 in:	29
@@ -3497,6 +12437,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	6
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	6
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	6
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	6
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	6
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	6
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	29
@@ -3540,6 +12540,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	29
+D in:	7
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	7
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	7
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	7
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	7
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	7
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
 D in:	8
 K1 in:	29
 D1 in:	29
@@ -3577,6 +12637,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	8
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	29
@@ -3620,6 +12740,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	29
+D in:	9
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	9
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	9
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	9
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	9
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	9
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
 D in:	10
 K1 in:	29
 D1 in:	29
@@ -3657,6 +12837,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	29
@@ -3700,6 +12940,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
 D in:	16
 K1 in:	29
 D1 in:	29
@@ -3737,6 +13037,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	29
@@ -3780,6 +13140,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	29
+D in:	21
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	21
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	21
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	21
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	21
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	21
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
 D in:	28
 K1 in:	29
 D1 in:	29
@@ -3817,6 +13237,66 @@ Len:	24
 
 Cumulative Diff:	1.6080566594793844
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	2.1239360114850467
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.9045521924571722
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	24
+
+Cumulative Diff:	1.6993774787770646
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	35
@@ -4000,6 +13480,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	2
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	2
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	2
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	2
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	2
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	2
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	3
 K1 in:	35
 D1 in:	35
@@ -4177,6 +13717,66 @@ Len:	20
 
 Cumulative Diff:	2.3354911232027042
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	3
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	3
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	3
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	3
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	3
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	3
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	35
@@ -4360,6 +13960,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	4
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	4
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	4
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	4
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	4
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	4
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	5
 K1 in:	35
 D1 in:	35
@@ -4537,6 +14197,66 @@ Len:	20
 
 Cumulative Diff:	2.3354911232027042
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	5
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	5
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	5
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	5
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	5
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	5
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	35
@@ -4720,6 +14440,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	7
 K1 in:	35
 D1 in:	35
@@ -4900,6 +14680,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	8
 K1 in:	35
 D1 in:	35
@@ -5080,6 +14920,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	9
 K1 in:	35
 D1 in:	35
@@ -5260,6 +15160,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	10
 K1 in:	35
 D1 in:	35
@@ -5440,6 +15400,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	13
 K1 in:	35
 D1 in:	35
@@ -5620,6 +15640,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	16
 K1 in:	35
 D1 in:	35
@@ -5800,6 +15880,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	21
 K1 in:	35
 D1 in:	35
@@ -5980,6 +16120,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
 D in:	28
 K1 in:	35
 D1 in:	35
@@ -6157,6 +16357,66 @@ Len:	20
 
 Cumulative Diff:	2.3354911232027042
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	2.1329407273355625
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.829405322305417
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	20
+
+Cumulative Diff:	1.5573326867843733
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	42
@@ -6340,6 +16600,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	2
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	2
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	2
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	2
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	2
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	2
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	3
 K1 in:	42
 D1 in:	42
@@ -6520,6 +16840,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	3
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	3
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	3
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	3
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	3
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	3
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	4
 K1 in:	42
 D1 in:	42
@@ -6700,6 +17080,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	4
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	4
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	4
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	4
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	4
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	4
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	5
 K1 in:	42
 D1 in:	42
@@ -6880,6 +17320,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	5
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	5
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	5
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	5
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	5
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	5
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	6
 K1 in:	42
 D1 in:	42
@@ -7060,6 +17560,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	6
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	6
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	6
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	6
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	6
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	6
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	7
 K1 in:	42
 D1 in:	42
@@ -7240,6 +17800,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	7
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	7
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	7
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	7
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	7
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	7
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	8
 K1 in:	42
 D1 in:	42
@@ -7420,6 +18040,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	8
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	8
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	8
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	8
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	8
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	8
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	9
 K1 in:	42
 D1 in:	42
@@ -7600,6 +18280,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	9
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	9
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	9
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	9
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	9
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	9
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	10
 K1 in:	42
 D1 in:	42
@@ -7777,6 +18517,66 @@ Len:	18
 
 Cumulative Diff:	1.9682369267690125
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	10
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	10
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.7156400727329932
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	10
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	10
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.5738486783018537
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	10
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	10
+K1 in:	42
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.863878398393442
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	42
@@ -7960,6 +18760,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	16
 K1 in:	42
 D1 in:	42
@@ -8140,6 +19000,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	16
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	16
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	16
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	16
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	16
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	16
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	21
 K1 in:	42
 D1 in:	42
@@ -8320,6 +19240,66 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
 D in:	28
 K1 in:	42
 D1 in:	42
@@ -8499,6 +19479,66 @@ Cumulative Diff:	1.4985430524642904
 bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	1.7969904378013837
+bitchCunt:	0.05068149450000001
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	29
+
+Cumulative Diff:	2.0905391192717926
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	51
 D in:	2
 K1 in:	51
@@ -8637,6 +19677,26 @@ Len:	15
 
 Cumulative Diff:	1.0132441924004059
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	2
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	2
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	51
@@ -8780,6 +19840,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	51
+D in:	3
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	3
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
 D in:	4
 K1 in:	51
 D1 in:	51
@@ -8917,6 +19997,26 @@ Len:	15
 
 Cumulative Diff:	1.0132441924004059
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	4
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	4
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	51
@@ -9060,6 +20160,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	51
+D in:	5
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	5
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
 D in:	6
 K1 in:	51
 D1 in:	51
@@ -9200,6 +20320,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	51
+D in:	6
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	6
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
 D in:	7
 K1 in:	51
 D1 in:	51
@@ -9340,6 +20480,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	51
+D in:	7
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	7
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
 D in:	8
 K1 in:	51
 D1 in:	51
@@ -9480,6 +20640,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	51
+D in:	8
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	8
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
 D in:	9
 K1 in:	51
 D1 in:	51
@@ -9620,6 +20800,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	51
+D in:	9
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	9
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
 D in:	10
 K1 in:	51
 D1 in:	51
@@ -9757,6 +20957,186 @@ Len:	15
 
 Cumulative Diff:	1.0132441924004059
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	10
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	10
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.049708465160852
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	13
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	13
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	16
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	16
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	21
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	21
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	28
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	51
+D in:	28
+K1 in:	51
+D1 in:	51
+Len:	35
+
+Cumulative Diff:	1.034626318310603
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	28
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	28
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	28
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	61
+D in:	28
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.1359806268798154
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	74
@@ -9860,6 +21240,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	74
+D in:	2
+K1 in:	74
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.4527193077481386
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	74
+D in:	2
+K1 in:	74
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.4527193077481386
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	74
 D in:	3
 K1 in:	74
 D1 in:	74
@@ -9960,6 +21360,26 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	74
+D in:	3
+K1 in:	74
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.4527193077481386
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	74
+D in:	3
+K1 in:	74
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.4527193077481386
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	74
 D in:	4
 K1 in:	74
 D1 in:	74
@@ -10059,6 +21479,26 @@ Cumulative Diff:	1.1615606940719845
 bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.4527193077481386
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.4527193077481386
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
 K in:	89
 D in:	2
 K1 in:	89
@@ -10137,6 +21577,46 @@ Len:	10
 
 Cumulative Diff:	1.0577133210041139
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	2
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	2
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	2
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	2
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	89
@@ -10220,6 +21700,46 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	89
+D in:	3
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	3
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	3
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	3
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
 D in:	4
 K1 in:	89
 D1 in:	89
@@ -10297,6 +21817,46 @@ Len:	10
 
 Cumulative Diff:	1.0577133210041139
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
 
 Tick:	../../data/OA.txt
 K in:	89
@@ -10380,6 +21940,46 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
 D in:	6
 K1 in:	89
 D1 in:	89
@@ -10460,6 +22060,46 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
 D in:	7
 K1 in:	89
 D1 in:	89
@@ -10540,6 +22180,46 @@ bitchCunt:	0.038985765000000006
 
 Tick:	../../data/OA.txt
 K in:	89
+D in:	7
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	7
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	7
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	7
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
 D in:	8
 K1 in:	89
 D1 in:	89
@@ -10617,3 +22297,163 @@ Len:	10
 
 Cumulative Diff:	1.0577133210041139
 bitchCunt:	0.038985765000000006
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	8
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	8
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.1365367240890423
+bitchCunt:	0.06588594285000002
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	8
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	8
+K1 in:	89
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	2.1493478273042625
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	10
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	10
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
+
+Tick:	../../data/OA.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0305997510843317
+bitchCunt:	0.08565172570500003
