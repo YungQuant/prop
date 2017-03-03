@@ -287,6 +287,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             if i >= int(Din) and i >= int(Kin):
                     Kv = twap(arr, int(np.floor(Kin)))
                     kar.append(Kv)
+                    if Kv == (1 or 0):
+                        stopLoss = True
                     Dv = SMAn(arr, int(np.floor(Din)))
                     dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
@@ -376,15 +378,15 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = GoogleIntradayQuote(ticker[i]).close
-        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        # dataset = np.zeros(len(tick))
-        # i = len(tick) - 1
-        # ik = 0
-        # while i >= 0:
-        #     dataset[ik] = tick[i]['Close']
-        #     i -= 1
-        #     ik += 1
+        #dataset = GoogleIntradayQuote(ticker[i]).close
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        i = len(tick) - 1
+        ik = 0
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
@@ -433,20 +435,3 @@ def run():
 
 run()
 
-
-
-
-            ###WHAT THIS BITCH NIGGA WANTS ME TO DO###
-        # 1)    Make ch1 not crawl if call is redundant.                                                                  **COMPLETE**
-        # 3)    Make ch1 take an array of ticker symbols that get cycled through                                          **COMPLETE**
-        # 3.5)  Create and write to directories for the data and output                                                   **COMPLETE**
-
-        # 4)    Make ch1 be able to take arbitrary chunks of data out of the last 10 days of data                         *INCOMPLETE*
-        # 5)    Make ch1 automatically sell when it reaches the end of each data chunk                                    *INCOMPLETE*
-        # 6)    Make ch1 calculate a variable (starting with 1%) commisions/slippage cost                                 *INCOMPLETE*
-
-        # 7)    Make ch1 write the input, trades, result, sp.describe results, etc to a third file that is never          *INCOMPLETE*
-        #             overwritten if the backtest is over 1.0n
-        # 8)    Make ch1 do a thing that diffs the results from each stock with eachother to find the common inputs that  *INCOMPLETE*
-        #             worked for both situation
-        # 9)    Make ch1 simulate "trailing-stop" order type
