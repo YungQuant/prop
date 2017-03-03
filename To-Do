@@ -19,6 +19,7 @@
        -3bp w/o data sources, 4bp w/data sources
     -Position entry system
        -must account for slippage and market impact
+       -For position entry EOD find avg volume/period and put hidden limit @ trip price for [-n:]
     -Fix/restructure multiprocessing/threading system for all ip, fip, and ib variants
        -1bp/file
   
