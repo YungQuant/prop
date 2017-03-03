@@ -339,7 +339,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml)
 
-        write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
+    write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
+    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
         # plot(perc)
         # plot2(s1ar, s2ar)
 
@@ -388,49 +389,49 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-#fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
+fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
 
 def run():
-    k1 = 1
-    k2 = 100
-    l1 = 2
-    l2 = 30
-    j1 = 0.000
-    j2 = 0.05
-    k = k1
-    i = l1
-    j = j1
-    returns = []
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i > 0:
-                    if (int(np.floor(i)) % 2 == 0):
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.01, save_min=0.0001, max_len=1000, bitchCunt=j, tradeCost=0.0005))
-                if j < 0.01:
-                    j += 0.0035
-                else:
-                    j *= 1.3
-            j = j1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.3
-        i = l1
-        if (k < 10):
-            k += 1
-        elif (k < 1000):
-            k *= 1.2
-        elif (k < 10000):
-            k *= 1.05
-        else:
-            k *= 1.01
-    return (returns)
+    # k1 = 1
+    # k2 = 100
+    # l1 = 2
+    # l2 = 30
+    # j1 = 0.000
+    # j2 = 0.05
+    # k = k1
+    # i = l1
+    # j = j1
+    # returns = []
+    # while (k < k2):
+    #     while (i < l2):
+    #         while (j < j2):
+    #             if i > 0:
+    #                 if (int(np.floor(i)) % 2 == 0):
+    #                     print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+    #                 returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
+    #                                 save_max=1.01, save_min=0.0001, max_len=1000, bitchCunt=j, tradeCost=0.0005))
+    #             if j < 0.01:
+    #                 j += 0.0035
+    #             else:
+    #                 j *= 1.3
+    #         j = j1
+    #         if (i < 10):
+    #             i += 1
+    #         else:
+    #             i *= 1.3
+    #     i = l1
+    #     if (k < 10):
+    #         k += 1
+    #     elif (k < 1000):
+    #         k *= 1.2
+    #     elif (k < 10000):
+    #         k *= 1.05
+    #     else:
+    #         k *= 1.01
+    # return (returns)
 
-run()
+#run()
 
 
 

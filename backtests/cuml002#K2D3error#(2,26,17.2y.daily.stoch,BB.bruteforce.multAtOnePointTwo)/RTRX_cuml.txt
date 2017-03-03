@@ -10939,14 +10939,14 @@ Cumulative Diff:	3.68875159170538
 bitchCunt:	0.038985765000000006
 
 Tick:	../../data/RTRX.txt
-K in:	74
-D in:	13
-K1 in:	74
-D1 in:	74
-Len:	16
+K in:	12
+D in:	2
+K1 in:	12
+D1 in:	12
+Len:	72
 
-Cumulative Diff:	3.68875159170538
-bitchCunt:	0.038985765000000006
+Cumulative Diff:	3.3257411433097284
+bitchCunt:	0.029989050000000003
 
 Tick:	../../data/RTRX.txt
 K in:	74

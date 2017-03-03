@@ -5,7 +5,7 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
-import mpi4py
+# import mpi4py
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 
@@ -48,7 +48,7 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
     n = int(np.floor(n))
     cpy = a[-n:]
     l = len(cpy)
-    lc, gc, la, ga = 0.01
+    lc, gc, la, ga = 0.01, 0.01, 0.01, 0.01
     for i in range(1, l):
         if a[i] < a[i - 1]:
             lc += 1
@@ -277,7 +277,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             #scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin) and i > (len(arr) / 1.2):
+            if i >= int(Din) and i >= int(Kin) and i > (len(arr) / 1.01):
                     Kv = rsiN(arr, int(np.floor(Kin)))
                     kar.append(Kv)
                     Dv = SMAn(kar, int(np.floor(Din)))
@@ -379,7 +379,7 @@ def run():
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                if i < k:
+                if i > 0:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
