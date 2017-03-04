@@ -261,10 +261,12 @@ def fucking_paul(tick, Kin, Din, bitchCunt, tradeCost, tickers):
                     # kar2.append(Kv2)
                     # Dv2 = SMAn(arr, Din2)
                     # dar2.append(Dv2)
+                    Kvl = [Kv, Kv1]
+                    Dvl = [Dv, Dv1]
                     Kvl = scaler.fit_transform(Kvl)
                     Dvl = scaler.fit_transform(Dvl)
-                    s1 = (Kv + Kv1) / 2
-                    s2 = (Dv + Dv1) / 2
+                    s1 = (Kvl[0] + Kvl[1]) / 2
+                    s2 = (Dvl[0] + Dvl[1]) / 2
                     s1ar.append(s1)
                     s2ar.append(s2)
                     if stockBought == True and closeData > max:

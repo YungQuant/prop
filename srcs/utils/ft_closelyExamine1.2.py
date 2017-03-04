@@ -249,9 +249,9 @@ def fucking_paul(tick, Kin, Din, bitchCunt, tradeCost, tickers):
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
-                    Kv = stochK(arr, int(np.floor(Kin)))
+                    Kv = EMAn(arr, int(np.floor(Kin)))
                     kar.append(Kv)
-                    Dv = SMAn(kar, int(np.floor(Din)))
+                    Dv = SMAn(arr, int(np.floor(Din)))
                     dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
                     kar1.append(Kv1)
@@ -261,10 +261,12 @@ def fucking_paul(tick, Kin, Din, bitchCunt, tradeCost, tickers):
                     # kar2.append(Kv2)
                     # Dv2 = SMAn(arr, Din2)
                     # dar2.append(Dv2)
+                    Kvl = [Kv, Kv1]
+                    Dvl = [Dv, Dv1]
                     Kvl = scaler.fit_transform(Kvl)
                     Dvl = scaler.fit_transform(Dvl)
-                    s1 = (Kv + Kv1) / 2
-                    s2 = (Dv + Dv1) / 2
+                    s1 = (Kvl[0] + Kvl[1]) / 2
+                    s2 = (Dvl[0] + Dvl[1]) / 2
                     s1ar.append(s1)
                     s2ar.append(s2)
                     if stockBought == True and closeData > max:
@@ -300,18 +302,12 @@ def fucking_paul(tick, Kin, Din, bitchCunt, tradeCost, tickers):
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
-        #plot(perc)
-        #plot(cumld)
-        # plot2(s1ar, s2ar)
-        cumlArr.append(cuml[j])
-    for i in range(len(cumlArr)):
-        tot += cumlArr[i]
-
-    print(tickers, Kin, Din, bitchCunt, ":", tot/len(cumlArr))
-
+        plot(perc)
+        plot(cumld)
+        plot2(s1ar, s2ar)
     return cuml
 
-ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+ticker = ["MNKD"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -335,4 +331,4 @@ for i, file in enumerate(fileTicker):
             fileWrite.write('\n')
 
 
-fucking_paul(fileTicker, 30, 10, 0.0035, 0.0005, ticker)
+fucking_paul(fileTicker, 12, 9, 0.0299, 0.0005, ticker)
