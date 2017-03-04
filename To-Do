@@ -43,6 +43,7 @@
     -Organize Everything, Update README.md
 .5bp:
     -Run Correlation Matrices on FOREX & Crypto's
+    -Record per trade holding time and plot in ft_closelyExamine.py
 
 .1bp:
     -Investigate LJPC, LA JOLLA PHARMACEUTICAL, BCRX, BIOCRYST PHARMACEUTICALS, LNTH, LANTHEUS HOLDINGS, 
