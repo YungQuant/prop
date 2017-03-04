@@ -378,15 +378,15 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        i = len(tick) - 1
-        ik = 0
-        while i >= 0:
-            dataset[ik] = tick[i]['Close']
-            i -= 1
-            ik += 1
+        dataset = GoogleIntradayQuote(ticker[i]).close
+        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        # dataset = np.zeros(len(tick))
+        # i = len(tick) - 1
+        # ik = 0
+        # while i >= 0:
+        #     dataset[ik] = tick[i]['Close']
+        #     i -= 1
+        #     ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
@@ -396,9 +396,9 @@ for i, file in enumerate(fileTicker):
 
 def run():
     k1 = 1
-    k2 = 100
+    k2 = 600
     l1 = 2
-    l2 = 30
+    l2 = 600
     j1 = 0.000
     j2 = 0.05
     k = k1
@@ -421,7 +421,7 @@ def run():
             if (i < 10):
                 i += 1
             else:
-                i *= 1.3
+                i *= 1.2
         i = l1
         if (k < 10):
             k += 1
