@@ -285,7 +285,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
-                    Kv = twap(arr, int(np.floor(Kin)))
+                    Kv = EMAn(arr, int(np.floor(Kin)))
                     kar.append(Kv)
                     Dv = SMAn(arr, int(np.floor(Din)))
                     dar.append(Dv)
@@ -305,8 +305,6 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
                     s2 = (Dvl[0] + Dvl[1]) / 2
                     s1ar.append(s1)
                     s2ar.append(s2)
-                    if len(buy) > max_len:
-                        return 0
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
@@ -378,15 +376,15 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = GoogleIntradayQuote(ticker[i]).close
-        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        # dataset = np.zeros(len(tick))
-        # i = len(tick) - 1
-        # ik = 0
-        # while i >= 0:
-        #     dataset[ik] = tick[i]['Close']
-        #     i -= 1
-        #     ik += 1
+        #dataset = GoogleIntradayQuote(ticker[i]).close
+        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        i = len(tick) - 1
+        ik = 0
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
@@ -400,7 +398,7 @@ def run():
     l1 = 2
     l2 = 30
     j1 = 0.000
-    j2 = 0.05
+    j2 = 0.1
     k = k1
     i = l1
     j = j1
