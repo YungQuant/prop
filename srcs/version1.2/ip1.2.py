@@ -286,13 +286,13 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
                     Kv = EMAn(arr, int(np.floor(Kin)))
-                    kar.append(Kv)
+                    #kar.append(Kv)
                     Dv = SMAn(arr, int(np.floor(Din)))
-                    dar.append(Dv)
+                    #dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
-                    kar1.append(Kv1)
+                    #kar1.append(Kv1)
                     Dv1 = bbD(arr, int(np.floor(Kin)))
-                    dar1.append(Dv1)
+                    #dar1.append(Dv1)
                     # Kv2 = SMAn(arr, Kin2)
                     # kar2.append(Kv2)
                     # Dv2 = SMAn(arr, Din2)
@@ -303,8 +303,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
                     Dvl = scaler.fit_transform(Dvl)
                     s1 = (Kvl[0] + Kvl[1]) / 2
                     s2 = (Dvl[0] + Dvl[1]) / 2
-                    s1ar.append(s1)
-                    s2ar.append(s2)
+                    #s1ar.append(s1)
+                    #s2ar.append(s2)
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((s1 > s2) and (stockBought == False and stopLoss == False)):
@@ -337,7 +337,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            cumld.append(cuml)
+            #cumld.append(cuml)
 
         write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
     # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
@@ -376,15 +376,15 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        #dataset = GoogleIntradayQuote(ticker[i]).close
-        tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        dataset = np.zeros(len(tick))
-        i = len(tick) - 1
-        ik = 0
-        while i >= 0:
-            dataset[ik] = tick[i]['Close']
-            i -= 1
-            ik += 1
+        dataset = GoogleIntradayQuote(ticker[i]).close
+        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+        # dataset = np.zeros(len(tick))
+        # i = len(tick) - 1
+        # ik = 0
+        # while i >= 0:
+        #     dataset[ik] = tick[i]['Close']
+        #     i -= 1
+        #     ik += 1
         for i, close in enumerate(dataset):
             fileWrite.write(str(close))
             fileWrite.write('\n')
@@ -393,12 +393,12 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 1
-    k2 = 100
+    k1 = 2
+    k2 = 200
     l1 = 2
-    l2 = 30
+    l2 = 200
     j1 = 0.000
-    j2 = 0.1
+    j2 = 0.05
     k = k1
     i = l1
     j = j1
@@ -419,7 +419,7 @@ def run():
             if (i < 10):
                 i += 1
             else:
-                i *= 1.3
+                i *= 1.2
         i = l1
         if (k < 10):
             k += 1
