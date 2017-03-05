@@ -11,6 +11,8 @@ for i, tick in enumerate(ticker):
 for fi, file in enumerate(fileCuml):
     with open(file) as fp:
         for li, line in enumerate(fp):
+            tempStr = " "
+            tempStr += line.split()
             if li % 6 == 0:
                 for si in line.split():
                     if si.isnumeric():
@@ -22,7 +24,9 @@ for fi, file in enumerate(fileCuml):
                                     bestFile = open(bestFiles[bi], "a")
                                 best[bi] = int(si)
                                 #bestFile.write(delete (lowest) saved log result/last 6 lines?)
-                                bestFile.write(str(float(si)))
+                                bestFile.write(tempStr)
+                             else: 
+                                tempStr = " "
     fp.close()
     bestFile.close()
 
