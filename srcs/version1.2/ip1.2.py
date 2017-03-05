@@ -287,7 +287,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             if i >= int(Din) and i >= int(Kin):
                     Kv = twap(arr, int(np.floor(Kin)))
                     kar.append(Kv)
-                    Dv = SMAn(arr, int(np.floor(Din)))
+                    Dv = SMAn(kar, int(np.floor(Din)))
                     #dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
                     #kar1.append(Kv1)
