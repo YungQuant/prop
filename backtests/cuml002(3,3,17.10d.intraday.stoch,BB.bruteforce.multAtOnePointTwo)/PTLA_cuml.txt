@@ -1,0 +1,29 @@
+Tick:	../../data/PTLA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	186
+
+Cumulative Diff:	1.022390218048689
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	186
+
+Cumulative Diff:	1.0518291479460553
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	7
+D in:	10
+K1 in:	7
+D1 in:	7
+Len:	186
+
+Cumulative Diff:	1.058921484900576
+bitchCunt:	0.038985765000000006

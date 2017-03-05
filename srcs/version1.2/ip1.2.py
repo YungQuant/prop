@@ -285,8 +285,8 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
-                    Kv = EMAn(arr, int(np.floor(Kin)))
-                    #kar.append(Kv)
+                    Kv = twap(arr, int(np.floor(Kin)))
+                    kar.append(Kv)
                     Dv = SMAn(arr, int(np.floor(Din)))
                     #dar.append(Dv)
                     Kv1 = bbK(arr, int(np.floor(Kin)))
@@ -394,9 +394,9 @@ for i, file in enumerate(fileTicker):
 
 def run():
     k1 = 2
-    k2 = 200
+    k2 = 300
     l1 = 2
-    l2 = 200
+    l2 = 300
     j1 = 0.000
     j2 = 0.05
     k = k1

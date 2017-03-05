@@ -1,0 +1,289 @@
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.0632301795357313
+bitchCunt:	0.007
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.0560025708378715
+bitchCunt:	0.0105
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.030894693281176
+bitchCunt:	0.01365
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.0618687868994183
+bitchCunt:	0.017745
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.0538189852343212
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.0339528197723598
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.1045678011026252
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.107404173337715
+bitchCunt:	0.007
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.0620125506784768
+bitchCunt:	0.0105
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.0427832960656134
+bitchCunt:	0.01365
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.160943968110825
+bitchCunt:	0.017745
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.1517871580877972
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.13012734783884
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	9
+K1 in:	3
+D1 in:	3
+Len:	68
+
+Cumulative Diff:	1.207661410305897
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	10
+K1 in:	3
+D1 in:	3
+Len:	71
+
+Cumulative Diff:	1.0450821751153885
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.0269710322671952
+bitchCunt:	0.0035
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.0822506572382953
+bitchCunt:	0.007
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.0471203035565708
+bitchCunt:	0.0105
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.0425960866317923
+bitchCunt:	0.017745
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.0117428519834661
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.042916101399866
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	17
+K1 in:	3
+D1 in:	3
+Len:	83
+
+Cumulative Diff:	1.042916101399866
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	20
+K1 in:	3
+D1 in:	3
+Len:	71
+
+Cumulative Diff:	1.0130369292232613
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	3
+D in:	24
+K1 in:	3
+D1 in:	3
+Len:	63
+
+Cumulative Diff:	1.0331056216823584
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.0160936572056785
+bitchCunt:	0.017745
+
+Tick:	../../data/RTRX.txt
+K in:	4
+D in:	14
+K1 in:	4
+D1 in:	4
+Len:	76
+
+Cumulative Diff:	1.022952565940278
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/RTRX.txt
+K in:	4
+D in:	24
+K1 in:	4
+D1 in:	4
+Len:	71
+
+Cumulative Diff:	1.027162020361397
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/RTRX.txt
+K in:	4
+D in:	24
+K1 in:	4
+D1 in:	4
+Len:	71
+
+Cumulative Diff:	1.0213484076977135
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/RTRX.txt
+K in:	4
+D in:	24
+K1 in:	4
+D1 in:	4
+Len:	71
+
+Cumulative Diff:	1.0213484076977135
+bitchCunt:	0.038985765000000006
