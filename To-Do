@@ -10,9 +10,12 @@
   
 5-10bp:
     -Build overarching ML framework
-       -7bp w/o data sources, 10bp w/data sources
+       -8bp
     -Intrisic Value -and/or- Sentiment Analysis -or- Arbitrage strategy and Implementation for Cryptocurrencies
-       -7bp w/o data sources, 10bp w/data sources
+       -8bp
+    -Kelly Criterion based Risk Management Strategy
+       -requires probabilistic models built on decent sample size of environments and trades
+       -8bp
 
 4bp:
     -Environment Filter conceptualization and implementation
