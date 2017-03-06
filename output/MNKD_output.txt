@@ -1,9 +1,0 @@
-Tick:	../../data/MNKD.txt
-K in:	266
-D in:	29
-K1 in:	266
-D1 in:	266
-Len:	280
-
-Cumulative Diff:	0.667744645362042
-bitchCunt:	0.038985765000000006
