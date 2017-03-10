@@ -4,6 +4,7 @@ import math
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM
+from keras.metrics import binary_accuracy
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 import yahoo_finance
@@ -13,9 +14,6 @@ import urllib, time, datetime
 import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
-import scipy
-import warnings
-warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 def plot(a):
     y = np.arange(len(a))
@@ -179,7 +177,7 @@ class Quote(object):
 class GoogleIntradayQuote(Quote):
     ''' Intraday quotes from Google. Specify interval seconds and number of days '''
 
-    def __init__(self, symbol, interval_seconds=1200, num_days=10):
+    def __init__(self, symbol, interval_seconds=600, num_days=1):
         super(GoogleIntradayQuote, self).__init__()
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
@@ -198,6 +196,16 @@ class GoogleIntradayQuote(Quote):
             dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
             self.append(dt, open_, high, low, close, volume)
 
+def createBinaryTrainingSet(dataset, look_back):
+    X, Y = [], []
+    for i in range(len(dataset)-look_back-1):
+        a = dataset[i:i+look_back]
+        X.append(a)
+        if dataset[i + look_back] > dataset[i + look_back - 1]:
+            Y.append(1)
+        else:
+            Y.append(0)
+    return np.array(X), np.array(Y)
 
 def  getNum(str):
     tmp = ""
@@ -226,33 +234,33 @@ def CryptoQuote1(the_symbol):
             obj.volume.append(getNum(curr))
     return obj
 
-def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
+def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
+    # desc = sp.describe(perc)
     file = open(log, 'w')
     file.write("Tick:\t")
     file.write(tick)
-    file.write("\nN in:\t")
-    file.write(str(int(np.floor(Nin))))
-    file.write("\nnumBatch:\t")
-    file.write(str(int(np.floor(numBatch))))
-    file.write("\nnumEpoch:\t")
-    file.write(str(numEpoch))
-    file.write("\nerrorCalc:")
-    file.write(str(err))
-    file.write("\nopt:\t")
-    file.write(str(opt))
-    file.write("\nerrors:\t")
-    for i in range(len(diff) - 1):
-        file.write(str(diff[i]))
-        file.write(" ")
-    file.write("\nmean error:\t")
-    file.write(str(np.mean(diff)))
-    file.write("\nerror variance:\t")
-    file.write(str(np.var(diff)))
-    file.write("\nerror kurtosis:\t")
-    file.write(str(scipy.stats.kurtosis(diff, fisher=True)))
+    file.write("\nK in:\t")
+    file.write(str(int(np.floor(kin))))
+    # file.write("\nD in:\t")
+    # file.write(str(int(np.floor(din))))
+    file.write("\nLen:\t")
+    file.write(str(len(perc)))
+    # file.write("\n\n\nPercent Diff:\n")
+    # file.write(str(perc))
+    # file.write("\n\nDescribed Diff:\n")
+    # file.write(str(desc))
+    file.write("\n\nCumulative Diff:\t")
+    file.write(str(cuml))
+    file.write("\nbitchCunt:\t")
+    file.write(str(bitchCunt))
     file.close()
+    # print("Described diff")
+    # print(desc)
+    # print("Cumulative Diff")
+    # print("len:", len(perc))
+    # print(cuml[j])
 
-def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
+def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, tradeCost):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -261,74 +269,103 @@ def fucking_peter(tick, Nin, err, opt, log, fcuml, numEpoch, numBatch):
         f.close()
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
-        arr = []; diff = [];
+
+        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
+        kar = []; dar = []; cumld = []; shortDiff = []
+        stockBought = False; stopLoss = False
+        bull = 0; shit = 0; max = 0;
         scaler = MinMaxScaler(feature_range=(0,1))
         scaler1 = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > (len(stock) - 3):
+            if i > len(stock) - Nin * .9:
                 #print("\n\ninput array:", arr)
-                arry = scaler.fit_transform(arr[-Nin:])
-                dataset = scaler1.fit_transform(arr)
+                #arry = scaler.fit_transform(arr[-Nin:])
+                arry = arr[-Nin:]
+                #dataset = scaler1.fit_transform(arr)
+                train_size = int(len(dataset))
                 # reshape into X=t and Y=t+1
-                trainX, trainY = create_dataset(dataset, Nin)
+                trainX, trainY = createBinaryTrainingSet(arr, Nin)
                 # reshape input to be [samples, time steps, features]
                 trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-                arry = np.reshape(arry, (1, 1, arry.shape[0]))
+                arry = np.reshape(arry, (1, 1, len(arry)))
+                #arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
                 model.add(LSTM(4, input_dim=Nin))
                 model.add(Dense(1))
-                model.compile(loss= err, optimizer=opt)
-                model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
+                model.compile(loss='binary_crossentropy', optimizer='Adam')
+                model.fit(trainX, trainY, nb_epoch=4, batch_size=3, verbose=0)
                 # make predictions
-                #trainPredict = model.predict(trainX)
                 predict = model.predict(arry)
                 # invert predictions
                 arry = np.reshape(arry, (1, Nin))
-                #trainPredict = scaler1.inverse_transform(trainPredict)
-                trainY = scaler1.inverse_transform([trainY])
-                predict = scaler.inverse_transform(predict)
+                #predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
-                arry = scaler.inverse_transform(arry)
-                error = predict - arry[0][Nin - 1]
-                if error < 0:
-                    error *= -1
-                diff.append(error)
+                #arry = scaler.inverse_transform(arry)
                 #kar.append(predict)
-                #print("arry", arry[0][Nin-1])
+                print("arry", (arry[0][Nin - 1] - arry[0][Nin - 2]))
                 #if i > 100:
                 #plot(trainPredict)
-                #print("predict:", predict)
+                print("predict:", predict)
+                #print("predicted:", kar)
+                # calculate root mean squared error
+                if stockBought == True and closeData > max:
+                    max = closeData
+                if ((predict >= 0.1) and (stockBought == False and stopLoss == False)):
+                    buy.append(closeData * (1 + tradeCost))
+                    bull += 1
+                    stockBought = True
+                elif ((predict < 0.1) and stockBought == True):
+                    sell.append(closeData * (1 - tradeCost))
+                    max = 0
+                    shit += 1
+                    stockBought = False
+                elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
+                    sell.append(closeData * (1 - tradeCost))
+                    max = 0
+                    shit += 1
+                    stockBought = False
+                    stopLoss = True
+                elif ((predict < closeData) and stopLoss == True):
+                    stopLoss = False
+        if stockBought == True:
+            sell.append(stock[len(stock)-1])
+            shit += 1
+        for i in range(bull):
+            diff.append(sell[i] - buy[i])
+            if i < bull - 1:
+                shortDiff.append(sell[i] - buy[i + 1])
+        for i in range(bull):
+            perc.append(diff[i] / buy[i])
+        for i in range(bull - 1):
+            perc[i] += shortDiff[i] / sell[i]
+        for i in range(bull):
+            cuml[j] = cuml[j] + (cuml[j] * perc[i])
+            cumld.append(cuml[j])
 
-        # print("errors:", diff)
-        # print("mean error:", np.mean(diff))
-        # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
-        # print("error variance", np.var(diff))
-
-        write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
-
-    for i, cum in enumerate(fcuml):
-        if (os.path.isfile(fcuml[i]) == False):
-            with open(log[i]) as f:
-                with open(fcuml[i], "w") as f1:
-                    for line in f:
-                        #if "ROW" in line:
-                        f1.write(line)
-            f.close()
-            f1.close()
-        else:
-            with open(log[i]) as f:
-                with open(fcuml[i], "a") as f1:
-                    f1.write("\n\n")
-                    for line in f:
-                        #if "ROW" in line:
-                        f1.write(line)
-            f.close()
-            f1.close()
-
-    return cuml
+        write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
+        
+    for i, cum in enumerate(cuml):
+        if (cum > 0 or cum < 0):
+            if (os.path.isfile(fcuml[i]) == False):
+                with open(log[i]) as f:
+                    with open(fcuml[i], "w") as f1:
+                        for line in f:
+                            #if "ROW" in line:
+                            f1.write(line)
+                f.close()
+                f1.close()
+            else:
+                with open(log[i]) as f:
+                    with open(fcuml[i], "a") as f1:
+                        f1.write("\n\n")
+                        for line in f:
+                            #if "ROW" in line:
+                            f1.write(line)
+                f.close()
+                f1.close()
 
 ticker = ["BTC_ETH", "BTC_XMR"]
 fileTicker = []
@@ -347,7 +384,6 @@ for i, file in enumerate(fileTicker):
         # dataset = np.zeros(len(tick))
         # i = len(tick) - 1
         # while i >= 0:
-        #     ik = 0
         #     dataset[ik] = tick[i]['Close']
         #     i -= 1
         #     ik += 1
@@ -355,17 +391,4 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-opts = ['sgd', 'Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
-errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
-nins = [10, 20, 30, 60]
-batchs = [10, 30, 90, 150, 270, 1000]
-epochs = [10, 30, 90, 150, 270, 1000]
-
-for i in range(len(errs)):
-    for j in range(len(batchs)):
-        for k in range(len(epochs)):
-            for l in range(len(opts)):
-                for m in range(len(nins)):
-                    fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, fileCuml, epochs[k], batchs[j])
-
-#fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)
+fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)

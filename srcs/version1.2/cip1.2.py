@@ -243,7 +243,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin):
+            if i >= int(Din) and i >= int(Kin) and i >= len(stock) * 0.9:
                     Kv = EMAn(arr, int(np.floor(Kin)))
                     #kar.append(Kv)
                     Dv = SMAn(arr, int(np.floor(Din)))
@@ -368,8 +368,8 @@ def run():
                 if i > 0:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.01, save_min=0.0001, max_len=1000, bitchCunt=j, tradeCost=0.0005))
+                    fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
+                                    save_max=1.01, save_min=0.0001, max_len=1000, bitchCunt=j, tradeCost=0.0005)
                 if j < 0.01:
                     j += 0.0035
                 else:

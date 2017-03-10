@@ -310,6 +310,8 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
 
+        write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
+
     for i, cum in enumerate(cuml):
         if (cum > 0 or cum < 0):
             if (os.path.isfile(fcuml[i]) == False):
