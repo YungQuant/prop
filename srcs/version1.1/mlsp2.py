@@ -277,27 +277,25 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         scaler = MinMaxScaler(feature_range=(0,1))
         scaler1 = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
+        #dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
+        dataset = stock[:int(len(stock) - Nin * .666)]
+        trainX, trainY = createBinaryTrainingSet(dataset, Nin)
+        trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+
+        model = Sequential()
+        model.add(LSTM(4, input_dim=Nin, activation='sigmoid'))
+        model.add(Dense(1, activation='sigmoid'))
+        model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
+        model.fit(trainX, trainY, nb_epoch=30, batch_size=5, verbose=0)
+
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > len(stock) - Nin * .9:
+            if i > len(stock) - Nin * .666:
                 #print("\n\ninput array:", arr)
                 #arry = scaler.fit_transform(arr[-Nin:])
                 arry = arr[-Nin:]
-                #dataset = scaler1.fit_transform(arr)
-                train_size = int(len(dataset))
-                # reshape into X=t and Y=t+1
-                trainX, trainY = createBinaryTrainingSet(arr, Nin)
-                # reshape input to be [samples, time steps, features]
-                trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
                 arry = np.reshape(arry, (1, 1, len(arry)))
-                #arry = np.reshape(arry, (1, 1, arry.shape[0]))
-                # create and fit the LSTM network
-                model = Sequential()
-                model.add(LSTM(4, input_dim=Nin, activation='sigmoid'))
-                model.add(Dense(1, activation='sigmoid'))
-                model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
-                model.fit(trainX, trainY, nb_epoch=10, batch_size=3, verbose=0)
-                # make predictions
+                # arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 predict = model.predict(arry)
                 # invert predictions
                 arry = np.reshape(arry, (1, Nin))
@@ -305,7 +303,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 predict = predict[0][0]
                 #arry = scaler.inverse_transform(arry)
                 #kar.append(predict)
-                print("arry", (arry[0][Nin - 1] - stock[i + 1]))
+                if i < len(stock) - 1: print("arry", (arry[0][Nin - 1] - stock[i + 1]))
                 #if i > 100:
                 #plot(trainPredict)
                 print("predict:", predict)
@@ -345,7 +343,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
 
-        write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
+        write_that_shit(log[j], tik, Nin, perc, cuml[j], bitchCunt)
 
     for i, cum in enumerate(cuml):
         if (cum > 0 or cum < 0):
@@ -367,7 +365,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 f.close()
                 f1.close()
 
-ticker = ["BTC_ETH", "BTC_XMR"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", ]
 fileTicker = []
 fileOutput = []
 fileCuml = []
