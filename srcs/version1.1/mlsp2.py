@@ -293,10 +293,10 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 #arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
-                model.add(LSTM(4, input_dim=Nin))
-                model.add(Dense(1))
-                model.compile(loss='binary_crossentropy', optimizer='Adam')
-                model.fit(trainX, trainY, nb_epoch=4, batch_size=3, verbose=0)
+                model.add(LSTM(4, input_dim=Nin, activation='sigmoid'))
+                model.add(Dense(1, activation='sigmoid'))
+                model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
+                model.fit(trainX, trainY, nb_epoch=1, batch_size=1, verbose=0)
                 # make predictions
                 predict = model.predict(arry)
                 # invert predictions
@@ -305,7 +305,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 predict = predict[0][0]
                 #arry = scaler.inverse_transform(arry)
                 #kar.append(predict)
-                print("arry", (arry[0][Nin - 1] - arry[0][Nin - 2]))
+                print("arry", (arry[0][Nin - 1] - stock[i + 1]))
                 #if i > 100:
                 #plot(trainPredict)
                 print("predict:", predict)
@@ -313,11 +313,11 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 # calculate root mean squared error
                 if stockBought == True and closeData > max:
                     max = closeData
-                if ((predict >= 0.1) and (stockBought == False and stopLoss == False)):
+                if ((predict > 0.5) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1 + tradeCost))
                     bull += 1
                     stockBought = True
-                elif ((predict < 0.1) and stockBought == True):
+                elif ((predict < 0.5) and stockBought == True):
                     sell.append(closeData * (1 - tradeCost))
                     max = 0
                     shit += 1
@@ -346,7 +346,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
             cumld.append(cuml[j])
 
         write_that_shit(log[j], tik, Nin, perc, cuml, bitchCunt)
-        
+
     for i, cum in enumerate(cuml):
         if (cum > 0 or cum < 0):
             if (os.path.isfile(fcuml[i]) == False):
@@ -391,4 +391,4 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.10, tradeCost=0.00001)
+fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.50, tradeCost=0.00001)
