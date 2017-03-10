@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pandas as pd
 import math
 from keras.models import Sequential
@@ -9,10 +9,10 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 import yahoo_finance
 import numpy as np
-import urllib.request
+import urllib
 import urllib, time, datetime
 import scipy.stats as sp
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 import os.path
 
 def plot(a):
@@ -296,7 +296,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 model.add(LSTM(4, input_dim=Nin, activation='sigmoid'))
                 model.add(Dense(1, activation='sigmoid'))
                 model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
-                model.fit(trainX, trainY, nb_epoch=1, batch_size=1, verbose=0)
+                model.fit(trainX, trainY, nb_epoch=10, batch_size=3, verbose=0)
                 # make predictions
                 predict = model.predict(arry)
                 # invert predictions
