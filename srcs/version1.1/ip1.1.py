@@ -196,15 +196,23 @@ class GoogleIntradayQuote(Quote):
             self.append(dt, open_, high, low, close, volume)
 
 
-def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
+def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'w')
+    file = open(log, 'a')
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
     file.write(str(int(np.floor(kin))))
     file.write("\nD in:\t")
     file.write(str(int(np.floor(din))))
+    file.write("\nK1 in:\t")
+    # file.write(str(int(np.floor(kin1))))
+    # file.write("\nD1 in:\t")
+    # file.write(str(int(np.floor(din1))))
+    # file.write("\nK2 in:\t")
+    # file.write(str(int(np.floor(kin2))))
+    # file.write("\nD2 in:\t")
+    # file.write(str(int(np.floor(din2))))
     file.write("\nLen:\t")
     file.write(str(len(perc)))
     # file.write("\n\n\nPercent Diff:\n")
@@ -222,8 +230,7 @@ def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
     # print("len:", len(perc))
     # print(cuml[j])
 
-
-def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tick, Kin, Din, log, save_max, max_len, bitchCunt, tradeCost):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -282,29 +289,11 @@ def fucking_paul(tick, Kin, Din, log, fcuml, save_min, save_max, max_len, bitchC
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
 
-        write_that_shit(log[j], tik, Kin, Din, perc, cuml[j], bitchCunt)
-        # plot(perc, tik, 'Percent Return')
+        if cuml[j] > save_max and len(perc) <= max_len:
+            write_that_shit(log[j], tik, Kin, Din, perc, cuml[j], bitchCunt)
+            # plot(perc, tik, 'Percent Return')
         # plot2(kar, dar, tik)
         # plot(cumld, tik, 'Cuml Percent Return')
-
-        for i, cum in enumerate(cuml):
-            if (cum > save_max or cum < save_min and len(perc) <= max_len):
-                if (os.path.isfile(fcuml[i]) == False):
-                    with open(log[i]) as f:
-                        with open(fcuml[i], "w") as f1:
-                            for line in f:
-                                f1.write(line)
-                    f.close()
-                    f1.close()
-                else:
-                    with open(log[i]) as f:
-                        with open(fcuml[i], "a") as f1:
-                            f1.write("\n\n")
-                            for line in f:
-                                f1.write(line)
-                    f.close()
-                    f1.close()
-
     return cuml
 
 ticker = ["MNKD", "FNBC", "RTRX", "PTLA"]
@@ -332,41 +321,33 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-#fucking_paul(fileTicker, 10, 30, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
-k1 = 1
-k2 = 120
-l1 = 2
-l2 = 60
-j1 = 0.000
-j2 = 0.08
-k = k1
-i = l1
-j = j1
-returns = []
-if __name__ == '__main__':
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i > k:
-                    if (int(np.floor(i)) % 2 == 0):
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    fucking_paul(fileTicker, k, i, fileOutput, fileCuml, save_max=1.02, save_min=0.00, max_len=200, bitchCunt=j, tradeCost=0.0005)
-                if j < 0.01:
-                    j += 0.0035
-                else:
-                    j *= 1.3
-            j = j1
-            if (i < 10):
-                i += 1
+def run(k):
+    l1 = 2
+    l2 = 30
+    j1 = 0.000
+    j2 = 0.05
+    i = l1
+    j = j1
+    print(k)
+    while (i < l2):
+        while (j < j2):
+            if i > 0:
+                # if (int(np.floor(i)) % 2 == 0):
+                #     print(int(np.floor(i)), "/", l2, "k:", k)
+                fucking_paul(fileTicker, k, i, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+            if j < 0.01:
+                j += 0.0035
             else:
-                i *= 1.3
-        i = l1
-        if (k < 10):
-            k += 1
+                j *= 1.3
+        j = j1
+        if (i < 10):
+            i += 1
         else:
-            k *= 1.2
-#
-# plot(returns)
+            i *= 1.2
+
+
+p = Pool(8)
+p.map(run, np.arange(1, 300))
 
 
 

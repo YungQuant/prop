@@ -230,7 +230,7 @@ class GoogleIntradayQuote(Quote):
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'w')
+    file = open(log, 'a')
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
@@ -263,7 +263,7 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, tradeCost):
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -343,29 +343,10 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml)
 
-        write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
-    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+        if cuml[j] > save_max and len(perc) <= max_len:
+            write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)# DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
         # plot(perc)
         # plot2(s1ar, s2ar)
-
-    for i, cum in enumerate(cuml):
-        if (cum > save_max or cum < save_min and len(perc) <= max_len):
-            if (os.path.isfile(fcuml[i]) == False):
-                with open(log[i]) as f:
-                    with open(fcuml[i], "w") as f1:
-                        for line in f:
-                            f1.write(line)
-                f.close()
-                f1.close()
-            else:
-                with open(log[i]) as f:
-                    with open(fcuml[i], "a") as f1:
-                        f1.write("\n\n")
-                        for line in f:
-                            f1.write(line)
-                f.close()
-                f1.close()
-
     return cuml
 
 ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
@@ -376,7 +357,6 @@ dataset = []
 for i, tick in enumerate(ticker):
     fileTicker.append("../../data/" + tick + ".txt")
     fileOutput.append("../../output/" + tick + "_output.txt")
-    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
@@ -396,44 +376,31 @@ for i, file in enumerate(fileTicker):
 #fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
 
-def run():
-    k1 = 1
-    k2 = 600
+def run(k):
     l1 = 2
-    l2 = 600
+    l2 = 30
     j1 = 0.000
     j2 = 0.05
-    k = k1
     i = l1
     j = j1
-    returns = []
-    while (k < k2):
-        while (i < l2):
-            while (j < j2):
-                if i > 0:
-                    if (int(np.floor(i)) % 2 == 0):
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    returns.append(fucking_paul(fileTicker, k, i, k, k, fileOutput, fileCuml,
-                                    save_max=1.01, save_min=0.0001, max_len=1000, bitchCunt=j, tradeCost=0.0005))
-                if j < 0.01:
-                    j += 0.0035
-                else:
-                    j *= 1.3
-            j = j1
-            if (i < 10):
-                i += 1
+    print(k)
+    while (i < l2):
+        while (j < j2):
+            if i > 0:
+                # if (int(np.floor(i)) % 2 == 0):
+                #     print(int(np.floor(i)), "/", l2, "k:", k)
+                fucking_paul(fileTicker, k, i, k, k, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+            if j < 0.01:
+                j += 0.0035
             else:
-                i *= 1.2
-        i = l1
-        if (k < 10):
-            k += 1
-        elif (k < 1000):
-            k *= 1.2
-        elif (k < 10000):
-            k *= 1.05
+                j *= 1.3
+        j = j1
+        if (i < 10):
+            i += 1
         else:
-            k *= 1.01
-    return (returns)
+            i *= 1.2
 
-run()
+
+p = Pool(8)
+p.map(run, np.arange(1, 300))
 
