@@ -323,7 +323,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, fcuml, save_min, save_max, max
 
     return cuml
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID"]
+ticker = ["BTC_ETH", "BTC_XMR"]
 fileTicker = []
 fileOutput = []
 fileCuml = []

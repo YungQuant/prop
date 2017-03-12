@@ -2,8 +2,7 @@
 import pandas as pd
 import math
 from keras.models import Sequential
-from keras.layers import Dense
-from keras.layers import LSTM
+from keras.layers import LSTM, Dropout, Dense
 from keras.metrics import binary_accuracy
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
@@ -283,7 +282,9 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(LSTM(4, input_dim=Nin, activation='sigmoid'))
+        model.add(Dropout(0.2, input_shape=(1, Nin)))
+        model.add(LSTM(Nin, input_dim=Nin, activation='sigmoid'))
+        model.add(Dense(Nin, activation='relu'))
         model.add(Dense(1, activation='sigmoid'))
         model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=30, batch_size=5, verbose=0)
@@ -311,11 +312,11 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 # calculate root mean squared error
                 if stockBought == True and closeData > max:
                     max = closeData
-                if ((predict > 0.5) and (stockBought == False and stopLoss == False)):
+                if ((float(predict) > 0.5) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1 + tradeCost))
                     bull += 1
                     stockBought = True
-                elif ((predict < 0.5) and stockBought == True):
+                elif ((float(predict) < 0.5) and stockBought == True):
                     sell.append(closeData * (1 - tradeCost))
                     max = 0
                     shit += 1
@@ -326,7 +327,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                     shit += 1
                     stockBought = False
                     stopLoss = True
-                elif ((predict < closeData) and stopLoss == True):
+                elif ((float(predict) < 0.5) and stopLoss == True):
                     stopLoss = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
@@ -365,7 +366,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 f.close()
                 f1.close()
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", ]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -389,4 +390,4 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 30, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.50, tradeCost=0.00001)
+fucking_paul(fileTicker, 180, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.50, tradeCost=0.00001)
