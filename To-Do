@@ -21,6 +21,7 @@
 
 4bp:
     -Environment Filter conceptualization and implementation
+       -Genetic Algorithm for env?
        -3bp w/o data sources, 4bp w/data sources
     -Position entry system
        -must account for slippage and market impact
