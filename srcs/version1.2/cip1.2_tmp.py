@@ -300,14 +300,14 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, 
         #print("short adj perc:", perc)
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            cumld.append(cuml[j])
+            #cumld.append(cuml[j])
         #print("cuml[j]:", cuml[j])
 
         if cuml[j] > save_max and len(perc) <= max_len:
             write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
     # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
-        if cuml[j] > 10:
-            plot(cumld)
+        #if cuml[j] > 10:
+            #plot(cumld)
         # plot2(s1ar, s2ar)
     return cuml
 

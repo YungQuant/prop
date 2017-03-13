@@ -1,0 +1,233 @@
+Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	2
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.0227504242091372
+bitchCunt:	0.0105Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	2
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.01365Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	2
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.017745Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	2
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	3.1947310720571935
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	2
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	50.84797694708851
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	2
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	228.15588223877518
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	2
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	823.5872847137747
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	3
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.0227504242091372
+bitchCunt:	0.0105Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	3
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.01365Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	3
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.017745Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	3
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	3.1947310720571935
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	3
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	50.84797694708851
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	3
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	228.15588223877518
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	3
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	823.5872847137747
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	4
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.0227504242091372
+bitchCunt:	0.0105Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	4
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.01365Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	4
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.017745Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	4
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	3.1947310720571935
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	4
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	50.84797694708851
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	4
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	228.15588223877518
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	5
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.0227504242091372
+bitchCunt:	0.0105Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	4
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	823.5872847137747
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	5
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.01365Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	5
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.017745Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	5
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	3.1947310720571935
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	5
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	50.84797694708851
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	6
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.0227504242091372
+bitchCunt:	0.0105Tick:	../../data/BTC_DASH.txt
+K in:	66
+D in:	5
+K1 in:	66
+D1 in:	66
+Len:	1041
+
+Cumulative Diff:	228.15588223877518
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_DASH.txt
+K in:	40
+D in:	6
+K1 in:	40
+D1 in:	40
+Len:	1
+
+Cumulative Diff:	1.01119695424208
+bitchCunt:	0.01365
