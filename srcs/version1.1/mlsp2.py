@@ -235,7 +235,11 @@ def CryptoQuote1(the_symbol):
 
 def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'w')
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
@@ -274,10 +278,9 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         stockBought = False; stopLoss = False
         bull = 0; shit = 0; max = 0;
         scaler = MinMaxScaler(feature_range=(0,1))
-        scaler1 = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
         #dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
-        dataset = stock[:int(len(stock) - Nin * .666)]
+        dataset = stock[:int(len(stock) - Nin * .95)]
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
@@ -291,14 +294,15 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > len(stock) - Nin * .666:
+            if i > len(stock) - Nin * .95:
                 #print("\n\ninput array:", arr)
-                #arry = scaler.fit_transform(arr[-Nin:])
-                arry = arr[-Nin:]
+                arry = scaler.fit_transform(arr[-Nin:])
+                #arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 predict = model.predict(arry)
                 # invert predictions
+                arry = scaler.inverse_transform(arry)
                 arry = np.reshape(arry, (1, Nin))
                 #predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]

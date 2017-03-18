@@ -230,7 +230,11 @@ class GoogleIntradayQuote(Quote):
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'a')
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
@@ -265,6 +269,7 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
 
 def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, tradeCost):
     cuml = []
+    print(Kin)
     for j, tik in enumerate(tick):
         stock = []
         with open(tik, 'r') as f:
@@ -285,37 +290,33 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, 
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
             if i >= int(Din) and i >= int(Kin):
-                    Kv = twap(arr, int(np.floor(Kin)))
-                    kar.append(Kv)
-                    if Kv == (1 or 0):
-                        stopLoss = True
+                    Kv = SMAn(arr, int(np.floor(Kin)))
+                    #kar.append(Kv)
                     Dv = SMAn(arr, int(np.floor(Din)))
-                    dar.append(Dv)
-                    Kv1 = bbK(arr, int(np.floor(Kin)))
-                    kar1.append(Kv1)
-                    Dv1 = bbD(arr, int(np.floor(Kin)))
-                    dar1.append(Dv1)
+                    #dar.append(Dv)
+                    Kv1 = EMAn(arr, int(np.floor(Kin1)))
+                    #kar1.append(Kv1)
+                    Dv1 = EMAn(arr, int(np.floor(Din1)))
+                    #dar1.append(Dv1)
                     # Kv2 = SMAn(arr, Kin2)
                     # kar2.append(Kv2)
                     # Dv2 = SMAn(arr, Din2)
                     # dar2.append(Dv2)
-                    Kvl = [Kv, Kv1]
-                    Dvl = [Dv, Dv1]
-                    Kvl = scaler.fit_transform(Kvl)
-                    Dvl = scaler.fit_transform(Dvl)
-                    s1 = (Kvl[0] + Kvl[1]) / 2
-                    s2 = (Dvl[0] + Dvl[1]) / 2
-                    s1ar.append(s1)
-                    s2ar.append(s2)
-                    if len(buy) > max_len:
-                        return 0
+                    # Kvl = [Kv, Kv1]
+                    # Dvl = [Dv, Dv1]
+                    # Kvl = scaler.fit_transform(Kvl)
+                    # Dvl = scaler.fit_transform(Dvl)
+                    # s1 = (Kvl[0] + Kvl[1]) / 2
+                    # s2 = (Dvl[0] + Dvl[1]) / 2
+                    #s1ar.append(s1)
+                    #s2ar.append(s2)
                     if stockBought == True and closeData > max:
                         max = closeData
-                    if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                    if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                         buy.append(closeData * (1+tradeCost))
                         bull += 1
                         stockBought = True
-                    elif ((s1 < s2) and stockBought == True):
+                    elif ((Kv1 < Dv1) and stockBought == True):
                         sell.append(closeData * (1-tradeCost))
                         max = 0
                         shit += 1
@@ -326,7 +327,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, 
                         shit += 1
                         stockBought = False
                         stopLoss = True
-                    elif ((s1 < s2) and stopLoss == True):
+                    elif ((Kv > Dv) and stopLoss == True):
                         stopLoss = False
         if stockBought == True:
             sell.append(stock[len(stock)-1])
@@ -341,10 +342,11 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, 
             perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            cumld.append(cuml)
+            #cumld.append(cuml)
 
         if cuml[j] > save_max and len(perc) <= max_len:
-            write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)# DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+            write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
+        # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
         # plot(perc)
         # plot2(s1ar, s2ar)
     return cuml
@@ -377,19 +379,27 @@ for i, file in enumerate(fileTicker):
 
 
 def run(k):
-    l1 = 2
-    l2 = 30
+    i1 = 2
+    i2, l2, t2 = 300, 300, 300
     j1 = 0.000
     j2 = 0.05
-    i = l1
+    i, l, t = i1, i1, i1
     j = j1
     print(k)
-    while (i < l2):
+    while (i < i2):
         while (j < j2):
-            if i > 0:
-                # if (int(np.floor(i)) % 2 == 0):
-                #     print(int(np.floor(i)), "/", l2, "k:", k)
-                fucking_paul(fileTicker, k, i, k, k, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+            while (t < t2):
+                while (l < l2):
+                    print(k)
+                    fucking_paul(fileTicker, k, i, t, l, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+                    if (l < 10):
+                        l += 1
+                    else:
+                        l *= 1.2
+                if (t < 10):
+                    t += 1
+                else:
+                    t *= 1.2
             if j < 0.01:
                 j += 0.0035
             else:
@@ -403,4 +413,3 @@ def run(k):
 
 p = Pool(8)
 p.map(run, np.arange(1, 300))
-

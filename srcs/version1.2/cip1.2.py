@@ -189,7 +189,11 @@ def CryptoQuote1(the_symbol):
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'a')
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
@@ -243,7 +247,7 @@ def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin) and i > (len(stock) / 2):
+            if i >= int(Din) and i >= int(Kin):
                     Kv = EMAn(arr, int(np.floor(Kin)))
                     #kar.append(Kv)
                     Dv = SMAn(arr, int(np.floor(Din)))
@@ -356,5 +360,5 @@ def run(k):
             i *= 1.2
 
 
-p = Pool(8)
-p.map(run, np.arange(1, 300))
+p = Pool(8, maxtasksperchild=1)
+p.map(run, np.arange(1, 300), chunksize=1)

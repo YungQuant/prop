@@ -1,0 +1,8529 @@
+Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	101
+
+Cumulative Diff:	1.013807980000619
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	98
+
+Cumulative Diff:	1.0798069043766192
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	97
+
+Cumulative Diff:	1.043958962772369
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	93
+
+Cumulative Diff:	1.0722012312162317
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	93
+
+Cumulative Diff:	1.055657074339944
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	82
+
+Cumulative Diff:	1.0504337505908599
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	81
+
+Cumulative Diff:	1.0233630724351035
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	82
+
+Cumulative Diff:	1.1116741556355405
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	82
+
+Cumulative Diff:	1.0315120721654976
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	75
+
+Cumulative Diff:	1.0513231184719207
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	11
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	68
+
+Cumulative Diff:	1.041259555322491
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	13
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	90
+
+Cumulative Diff:	1.0239374660133158
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	13
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	89
+
+Cumulative Diff:	1.0102099319695224
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	13
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	65
+
+Cumulative Diff:	1.0479798610968212
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	14
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	94
+
+Cumulative Diff:	1.0308175237285788
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	14
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	93
+
+Cumulative Diff:	1.047752277573262
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	14
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	92
+
+Cumulative Diff:	1.0337054675509185
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	14
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	74
+
+Cumulative Diff:	1.0232193859560736
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	14
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	67
+
+Cumulative Diff:	1.0711315652193907
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	15
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	95
+
+Cumulative Diff:	1.0590854539637817
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	15
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	94
+
+Cumulative Diff:	1.076484606627084
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	15
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	93
+
+Cumulative Diff:	1.0513247893954405
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	10
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	96
+
+Cumulative Diff:	1.0896514133656847
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	10
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	91
+
+Cumulative Diff:	1.066618210104756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	10
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	69
+
+Cumulative Diff:	1.0592857553603416
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	21
+
+Cumulative Diff:	1.0956740164916963
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	21
+
+Cumulative Diff:	1.0956740164916963
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	21
+
+Cumulative Diff:	1.0956740164916963
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	21
+
+Cumulative Diff:	1.0956740164916963
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	22
+
+Cumulative Diff:	1.0786836617856725
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	22
+
+Cumulative Diff:	1.0786836617856725
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	22
+
+Cumulative Diff:	1.0786836617856725
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	22
+
+Cumulative Diff:	1.0786836617856725
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	23
+
+Cumulative Diff:	1.091992505978843
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	24
+
+Cumulative Diff:	1.082296417201606
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	24
+
+Cumulative Diff:	1.0813824403108787
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	24
+
+Cumulative Diff:	1.082296417201606
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.0813824403108787
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	24
+
+Cumulative Diff:	1.082296417201606
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	24
+
+Cumulative Diff:	1.0813824403108787
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	25
+
+Cumulative Diff:	1.0646137016557653
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	24
+
+Cumulative Diff:	1.0894496502761057
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	1.0646137016557653
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	161
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	24
+
+Cumulative Diff:	1.0894496502761057
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	25
+
+Cumulative Diff:	1.0646137016557653
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	25
+
+Cumulative Diff:	1.0646137016557653
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	26
+
+Cumulative Diff:	1.077775877008365
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	15
+
+Cumulative Diff:	1.0495405260390542
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	27
+
+Cumulative Diff:	1.0682060214203257
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	15
+
+Cumulative Diff:	1.0495405260390542
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	27
+
+Cumulative Diff:	1.0682060214203257
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	15
+
+Cumulative Diff:	1.0495405260390542
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	27
+
+Cumulative Diff:	1.0682060214203257
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	15
+
+Cumulative Diff:	1.0495405260390542
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	157
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	27
+
+Cumulative Diff:	1.0682060214203257
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	15
+
+Cumulative Diff:	1.0495405260390542
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	16
+
+Cumulative Diff:	1.033265552326665
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	16
+
+Cumulative Diff:	1.033265552326665
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	17
+
+Cumulative Diff:	1.0179974120841506
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	17
+
+Cumulative Diff:	1.0179974120841506
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	17
+
+Cumulative Diff:	1.0291459085234096
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	20
+
+Cumulative Diff:	1.0326704180440835
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	21
+
+Cumulative Diff:	1.0743309536968029
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	17
+
+Cumulative Diff:	1.0291459085234096
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	21
+
+Cumulative Diff:	1.0743309536968029
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	17
+
+Cumulative Diff:	1.0291459085234096
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	21
+
+Cumulative Diff:	1.0743309536968029
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	17
+
+Cumulative Diff:	1.0291459085234096
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	10
+
+Cumulative Diff:	1.0464410521791392
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	21
+
+Cumulative Diff:	1.0743309536968029
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	11
+
+Cumulative Diff:	1.0731787497807452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	21
+
+Cumulative Diff:	1.0743309536968029
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	17
+
+Cumulative Diff:	1.0517357566613255
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	11
+
+Cumulative Diff:	1.0731787497807452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	22
+
+Cumulative Diff:	1.057671560756724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	171
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	17
+
+Cumulative Diff:	1.0517357566613255
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	11
+
+Cumulative Diff:	1.0731787497807452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	22
+
+Cumulative Diff:	1.057671560756724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	11
+
+Cumulative Diff:	1.0731787497807452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	22
+
+Cumulative Diff:	1.057671560756724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	22
+
+Cumulative Diff:	1.057671560756724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	11
+
+Cumulative Diff:	1.0731787497807452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	23
+
+Cumulative Diff:	1.070721156767436
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	12
+
+Cumulative Diff:	1.0565372237909936
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.0565372237909936
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	23
+
+Cumulative Diff:	1.070721156767436
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	12
+
+Cumulative Diff:	1.0565372237909936
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	23
+
+Cumulative Diff:	1.070721156767436
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	12
+
+Cumulative Diff:	1.0565372237909936
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	23
+
+Cumulative Diff:	1.070721156767436
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	12
+
+Cumulative Diff:	1.052979859401125
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	23
+
+Cumulative Diff:	1.0942176058598978
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.052979859401125
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	162
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	23
+
+Cumulative Diff:	1.0942176058598978
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	12
+
+Cumulative Diff:	1.052979859401125
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	12
+
+Cumulative Diff:	1.052979859401125
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	12
+
+Cumulative Diff:	1.0760928649712338
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	15
+
+Cumulative Diff:	1.0480392498604523
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	181
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	12
+
+Cumulative Diff:	1.0760928649712338
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	15
+
+Cumulative Diff:	1.0480392498604523
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	15
+
+Cumulative Diff:	1.0480392498604523
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	15
+
+Cumulative Diff:	1.0480392498604523
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	15
+
+Cumulative Diff:	1.0480392498604523
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	16
+
+Cumulative Diff:	1.0317875560784093
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	16
+
+Cumulative Diff:	1.0317875560784093
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	16
+
+Cumulative Diff:	1.0317875560784093
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	16
+
+Cumulative Diff:	1.0317875560784093
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	19
+
+Cumulative Diff:	1.0394607571353065
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	16
+
+Cumulative Diff:	1.043087073894925
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	20
+
+Cumulative Diff:	1.0813952322355596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	20
+
+Cumulative Diff:	1.0813952322355596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	16
+
+Cumulative Diff:	1.043087073894925
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	20
+
+Cumulative Diff:	1.0813952322355596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	16
+
+Cumulative Diff:	1.043087073894925
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	1.0813952322355596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	16
+
+Cumulative Diff:	1.043087073894925
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	20
+
+Cumulative Diff:	1.0813952322355596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	10
+
+Cumulative Diff:	1.039064199951714
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	21
+
+Cumulative Diff:	1.064626295219132
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	16
+
+Cumulative Diff:	1.0659829319056882
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	11
+
+Cumulative Diff:	1.0656134110220452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.064626295219132
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	172
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	16
+
+Cumulative Diff:	1.0659829319056882
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	11
+
+Cumulative Diff:	1.0656134110220452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	1.064626295219132
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	11
+
+Cumulative Diff:	1.0656134110220452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	21
+
+Cumulative Diff:	1.064626295219132
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	11
+
+Cumulative Diff:	1.0656134110220452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	22
+
+Cumulative Diff:	1.0777616990348984
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	22
+
+Cumulative Diff:	1.0934826679108756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	11
+
+Cumulative Diff:	1.0656134110220452
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	23
+
+Cumulative Diff:	1.0681919693368163
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	22
+
+Cumulative Diff:	1.0934826679108756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	12
+
+Cumulative Diff:	1.0490891989295357
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	22
+
+Cumulative Diff:	1.0934826679108756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	23
+
+Cumulative Diff:	1.0681919693368163
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.0490891989295357
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	22
+
+Cumulative Diff:	1.0934826679108756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	23
+
+Cumulative Diff:	1.0681919693368163
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	12
+
+Cumulative Diff:	1.0490891989295357
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.076526293922759
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	23
+
+Cumulative Diff:	1.0916329166552323
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.076526293922759
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	12
+
+Cumulative Diff:	1.0490891989295357
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	23
+
+Cumulative Diff:	1.076526293922759
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	12
+
+Cumulative Diff:	1.0455569120644532
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	163
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	23
+
+Cumulative Diff:	1.0916329166552323
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	23
+
+Cumulative Diff:	1.076526293922759
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	191
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	7
+
+Cumulative Diff:	1.0516576463017675
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.0455569120644532
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	24
+
+Cumulative Diff:	1.0898085204208892
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	12
+
+Cumulative Diff:	1.0455569120644532
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	25
+
+Cumulative Diff:	1.080131823826054
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	12
+
+Cumulative Diff:	1.0455569120644532
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	25
+
+Cumulative Diff:	1.080131823826054
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	13
+
+Cumulative Diff:	1.010868258732811
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	12
+
+Cumulative Diff:	1.0685069832520975
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	25
+
+Cumulative Diff:	1.080131823826054
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	14
+
+Cumulative Diff:	1.0516438141932625
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	14
+
+Cumulative Diff:	1.0516438141932625
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	182
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	12
+
+Cumulative Diff:	1.0685069832520975
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	25
+
+Cumulative Diff:	1.0872707504308283
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	14
+
+Cumulative Diff:	1.0516438141932625
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	159
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	25
+
+Cumulative Diff:	1.0872707504308283
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	14
+
+Cumulative Diff:	1.0516438141932625
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	14
+
+Cumulative Diff:	1.0516438141932625
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	15
+
+Cumulative Diff:	1.0353362252949225
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	15
+
+Cumulative Diff:	1.0353362252949225
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	16
+
+Cumulative Diff:	1.0200374875693081
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	16
+
+Cumulative Diff:	1.0200374875693081
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	16
+
+Cumulative Diff:	1.0312083256903941
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	16
+
+Cumulative Diff:	1.0312083256903941
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	16
+
+Cumulative Diff:	1.0312083256903941
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	16
+
+Cumulative Diff:	1.0312083256903941
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	16
+
+Cumulative Diff:	1.0538434440764002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	10
+
+Cumulative Diff:	1.0243406311682197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	173
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	16
+
+Cumulative Diff:	1.0538434440764002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	22
+
+Cumulative Diff:	1.0885164609472957
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	22
+
+Cumulative Diff:	1.0885164609472957
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	22
+
+Cumulative Diff:	1.0885164609472957
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	22
+
+Cumulative Diff:	1.0885164609472957
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.0716370967418194
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.0716370967418194
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	23
+
+Cumulative Diff:	1.0716370967418194
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	23
+
+Cumulative Diff:	1.0716370967418194
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	24
+
+Cumulative Diff:	1.0848590001203768
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	24
+
+Cumulative Diff:	1.0848590001203768
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	192
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	7
+
+Cumulative Diff:	1.0516576463017675
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	24
+
+Cumulative Diff:	1.0848590001203768
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	24
+
+Cumulative Diff:	1.0848590001203768
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	13
+
+Cumulative Diff:	1.0101407901902169
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	24
+
+Cumulative Diff:	1.092029170101069
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	14
+
+Cumulative Diff:	1.050892423691728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	14
+
+Cumulative Diff:	1.050892423691728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	160
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	24
+
+Cumulative Diff:	1.092029170101069
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	183
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	14
+
+Cumulative Diff:	1.050892423691728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	14
+
+Cumulative Diff:	1.050892423691728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	14
+
+Cumulative Diff:	1.050892423691728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	15
+
+Cumulative Diff:	1.0345964864260377
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	15
+
+Cumulative Diff:	1.0345964864260377
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	15
+
+Cumulative Diff:	1.0345964864260377
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.0345964864260377
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.0459267659612048
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	15
+
+Cumulative Diff:	1.0459267659612048
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0459267659612048
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	15
+
+Cumulative Diff:	1.0459267659612048
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	15
+
+Cumulative Diff:	1.0688849554761841
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	10
+
+Cumulative Diff:	1.0243406311682197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	174
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	15
+
+Cumulative Diff:	1.0688849554761841
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	13
+
+Cumulative Diff:	1.010868258732811
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	193
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	7
+
+Cumulative Diff:	1.0516576463017675
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	14
+
+Cumulative Diff:	1.0366970330921268
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	14
+
+Cumulative Diff:	1.0366970330921268
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	14
+
+Cumulative Diff:	1.0366970330921268
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	184
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	14
+
+Cumulative Diff:	1.0366970330921268
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	14
+
+Cumulative Diff:	1.0366970330921268
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	15
+
+Cumulative Diff:	1.0206212203505627
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	15
+
+Cumulative Diff:	1.0206212203505627
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	15
+
+Cumulative Diff:	1.0206212203505627
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	18
+
+Cumulative Diff:	1.041763580882197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.0206212203505627
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	18
+
+Cumulative Diff:	1.041763580882197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	18
+
+Cumulative Diff:	1.041763580882197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.0317984511625893
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	18
+
+Cumulative Diff:	1.041763580882197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	15
+
+Cumulative Diff:	1.0317984511625893
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	18
+
+Cumulative Diff:	1.041763580882197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	15
+
+Cumulative Diff:	1.0317984511625893
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	19
+
+Cumulative Diff:	1.0256092023968144
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	15
+
+Cumulative Diff:	1.0317984511625893
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	19
+
+Cumulative Diff:	1.0256092023968144
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	19
+
+Cumulative Diff:	1.0256092023968144
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	15
+
+Cumulative Diff:	1.0544465228574402
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	19
+
+Cumulative Diff:	1.0256092023968144
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	175
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	15
+
+Cumulative Diff:	1.0544465228574402
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	10
+
+Cumulative Diff:	1.0243406311682197
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	20
+
+Cumulative Diff:	1.038263211687347
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	20
+
+Cumulative Diff:	1.038263211687347
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	20
+
+Cumulative Diff:	1.038263211687347
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	20
+
+Cumulative Diff:	1.038263211687347
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	20
+
+Cumulative Diff:	1.0610531854752756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	11
+
+Cumulative Diff:	1.0505136391749097
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	166
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	20
+
+Cumulative Diff:	1.0610531854752756
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	12
+
+Cumulative Diff:	1.0342235756300533
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	12
+
+Cumulative Diff:	1.0274976442584658
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	194
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	7
+
+Cumulative Diff:	1.0516576463017675
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	185
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	12
+
+Cumulative Diff:	1.0307413413686728
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	17
+
+Cumulative Diff:	1.0453465610495607
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	17
+
+Cumulative Diff:	1.0453465610495607
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	17
+
+Cumulative Diff:	1.0453465610495607
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	14
+
+Cumulative Diff:	1.0487721508320837
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	17
+
+Cumulative Diff:	1.0453465610495607
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	14
+
+Cumulative Diff:	1.0487721508320837
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	17
+
+Cumulative Diff:	1.0453465610495607
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	18
+
+Cumulative Diff:	1.0291366221483684
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	14
+
+Cumulative Diff:	1.0487721508320837
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	18
+
+Cumulative Diff:	1.0291366221483684
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	14
+
+Cumulative Diff:	1.0487721508320837
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	19
+
+Cumulative Diff:	1.0139294934095007
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	14
+
+Cumulative Diff:	1.0717927968088676
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	19
+
+Cumulative Diff:	1.0139294934095007
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	176
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	14
+
+Cumulative Diff:	1.0717927968088676
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	20
+
+Cumulative Diff:	1.026439397961415
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	20
+
+Cumulative Diff:	1.026439397961415
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	9
+
+Cumulative Diff:	1.0337925877893523
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	10
+
+Cumulative Diff:	1.0602071034828378
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	20
+
+Cumulative Diff:	1.026439397961415
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	10
+
+Cumulative Diff:	1.0602071034828378
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	20
+
+Cumulative Diff:	1.026439397961415
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	10
+
+Cumulative Diff:	1.0602071034828378
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	20
+
+Cumulative Diff:	1.048969837941486
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	10
+
+Cumulative Diff:	1.0602071034828378
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	10
+
+Cumulative Diff:	1.0602071034828378
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	167
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	20
+
+Cumulative Diff:	1.048969837941486
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	11
+
+Cumulative Diff:	1.0437667257072494
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	11
+
+Cumulative Diff:	1.0437667257072494
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	11
+
+Cumulative Diff:	1.0437667257072494
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	11
+
+Cumulative Diff:	1.0437667257072494
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	11
+
+Cumulative Diff:	1.0402523596274271
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.0402523596274271
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	12
+
+Cumulative Diff:	1.020203121449582
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	11
+
+Cumulative Diff:	1.0402523596274271
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	13
+
+Cumulative Diff:	1.0462704116201356
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	13
+
+Cumulative Diff:	1.0462704116201356
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	11
+
+Cumulative Diff:	1.0402523596274271
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	13
+
+Cumulative Diff:	1.0462704116201356
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	11
+
+Cumulative Diff:	1.0630859953971195
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	195
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	7
+
+Cumulative Diff:	1.0516576463017675
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	13
+
+Cumulative Diff:	1.0462704116201356
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	13
+
+Cumulative Diff:	1.0462704116201356
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	186
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	11
+
+Cumulative Diff:	1.0630859953971195
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.0300461467892845
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.0300461467892845
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	17
+
+Cumulative Diff:	1.043851283972067
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	14
+
+Cumulative Diff:	1.0300461467892845
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	17
+
+Cumulative Diff:	1.043851283972067
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	17
+
+Cumulative Diff:	1.043851283972067
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	14
+
+Cumulative Diff:	1.0300461467892845
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	17
+
+Cumulative Diff:	1.043851283972067
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	14
+
+Cumulative Diff:	1.0413265937368288
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	17
+
+Cumulative Diff:	1.043851283972067
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	14
+
+Cumulative Diff:	1.0413265937368288
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	18
+
+Cumulative Diff:	1.027664531974596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	14
+
+Cumulative Diff:	1.0413265937368288
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	18
+
+Cumulative Diff:	1.027664531974596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	14
+
+Cumulative Diff:	1.0413265937368288
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.027664531974596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	18
+
+Cumulative Diff:	1.027664531974596
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	14
+
+Cumulative Diff:	1.0641838090448499
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	19
+
+Cumulative Diff:	1.040343900007534
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	177
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	14
+
+Cumulative Diff:	1.0641838090448499
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	19
+
+Cumulative Diff:	1.040343900007534
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	19
+
+Cumulative Diff:	1.040343900007534
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	9
+
+Cumulative Diff:	1.0300833481897742
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	19
+
+Cumulative Diff:	1.040343900007534
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	10
+
+Cumulative Diff:	1.0564030888106084
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	10
+
+Cumulative Diff:	1.0564030888106084
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	19
+
+Cumulative Diff:	1.0631795450970594
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	10
+
+Cumulative Diff:	1.0564030888106084
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	168
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	19
+
+Cumulative Diff:	1.0631795450970594
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	10
+
+Cumulative Diff:	1.0564030888106084
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	10
+
+Cumulative Diff:	1.0564030888106084
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	12
+
+Cumulative Diff:	1.0274976442584658
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	13
+
+Cumulative Diff:	1.053751317354848
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	187
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	10
+
+Cumulative Diff:	1.0457323505397942
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	16
+
+Cumulative Diff:	1.0474414444622058
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	16
+
+Cumulative Diff:	1.0474414444622058
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	16
+
+Cumulative Diff:	1.0474414444622058
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	14
+
+Cumulative Diff:	1.0374110479094472
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	16
+
+Cumulative Diff:	1.0474414444622058
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.0474414444622058
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	14
+
+Cumulative Diff:	1.0339180814181699
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	17
+
+Cumulative Diff:	1.0311990207053787
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	14
+
+Cumulative Diff:	1.0339180814181699
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	17
+
+Cumulative Diff:	1.0311990207053787
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	14
+
+Cumulative Diff:	1.0339180814181699
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	18
+
+Cumulative Diff:	1.0159614167509834
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	14
+
+Cumulative Diff:	1.0339180814181699
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	18
+
+Cumulative Diff:	1.0159614167509834
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	1.0270876161917892
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	14
+
+Cumulative Diff:	1.0566126791937105
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	18
+
+Cumulative Diff:	1.0270876161917892
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	178
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	14
+
+Cumulative Diff:	1.0566126791937105
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	18
+
+Cumulative Diff:	1.0270876161917892
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	18
+
+Cumulative Diff:	1.0270876161917892
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	7
+
+Cumulative Diff:	1.0266151379466069
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	18
+
+Cumulative Diff:	1.049632284622135
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	8
+
+Cumulative Diff:	1.052846262054827
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	169
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	18
+
+Cumulative Diff:	1.049632284622135
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	8
+
+Cumulative Diff:	1.052846262054827
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	8
+
+Cumulative Diff:	1.052846262054827
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	8
+
+Cumulative Diff:	1.052846262054827
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	8
+
+Cumulative Diff:	1.052846262054827
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	11
+
+Cumulative Diff:	1.0443481695515606
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	12
+
+Cumulative Diff:	1.0710323917445945
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	12
+
+Cumulative Diff:	1.0710323917445945
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	12
+
+Cumulative Diff:	1.0710323917445945
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	12
+
+Cumulative Diff:	1.0710323917445945
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	12
+
+Cumulative Diff:	1.0710323917445945
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	16
+
+Cumulative Diff:	1.0459431708367122
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	13
+
+Cumulative Diff:	1.0544241488151431
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	16
+
+Cumulative Diff:	1.0459431708367122
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	188
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	8
+
+Cumulative Diff:	1.0422114513270002
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	13
+
+Cumulative Diff:	1.0544241488151431
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	16
+
+Cumulative Diff:	1.0459431708367122
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	16
+
+Cumulative Diff:	1.0459431708367122
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	13
+
+Cumulative Diff:	1.0544241488151431
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	16
+
+Cumulative Diff:	1.0459431708367122
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	13
+
+Cumulative Diff:	1.0544241488151431
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	17
+
+Cumulative Diff:	1.0297239804503588
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	13
+
+Cumulative Diff:	1.050873899155833
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	17
+
+Cumulative Diff:	1.0297239804503588
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	13
+
+Cumulative Diff:	1.050873899155833
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	17
+
+Cumulative Diff:	1.0297239804503588
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	13
+
+Cumulative Diff:	1.050873899155833
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	17
+
+Cumulative Diff:	1.0297239804503588
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	13
+
+Cumulative Diff:	1.050873899155833
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	17
+
+Cumulative Diff:	1.0410008992255915
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	17
+
+Cumulative Diff:	1.0410008992255915
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	13
+
+Cumulative Diff:	1.0739406787032448
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	17
+
+Cumulative Diff:	1.0410008992255915
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	179
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	13
+
+Cumulative Diff:	1.0739406787032448
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	17
+
+Cumulative Diff:	1.0410008992255915
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	17
+
+Cumulative Diff:	1.063850965508885
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	170
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	17
+
+Cumulative Diff:	1.063850965508885
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	189
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	8
+
+Cumulative Diff:	1.0172926680826884
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	189
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	8
+
+Cumulative Diff:	1.0172926680826884
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	189
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	8
+
+Cumulative Diff:	1.0172926680826884
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	189
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	8
+
+Cumulative Diff:	1.0172926680826884
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	11
+
+Cumulative Diff:	1.029556758289824
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	12
+
+Cumulative Diff:	1.0558630439707208
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	12
+
+Cumulative Diff:	1.0558630439707208
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	12
+
+Cumulative Diff:	1.0558630439707208
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	12
+
+Cumulative Diff:	1.0558630439707208
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	12
+
+Cumulative Diff:	1.0558630439707208
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	13
+
+Cumulative Diff:	1.0394900284861643
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	13
+
+Cumulative Diff:	1.0394900284861643
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	13
+
+Cumulative Diff:	1.0394900284861643
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	13
+
+Cumulative Diff:	1.0394900284861643
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	13
+
+Cumulative Diff:	1.035990062060285
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	13
+
+Cumulative Diff:	1.035990062060285
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	13
+
+Cumulative Diff:	1.035990062060285
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	13
+
+Cumulative Diff:	1.035990062060285
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	13
+
+Cumulative Diff:	1.0587301400030817
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	180
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	13
+
+Cumulative Diff:	1.0587301400030817
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	6
+
+Cumulative Diff:	1.062716832316248
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	7
+
+Cumulative Diff:	1.0898703936558352
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	241
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	242
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	2
+
+Cumulative Diff:	1.0170062798709445
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	7
+
+Cumulative Diff:	1.0788616018007258
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	190
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	7
+
+Cumulative Diff:	1.0516576463017675
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	251
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	237
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	261
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	252
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	243
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	2
+
+Cumulative Diff:	1.0154733257616153
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	238
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	262
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	253
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	244
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	239
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	4
+
+Cumulative Diff:	1.0377940746426217
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	263
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	254
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	245
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	240
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	4
+
+Cumulative Diff:	1.0629163860832151
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	264
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	255
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	246
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	265
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	256
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	247
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	257
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	266
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	248
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	258
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	249
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	2
+
+Cumulative Diff:	1.0342856913424527
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	24
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	29
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	35
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	42
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	51
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	61
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	74
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	259
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	89
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	106
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	3
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	128
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	4
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	154
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	5
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	250
+D in:	2
+K1 in:	2
+D1 in:	184
+Len:	2
+
+Cumulative Diff:	1.0238383611268724
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	7
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	10
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	12
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	14
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	17
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	20
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	221
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0Tick:	../../data/NTP.txt
+K in:	260
+D in:	2
+K1 in:	2
+D1 in:	266
+Len:	1
+
+Cumulative Diff:	1.016106672691052
+bitchCunt:	0.0

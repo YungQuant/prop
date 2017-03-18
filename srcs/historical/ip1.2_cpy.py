@@ -230,7 +230,11 @@ class GoogleIntradayQuote(Quote):
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'w')
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")

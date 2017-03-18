@@ -17,7 +17,9 @@
        -requires probabilistic models built on decent sample size of environments and trades
        -8bp
     -Build "mlsp3" by training and trading keras NN in ip1.1 style framework on OHLCV data from all vehicles in environment
-       -Use binary classification on intraday time periods, or deep predictions for intraday updated position/swing trading
+       -Use binary classification on daily time periods, or deep predictions for intraday updated position/swing trading
+    -Intrinsic Value and/or Event Focused strategies
+       -10bp per asset class
 
 4bp:
     -Environment Filter conceptualization and implementation

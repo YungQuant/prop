@@ -230,7 +230,11 @@ class GoogleIntradayQuote(Quote):
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'a')
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
@@ -263,87 +267,92 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, tradeCost):
+
+def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
+    #tik = t[0]; log = t[1]; Kin = t[2]; Din = t[3]; save_max = t[4]; max_len = t[5]; bitchCunt = t[6]; tradeCost = t[7]
     cuml = []
-    for j, tik in enumerate(tick):
-        stock = []
-        with open(tik, 'r') as f:
-            stock1 = f.readlines()
-        f.close()
-        for i, stocks in enumerate(stock1):
-            stock.append(float(stocks))
+    stock = []
+    print(tik)
+    with open(tik, 'r') as f:
+        stock1 = f.readlines()
+    f.close()
+    for i, stocks in enumerate(stock1):
+        stock.append(float(stocks))
 
-        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
-        kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2);
-        Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []
-        stockBought = False
-        stopLoss = False
-        bull = 0; shit = 0; max = 0;
-        cuml.append(1)
+    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; kar = []; dar = []; cumld = []; kar1 = [];
+    dar1 = [];Kvl = np.zeros(2); Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; stockBought = False
+    stopLoss = False; bull = 0; shit = 0; max = 0; cuml.append(1);
 
-        for i, closeData in enumerate(stock):
-            arr.append(closeData)
-            scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin):
-                    Kv = twap(arr, int(np.floor(Kin)))
-                    kar.append(Kv)
-                    Dv = SMAn(kar, int(np.floor(Din)))
-                    #dar.append(Dv)
-                    Kv1 = bbK(arr, int(np.floor(Kin)))
-                    #kar1.append(Kv1)
-                    Dv1 = bbD(arr, int(np.floor(Kin)))
-                    #dar1.append(Dv1)
-                    # Kv2 = SMAn(arr, Kin2)
-                    # kar2.append(Kv2)
-                    # Dv2 = SMAn(arr, Din2)
-                    # dar2.append(Dv2)
-                    Kvl = [Kv, Kv1]
-                    Dvl = [Dv, Dv1]
-                    Kvl = scaler.fit_transform(Kvl)
-                    Dvl = scaler.fit_transform(Dvl)
-                    s1 = (Kvl[0] + Kvl[1]) / 2
-                    s2 = (Dvl[0] + Dvl[1]) / 2
-                    #s1ar.append(s1)
-                    #s2ar.append(s2)
-                    if stockBought == True and closeData > max:
-                        max = closeData
-                    if ((s1 > s2) and (stockBought == False and stopLoss == False)):
-                        buy.append(closeData * (1+tradeCost))
-                        bull += 1
-                        stockBought = True
-                    elif ((s1 < s2) and stockBought == True):
-                        sell.append(closeData * (1-tradeCost))
-                        max = 0
-                        shit += 1
-                        stockBought = False
-                    elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData * (1-tradeCost))
-                        max = 0
-                        shit += 1
-                        stockBought = False
-                        stopLoss = True
-                    elif ((s1 < s2) and stopLoss == True):
-                        stopLoss = False
-        if stockBought == True:
-            sell.append(stock[len(stock)-1])
-            shit += 1
-        for i in range(bull):
-            diff.append(sell[i] - buy[i])
-            if i < bull - 1:
-                shortDiff.append(sell[i] - buy[i + 1])
-        for i in range(bull):
-            perc.append(diff[i] / buy[i])
-        for i in range(bull - 1):
-            perc[i] += shortDiff[i] / sell[i]
-        for i in range(bull):
-            cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            #cumld.append(cuml)
+    for i, closeData in enumerate(stock):
+        arr.append(closeData)
+        scaler = MinMaxScaler(feature_range=(0, 1))
+        if i >= int(Din) and i >= int(Kin):
+            Kv = twap(arr, int(np.floor(Kin)))
+            kar.append(Kv)
+            Dv = SMAn(kar, int(np.floor(Din)))
+            # dar.append(Dv)
+            Kv1 = bbK(arr, int(np.floor(Kin)))
+            # kar1.append(Kv1)
+            Dv1 = bbD(arr, int(np.floor(Kin)))
+            # dar1.append(Dv1)
+            # Kv2 = SMAn(arr, Kin2)
+            # kar2.append(Kv2)
+            # Dv2 = SMAn(arr, Din2)
+            # dar2.append(Dv2)
+            Kvl = [Kv, Kv1]
+            Dvl = [Dv, Dv1]
+            Kvl = scaler.fit_transform(Kvl)
+            Dvl = scaler.fit_transform(Dvl)
+            s1 = (Kvl[0] + Kvl[1]) / 2
+            s2 = (Dvl[0] + Dvl[1]) / 2
+            # s1ar.append(s1)
+            # s2ar.append(s2)
+            if stockBought == True and closeData > max:
+                max = closeData
+            if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                buy.append(closeData * (1 + tradeCost))
+                bull += 1
+                stockBought = True
+            elif ((s1 < s2) and stockBought == True):
+                sell.append(closeData * (1 - tradeCost))
+                max = 0
+                shit += 1
+                stockBought = False
+            elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
+                sell.append(closeData * (1 - tradeCost))
+                max = 0
+                shit += 1
+                stockBought = False
+                stopLoss = True
+            elif ((s1 < s2) and stopLoss == True):
+                stopLoss = False
+    if stockBought == True:
+        sell.append(stock[len(stock) - 1])
+        shit += 1
+    for i in range(bull):
+        diff.append(sell[i] - buy[i])
+        if i < bull - 1:
+            shortDiff.append(sell[i] - buy[i + 1])
+    for i in range(bull):
+        perc.append(diff[i] / buy[i])
+    for i in range(bull - 1):
+        perc[i] += shortDiff[i] / sell[i]
+    for i in range(bull):
+        cuml[j] = cuml[j] + (cuml[j] * perc[i])
+        # cumld.append(cuml)
 
-        if cuml[j] > save_max and len(perc) <= max_len:
-            write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
-    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+    if cuml[j] > save_max and len(perc) <= max_len:
+        write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
+        # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
         # plot(perc)
         # plot2(s1ar, s2ar)
+
+def surrender(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+    n_proc = 2
+    k = [k] * n_proc; i = [i] * n_proc; save_max = [save_max] * n_proc; bitchCunt = [bitchCunt] * n_proc;
+    max_len = [max_len] * n_proc; tradeCost = [tradeCost] * n_proc;
+    p = Pool(n_proc)
+    p.starmap_async(fucking_paul, [fileTicker, fileOutput, k, i, k, k, save_max, max_len, bitchCunt, tradeCost])
 
 
 ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
@@ -374,31 +383,38 @@ for i, file in enumerate(fileTicker):
 #fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
 
-def run(k):
+def run():
+    k1 = 1
+    k2 = 300
     l1 = 2
-    l2 = 30
+    l2 = 300
     j1 = 0.000
     j2 = 0.05
+    k = k1
     i = l1
     j = j1
-    print(k)
-    while (i < l2):
-        while (j < j2):
-            if i > 0:
-                # if (int(np.floor(i)) % 2 == 0):
-                #     print(int(np.floor(i)), "/", l2, "k:", k)
-                fucking_paul(fileTicker, k, i, k, k, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
-            if j < 0.01:
-                j += 0.0035
+    returns = []
+    while (k < k2):
+        while (i < l2):
+            while (j < j2):
+                if i > 0:
+                    if (int(np.floor(i)) % 2 == 0):
+                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+                    surrender(fileTicker, k, i, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+                j += 0.0025
+            j = j1
+            if (i < 10):
+                i += 1
             else:
-                j *= 1.3
-        j = j1
-        if (i < 10):
-            i += 1
+                i *= 1.3
+        i = l1
+        if (k < 10):
+            k += 1
+        elif (k < 1000):
+            k *= 1.2
+        elif (k < 10000):
+            k *= 1.05
         else:
-            i *= 1.2
+            k *= 1.01
 
-
-p = Pool(8)
-p.map(run, np.arange(1, 300))
-
+run()
