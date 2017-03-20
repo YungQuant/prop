@@ -303,7 +303,7 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
         perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
         cuml += cuml * perc[i]
-        
+
     print("len:", len(perc))
 
     if cuml > save_max and len(perc) <= max_len:
