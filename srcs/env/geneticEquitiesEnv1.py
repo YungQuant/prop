@@ -1,4 +1,5 @@
 from random import randint
+import random
 from scipy.fftpack import fft, ifft, rfft, irfft, dct, idct, dst, idst
 import numpy as np
 import urllib.request
@@ -101,35 +102,132 @@ def plotFFT(a, b):
     plt.xlabel('Time Periods')
     plt.show()
 
-def create_individual(size, total_env):
-    return [ total_env[randint(0, len(total_env))] for x in range(size) ]
+def BBn(a, n, stddevD, stddevU): #GETS BOLLINGER BANDS OF "N" PERIODS AND STDDEV"UP" OR STDDEV"DOWN" LENGTHS
+    cpy = a[-n:] #RETURNS IN FORMAT: LOWER BAND, MIDDLE BAND, LOWER BAND
+    midb = SMAn(a, n) #CALLS SMAn
+    std = np.std(cpy)
+    ub = midb + (std * stddevU)
+    lb = midb - (std * stddevD)
+    return lb, midb, ub
 
-def create_population(count, size, total_env):
+def SMAn(a, n):                         #GETS SIMPLE MOVING AVERAGE OF "N" PERIODS FROM "A" ARRAY
+    si = 0
+    if (len(a) < n):
+        n = len(a)
+    n = int(np.floor(n))
+    for k in range(n):
+        si += a[(len(a) - 1) - k]
+    si /= n
+    return si
+
+def get_yahoo(tick):
+    dataset = []
+    with open(tick, 'r') as dick:
+        data = dick.readlines()
+    dick.close()
+    for i, stocks in enumerate(data):
+        dataset.append(float(stocks))
+    return dataset
+
+def create_individual(size, total_env):
+    return [ total_env[randint(0, len(total_env) -1)] for x in range(size) ]
+
+def create_family(count, size, total_env):
     return [ create_individual(size, total_env) for x in range(count) ]
 
+def check_range_breaks(data):
+    arr = []; breaks = 0;
+    for i in range(len(data) - 1):
+        arr.append(data[i])
+        lb, mb, ub = BBn(arr, 30, 3, 3)
+        if data[i + 1] > ub or data[i + 1] < lb:
+            breaks += 1
+    return breaks
+
 def assess_fitness(indv):
-    #APPLY FFT/DCT
-    #FIT TO ORIGINAL ARRAY
-    #ASSESS ACCURACY OF TRANSFORM
-    return accuracy
+    data = []; tot = 0;
+    for i in range(len(indv) -1):
+        data = get_yahoo(indv[i])
+        tot += check_range_breaks(data)
+    return tot
 
-def assess_population(pop):
-    return sum([assess_fitness(pop[i]) for i in range(len(pop))])
+def assess_family(fam):
+    return sum([assess_fitness(fam[i]) for i in range(len(fam))]) / len(fam)
 
-y = GoogleIntradayQuote("AAPL").close
+def assess_res(res):
+    for i in range(len(res)):
+        res[i].append(assess_family(res[i]))
 
-# tick = yahoo_finance.Share("MNKD").get_historical('2010-01-02', '2017-01-01')
-# y = np.zeros(len(tick))
-# i = len(tick) - 1
-# ik = 0
-# while i >= 0:
-#     y[ik] = tick[i]['Close']
-#     i -= 1
-#     ik += 1
 
-fftY = fft(y)
-dctY = dct(y)
-scaler = MinMaxScaler(feature_range=(min(y),max(y)))
-#plotFFT(y, idct(y))
-#plotFFT(y, scaler.fit_transform(ifft(fftY)))
-plot2(y, fftY)
+def epigenetics(parent):
+    avg_fit = assess_family(parent[:-1])
+    gene_mod = []
+    for i in range(len(parent) -1):
+        if assess_fitness(parent[i]) > avg_fit:
+            gene_mod.append(parent[i])
+    return gene_mod
+
+def evolve(env, population, prob_retain, entropy):
+
+    for i, fam in enumerate(population):
+        fam.append(assess_family(fam))
+    population.sort(key=lambda x: x[-1])
+    parents = population[:int(np.floor(prob_retain * len(population)))]
+
+    for i in range(len(parents)):
+        for k in range(len(parents[i]) -1):
+            for j in range(len(parents[i][k])):
+                if random.uniform(0, 1) < entropy:
+                    parents[i][k][j] = env[randint(0, len(env) - 1)]
+
+    new_pop = []; desired_len = len(population);
+    while len(new_pop) < desired_len:
+        p1 = parents[randint(0, len(parents) -1)]; p2 = parents[randint(0, len(parents) -1)];
+        print("p1, p2", p1, p2)
+        new_fam = epigenetics(p1) + epigenetics(p2)
+        print("new fam:", new_fam)
+        new_pop.append(new_fam)
+    return new_pop
+
+def evolution(env, len_pop, len_fam, len_indv, prob_retain, entropy, len_time):
+    pop = []
+    for i in range(len_pop):
+        pop.append(create_family(len_fam, len_indv, env))
+    pop[0] = create_family(len_fam, len_indv, env)
+
+    for i in range(len_time):
+        pop = evolve(env, pop, prob_retain, entropy)
+        print("popopopop")
+
+    for i, fam in enumerate(pop):
+        fam.append(assess_family(fam))
+    pop.sort(key=lambda x: x[-1])
+
+    return pop[len(pop)]
+
+environment = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+fileTicker = []; fileOutput = [];
+for i, tick in enumerate(environment):
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_output.txt")
+
+for i, file in enumerate(fileTicker):
+    if (os.path.isfile(file) == False):
+        fileWrite = open(file, 'w')
+        #dataset = GoogleIntradayQuote(ticker[i]).close
+        tick = yahoo_finance.Share(environment[i]).get_historical('2015-01-02', '2017-01-01')
+        dataset = np.zeros(len(tick))
+        i = len(tick) - 1
+        ik = 0
+        while i >= 0:
+            dataset[ik] = tick[i]['Close']
+            i -= 1
+            ik += 1
+        for i, close in enumerate(dataset):
+            fileWrite.write(str(close))
+            fileWrite.write('\n')
+
+res = evolution(fileTicker, 10, 4, 4, 0.2, 0.1, 100)
+
+print(res, assess_res(res))
+
