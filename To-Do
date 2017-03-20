@@ -36,7 +36,7 @@
     -Add dimensionality to Machine Learning systems inputs w/OHLV gata, financials, news, etc..
         -1bp/ML system updated, .5bp for each additional dimension ("etc..") added 
         -Sources: Intrino?
-
+    -Dockerfile system implementation
 2bp:
     -Options Chain, and Cryptocurrency Data Scraper/Source
        -1bp/data type
