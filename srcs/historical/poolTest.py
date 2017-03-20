@@ -4,7 +4,10 @@ import urllib, time, datetime
 import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
-from multiprocessing import Pool
+#from multiprocessing import Pool
+
+from joblib import Parallel, delayed
+
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 import warnings
@@ -268,9 +271,9 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
 
 
 
-def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, tradeCost):
     #tik = t[0]; log = t[1]; Kin = t[2]; Din = t[3]; save_max = t[4]; max_len = t[5]; bitchCunt = t[6]; tradeCost = t[7]
-    cuml = []
+    cuml = 0.0
     stock = []
     print(tik)
     with open(tik, 'r') as f:
@@ -279,9 +282,9 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
 
-    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; kar = []; dar = []; cumld = []; kar1 = [];
+    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; kar = []; dar = []; kar1 = [];
     dar1 = [];Kvl = np.zeros(2); Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; stockBought = False
-    stopLoss = False; bull = 0; shit = 0; max = 0; cuml.append(1);
+    stopLoss = False; bull = 0; shit = 0; max = 0; cuml = 0.0
 
     for i, closeData in enumerate(stock):
         arr.append(closeData)
@@ -291,9 +294,9 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
             kar.append(Kv)
             Dv = SMAn(kar, int(np.floor(Din)))
             # dar.append(Dv)
-            Kv1 = bbK(arr, int(np.floor(Kin)))
+            Kv1 = bbK(arr, int(np.floor(Kin1)))
             # kar1.append(Kv1)
-            Dv1 = bbD(arr, int(np.floor(Kin)))
+            Dv1 = bbD(arr, int(np.floor(Din1)))
             # dar1.append(Dv1)
             # Kv2 = SMAn(arr, Kin2)
             # kar2.append(Kv2)
@@ -338,21 +341,31 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i in range(bull - 1):
         perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
-        cuml[j] = cuml[j] + (cuml[j] * perc[i])
-        # cumld.append(cuml)
+        cuml += cuml * perc[i]
 
-    if cuml[j] > save_max and len(perc) <= max_len:
-        write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
+    if cuml > save_max and len(perc) <= max_len:
+        write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
         # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
         # plot(perc)
         # plot2(s1ar, s2ar)
 
 def surrender(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 2
+    n_proc = 8
     k = [k] * n_proc; i = [i] * n_proc; save_max = [save_max] * n_proc; bitchCunt = [bitchCunt] * n_proc;
     max_len = [max_len] * n_proc; tradeCost = [tradeCost] * n_proc;
-    p = Pool(n_proc)
-    p.starmap_async(fucking_paul, [fileTicker, fileOutput, k, i, k, k, save_max, max_len, bitchCunt, tradeCost])
+    p = Pool(n_proc, maxtasksperchild=1)
+    p.starmap_async(fucking_paul, [fileTicker, fileOutput, k, i, k, k, save_max, max_len, bitchCunt, tradeCost], chunksize=1)
+
+
+def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+    n_proc = 8
+    verbOS = 10
+    inc = 0
+    Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
+            (fileTicker[inc], fileOutput[inc], k, i, k, k, save_max, max_len, bitchCunt, tradeCost)
+            for inc, file in enumerate(fileTicker))
+
+
 
 
 ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
@@ -400,7 +413,7 @@ def run():
                 if i > 0:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    surrender(fileTicker, k, i, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
                 j += 0.0025
             j = j1
             if (i < 10):

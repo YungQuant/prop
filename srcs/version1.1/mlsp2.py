@@ -280,21 +280,23 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         scaler = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
         #dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
-        dataset = stock[:int(len(stock) - Nin * .95)]
+        dataset = stock[:len(stock) * .95]
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
+        model.add(Dense(Nin, input_shape=(1, Nin)))
         model.add(Dropout(0.2, input_shape=(1, Nin)))
-        model.add(LSTM(Nin, input_dim=Nin, activation='sigmoid'))
         model.add(Dense(Nin, activation='relu'))
-        model.add(Dense(1, activation='sigmoid'))
+        model.add(LSTM(Nin, activation='sigmoid'))
+        model.add(Dense(Nin, activation='sigmoid'))
+        model.add(Dense(1, activation='relu'))
         model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=30, batch_size=5, verbose=0)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > len(stock) - Nin * .95:
+            if i > len(stock) * .95:
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 #arry = arr[-Nin:]
@@ -348,27 +350,10 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
             cuml[j] = cuml[j] + (cuml[j] * perc[i])
             cumld.append(cuml[j])
 
-        write_that_shit(log[j], tik, Nin, perc, cuml[j], bitchCunt)
+        if cuml[j] > save_max and len(perc) <= max_len:
+            write_that_shit(log[j], tik, Nin, perc, cuml[j], bitchCunt)
+        # plot(perc)
 
-    for i, cum in enumerate(cuml):
-        if (cum > 0 or cum < 0):
-            if (os.path.isfile(fcuml[i]) == False):
-                with open(log[i]) as f:
-                    with open(fcuml[i], "w") as f1:
-                        for line in f:
-                            #if "ROW" in line:
-                            f1.write(line)
-                f.close()
-                f1.close()
-            else:
-                with open(log[i]) as f:
-                    with open(fcuml[i], "a") as f1:
-                        f1.write("\n\n")
-                        for line in f:
-                            #if "ROW" in line:
-                            f1.write(line)
-                f.close()
-                f1.close()
 
 ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID"]
 fileTicker = []
@@ -394,4 +379,4 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-fucking_paul(fileTicker, 180, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.50, tradeCost=0.00001)
+fucking_paul(fileTicker, 2000, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.50, tradeCost=0.0005)
