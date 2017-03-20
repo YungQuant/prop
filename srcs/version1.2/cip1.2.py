@@ -232,7 +232,6 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
 
 
 def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, tradeCost):
-    print(tik)
     stock = []
     with open(tik, 'r') as f:
         stock1 = f.readlines()
@@ -252,9 +251,9 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
         arr.append(closeData)
         scaler = MinMaxScaler(feature_range=(0, 1))
         if i >= int(Din) and i >= int(Kin):
-                Kv = EMAn(arr, int(np.floor(Kin)))
-                #kar.append(Kv)
-                Dv = SMAn(arr, int(np.floor(Din)))
+                Kv = rsiN(arr, int(np.floor(Kin)))
+                kar.append(Kv)
+                Dv = SMAn(kar, int(np.floor(Din)))
                 #dar.append(Dv)
                 Kv1 = bbK(arr, int(np.floor(Kin)))
                 #kar1.append(Kv1)
@@ -304,6 +303,8 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
         perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
         cuml += cuml * perc[i]
+        
+    print("len:", len(perc))
 
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
@@ -352,7 +353,7 @@ def run():
     k1 = 1
     k2 = 300
     l1 = 2
-    l2 = 300
+    l2 = 30
     j1 = 0.000
     j2 = 0.15
     k = k1
@@ -365,7 +366,7 @@ def run():
                 if i > 0:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=20000, bitchCunt=j, tradeCost=0.0005)
                 if (j < 0.01):
                     j += 0.0035
                 else:

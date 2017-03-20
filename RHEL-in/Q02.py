@@ -1,5 +1,3 @@
-#crypto ema:sma
-
 import numpy as np
 import urllib.request
 import urllib, time, datetime
@@ -7,6 +5,11 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
+
+
+from joblib import Parallel, delayed
+
+
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 import warnings
@@ -191,7 +194,11 @@ def CryptoQuote1(the_symbol):
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
-    file = open(log, 'a')
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
@@ -212,7 +219,7 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # file.write(str(perc))
     # file.write("\n\nDescribed Diff:\n")
     # file.write(str(desc))
-    file.write("\n\nCumulative Diff:\t")
+    file.write("\n\nstoch BB Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -224,96 +231,96 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, tradeCost):
-    cuml = []
-    for j, tik in enumerate(tick):
-        stock = []
-        with open(tik, 'r') as f:
-            stock1 = f.readlines()
-        f.close()
-        for i, stocks in enumerate(stock1):
-            stock.append(float(stocks))
+def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, tradeCost):
+    stock = []
+    with open(tik, 'r') as f:
+        stock1 = f.readlines()
+    f.close()
+    for i, stocks in enumerate(stock1):
+        stock.append(float(stocks))
 
-        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
-        kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2);
-        Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []
-        stockBought = False
-        stopLoss = False
-        bull = 0; shit = 0; max = 0;
-        cuml.append(1)
 
-        for i, closeData in enumerate(stock):
-            arr.append(closeData)
-            scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin) and i > (len(stock) / 2):
-                    Kv = EMAn(arr, int(np.floor(Kin)))
-                    kar.append(Kv)
-                    Dv = SMAn(kar, int(np.floor(Din)))
-                    #dar.append(Dv)
-                    Kv1 = bbK(arr, int(np.floor(Kin)))
-                    #kar1.append(Kv1)
-                    Dv1 = bbD(arr, int(np.floor(Kin)))
-                    #dar1.append(Dv1)
-                    # Kv2 = SMAn(arr, Kin2)
-                    # kar2.append(Kv2)
-                    # Dv2 = SMAn(arr, Din2)
-                    # dar2.append(Dv2)
-                    Kvl = [Kv, Kv1]
-                    Dvl = [Dv, Dv1]
-                    Kvl = scaler.fit_transform(Kvl)
-                    Dvl = scaler.fit_transform(Dvl)
-                    s1 = (Kvl[0] + Kvl[1]) / 2
-                    s2 = (Dvl[0] + Dvl[1]) / 2
-                    #s1ar.append(s1)
-                    #s2ar.append(s2)
-                    if stockBought == True and closeData > max:
-                        max = closeData
-                    if ((s1 > s2) and (stockBought == False and stopLoss == False)):
-                        buy.append(closeData * (1+tradeCost))
-                        bull += 1
-                        stockBought = True
-                    elif ((s1 < s2) and stockBought == True):
-                        sell.append(closeData * (1-tradeCost))
-                        max = 0
-                        shit += 1
-                        stockBought = False
-                    elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData * (1-tradeCost))
-                        max = 0
-                        shit += 1
-                        stockBought = False
-                        stopLoss = True
-                    elif ((s1 < s2) and stopLoss == True):
-                        stopLoss = False
-        if stockBought == True:
-            sell.append(stock[len(stock)-1])
-            shit += 1
-        for i in range(bull):
-            diff.append(sell[i] - buy[i])
-        #print("diff:", diff)
-        for i in range(bull - 1):
+    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
+    kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
+    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 0.0
+    stockBought = False
+    stopLoss = False
+    bull = 0; shit = 0; max = 0;
+
+    for i, closeData in enumerate(stock):
+        arr.append(closeData)
+        scaler = MinMaxScaler(feature_range=(0, 1))
+        if i >= int(Din) and i >= int(Kin):
+                Kv = stochK(arr, int(np.floor(Kin)))
+                kar.append(Kv)
+                Dv = SMAn(kar, int(np.floor(Din)))
+                #dar.append(Dv)
+                Kv1 = bbK(arr, int(np.floor(Kin)))
+                #kar1.append(Kv1)
+                Dv1 = bbD(arr, int(np.floor(Kin)))
+                #dar1.append(Dv1)
+                # Kv2 = SMAn(arr, Kin2)
+                # kar2.append(Kv2)
+                # Dv2 = SMAn(arr, Din2)
+                # dar2.append(Dv2)
+                Kvl = [Kv, Kv1]
+                Dvl = [Dv, Dv1]
+                Kvl = scaler.fit_transform(Kvl)
+                Dvl = scaler.fit_transform(Dvl)
+                s1 = (Kvl[0] + Kvl[1]) / 2
+                s2 = (Dvl[0] + Dvl[1]) / 2
+                #s1ar.append(s1)
+                #s2ar.append(s2)
+                if stockBought == True and closeData > max:
+                    max = closeData
+                if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                    buy.append(closeData * (1+tradeCost))
+                    bull += 1
+                    stockBought = True
+                elif ((s1 < s2) and stockBought == True):
+                    sell.append(closeData * (1-tradeCost))
+                    max = 0
+                    shit += 1
+                    stockBought = False
+                elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
+                    sell.append(closeData * (1-tradeCost))
+                    max = 0
+                    shit += 1
+                    stockBought = False
+                    stopLoss = True
+                elif ((s1 < s2) and stopLoss == True):
+                    stopLoss = False
+    if stockBought == True:
+        sell.append(stock[len(stock) - 1])
+        shit += 1
+    for i in range(bull):
+        diff.append(sell[i] - buy[i])
+        if i < bull - 1:
             shortDiff.append(sell[i] - buy[i + 1])
-        #print("short diff:", shortDiff)
-        for i in range(bull):
-            perc.append(diff[i] / buy[i])
-        #print("perc:", perc)
-        for i in range(bull - 1):
-            perc[i] += shortDiff[i] / sell[i]
-        #print("short adj perc:", perc)
-        for i in range(bull):
-            cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            #cumld.append(cuml[j])
-        #print("cuml[j]:", cuml[j])
+    for i in range(bull):
+        perc.append(diff[i] / buy[i])
+    for i in range(bull - 1):
+        perc[i] += shortDiff[i] / sell[i]
+    for i in range(bull):
+        cuml += cuml * perc[i]
 
-        if cuml[j] > save_max and len(perc) <= max_len:
-            write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
-    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
-        #if cuml[j] > 10:
-            #plot(cumld)
-        # plot2(s1ar, s2ar)
+    if cuml > save_max and len(perc) <= max_len:
+        write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
+# DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+    # plot(perc)
+    # plot2(s1ar, s2ar)
     return cuml
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID"]
+def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+    n_proc = 8
+    verbOS = 10
+    inc = 0
+    Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
+            (fileTicker[inc], fileOutput[inc], k, i, k, k, save_max, max_len, bitchCunt, tradeCost)
+            for inc, file in enumerate(fileTicker))
+
+
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -339,30 +346,42 @@ for i, file in enumerate(fileTicker):
 
 #fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
-def run(k):
+
+def run():
+    k1 = 1
+    k2 = 300
     l1 = 2
     l2 = 30
     j1 = 0.000
     j2 = 0.15
+    k = k1
     i = l1
     j = j1
-    print(k)
-    while (i < l2):
-        while (j < j2):
-            if i > 0:
-                # if (int(np.floor(i)) % 2 == 0):
-                #     print(int(np.floor(i)), "/", l2, "k:", k)
-                fucking_paul(fileTicker, k, i, k, k, fileOutput, save_max=1.01, max_len=10000, bitchCunt=j, tradeCost=0.0005)
-            if j < 0.01:
-                j += 0.0035
+    returns = []
+    while (k < k2):
+        while (i < l2):
+            while (j < j2):
+                if i > 0:
+                    if (int(np.floor(i)) % 2 == 0):
+                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=30000000, bitchCunt=j, tradeCost=0.0005)
+                if (j < 0.01):
+                    j += 0.0035
+                else:
+                    j *= 1.3
+            j = j1
+            if (i < 10):
+                i += 1
             else:
-                j *= 1.3
-        j = j1
-        if (i < 10):
-            i += 1
+                i *= 1.3
+        i = l1
+        if (k < 10):
+            k += 1
+        elif (k < 1000):
+            k *= 1.2
+        elif (k < 10000):
+            k *= 1.05
         else:
-            i *= 1.2
+            k *= 1.01
 
-
-p = Pool(48)
-p.map(run, np.arange(1, 300))
+run()
