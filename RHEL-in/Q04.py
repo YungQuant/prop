@@ -128,33 +128,12 @@ def BBn(a, n, stddevD, stddevU): #GETS BOLLINGER BANDS OF "N" PERIODS AND STDDEV
     lb = midb - (std * stddevD)
     return lb, midb, ub
 
-def bbK(arr, Kin):
-    close = arr[len(arr)-1]
-    lb1, midb1, ub1 = BBn(arr, Kin, 2, 2)
-    lb2, midb2, ub2 = BBn(arr, Kin, 3, 3)
-    if (close > ub2):
-        return 1
-    elif (close > ub1):
-        return 0.25
-    elif (close < lb1):
-        return 0.75
-    elif (close < lb2):
-        return 0
-    else:
-        return 0.5
-
-def bbD(arr, Din):
-    close = arr[len(arr) - 1]
-    lb1, midb1, ub1 = BBn(arr, Din, 2, 2)
-    lb2, midb2, ub2 = BBn(arr, Din, 3, 3)
-    if (close > ub2):
-        return 0
-    elif (close > ub1):
-        return 0.75
-    elif (close < lb1):
-        return 0.25
-    elif (close < lb2):
-        return 1
+def BBmomma(arr, Kin):
+    lb, mb, ub = BBn(arr, Kin, 2.5, 2.5)
+    srange = ub - lb
+    pos = arr[-1] - lb
+    if srange > 0:
+        return pos/srange
     else:
         return 0.5
 
@@ -192,7 +171,7 @@ def CryptoQuote1(the_symbol):
             obj.volume.append(getNum(curr))
     return obj
 
-def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
+def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
     if os.path.isfile(log):
         th = 'a'
@@ -206,20 +185,13 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     file.write("\nD in:\t")
     file.write(str(int(np.floor(din))))
     file.write("\nK1 in:\t")
-    file.write(str(int(np.floor(kin1))))
-    file.write("\nD1 in:\t")
-    file.write(str(int(np.floor(din1))))
-    # file.write("\nK2 in:\t")
-    # file.write(str(int(np.floor(kin2))))
-    # file.write("\nD2 in:\t")
-    # file.write(str(int(np.floor(din2))))
     file.write("\nLen:\t")
     file.write(str(len(perc)))
     # file.write("\n\n\nPercent Diff:\n")
     # file.write(str(perc))
     # file.write("\n\nDescribed Diff:\n")
     # file.write(str(desc))
-    file.write("\n\n ema,sma BB Cumulative Diff:\t")
+    file.write("\n\n BBmomma Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -231,7 +203,7 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     stock = []
     with open(tik, 'r') as f:
         stock1 = f.readlines()
@@ -249,35 +221,18 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
 
     for i, closeData in enumerate(stock):
         arr.append(closeData)
-        scaler = MinMaxScaler(feature_range=(0, 1))
         if i >= int(Din) and i >= int(Kin):
-                Kv = EMAn(arr, int(np.floor(Kin)))
-                #kar.append(Kv)
-                Dv = SMAn(arr, int(np.floor(Din)))
+                Kv = BBmomma(arr, int(np.floor(Kin)))
+                kar.append(Kv)
+                Dv = SMAn(kar, int(np.floor(Din)))
                 #dar.append(Dv)
-                Kv1 = bbK(arr, int(np.floor(Kin)))
-                #kar1.append(Kv1)
-                Dv1 = bbD(arr, int(np.floor(Kin)))
-                #dar1.append(Dv1)
-                # Kv2 = SMAn(arr, Kin2)
-                # kar2.append(Kv2)
-                # Dv2 = SMAn(arr, Din2)
-                # dar2.append(Dv2)
-                Kvl = [Kv, Kv1]
-                Dvl = [Dv, Dv1]
-                Kvl = scaler.fit_transform(Kvl)
-                Dvl = scaler.fit_transform(Dvl)
-                s1 = (Kvl[0] + Kvl[1]) / 2
-                s2 = (Dvl[0] + Dvl[1]) / 2
-                #s1ar.append(s1)
-                #s2ar.append(s2)
                 if stockBought == True and closeData > max:
                     max = closeData
-                if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1+tradeCost))
                     bull += 1
                     stockBought = True
-                elif ((s1 < s2) and stockBought == True):
+                elif ((Kv < Dv) and stockBought == True):
                     sell.append(closeData * (1-tradeCost))
                     max = 0
                     shit += 1
@@ -288,7 +243,7 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
                     shit += 1
                     stockBought = False
                     stopLoss = True
-                elif ((s1 < s2) and stopLoss == True):
+                elif ((Kv > Dv) and stopLoss == True):
                     stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
@@ -304,8 +259,10 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
     for i in range(bull):
         cuml += cuml * perc[i]
 
+    print("len:", len(perc))
+
     if cuml > save_max and len(perc) <= max_len:
-        write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
+        write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
 # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
     # plot(perc)
     # plot2(s1ar, s2ar)
@@ -316,7 +273,7 @@ def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bit
     verbOS = 10
     inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
-            (fileTicker[inc], fileOutput[inc], k, i, k, k, save_max, max_len, bitchCunt, tradeCost)
+            (fileTicker[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
@@ -326,8 +283,8 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_output.txt")
+    fileTicker.append("../data/" + tick + ".txt")
+    fileOutput.append("../output/" + tick + "_output.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
@@ -348,10 +305,10 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 1
-    k2 = 300
+    k1 = 2
+    k2 = 3000
     l1 = 2
-    l2 = 300
+    l2 = 30
     j1 = 0.000
     j2 = 0.15
     k = k1
@@ -364,7 +321,7 @@ def run():
                 if i > 0:
                     if (int(np.floor(i)) % 2 == 0):
                         print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=30000000, bitchCunt=j, tradeCost=0.0005)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0005)
                 if (j < 0.01):
                     j += 0.0035
                 else:
@@ -373,7 +330,7 @@ def run():
             if (i < 10):
                 i += 1
             else:
-                i *= 1.3
+                i *= 1.2
         i = l1
         if (k < 10):
             k += 1
