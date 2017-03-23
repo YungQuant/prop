@@ -266,7 +266,7 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
                     shit += 1
                     stockBought = False
                     stopLoss = True
-                elif ((s1 < s2) and stopLoss == True):
+                elif ((s1 > s2) and stopLoss == True):
                     stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])

@@ -160,6 +160,41 @@ def twap(arr, ll):
     close = a[len(a) - 1]
     return (high + low + close) / 3
 
+def BBmomma(arr, Kin):
+    lb, mb, ub = BBn(arr, Kin, 2.5, 2.5)
+    srange = ub - lb
+    pos = arr[-1] - lb
+    if srange > 0:
+        return pos/srange
+    else:
+        return 0.5
+
+def  getNum(str):
+    tmp = ""
+    for i, l in enumerate(str):
+        if l.isnumeric() or l == ".":
+            tmp += l
+    return float(tmp)
+class ohlcvObj():
+    open, high, low, close, volume = [],[],[],[],[]
+
+def CryptoQuote1(the_symbol):
+    obj = ohlcvObj
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
+    response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
+    for i, curr in enumerate(response):
+        if curr.find('open') > 0:
+            obj.open.append(getNum(curr))
+        elif curr.find('high') > 0:
+            obj.high.append(getNum(curr))
+        elif curr.find('low') > 0:
+            obj.low.append(getNum(curr))
+        elif curr.find('close') > 0:
+            obj.close.append(getNum(curr))
+        elif curr.find('volume') > 0:
+            obj.volume.append(getNum(curr))
+    return obj
+
 class Quote(object):
     DATE_FMT = '%Y-%m-%d'
     TIME_FMT = '%H:%M:%S'

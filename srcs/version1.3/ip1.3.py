@@ -5,6 +5,11 @@ import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
+
+
+from joblib import Parallel, delayed
+
+
 import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 import warnings
@@ -123,36 +128,6 @@ def BBn(a, n, stddevD, stddevU): #GETS BOLLINGER BANDS OF "N" PERIODS AND STDDEV
     lb = midb - (std * stddevD)
     return lb, midb, ub
 
-def bbK(arr, Kin):
-    close = arr[len(arr)-1]
-    lb1, midb1, ub1 = BBn(arr, Kin, 2, 2)
-    lb2, midb2, ub2 = BBn(arr, Kin, 3, 3)
-    if (close > ub2):
-        return 1
-    elif (close > ub1):
-        return 0.25
-    elif (close < lb1):
-        return 0.75
-    elif (close < lb2):
-        return 0
-    else:
-        return 0.5
-
-def bbD(arr, Din):
-    close = arr[len(arr) - 1]
-    lb1, midb1, ub1 = BBn(arr, Din, 2, 2)
-    lb2, midb2, ub2 = BBn(arr, Din, 3, 3)
-    if (close > ub2):
-        return 0
-    elif (close > ub1):
-        return 0.75
-    elif (close < lb1):
-        return 0.25
-    elif (close < lb2):
-        return 1
-    else:
-        return 0.5
-
 #TIME WEIGHTED AVERAGE PRICE
 def twap(arr, ll):
     a = arr[-ll:]
@@ -161,72 +136,40 @@ def twap(arr, ll):
     close = a[len(a) - 1]
     return (high + low + close) / 3
 
-class Quote(object):
-    DATE_FMT = '%Y-%m-%d'
-    TIME_FMT = '%H:%M:%S'
+def BBmomma(arr, Kin):
+    lb, mb, ub = BBn(arr, Kin, 2.5, 2.5)
+    srange = ub - lb
+    pos = arr[-1] - lb
+    if srange > 0:
+        return pos/srange
+    else:
+        return 0.5
 
-    def __init__(self):
-        self.symbol = ''
-        self.date, self.time, self.open_, self.high, self.low, self.close, self.volume = ([] for _ in range(7))
+def  getNum(str):
+    tmp = ""
+    for i, l in enumerate(str):
+        if l.isnumeric() or l == ".":
+            tmp += l
+    return float(tmp)
+class ohlcvObj():
+    open, high, low, close, volume = [],[],[],[],[]
 
-    def append(self, dt, open_, high, low, close, volume):
-        self.date.append(dt.date())
-        self.time.append(dt.time())
-        self.open_.append(float(open_))
-        self.high.append(float(high))
-        self.low.append(float(low))
-        self.close.append(float(close))
-        self.volume.append(int(volume))
-
-    def to_csv(self):
-        return ''.join(["{0},{1},{2},{3:.2f},{4:.2f},{5:.2f},{6:.2f},{7}\n".format(self.symbol,
-                                                                                   self.date[bar].strftime('%Y-%m-%d'),
-                                                                                   self.time[bar].strftime('%H:%M:%S'),
-                                                                                   self.open_[bar], self.high[bar],
-                                                                                   self.low[bar], self.close[bar],
-                                                                                   self.volume[bar])
-                        for bar in range(len(self.close))])
-
-    def write_csv(self, filename):
-        with open(filename, 'w') as f:
-            f.write(self.to_csv())
-
-    def read_csv(self, filename):
-        self.symbol = ''
-        self.date, self.time, self.open_, self.high, self.low, self.close, self.volume = ([] for _ in range(7))
-        for line in open(filename, 'r'):
-            symbol, ds, ts, open_, high, low, close, volume = line.rstrip().split(',')
-            self.symbol = symbol
-            dt = datetime.datetime.strptime(ds + ' ' + ts, self.DATE_FMT + ' ' + self.TIME_FMT)
-            self.append(dt, open_, high, low, close, volume)
-        return True
-
-    def __repr__(self):
-        return self.to_csv()
-
-
-class GoogleIntradayQuote(Quote):
-    ''' Intraday quotes from Google. Specify interval seconds and number of days '''
-
-    def __init__(self, symbol, interval_seconds=60, num_days=10):
-        super(GoogleIntradayQuote, self).__init__()
-        self.symbol = symbol.upper()
-        url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
-        url_string += "&i={0}&p={1}d&f=d,o,h,l,c,v".format(interval_seconds, num_days)
-        thing = urllib.request.urlopen(url_string)
-        csv = thing.read().decode('utf-8').split('\n')
-        for bar in range(7, len(csv)):
-            if csv[bar].count(',') != 5: continue
-            offset, close, high, low, open_, volume = csv[bar].split(',')
-            if offset[0] == 'a':
-                day = float(offset[1:])
-                offset = 0
-            else:
-                offset = float(offset)
-            open_, high, low, close = [float(x) for x in [open_, high, low, close]]
-            dt = datetime.datetime.fromtimestamp(day + (interval_seconds * offset))
-            self.append(dt, open_, high, low, close, volume)
-
+def CryptoQuote1(the_symbol):
+    obj = ohlcvObj
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
+    response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
+    for i, curr in enumerate(response):
+        if curr.find('open') > 0:
+            obj.open.append(getNum(curr))
+        elif curr.find('high') > 0:
+            obj.high.append(getNum(curr))
+        elif curr.find('low') > 0:
+            obj.low.append(getNum(curr))
+        elif curr.find('close') > 0:
+            obj.close.append(getNum(curr))
+        elif curr.find('volume') > 0:
+            obj.volume.append(getNum(curr))
+    return obj
 
 def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
@@ -255,7 +198,7 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # file.write(str(perc))
     # file.write("\n\nDescribed Diff:\n")
     # file.write(str(desc))
-    file.write("\n\nCumulative Diff:\t")
+    file.write("\n\n [sma,sma],[ema,sma] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -267,91 +210,88 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tick, Kin, Din, Kin1, Din1, log, save_max, max_len, bitchCunt, tradeCost):
-    cuml = []
-    print(Kin)
-    for j, tik in enumerate(tick):
-        stock = []
-        with open(tik, 'r') as f:
-            stock1 = f.readlines()
-        f.close()
-        for i, stocks in enumerate(stock1):
-            stock.append(float(stocks))
+def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, tradeCost):
+    stock = []
+    with open(tik, 'r') as f:
+        stock1 = f.readlines()
+    f.close()
+    #REMOVE INT(NP.FLOOR(LEN(STOCK1)/2)) FOR REAL RUNS
+    #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
+    for i, stocks in enumerate(stock1[int(np.floor(len(stock1)/2)):]):
+        stock.append(float(stocks))
 
-        arr = []; buy = []; sell = [];  diff = []; perc = []; desc = [];
-        kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2);
-        Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []
-        stockBought = False
-        stopLoss = False
-        bull = 0; shit = 0; max = 0;
-        cuml.append(1)
+    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
+    kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
+    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 0.0
+    stockBought = False
+    stopLoss = False
+    bull = 0; shit = 0; maxP = 0;
 
-        for i, closeData in enumerate(stock):
-            arr.append(closeData)
-            scaler = MinMaxScaler(feature_range=(0, 1))
-            if i >= int(Din) and i >= int(Kin):
-                    Kv = SMAn(arr, int(np.floor(Kin)))
-                    #kar.append(Kv)
-                    Dv = SMAn(arr, int(np.floor(Din)))
-                    #dar.append(Dv)
-                    Kv1 = EMAn(arr, int(np.floor(Kin1)))
-                    #kar1.append(Kv1)
-                    Dv1 = EMAn(arr, int(np.floor(Din1)))
-                    #dar1.append(Dv1)
-                    # Kv2 = SMAn(arr, Kin2)
-                    # kar2.append(Kv2)
-                    # Dv2 = SMAn(arr, Din2)
-                    # dar2.append(Dv2)
-                    # Kvl = [Kv, Kv1]
-                    # Dvl = [Dv, Dv1]
-                    # Kvl = scaler.fit_transform(Kvl)
-                    # Dvl = scaler.fit_transform(Dvl)
-                    # s1 = (Kvl[0] + Kvl[1]) / 2
-                    # s2 = (Dvl[0] + Dvl[1]) / 2
-                    #s1ar.append(s1)
-                    #s2ar.append(s2)
-                    if stockBought == True and closeData > max:
-                        max = closeData
-                    if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
-                        buy.append(closeData * (1+tradeCost))
-                        bull += 1
-                        stockBought = True
-                    elif ((Kv1 < Dv1) and stockBought == True):
-                        sell.append(closeData * (1-tradeCost))
-                        max = 0
-                        shit += 1
-                        stockBought = False
-                    elif (closeData < (max * (1-bitchCunt)) and stockBought == True):
-                        sell.append(closeData * (1-tradeCost))
-                        max = 0
-                        shit += 1
-                        stockBought = False
-                        stopLoss = True
-                    elif ((Kv > Dv) and stopLoss == True):
-                        stopLoss = False
-        if stockBought == True:
-            sell.append(stock[len(stock)-1])
-            shit += 1
-        for i in range(bull):
-            diff.append(sell[i] - buy[i])
-            if i < bull - 1:
-                shortDiff.append(sell[i] - buy[i + 1])
-        for i in range(bull):
-            perc.append(diff[i] / buy[i])
-        for i in range(bull - 1):
-            perc[i] += shortDiff[i] / sell[i]
-        for i in range(bull):
-            cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            #cumld.append(cuml)
+    for i, closeData in enumerate(stock):
+        arr.append(closeData)
+        if i > max([Kin, Din, Kin1, Din1]):
+                Kv = SMAn(arr, int(np.floor(Kin)))
+                kar.append(Kv)
+                Dv = SMAn(arr, int(np.floor(Din)))
+                #dar.append(Dv)
+                Kv1 = EMAn(arr, int(np.floor(Kin1)))
+                #kar1.append(Kv1)
+                Dv1 = SMAn(arr, int(np.floor(Din1)))
+                #dar1.append(Dv1)
+                # Kv2 = SMAn(arr, Kin2)
+                # kar2.append(Kv2)
+                # Dv2 = SMAn(arr, Din2)
+                # dar2.append(Dv2)
+                if stockBought == True and closeData > maxP:
+                    maxP = closeData
+                if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
+                    buy.append(closeData * (1+tradeCost))
+                    bull += 1
+                    stockBought = True
+                elif ((Kv1 < Dv1) and stockBought == True):
+                    sell.append(closeData * (1-tradeCost))
+                    maxP = 0
+                    shit += 1
+                    stockBought = False
+                elif (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
+                    sell.append(closeData * (1-tradeCost))
+                    maxP = 0
+                    shit += 1
+                    stockBought = False
+                    stopLoss = True
+                elif ((Kv > Dv) and stopLoss == True):
+                    stopLoss = False
+    if stockBought == True:
+        sell.append(stock[len(stock) - 1])
+        shit += 1
+    for i in range(bull):
+        diff.append(sell[i] - buy[i])
+        if i < bull - 1:
+            shortDiff.append(sell[i] - buy[i + 1])
+    for i in range(bull):
+        perc.append(diff[i] / buy[i])
+    for i in range(bull - 1):
+        perc[i] += shortDiff[i] / sell[i]
+    for i in range(bull):
+        cuml += cuml * perc[i]
 
-        if cuml[j] > save_max and len(perc) <= max_len:
-            write_that_shit(log[j], tik, Kin, Din, Kin1, Din1, perc, cuml[j], bitchCunt)
-        # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
-        # plot(perc)
-        # plot2(s1ar, s2ar)
+    print("cuml:", cuml)
+
+    if cuml > save_max and len(perc) <= max_len:
+        write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
+    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+    # plot(perc)
+    # plot2(s1ar, s2ar)
     return cuml
 
-ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+def pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+    n_proc = 8; verbOS = 10; inc = 0
+    Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
+            (fileTicker[inc], fileOutput[inc], k, i, d, s, save_max, max_len, bitchCunt, tradeCost)
+            for inc, file in enumerate(fileTicker))
+
+
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -362,7 +302,7 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = GoogleIntradayQuote(ticker[i]).close
+        dataset = CryptoQuote1(ticker[i]).close
         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         # dataset = np.zeros(len(tick))
         # i = len(tick) - 1
@@ -378,38 +318,51 @@ for i, file in enumerate(fileTicker):
 #fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
 
-def run(k):
-    i1 = 2
-    i2, l2, t2 = 300, 300, 300
-    j1 = 0.000
-    j2 = 0.05
-    i, l, t = i1, i1, i1
-    j = j1
-    print(k)
-    while (i < i2):
-        while (j < j2):
-            while (t < t2):
-                while (l < l2):
-                    print(k)
-                    fucking_paul(fileTicker, k, i, t, l, fileOutput, save_max=1.01, max_len=1000, bitchCunt=j, tradeCost=0.0005)
-                    if (l < 10):
-                        l += 1
+def run():
+    k1 = 3; k2 = 300
+    l1 = 2; l2 = 30
+    d1 = 2; d2 = 300
+    s1 = 2; s2 = 30
+    j1 = 0.001; j2 = 0.1
+    k = k1; i = l1; j = j1; d = d1; s = s1
+    returns = []
+    while (k < k2):
+        while (i < l2):
+            while (j < j2):
+                while (d < d2):
+                    #while (s < s2):
+                    if i > k and i >= d:
+                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2, int(np.floor(d)), "/", d2)
+                        pillowcaseAssassination(fileTicker, k, i, d, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0005)
+                    #     if (s < 10):
+                    #         s += 1
+                    #     else:
+                    #         s *= 1.3
+                    # s = s1
+                    if (d < 10):
+                        d += 1
                     else:
-                        l *= 1.2
-                if (t < 10):
-                    t += 1
+                        d *= 1.3
+                d = d1
+                if (j < 0.01):
+                    j += 0.0035
                 else:
-                    t *= 1.2
-            if j < 0.01:
-                j += 0.0035
+                    j *= 1.3
+            j = j1
+            if (i < 10):
+                i += 1
             else:
-                j *= 1.3
-        j = j1
-        if (i < 10):
-            i += 1
+                i *= 1.3
+        i = l1
+        if (k < 10):
+            k += 1
+        elif (k < 1000):
+            k *= 1.2
+        elif (k < 10000):
+            k *= 1.05
         else:
-            i *= 1.2
+            k *= 1.01
+
+run()
 
 
-p = Pool(8)
-p.map(run, np.arange(1, 300))
