@@ -1,0 +1,2169 @@
+Tick:	../../data/PTLA.txt
+K in:	2
+D in:	24
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.0138579271631563
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	2
+D in:	24
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.0303625910937193
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	2
+D in:	24
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.0206406657647575
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	2
+D in:	29
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.0112423633394527
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	2
+D in:	29
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.0277044483240483
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	2
+D in:	29
+K1 in:	2
+D1 in:	2
+Len:	1
+
+Cumulative Diff:	1.018007603744081
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	6
+D in:	24
+K1 in:	6
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.014513933586426
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	6
+D in:	24
+K1 in:	6
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.0104739768582225
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	6
+D in:	24
+K1 in:	6
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.0310292766913212
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	6
+D in:	24
+K1 in:	6
+D1 in:	6
+Len:	1
+
+Cumulative Diff:	1.0213010608898077
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	6
+D in:	29
+K1 in:	6
+D1 in:	6
+Len:	68
+
+Cumulative Diff:	1.1164787805584588
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	6
+D in:	29
+K1 in:	6
+D1 in:	6
+Len:	68
+
+Cumulative Diff:	1.123659154017412
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	6
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	10
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	12
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	14
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	17
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0193681521619988
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0150975153659607
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0111553890926948
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0311945309817963
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0270881494471444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0479814186954535
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	20
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0380932519600117
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	24
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0174764986098774
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	24
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0134247444739668
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	24
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.03404006951748
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	24
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0242834455582073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	29
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0174764986098774
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	29
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0134247444739668
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	29
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.03404006951748
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	8
+D in:	29
+K1 in:	8
+D1 in:	8
+Len:	1
+
+Cumulative Diff:	1.0242834455582073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	9
+D in:	29
+K1 in:	9
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.0247303840041395
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	9
+D in:	29
+K1 in:	9
+D1 in:	9
+Len:	1
+
+Cumulative Diff:	1.0150616010322815
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	20
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0468600140746078
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	20
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0344122250791465
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	20
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.028792873431105
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	20
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0166398423085752
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	20
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.1178504527073816
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	20
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.1178504527073816
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	24
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.044937655162514
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	24
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0325053225954395
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	24
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0268963300241312
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	24
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0147657025861978
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	24
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.1157897347914478
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	24
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.1157897347914478
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	29
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0448331253753396
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	29
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0324016332637895
+bitchCunt:	0.0105
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	29
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0267932039754781
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	29
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.0146637947556234
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	29
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.1156776816239435
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	17
+D in:	29
+K1 in:	17
+D1 in:	17
+Len:	90
+
+Cumulative Diff:	1.1156776816239435
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.013767216648745
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.010557060801219
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.024071816919304
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	7
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0144092478182505
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.013767216648745
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.010557060801219
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.024071816919304
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	8
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0144092478182505
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.013767216648745
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.010557060801219
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.024071816919304
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	9
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0144092478182505
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.013767216648745
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.010557060801219
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.024071816919304
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	10
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0144092478182505
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	12
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.025211673085395
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	12
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0155383489388572
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	14
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.025211673085395
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	14
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0155383489388572
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	17
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.025211673085395
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	17
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0155383489388572
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	20
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.013767216648745
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	20
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.010557060801219
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	20
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.024071816919304
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	24
+D in:	20
+K1 in:	24
+D1 in:	24
+Len:	1
+
+Cumulative Diff:	1.0144092478182505
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	6
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	12
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	12
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	12
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	12
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	12
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	12
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	14
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	14
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	14
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	14
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	14
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	14
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	17
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	17
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	17
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	17
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	17
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	17
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	20
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	20
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	20
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	20
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	20
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	20
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	29
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0167075662941973
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	29
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.01220031299207
+bitchCunt:	0.007
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	29
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0134880996498208
+bitchCunt:	0.01365
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	29
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0105905796698815
+bitchCunt:	0.017745
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	29
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.027042054222647
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	35
+D in:	29
+K1 in:	35
+D1 in:	35
+Len:	1
+
+Cumulative Diff:	1.0173514596230728
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	12
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0674755543435896
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	12
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0391613742904073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	14
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0674755543435896
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	14
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0391613742904073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	17
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0674755543435896
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	17
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0391613742904073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	20
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0674755543435896
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	20
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0391613742904073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	24
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0674755543435896
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	24
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0391613742904073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	29
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0674755543435896
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	74
+D in:	29
+K1 in:	74
+D1 in:	74
+Len:	43
+
+Cumulative Diff:	1.0391613742904073
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	154
+D in:	3
+K1 in:	154
+D1 in:	154
+Len:	49
+
+Cumulative Diff:	1.0556449613464596
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	154
+D in:	3
+K1 in:	154
+D1 in:	154
+Len:	49
+
+Cumulative Diff:	1.0277242538337217
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	12
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0120281780229479
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	12
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	12
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	12
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	14
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0120281780229479
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	14
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	14
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	14
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	17
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0120281780229479
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	17
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	17
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	17
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0142524157768444
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	24
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0120281780229479
+bitchCunt:	0.0035
+
+Tick:	../../data/PTLA.txt
+K in:	184
+D in:	24
+K1 in:	184
+D1 in:	184
+Len:	1
+
+Cumulative Diff:	1.0136486941007867
+bitchCunt:	0.029989050000000003

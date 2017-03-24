@@ -1,0 +1,10821 @@
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	2
+Len:	62
+
+Cumulative Diff:	0.7107599341484211
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	3
+Len:	59
+
+Cumulative Diff:	0.6684469566093559
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	4
+Len:	56
+
+Cumulative Diff:	0.6493927953169958
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	5
+Len:	54
+
+Cumulative Diff:	0.6671800632386222
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	6
+Len:	53
+
+Cumulative Diff:	0.6816076091389988
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	7
+Len:	51
+
+Cumulative Diff:	0.727790522867867
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	8
+Len:	49
+
+Cumulative Diff:	0.73133908203879
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	9
+Len:	48
+
+Cumulative Diff:	0.6946270953249505
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	10
+Len:	49
+
+Cumulative Diff:	0.7036194589779239
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	11
+Len:	48
+
+Cumulative Diff:	0.7150883797991529
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	12
+Len:	46
+
+Cumulative Diff:	0.7156538979236053
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	13
+Len:	45
+
+Cumulative Diff:	0.701776648277421
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	14
+Len:	46
+
+Cumulative Diff:	0.6959179500931113
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	15
+Len:	45
+
+Cumulative Diff:	0.7124793409616917
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	16
+Len:	45
+
+Cumulative Diff:	0.7130508002735807
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	17
+Len:	44
+
+Cumulative Diff:	0.7175073677752908
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	18
+Len:	44
+
+Cumulative Diff:	0.7097898931995155
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	19
+Len:	45
+
+Cumulative Diff:	0.7125952760142085
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	20
+Len:	43
+
+Cumulative Diff:	0.7200358010014228
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	21
+Len:	44
+
+Cumulative Diff:	0.7235935110074055
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	22
+Len:	43
+
+Cumulative Diff:	0.729398796406989
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	23
+Len:	41
+
+Cumulative Diff:	0.7317455143348394
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	24
+Len:	40
+
+Cumulative Diff:	0.7372780129837772
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	25
+Len:	41
+
+Cumulative Diff:	0.7376972248381809
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	26
+Len:	39
+
+Cumulative Diff:	0.7559962986596128
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	27
+Len:	37
+
+Cumulative Diff:	0.7643437577906462
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	28
+Len:	36
+
+Cumulative Diff:	0.7691813765108401
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	29
+Len:	36
+
+Cumulative Diff:	0.7691813765108401
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	30
+Len:	35
+
+Cumulative Diff:	0.778395272809651
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	31
+Len:	36
+
+Cumulative Diff:	0.7736198416881197
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	32
+Len:	33
+
+Cumulative Diff:	0.7927323011881089
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	33
+Len:	34
+
+Cumulative Diff:	0.7944416393086678
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	34
+Len:	34
+
+Cumulative Diff:	0.7897326742942428
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	35
+Len:	34
+
+Cumulative Diff:	0.7946685035085818
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	36
+Len:	33
+
+Cumulative Diff:	0.7953900430087002
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	37
+Len:	32
+
+Cumulative Diff:	0.8004241572049576
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	38
+Len:	32
+
+Cumulative Diff:	0.806726230949027
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	39
+Len:	31
+
+Cumulative Diff:	0.8117682698924584
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	40
+Len:	31
+
+Cumulative Diff:	0.8117682698924584
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	41
+Len:	29
+
+Cumulative Diff:	0.8173741613103451
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	42
+Len:	29
+
+Cumulative Diff:	0.8173741613103451
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	43
+Len:	28
+
+Cumulative Diff:	0.8224196808246061
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	44
+Len:	28
+
+Cumulative Diff:	0.8224196808246061
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	45
+Len:	27
+
+Cumulative Diff:	0.8275598038297601
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	46
+Len:	27
+
+Cumulative Diff:	0.8275598038297601
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	47
+Len:	26
+
+Cumulative Diff:	0.832668197680561
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	48
+Len:	25
+
+Cumulative Diff:	0.8378723739160645
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	49
+Len:	25
+
+Cumulative Diff:	0.8378723739160645
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	50
+Len:	24
+
+Cumulative Diff:	0.843076550151568
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	51
+Len:	24
+
+Cumulative Diff:	0.843076550151568
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	52
+Len:	24
+
+Cumulative Diff:	0.843076550151568
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	53
+Len:	24
+
+Cumulative Diff:	0.843076550151568
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	54
+Len:	23
+
+Cumulative Diff:	0.8483457785900156
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	55
+Len:	23
+
+Cumulative Diff:	0.8483457785900156
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	56
+Len:	22
+
+Cumulative Diff:	0.8537150556696992
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	57
+Len:	22
+
+Cumulative Diff:	0.8537150556696992
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	58
+Len:	22
+
+Cumulative Diff:	0.8537150556696992
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	59
+Len:	22
+
+Cumulative Diff:	0.8537150556696992
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	60
+Len:	21
+
+Cumulative Diff:	0.8590176336552252
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	61
+Len:	20
+
+Cumulative Diff:	0.8615434006434471
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	62
+Len:	20
+
+Cumulative Diff:	0.8615434006434471
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	63
+Len:	19
+
+Cumulative Diff:	0.8669280468974684
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	64
+Len:	19
+
+Cumulative Diff:	0.8669280468974684
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	65
+Len:	19
+
+Cumulative Diff:	0.8669280468974684
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	66
+Len:	18
+
+Cumulative Diff:	0.8775479154719625
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	67
+Len:	18
+
+Cumulative Diff:	0.8775479154719625
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	68
+Len:	18
+
+Cumulative Diff:	0.8775479154719625
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	69
+Len:	18
+
+Cumulative Diff:	0.8775479154719625
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	70
+Len:	18
+
+Cumulative Diff:	0.8775479154719625
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	71
+Len:	18
+
+Cumulative Diff:	0.8775479154719625
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	72
+Len:	17
+
+Cumulative Diff:	0.8886214038040652
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	73
+Len:	17
+
+Cumulative Diff:	0.8886214038040652
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	74
+Len:	17
+
+Cumulative Diff:	0.8886214038040652
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	75
+Len:	16
+
+Cumulative Diff:	0.8941752875778408
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	76
+Len:	15
+
+Cumulative Diff:	0.8998346248409916
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	77
+Len:	15
+
+Cumulative Diff:	0.8998346248409916
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	78
+Len:	14
+
+Cumulative Diff:	0.9054585912462478
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	79
+Len:	14
+
+Cumulative Diff:	0.9054585912462478
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	80
+Len:	13
+
+Cumulative Diff:	0.9111893418237558
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	81
+Len:	13
+
+Cumulative Diff:	0.9111893418237558
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	82
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	83
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	84
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	85
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	86
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	87
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	88
+Len:	12
+
+Cumulative Diff:	0.9123665305386586
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	89
+Len:	11
+
+Cumulative Diff:	0.9181410022509283
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	90
+Len:	11
+
+Cumulative Diff:	0.9181410022509283
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	91
+Len:	11
+
+Cumulative Diff:	0.9181410022509283
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	92
+Len:	11
+
+Cumulative Diff:	0.9181410022509283
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	93
+Len:	11
+
+Cumulative Diff:	0.9181410022509283
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	94
+Len:	12
+
+Cumulative Diff:	0.9181410022509283
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	95
+Len:	11
+
+Cumulative Diff:	0.9239520212525167
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	96
+Len:	11
+
+Cumulative Diff:	0.9239520212525167
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	97
+Len:	11
+
+Cumulative Diff:	0.9239520212525167
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	98
+Len:	11
+
+Cumulative Diff:	0.9239520212525167
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	99
+Len:	10
+
+Cumulative Diff:	0.9297998188553807
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	100
+Len:	10
+
+Cumulative Diff:	0.9297998188553807
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	101
+Len:	10
+
+Cumulative Diff:	0.9297998188553807
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	102
+Len:	10
+
+Cumulative Diff:	0.9297998188553807
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	103
+Len:	9
+
+Cumulative Diff:	0.935684627835478
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	104
+Len:	9
+
+Cumulative Diff:	0.935684627835478
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	105
+Len:	8
+
+Cumulative Diff:	0.9412638653679131
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	106
+Len:	8
+
+Cumulative Diff:	0.9412638653679131
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	107
+Len:	7
+
+Cumulative Diff:	0.9531785978409245
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	108
+Len:	7
+
+Cumulative Diff:	0.9531785978409245
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	109
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	110
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	111
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	112
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	113
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	114
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	115
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	116
+Len:	6
+
+Cumulative Diff:	0.9592113737766266
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	117
+Len:	5
+
+Cumulative Diff:	0.965282331838504
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	118
+Len:	5
+
+Cumulative Diff:	0.965282331838504
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	119
+Len:	4
+
+Cumulative Diff:	0.9675407282375224
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	120
+Len:	4
+
+Cumulative Diff:	0.9675407282375224
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	121
+Len:	4
+
+Cumulative Diff:	0.9675407282375224
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	122
+Len:	4
+
+Cumulative Diff:	0.9675407282375224
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	123
+Len:	4
+
+Cumulative Diff:	0.9675407282375224
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	124
+Len:	4
+
+Cumulative Diff:	0.9675407282375224
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	125
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	126
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	127
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	128
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	129
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	130
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	131
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	1
+D in:	132
+Len:	3
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	3
+Len:	57
+
+Cumulative Diff:	0.835695409209904
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	4
+Len:	41
+
+Cumulative Diff:	0.7783161072260293
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	5
+Len:	40
+
+Cumulative Diff:	0.8081085060609132
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	6
+Len:	36
+
+Cumulative Diff:	0.8101443952123825
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	7
+Len:	36
+
+Cumulative Diff:	0.8834707040746964
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	8
+Len:	36
+
+Cumulative Diff:	0.8302356312489023
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	9
+Len:	35
+
+Cumulative Diff:	0.7822266522940865
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	10
+Len:	31
+
+Cumulative Diff:	0.7873757117949175
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	11
+Len:	33
+
+Cumulative Diff:	0.8067000041505376
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	12
+Len:	30
+
+Cumulative Diff:	0.7969090164076924
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	13
+Len:	30
+
+Cumulative Diff:	0.7970317953701932
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	14
+Len:	30
+
+Cumulative Diff:	0.7848834990033379
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	15
+Len:	29
+
+Cumulative Diff:	0.8112699529604491
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	16
+Len:	29
+
+Cumulative Diff:	0.8071083777903258
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	17
+Len:	26
+
+Cumulative Diff:	0.8234744343207563
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	18
+Len:	27
+
+Cumulative Diff:	0.8375021599952385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	19
+Len:	27
+
+Cumulative Diff:	0.8254286036069778
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	20
+Len:	28
+
+Cumulative Diff:	0.8285182556301995
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	21
+Len:	28
+
+Cumulative Diff:	0.8331177247523209
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	22
+Len:	27
+
+Cumulative Diff:	0.8224170286549803
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	23
+Len:	28
+
+Cumulative Diff:	0.8668102646579443
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	24
+Len:	24
+
+Cumulative Diff:	0.8583467527563237
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	25
+Len:	24
+
+Cumulative Diff:	0.8699315287155627
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	26
+Len:	21
+
+Cumulative Diff:	0.8508764953600798
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	27
+Len:	21
+
+Cumulative Diff:	0.8655265032619215
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	28
+Len:	21
+
+Cumulative Diff:	0.853266404047763
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	29
+Len:	18
+
+Cumulative Diff:	0.8770529020846272
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	30
+Len:	22
+
+Cumulative Diff:	0.8638655765180673
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	31
+Len:	19
+
+Cumulative Diff:	0.8825681120517235
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	32
+Len:	20
+
+Cumulative Diff:	0.8663374842506076
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	33
+Len:	19
+
+Cumulative Diff:	0.8770173692086309
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	34
+Len:	20
+
+Cumulative Diff:	0.8717520935271739
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	35
+Len:	18
+
+Cumulative Diff:	0.8717520935271739
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	36
+Len:	17
+
+Cumulative Diff:	0.8771332792896874
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	37
+Len:	17
+
+Cumulative Diff:	0.8771332792896874
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	38
+Len:	17
+
+Cumulative Diff:	0.8771332792896874
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	39
+Len:	16
+
+Cumulative Diff:	0.882615362285248
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	40
+Len:	16
+
+Cumulative Diff:	0.884107110421054
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	41
+Len:	16
+
+Cumulative Diff:	0.884107110421054
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	42
+Len:	16
+
+Cumulative Diff:	0.884107110421054
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	43
+Len:	16
+
+Cumulative Diff:	0.8897027250439722
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	44
+Len:	14
+
+Cumulative Diff:	0.8963512420258741
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	45
+Len:	14
+
+Cumulative Diff:	0.8963512420258741
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	46
+Len:	13
+
+Cumulative Diff:	0.901953437288536
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	47
+Len:	13
+
+Cumulative Diff:	0.901953437288536
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	48
+Len:	13
+
+Cumulative Diff:	0.901953437288536
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	49
+Len:	13
+
+Cumulative Diff:	0.9133705694061124
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	50
+Len:	12
+
+Cumulative Diff:	0.9133705694061124
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	51
+Len:	12
+
+Cumulative Diff:	0.9188167541677884
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	52
+Len:	11
+
+Cumulative Diff:	0.9245593588813373
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	53
+Len:	11
+
+Cumulative Diff:	0.9233664382654416
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	54
+Len:	11
+
+Cumulative Diff:	0.9218488494565421
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	55
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	56
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	57
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	58
+Len:	10
+
+Cumulative Diff:	0.9334813566945424
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	59
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	60
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	61
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	62
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	63
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	64
+Len:	10
+
+Cumulative Diff:	0.9276104047656458
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	65
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	66
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	67
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	68
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	69
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	70
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	71
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	72
+Len:	9
+
+Cumulative Diff:	0.9390474567096152
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	73
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	74
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	75
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	76
+Len:	10
+
+Cumulative Diff:	0.933141497862385
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	77
+Len:	10
+
+Cumulative Diff:	0.9353246968385159
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	78
+Len:	9
+
+Cumulative Diff:	0.9471272513595399
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	79
+Len:	9
+
+Cumulative Diff:	0.9396339678187073
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	80
+Len:	8
+
+Cumulative Diff:	0.9455810182479396
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	81
+Len:	9
+
+Cumulative Diff:	0.9515657082368505
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	82
+Len:	9
+
+Cumulative Diff:	0.9515657082368505
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	83
+Len:	8
+
+Cumulative Diff:	0.9515657082368505
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	84
+Len:	8
+
+Cumulative Diff:	0.9515657082368505
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	85
+Len:	8
+
+Cumulative Diff:	0.9591541436316506
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	86
+Len:	7
+
+Cumulative Diff:	0.9531217276339673
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	87
+Len:	7
+
+Cumulative Diff:	0.9531217276339673
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	88
+Len:	6
+
+Cumulative Diff:	0.9590787384316798
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9651488570293487
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	90
+Len:	5
+
+Cumulative Diff:	0.9651488570293487
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	91
+Len:	5
+
+Cumulative Diff:	0.9651488570293487
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	92
+Len:	5
+
+Cumulative Diff:	0.9651488570293487
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	93
+Len:	5
+
+Cumulative Diff:	0.9651488570293487
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	94
+Len:	5
+
+Cumulative Diff:	0.9651488570293487
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	95
+Len:	5
+
+Cumulative Diff:	0.9712573940991546
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	96
+Len:	5
+
+Cumulative Diff:	0.9712573940991546
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	97
+Len:	5
+
+Cumulative Diff:	0.9712573940991546
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	98
+Len:	5
+
+Cumulative Diff:	0.9712573940991546
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	99
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	100
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	101
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	102
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	103
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	104
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	105
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	106
+Len:	5
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	107
+Len:	4
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	108
+Len:	4
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	109
+Len:	4
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	2
+D in:	110
+Len:	4
+
+Cumulative Diff:	0.9774045927959847
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	4
+Len:	60
+
+Cumulative Diff:	0.912696910058709
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	5
+Len:	39
+
+Cumulative Diff:	0.8687387319867718
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	6
+Len:	32
+
+Cumulative Diff:	0.9358854274459752
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	7
+Len:	32
+
+Cumulative Diff:	0.8954458392732311
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	8
+Len:	31
+
+Cumulative Diff:	0.8740880130301668
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	9
+Len:	29
+
+Cumulative Diff:	0.8367574764393414
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	10
+Len:	28
+
+Cumulative Diff:	0.8328203679731961
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	11
+Len:	28
+
+Cumulative Diff:	0.8688385898435111
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	12
+Len:	26
+
+Cumulative Diff:	0.8640372191590627
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	13
+Len:	24
+
+Cumulative Diff:	0.8663343365535212
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	14
+Len:	23
+
+Cumulative Diff:	0.8493669901113101
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	15
+Len:	25
+
+Cumulative Diff:	0.84960192506009
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	16
+Len:	24
+
+Cumulative Diff:	0.8569649004761574
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	17
+Len:	23
+
+Cumulative Diff:	0.8596067931670547
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	18
+Len:	23
+
+Cumulative Diff:	0.8560682933121369
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	19
+Len:	23
+
+Cumulative Diff:	0.8475174121464052
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	20
+Len:	24
+
+Cumulative Diff:	0.8506815065265555
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	21
+Len:	25
+
+Cumulative Diff:	0.8324718743233032
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	22
+Len:	24
+
+Cumulative Diff:	0.8575567199668763
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	23
+Len:	22
+
+Cumulative Diff:	0.8618656265657634
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	24
+Len:	20
+
+Cumulative Diff:	0.8645765640822541
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	25
+Len:	20
+
+Cumulative Diff:	0.86590605023579
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	26
+Len:	18
+
+Cumulative Diff:	0.8783684481658415
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	27
+Len:	17
+
+Cumulative Diff:	0.8832008397939097
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	28
+Len:	16
+
+Cumulative Diff:	0.8807955057833664
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	29
+Len:	15
+
+Cumulative Diff:	0.9017426072978171
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	30
+Len:	17
+
+Cumulative Diff:	0.8831083536650154
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	31
+Len:	15
+
+Cumulative Diff:	0.9114603613732611
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	32
+Len:	14
+
+Cumulative Diff:	0.9033666599344689
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	33
+Len:	14
+
+Cumulative Diff:	0.9144329015186664
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	34
+Len:	14
+
+Cumulative Diff:	0.9087531940558174
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	35
+Len:	14
+
+Cumulative Diff:	0.9202928015912962
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	36
+Len:	12
+
+Cumulative Diff:	0.9144346711916211
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	37
+Len:	13
+
+Cumulative Diff:	0.9086835097375858
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	38
+Len:	13
+
+Cumulative Diff:	0.9202222324016947
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	39
+Len:	13
+
+Cumulative Diff:	0.9144346711916211
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	40
+Len:	13
+
+Cumulative Diff:	0.9260097936117684
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	41
+Len:	13
+
+Cumulative Diff:	0.9318706150903239
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	42
+Len:	12
+
+Cumulative Diff:	0.9260097936117684
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	43
+Len:	11
+
+Cumulative Diff:	0.9260097936117684
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	44
+Len:	11
+
+Cumulative Diff:	0.9260097936117684
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	45
+Len:	10
+
+Cumulative Diff:	0.9317973548218419
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	46
+Len:	11
+
+Cumulative Diff:	0.9237757075386581
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	47
+Len:	12
+
+Cumulative Diff:	0.9296223892319407
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	48
+Len:	10
+
+Cumulative Diff:	0.9317973548218419
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	49
+Len:	11
+
+Cumulative Diff:	0.9237757075386581
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	50
+Len:	11
+
+Cumulative Diff:	0.9237757075386581
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	51
+Len:	10
+
+Cumulative Diff:	0.9317973548218419
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	52
+Len:	12
+
+Cumulative Diff:	0.9237757075386581
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	53
+Len:	12
+
+Cumulative Diff:	0.9179657974283523
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	54
+Len:	11
+
+Cumulative Diff:	0.925936994099692
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	55
+Len:	11
+
+Cumulative Diff:	0.925936994099692
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	56
+Len:	12
+
+Cumulative Diff:	0.9179657974283523
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	57
+Len:	10
+
+Cumulative Diff:	0.9317241003128152
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	58
+Len:	11
+
+Cumulative Diff:	0.918321252993261
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	59
+Len:	11
+
+Cumulative Diff:	0.9315966674727201
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	60
+Len:	10
+
+Cumulative Diff:	0.9321581662551944
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	61
+Len:	9
+
+Cumulative Diff:	0.943846555761754
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	62
+Len:	9
+
+Cumulative Diff:	0.943846555761754
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	63
+Len:	8
+
+Cumulative Diff:	0.93572117944405
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	64
+Len:	8
+
+Cumulative Diff:	0.9432780163109525
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	65
+Len:	8
+
+Cumulative Diff:	0.9413006349239647
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	66
+Len:	8
+
+Cumulative Diff:	0.9531785978409245
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	67
+Len:	6
+
+Cumulative Diff:	0.9531785978409245
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	68
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	69
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	70
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	71
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	72
+Len:	6
+
+Cumulative Diff:	0.9614555664247078
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	73
+Len:	6
+
+Cumulative Diff:	0.9614555664247078
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	74
+Len:	5
+
+Cumulative Diff:	0.9614555664247078
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	75
+Len:	5
+
+Cumulative Diff:	0.9614555664247078
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	76
+Len:	5
+
+Cumulative Diff:	0.9614555664247078
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	77
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	78
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	79
+Len:	7
+
+Cumulative Diff:	0.9493998164719121
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	80
+Len:	7
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	81
+Len:	7
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	82
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	83
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	84
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	85
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	86
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	87
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	88
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	89
+Len:	6
+
+Cumulative Diff:	0.9554086760698355
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	90
+Len:	5
+
+Cumulative Diff:	0.9630277579169747
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	91
+Len:	5
+
+Cumulative Diff:	0.9630277579169747
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	92
+Len:	4
+
+Cumulative Diff:	0.9691228703088541
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	93
+Len:	4
+
+Cumulative Diff:	0.9691228703088541
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	94
+Len:	4
+
+Cumulative Diff:	0.9691228703088541
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	95
+Len:	4
+
+Cumulative Diff:	0.9691228703088541
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	96
+Len:	4
+
+Cumulative Diff:	0.9752565593614417
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	97
+Len:	3
+
+Cumulative Diff:	0.9752565593614417
+
+Tick:	../data/FNBC.txt
+K in:	3
+D in:	98
+Len:	3
+
+Cumulative Diff:	0.9752565593614417
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	5
+Len:	57
+
+Cumulative Diff:	1.0296953661518544
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	6
+Len:	36
+
+Cumulative Diff:	0.929273923176123
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	7
+Len:	31
+
+Cumulative Diff:	0.9344805778927451
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	8
+Len:	24
+
+Cumulative Diff:	0.9143943768722084
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	9
+Len:	29
+
+Cumulative Diff:	0.8883055293625818
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	10
+Len:	25
+
+Cumulative Diff:	0.8949630750040927
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	11
+Len:	23
+
+Cumulative Diff:	0.9022321917785372
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	12
+Len:	20
+
+Cumulative Diff:	0.89775757168166
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	13
+Len:	22
+
+Cumulative Diff:	0.8825259460262687
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	14
+Len:	19
+
+Cumulative Diff:	0.9007256763502541
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	15
+Len:	19
+
+Cumulative Diff:	0.9050115377570128
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	16
+Len:	19
+
+Cumulative Diff:	0.8959499367128256
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	17
+Len:	16
+
+Cumulative Diff:	0.9010454002878144
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	18
+Len:	18
+
+Cumulative Diff:	0.9114603368787252
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	19
+Len:	17
+
+Cumulative Diff:	0.9027065082127556
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	20
+Len:	16
+
+Cumulative Diff:	0.9173676451845625
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9154391233248921
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	22
+Len:	17
+
+Cumulative Diff:	0.9331876341348517
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	23
+Len:	20
+
+Cumulative Diff:	0.9053183146340568
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	24
+Len:	15
+
+Cumulative Diff:	0.926421858736244
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9524384809345949
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	26
+Len:	13
+
+Cumulative Diff:	0.9279616940982602
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	27
+Len:	12
+
+Cumulative Diff:	0.9390266536860221
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	28
+Len:	13
+
+Cumulative Diff:	0.9331941899985312
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	29
+Len:	10
+
+Cumulative Diff:	0.9391004823402941
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	30
+Len:	10
+
+Cumulative Diff:	0.9390266536860221
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	31
+Len:	11
+
+Cumulative Diff:	0.9331941899985312
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	32
+Len:	11
+
+Cumulative Diff:	0.9330492728170734
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	33
+Len:	11
+
+Cumulative Diff:	0.9400937948268422
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.9451037823023767
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	35
+Len:	10
+
+Cumulative Diff:	0.9523141833260018
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	36
+Len:	11
+
+Cumulative Diff:	0.9447488359645065
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	37
+Len:	9
+
+Cumulative Diff:	0.9519937162803465
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	38
+Len:	9
+
+Cumulative Diff:	0.9567076819893735
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	39
+Len:	9
+
+Cumulative Diff:	0.9519937162803465
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	40
+Len:	9
+
+Cumulative Diff:	0.9579436770070988
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	41
+Len:	8
+
+Cumulative Diff:	0.9523513845519609
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	42
+Len:	8
+
+Cumulative Diff:	0.9519937162803465
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	43
+Len:	8
+
+Cumulative Diff:	0.9579436770070988
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	44
+Len:	8
+
+Cumulative Diff:	0.9519937162803465
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	45
+Len:	8
+
+Cumulative Diff:	0.9519937162803465
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	46
+Len:	8
+
+Cumulative Diff:	0.9523513845519609
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	47
+Len:	8
+
+Cumulative Diff:	0.9523513845519609
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	48
+Len:	8
+
+Cumulative Diff:	0.9523513845519609
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	49
+Len:	8
+
+Cumulative Diff:	0.9523513845519609
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	50
+Len:	8
+
+Cumulative Diff:	0.9523513845519609
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	51
+Len:	8
+
+Cumulative Diff:	0.9583035807054108
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	52
+Len:	8
+
+Cumulative Diff:	0.9583035807054108
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	53
+Len:	8
+
+Cumulative Diff:	0.9467064269749674
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	54
+Len:	8
+
+Cumulative Diff:	0.9467064269749674
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	55
+Len:	8
+
+Cumulative Diff:	0.9526982398039228
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	56
+Len:	8
+
+Cumulative Diff:	0.9526982398039228
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	57
+Len:	8
+
+Cumulative Diff:	0.9467064269749674
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	58
+Len:	8
+
+Cumulative Diff:	0.9526982398039228
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	59
+Len:	8
+
+Cumulative Diff:	0.9526982398039228
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	60
+Len:	7
+
+Cumulative Diff:	0.9511973847059876
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	61
+Len:	8
+
+Cumulative Diff:	0.9511973847059876
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	62
+Len:	8
+
+Cumulative Diff:	0.9511973847059876
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	63
+Len:	7
+
+Cumulative Diff:	0.9511973847059876
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	64
+Len:	8
+
+Cumulative Diff:	0.9491069466210249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	65
+Len:	8
+
+Cumulative Diff:	0.9491069466210249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	66
+Len:	6
+
+Cumulative Diff:	0.9631245081626526
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	67
+Len:	5
+
+Cumulative Diff:	0.9692202328978592
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	68
+Len:	5
+
+Cumulative Diff:	0.9692202328978592
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	69
+Len:	5
+
+Cumulative Diff:	0.964832841397719
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	70
+Len:	5
+
+Cumulative Diff:	0.964832841397719
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	71
+Len:	5
+
+Cumulative Diff:	0.964832841397719
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	72
+Len:	5
+
+Cumulative Diff:	0.964832841397719
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	73
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	74
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	75
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	76
+Len:	6
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	77
+Len:	6
+
+Cumulative Diff:	0.9610078579438902
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	78
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	79
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	80
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9670901861587249
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	82
+Len:	5
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	4
+D in:	83
+Len:	6
+
+Cumulative Diff:	0.9686715914945819
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	6
+Len:	58
+
+Cumulative Diff:	0.9581048924583491
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	7
+Len:	33
+
+Cumulative Diff:	0.9423452108913372
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	8
+Len:	31
+
+Cumulative Diff:	0.9220791107517955
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	9
+Len:	31
+
+Cumulative Diff:	0.8853268098846275
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	10
+Len:	27
+
+Cumulative Diff:	0.9172834633692475
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	11
+Len:	23
+
+Cumulative Diff:	0.8855623152209714
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	12
+Len:	22
+
+Cumulative Diff:	0.9033867221961185
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	13
+Len:	20
+
+Cumulative Diff:	0.893256200384546
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	14
+Len:	19
+
+Cumulative Diff:	0.9090874527609123
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	15
+Len:	23
+
+Cumulative Diff:	0.9208871912200769
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	16
+Len:	20
+
+Cumulative Diff:	0.9413842600874878
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	17
+Len:	20
+
+Cumulative Diff:	0.9332006753751141
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	18
+Len:	17
+
+Cumulative Diff:	0.9086624729764581
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	19
+Len:	18
+
+Cumulative Diff:	0.8969440241397392
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	20
+Len:	19
+
+Cumulative Diff:	0.9031743085054149
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	21
+Len:	18
+
+Cumulative Diff:	0.9060061504484758
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	22
+Len:	17
+
+Cumulative Diff:	0.9211000172415331
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.8968347247857135
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	24
+Len:	15
+
+Cumulative Diff:	0.912064718089456
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	25
+Len:	14
+
+Cumulative Diff:	0.9211293917197255
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	26
+Len:	15
+
+Cumulative Diff:	0.9124407214730399
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	27
+Len:	14
+
+Cumulative Diff:	0.9247901010705923
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	28
+Len:	13
+
+Cumulative Diff:	0.9052341728733014
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	29
+Len:	12
+
+Cumulative Diff:	0.9410012543701021
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	30
+Len:	11
+
+Cumulative Diff:	0.9236951423807247
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	31
+Len:	10
+
+Cumulative Diff:	0.9468089964869175
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	32
+Len:	9
+
+Cumulative Diff:	0.9412708900864405
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	33
+Len:	10
+
+Cumulative Diff:	0.9393920824273126
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	34
+Len:	8
+
+Cumulative Diff:	0.9511656808429667
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	35
+Len:	9
+
+Cumulative Diff:	0.9436404468993391
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	36
+Len:	8
+
+Cumulative Diff:	0.9511656808429667
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	37
+Len:	8
+
+Cumulative Diff:	0.9511656808429667
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	38
+Len:	8
+
+Cumulative Diff:	0.9510909036668
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	39
+Len:	6
+
+Cumulative Diff:	0.9510909036668
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	40
+Len:	7
+
+Cumulative Diff:	0.9435662613296144
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	41
+Len:	6
+
+Cumulative Diff:	0.9510909036668
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	42
+Len:	6
+
+Cumulative Diff:	0.9510909036668
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	43
+Len:	6
+
+Cumulative Diff:	0.9531857114799395
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	44
+Len:	7
+
+Cumulative Diff:	0.9439639756506379
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	45
+Len:	8
+
+Cumulative Diff:	0.9439639756506379
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	46
+Len:	8
+
+Cumulative Diff:	0.9498637504984543
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	47
+Len:	8
+
+Cumulative Diff:	0.9380270953006338
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	48
+Len:	8
+
+Cumulative Diff:	0.9380270953006338
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	49
+Len:	8
+
+Cumulative Diff:	0.9558003989390697
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	50
+Len:	8
+
+Cumulative Diff:	0.9558003989390697
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	51
+Len:	8
+
+Cumulative Diff:	0.955875546387685
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	52
+Len:	7
+
+Cumulative Diff:	0.9630166919510597
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	53
+Len:	8
+
+Cumulative Diff:	0.9498637504984543
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	54
+Len:	8
+
+Cumulative Diff:	0.9459687117228255
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	55
+Len:	8
+
+Cumulative Diff:	0.9459687117228255
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	56
+Len:	9
+
+Cumulative Diff:	0.9400192229698517
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	57
+Len:	9
+
+Cumulative Diff:	0.9400192229698517
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	58
+Len:	9
+
+Cumulative Diff:	0.9400192229698516
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	59
+Len:	10
+
+Cumulative Diff:	0.9458943431134132
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	60
+Len:	10
+
+Cumulative Diff:	0.9518061827578722
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	61
+Len:	7
+
+Cumulative Diff:	0.9655656613053162
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	62
+Len:	6
+
+Cumulative Diff:	0.965290008904033
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	63
+Len:	5
+
+Cumulative Diff:	0.9770375154576787
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	64
+Len:	5
+
+Cumulative Diff:	0.9770375154576787
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9764489829583441
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9764489829583441
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9764489829583441
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9764489829583441
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	71
+Len:	3
+
+Cumulative Diff:	0.9764489829583441
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	72
+Len:	4
+
+Cumulative Diff:	0.9703077943862791
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	73
+Len:	4
+
+Cumulative Diff:	0.9703077943862791
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	74
+Len:	5
+
+Cumulative Diff:	0.9626311158673371
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	75
+Len:	5
+
+Cumulative Diff:	0.9626311158673371
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	76
+Len:	5
+
+Cumulative Diff:	0.9648833094214418
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	77
+Len:	5
+
+Cumulative Diff:	0.9725779484712584
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	78
+Len:	5
+
+Cumulative Diff:	0.9725779484712584
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	79
+Len:	6
+
+Cumulative Diff:	0.9587185436125392
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	80
+Len:	6
+
+Cumulative Diff:	0.9664611060280429
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9664611060280429
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	82
+Len:	5
+
+Cumulative Diff:	0.9647863824961629
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	83
+Len:	4
+
+Cumulative Diff:	0.9787335051071524
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	84
+Len:	4
+
+Cumulative Diff:	0.9787335051071524
+
+Tick:	../data/FNBC.txt
+K in:	5
+D in:	85
+Len:	4
+
+Cumulative Diff:	0.9787335051071524
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	7
+Len:	55
+
+Cumulative Diff:	0.974881482220225
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	8
+Len:	34
+
+Cumulative Diff:	0.9316024582282216
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	9
+Len:	29
+
+Cumulative Diff:	0.9069980350501607
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	10
+Len:	27
+
+Cumulative Diff:	0.9010789367709103
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	11
+Len:	26
+
+Cumulative Diff:	0.8619349057087865
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	12
+Len:	20
+
+Cumulative Diff:	0.9012439098346093
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	13
+Len:	19
+
+Cumulative Diff:	0.8947872242542044
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	14
+Len:	20
+
+Cumulative Diff:	0.8969105695639745
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	15
+Len:	17
+
+Cumulative Diff:	0.9368472880040712
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	16
+Len:	20
+
+Cumulative Diff:	0.9041141470669675
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	17
+Len:	16
+
+Cumulative Diff:	0.9071318721635985
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	18
+Len:	15
+
+Cumulative Diff:	0.9171861488018793
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	19
+Len:	14
+
+Cumulative Diff:	0.9217491972100373
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	20
+Len:	16
+
+Cumulative Diff:	0.9248253565755706
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	21
+Len:	17
+
+Cumulative Diff:	0.9205351568194657
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	22
+Len:	14
+
+Cumulative Diff:	0.9193511721805461
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	23
+Len:	14
+
+Cumulative Diff:	0.9253113055702797
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	24
+Len:	13
+
+Cumulative Diff:	0.9283733060521494
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.938503463219306
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	26
+Len:	13
+
+Cumulative Diff:	0.9107311675512104
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	27
+Len:	11
+
+Cumulative Diff:	0.9222928472178074
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	28
+Len:	11
+
+Cumulative Diff:	0.9301743797319344
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	29
+Len:	10
+
+Cumulative Diff:	0.9354377000406204
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	30
+Len:	10
+
+Cumulative Diff:	0.9391609096847106
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	31
+Len:	8
+
+Cumulative Diff:	0.9412120068309947
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	32
+Len:	8
+
+Cumulative Diff:	0.9611579851087668
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	33
+Len:	8
+
+Cumulative Diff:	0.9470945818736884
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	34
+Len:	6
+
+Cumulative Diff:	0.95484029799798
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	35
+Len:	7
+
+Cumulative Diff:	0.9549153699610272
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	36
+Len:	7
+
+Cumulative Diff:	0.9608835910232837
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	37
+Len:	7
+
+Cumulative Diff:	0.9549153699610272
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	38
+Len:	6
+
+Cumulative Diff:	0.9608835910232838
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	39
+Len:	6
+
+Cumulative Diff:	0.9548402979979801
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	40
+Len:	7
+
+Cumulative Diff:	0.9608835910232838
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	41
+Len:	8
+
+Cumulative Diff:	0.9608835910232838
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	42
+Len:	6
+
+Cumulative Diff:	0.9548402979979801
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	43
+Len:	6
+
+Cumulative Diff:	0.966965132738621
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	44
+Len:	7
+
+Cumulative Diff:	0.9730851652243084
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	45
+Len:	7
+
+Cumulative Diff:	0.966965132738621
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	46
+Len:	6
+
+Cumulative Diff:	0.9586407334582118
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	47
+Len:	6
+
+Cumulative Diff:	0.9647080798725042
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.9730851652243084
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9708138272134694
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	50
+Len:	5
+
+Cumulative Diff:	0.9708138272134694
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	51
+Len:	5
+
+Cumulative Diff:	0.9792439320928167
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	52
+Len:	5
+
+Cumulative Diff:	0.9647080798725042
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	53
+Len:	6
+
+Cumulative Diff:	0.9647080798725042
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	54
+Len:	6
+
+Cumulative Diff:	0.966965132738621
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	55
+Len:	6
+
+Cumulative Diff:	0.966965132738621
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	56
+Len:	6
+
+Cumulative Diff:	0.9643568521173415
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	57
+Len:	8
+
+Cumulative Diff:	0.9633200590476912
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	58
+Len:	8
+
+Cumulative Diff:	0.9610715143725554
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	59
+Len:	8
+
+Cumulative Diff:	0.950246643926851
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	60
+Len:	8
+
+Cumulative Diff:	0.9524698624900007
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	61
+Len:	7
+
+Cumulative Diff:	0.964564596763728
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	62
+Len:	7
+
+Cumulative Diff:	0.964564596763728
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	63
+Len:	6
+
+Cumulative Diff:	0.9562608631922108
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	64
+Len:	4
+
+Cumulative Diff:	0.968251477922082
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	65
+Len:	4
+
+Cumulative Diff:	0.968251477922082
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	71
+Len:	4
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	72
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	73
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	77
+Len:	5
+
+Cumulative Diff:	0.9643371229976431
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	78
+Len:	6
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	79
+Len:	5
+
+Cumulative Diff:	0.9627627939006986
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	80
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	81
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	6
+D in:	82
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	8
+Len:	54
+
+Cumulative Diff:	0.9105177476416816
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	9
+Len:	33
+
+Cumulative Diff:	0.9160402343561997
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	10
+Len:	29
+
+Cumulative Diff:	0.9222621803515819
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	11
+Len:	25
+
+Cumulative Diff:	0.8962951819834457
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	12
+Len:	24
+
+Cumulative Diff:	0.9081235903599362
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	13
+Len:	20
+
+Cumulative Diff:	0.887492198070875
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	14
+Len:	19
+
+Cumulative Diff:	0.9270499306268815
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	15
+Len:	16
+
+Cumulative Diff:	0.9041710535716798
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	16
+Len:	16
+
+Cumulative Diff:	0.9128270485935737
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	17
+Len:	16
+
+Cumulative Diff:	0.881048867797237
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	18
+Len:	16
+
+Cumulative Diff:	0.90162308690784
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	19
+Len:	16
+
+Cumulative Diff:	0.9136330152718916
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	20
+Len:	15
+
+Cumulative Diff:	0.9090071887292714
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	21
+Len:	17
+
+Cumulative Diff:	0.9004181558637935
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	22
+Len:	15
+
+Cumulative Diff:	0.9057406304283383
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	23
+Len:	17
+
+Cumulative Diff:	0.9013998109586483
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	24
+Len:	13
+
+Cumulative Diff:	0.9121662679176692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9114050815584462
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	26
+Len:	12
+
+Cumulative Diff:	0.9083096132377354
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	27
+Len:	13
+
+Cumulative Diff:	0.9140354185876226
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	28
+Len:	12
+
+Cumulative Diff:	0.936148535588387
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	29
+Len:	11
+
+Cumulative Diff:	0.9339483886492128
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	30
+Len:	8
+
+Cumulative Diff:	0.9315859626753932
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9372144413427619
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	32
+Len:	8
+
+Cumulative Diff:	0.9612812156477538
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	33
+Len:	8
+
+Cumulative Diff:	0.9447120471363698
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	34
+Len:	9
+
+Cumulative Diff:	0.9366839172896964
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	35
+Len:	8
+
+Cumulative Diff:	0.9484290554713368
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	36
+Len:	7
+
+Cumulative Diff:	0.956664781193531
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	37
+Len:	7
+
+Cumulative Diff:	0.956664781193531
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	38
+Len:	8
+
+Cumulative Diff:	0.9424640928583096
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	39
+Len:	7
+
+Cumulative Diff:	0.950648021563383
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	40
+Len:	8
+
+Cumulative Diff:	0.950648021563383
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	41
+Len:	8
+
+Cumulative Diff:	0.9484290554713368
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	42
+Len:	7
+
+Cumulative Diff:	0.944539899847643
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	43
+Len:	7
+
+Cumulative Diff:	0.944539899847643
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	44
+Len:	7
+
+Cumulative Diff:	0.9561105136207768
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	45
+Len:	8
+
+Cumulative Diff:	0.9480837545300114
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	46
+Len:	7
+
+Cumulative Diff:	0.9563835446855764
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	47
+Len:	8
+
+Cumulative Diff:	0.9483544934386742
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	48
+Len:	7
+
+Cumulative Diff:	0.950443274221691
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	49
+Len:	7
+
+Cumulative Diff:	0.9563835446855764
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	50
+Len:	7
+
+Cumulative Diff:	0.9563835446855764
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	51
+Len:	7
+
+Cumulative Diff:	0.9542817090226658
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	52
+Len:	7
+
+Cumulative Diff:	0.9542817090226658
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	53
+Len:	7
+
+Cumulative Diff:	0.9620862043309066
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	54
+Len:	6
+
+Cumulative Diff:	0.9620862043309066
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	55
+Len:	6
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	56
+Len:	6
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	57
+Len:	7
+
+Cumulative Diff:	0.9548768838577806
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	58
+Len:	8
+
+Cumulative Diff:	0.9548768838577806
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	59
+Len:	8
+
+Cumulative Diff:	0.9608448643818917
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	60
+Len:	8
+
+Cumulative Diff:	0.9620862043309066
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	61
+Len:	7
+
+Cumulative Diff:	0.968099243107975
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	62
+Len:	6
+
+Cumulative Diff:	0.968099243107975
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	64
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	65
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	71
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	72
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	77
+Len:	5
+
+Cumulative Diff:	0.9627627939006986
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	78
+Len:	5
+
+Cumulative Diff:	0.9627627939006986
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	79
+Len:	7
+
+Cumulative Diff:	0.9506906525428995
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	80
+Len:	6
+
+Cumulative Diff:	0.9627627939006986
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	7
+D in:	83
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	9
+Len:	51
+
+Cumulative Diff:	0.9340246213759992
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	10
+Len:	32
+
+Cumulative Diff:	0.9510131076731043
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	11
+Len:	29
+
+Cumulative Diff:	0.9119797684265
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	12
+Len:	23
+
+Cumulative Diff:	0.9294207109408865
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	13
+Len:	23
+
+Cumulative Diff:	0.9096888125543151
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	14
+Len:	18
+
+Cumulative Diff:	0.918256924334356
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	15
+Len:	17
+
+Cumulative Diff:	0.9094590042374692
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	16
+Len:	18
+
+Cumulative Diff:	0.9207309391008544
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	17
+Len:	14
+
+Cumulative Diff:	0.9387926520250014
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	18
+Len:	13
+
+Cumulative Diff:	0.9423368827536874
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	19
+Len:	16
+
+Cumulative Diff:	0.9098596577363408
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	20
+Len:	15
+
+Cumulative Diff:	0.9262699525196546
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9200729100849381
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	22
+Len:	14
+
+Cumulative Diff:	0.9356261269685975
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	23
+Len:	13
+
+Cumulative Diff:	0.9501270232483907
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	24
+Len:	11
+
+Cumulative Diff:	0.9336935921136723
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9568964492753262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	26
+Len:	10
+
+Cumulative Diff:	0.9492779304988295
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	27
+Len:	8
+
+Cumulative Diff:	0.9690472120107291
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	28
+Len:	9
+
+Cumulative Diff:	0.9499355006719098
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	29
+Len:	7
+
+Cumulative Diff:	0.9732339300126427
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	30
+Len:	6
+
+Cumulative Diff:	0.9494240713293457
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	31
+Len:	7
+
+Cumulative Diff:	0.9667850276040929
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	32
+Len:	7
+
+Cumulative Diff:	0.9670611069293998
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	33
+Len:	8
+
+Cumulative Diff:	0.9670611069293998
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	34
+Len:	7
+
+Cumulative Diff:	0.9731817468466744
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	35
+Len:	8
+
+Cumulative Diff:	0.9691910896206113
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	36
+Len:	5
+
+Cumulative Diff:	0.9688901799673547
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	37
+Len:	6
+
+Cumulative Diff:	0.9688901799673547
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	38
+Len:	6
+
+Cumulative Diff:	0.9688901799673547
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	39
+Len:	7
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	40
+Len:	6
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	41
+Len:	6
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	42
+Len:	5
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	43
+Len:	4
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	44
+Len:	6
+
+Cumulative Diff:	0.9728795981939109
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	45
+Len:	8
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	46
+Len:	6
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	47
+Len:	5
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.975022396296262
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9703840824430748
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	50
+Len:	5
+
+Cumulative Diff:	0.9703840824430748
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	51
+Len:	6
+
+Cumulative Diff:	0.9703840824430748
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	52
+Len:	5
+
+Cumulative Diff:	0.9703840824430748
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	53
+Len:	5
+
+Cumulative Diff:	0.9765257538509424
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	54
+Len:	5
+
+Cumulative Diff:	0.9765257538509424
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	55
+Len:	5
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	56
+Len:	5
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	57
+Len:	6
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	58
+Len:	6
+
+Cumulative Diff:	0.9609204084391587
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	59
+Len:	6
+
+Cumulative Diff:	0.9621618459854652
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	60
+Len:	8
+
+Cumulative Diff:	0.9622374935871622
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	61
+Len:	7
+
+Cumulative Diff:	0.9561856854513939
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	62
+Len:	6
+
+Cumulative Diff:	0.9621618459854652
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	63
+Len:	6
+
+Cumulative Diff:	0.9621618459854652
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	64
+Len:	5
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	65
+Len:	4
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	66
+Len:	4
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	79
+Len:	5
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	8
+D in:	80
+Len:	5
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	10
+Len:	50
+
+Cumulative Diff:	0.9576937714377418
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	11
+Len:	31
+
+Cumulative Diff:	0.9451849771243411
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	12
+Len:	27
+
+Cumulative Diff:	0.9693557698843878
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	13
+Len:	22
+
+Cumulative Diff:	0.9101702223732332
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	14
+Len:	22
+
+Cumulative Diff:	0.9307926607616892
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	15
+Len:	18
+
+Cumulative Diff:	0.9330966612652442
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	16
+Len:	17
+
+Cumulative Diff:	0.9462195219032753
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	17
+Len:	15
+
+Cumulative Diff:	0.9117962051472679
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	18
+Len:	17
+
+Cumulative Diff:	0.9246319621309543
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	19
+Len:	16
+
+Cumulative Diff:	0.900273361293232
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	20
+Len:	15
+
+Cumulative Diff:	0.9515818069376925
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	21
+Len:	16
+
+Cumulative Diff:	0.9358404626664228
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	22
+Len:	13
+
+Cumulative Diff:	0.9446033151927787
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	23
+Len:	13
+
+Cumulative Diff:	0.9314704298483476
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	24
+Len:	13
+
+Cumulative Diff:	0.9353438048407856
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9486487833036236
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	26
+Len:	9
+
+Cumulative Diff:	0.9587890126011088
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	27
+Len:	11
+
+Cumulative Diff:	0.9515467618267607
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	28
+Len:	7
+
+Cumulative Diff:	0.9693756412819128
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	29
+Len:	8
+
+Cumulative Diff:	0.957295840134644
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	30
+Len:	8
+
+Cumulative Diff:	0.9607561327529225
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	31
+Len:	5
+
+Cumulative Diff:	0.9752324385461747
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	32
+Len:	6
+
+Cumulative Diff:	0.9691750942073786
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	33
+Len:	6
+
+Cumulative Diff:	0.9752324385461747
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	39
+Len:	5
+
+Cumulative Diff:	0.9751557693293079
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	45
+Len:	4
+
+Cumulative Diff:	0.9799844260514754
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	47
+Len:	6
+
+Cumulative Diff:	0.9776969840510539
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	48
+Len:	4
+
+Cumulative Diff:	0.9799844260514754
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9715479464155128
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	50
+Len:	5
+
+Cumulative Diff:	0.9788831334109498
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	56
+Len:	6
+
+Cumulative Diff:	0.977696984051054
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	59
+Len:	6
+
+Cumulative Diff:	0.965437581972648
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	60
+Len:	5
+
+Cumulative Diff:	0.9738210019882586
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	61
+Len:	5
+
+Cumulative Diff:	0.9750791061398953
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	63
+Len:	5
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	64
+Len:	4
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	65
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	67
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	80
+Len:	5
+
+Cumulative Diff:	0.9750791061398953
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	81
+Len:	6
+
+Cumulative Diff:	0.9612806243686939
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	82
+Len:	6
+
+Cumulative Diff:	0.9612806243686939
+
+Tick:	../data/FNBC.txt
+K in:	9
+D in:	83
+Len:	5
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	11
+Len:	47
+
+Cumulative Diff:	0.9405367205264439
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	12
+Len:	31
+
+Cumulative Diff:	0.9422635347760507
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	13
+Len:	26
+
+Cumulative Diff:	0.8868428046212562
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	14
+Len:	23
+
+Cumulative Diff:	0.929781997526966
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	15
+Len:	21
+
+Cumulative Diff:	0.9123914717176552
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	16
+Len:	16
+
+Cumulative Diff:	0.9470222524442826
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	17
+Len:	16
+
+Cumulative Diff:	0.9480289400418899
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	18
+Len:	14
+
+Cumulative Diff:	0.9586466461414874
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	19
+Len:	14
+
+Cumulative Diff:	0.9799812487152454
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	20
+Len:	15
+
+Cumulative Diff:	0.9641396445076474
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	21
+Len:	13
+
+Cumulative Diff:	0.9445711026700403
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	22
+Len:	14
+
+Cumulative Diff:	0.9603939985393914
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	23
+Len:	15
+
+Cumulative Diff:	0.9229652158333354
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	24
+Len:	12
+
+Cumulative Diff:	0.9382792471757975
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9579185644365669
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	26
+Len:	12
+
+Cumulative Diff:	0.947111519986572
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	27
+Len:	7
+
+Cumulative Diff:	0.9516963937425298
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	28
+Len:	8
+
+Cumulative Diff:	0.9462439664867134
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	29
+Len:	7
+
+Cumulative Diff:	0.9755876272912958
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	30
+Len:	6
+
+Cumulative Diff:	0.9755109301507856
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	34
+Len:	6
+
+Cumulative Diff:	0.9755876272912958
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	35
+Len:	6
+
+Cumulative Diff:	0.9752324385461747
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	39
+Len:	4
+
+Cumulative Diff:	0.9738975662623357
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	41
+Len:	5
+
+Cumulative Diff:	0.9738975662623357
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	42
+Len:	5
+
+Cumulative Diff:	0.9677724243361575
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	43
+Len:	5
+
+Cumulative Diff:	0.9677724243361575
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	44
+Len:	5
+
+Cumulative Diff:	0.9677724243361575
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	45
+Len:	5
+
+Cumulative Diff:	0.9677724243361575
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	46
+Len:	5
+
+Cumulative Diff:	0.9677724243361575
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	47
+Len:	5
+
+Cumulative Diff:	0.9677724243361575
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	48
+Len:	6
+
+Cumulative Diff:	0.9571109354351082
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	49
+Len:	6
+
+Cumulative Diff:	0.9571109354351082
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	50
+Len:	6
+
+Cumulative Diff:	0.9571109354351082
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	51
+Len:	6
+
+Cumulative Diff:	0.9571109354351082
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	52
+Len:	7
+
+Cumulative Diff:	0.9511661470162565
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	53
+Len:	7
+
+Cumulative Diff:	0.9511661470162565
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	54
+Len:	7
+
+Cumulative Diff:	0.9511661470162565
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	55
+Len:	6
+
+Cumulative Diff:	0.9574705262687093
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	56
+Len:	6
+
+Cumulative Diff:	0.9574705262687093
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	57
+Len:	6
+
+Cumulative Diff:	0.9571109354351082
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	58
+Len:	6
+
+Cumulative Diff:	0.9583474514262291
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	59
+Len:	6
+
+Cumulative Diff:	0.9583474514262291
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	60
+Len:	7
+
+Cumulative Diff:	0.9523949827838302
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	61
+Len:	8
+
+Cumulative Diff:	0.9528277096518629
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	62
+Len:	6
+
+Cumulative Diff:	0.9647752758549196
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	63
+Len:	5
+
+Cumulative Diff:	0.9647752758549196
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	64
+Len:	6
+
+Cumulative Diff:	0.9647752758549196
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	65
+Len:	5
+
+Cumulative Diff:	0.9708051213290129
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	66
+Len:	5
+
+Cumulative Diff:	0.9624476643951512
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	67
+Len:	4
+
+Cumulative Diff:	0.9708051213290129
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	68
+Len:	4
+
+Cumulative Diff:	0.9708051213290129
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	69
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	70
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	71
+Len:	4
+
+Cumulative Diff:	0.9708051213290129
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	72
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	73
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	77
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	78
+Len:	5
+
+Cumulative Diff:	0.9643371229976432
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	79
+Len:	5
+
+Cumulative Diff:	0.9643371229976432
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	80
+Len:	5
+
+Cumulative Diff:	0.9643371229976432
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9643371229976432
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	82
+Len:	6
+
+Cumulative Diff:	0.9646994287420381
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	83
+Len:	6
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	10
+D in:	84
+Len:	4
+
+Cumulative Diff:	0.9753545381693646
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	12
+Len:	46
+
+Cumulative Diff:	0.9799622875803442
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	13
+Len:	29
+
+Cumulative Diff:	0.9193680699186473
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	14
+Len:	24
+
+Cumulative Diff:	0.9717996801896247
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	15
+Len:	22
+
+Cumulative Diff:	0.9316286441646477
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	16
+Len:	20
+
+Cumulative Diff:	0.9237128823368117
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	17
+Len:	13
+
+Cumulative Diff:	0.9531144354292992
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	18
+Len:	16
+
+Cumulative Diff:	0.979161942533059
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	19
+Len:	15
+
+Cumulative Diff:	0.9270440932271159
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	20
+Len:	14
+
+Cumulative Diff:	0.9512971867175422
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.914737457351829
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	22
+Len:	12
+
+Cumulative Diff:	0.9539188808552337
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	23
+Len:	14
+
+Cumulative Diff:	0.9483319769634937
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	24
+Len:	11
+
+Cumulative Diff:	0.9545511399587416
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9522465795610542
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	26
+Len:	13
+
+Cumulative Diff:	0.9549819625717583
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	27
+Len:	13
+
+Cumulative Diff:	0.9361032924412084
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	28
+Len:	7
+
+Cumulative Diff:	0.9564016957604905
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	29
+Len:	8
+
+Cumulative Diff:	0.9584981527589247
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	30
+Len:	8
+
+Cumulative Diff:	0.964564596763728
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	31
+Len:	8
+
+Cumulative Diff:	0.9706694359837515
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	32
+Len:	5
+
+Cumulative Diff:	0.9740507128699948
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9512409301082461
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	34
+Len:	6
+
+Cumulative Diff:	0.9633200590476914
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	35
+Len:	6
+
+Cumulative Diff:	0.9693408094167395
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	36
+Len:	5
+
+Cumulative Diff:	0.9693408094167395
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	37
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	38
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	39
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	40
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	41
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	42
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	43
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	44
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	45
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	46
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	47
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	50
+Len:	6
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	51
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	52
+Len:	5
+
+Cumulative Diff:	0.9644129416251292
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	53
+Len:	5
+
+Cumulative Diff:	0.9692646033782635
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	54
+Len:	5
+
+Cumulative Diff:	0.9631685995834317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	55
+Len:	5
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	56
+Len:	5
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	57
+Len:	4
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	58
+Len:	4
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	59
+Len:	5
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	60
+Len:	6
+
+Cumulative Diff:	0.9765825511337693
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	61
+Len:	6
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	62
+Len:	6
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	64
+Len:	4
+
+Cumulative Diff:	0.9681753575228744
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	65
+Len:	5
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	66
+Len:	5
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	69
+Len:	4
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	72
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9765825511337693
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	77
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	78
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	79
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	80
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	83
+Len:	5
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	84
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	85
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	11
+D in:	86
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	13
+Len:	45
+
+Cumulative Diff:	0.9358495502674323
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	14
+Len:	30
+
+Cumulative Diff:	0.9574014913106753
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	15
+Len:	26
+
+Cumulative Diff:	0.9351974145703612
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	16
+Len:	21
+
+Cumulative Diff:	0.9363901431766751
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	17
+Len:	17
+
+Cumulative Diff:	0.9168029270423625
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	18
+Len:	15
+
+Cumulative Diff:	0.9460246414493985
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	19
+Len:	14
+
+Cumulative Diff:	0.9547576957840269
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	20
+Len:	13
+
+Cumulative Diff:	0.9319401405631625
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9230922497260567
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	22
+Len:	15
+
+Cumulative Diff:	0.9178429142886491
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	23
+Len:	14
+
+Cumulative Diff:	0.9492713500828167
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	24
+Len:	10
+
+Cumulative Diff:	0.9574042908165248
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	25
+Len:	9
+
+Cumulative Diff:	0.9688935192906833
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	26
+Len:	9
+
+Cumulative Diff:	0.9610483179758035
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	28
+Len:	10
+
+Cumulative Diff:	0.9682679803786343
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	32
+Len:	4
+
+Cumulative Diff:	0.9723107012959334
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	33
+Len:	4
+
+Cumulative Diff:	0.9735668542516449
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	34
+Len:	4
+
+Cumulative Diff:	0.9723107012959334
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	35
+Len:	4
+
+Cumulative Diff:	0.9796516470907177
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	36
+Len:	5
+
+Cumulative Diff:	0.9737089776653073
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	39
+Len:	3
+
+Cumulative Diff:	0.9783631840994308
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	42
+Len:	5
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	43
+Len:	5
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	44
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	45
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	46
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	47
+Len:	5
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.9688350695610014
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	50
+Len:	5
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	51
+Len:	5
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	52
+Len:	5
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	53
+Len:	4
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	54
+Len:	5
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	55
+Len:	4
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	56
+Len:	4
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	61
+Len:	5
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	62
+Len:	7
+
+Cumulative Diff:	0.964488766213668
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	71
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	72
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	76
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	77
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	78
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	80
+Len:	4
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	82
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	83
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	12
+D in:	84
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	14
+Len:	44
+
+Cumulative Diff:	0.9491024808851319
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	15
+Len:	29
+
+Cumulative Diff:	0.9338332585881552
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	16
+Len:	24
+
+Cumulative Diff:	0.9438676107710309
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	17
+Len:	22
+
+Cumulative Diff:	0.9586992841873215
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	18
+Len:	19
+
+Cumulative Diff:	0.9496884458982989
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	19
+Len:	16
+
+Cumulative Diff:	0.9556555534589809
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	20
+Len:	15
+
+Cumulative Diff:	0.9636733520133269
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9353281137675221
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	22
+Len:	15
+
+Cumulative Diff:	0.9554009830863084
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	23
+Len:	15
+
+Cumulative Diff:	0.9579720820981357
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	25
+Len:	12
+
+Cumulative Diff:	0.9614245246469815
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	26
+Len:	10
+
+Cumulative Diff:	0.9585148311250806
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	27
+Len:	10
+
+Cumulative Diff:	0.9632287687618166
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	28
+Len:	11
+
+Cumulative Diff:	0.9516887773416892
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	29
+Len:	10
+
+Cumulative Diff:	0.9506563748208134
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	30
+Len:	9
+
+Cumulative Diff:	0.9568342325295002
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	31
+Len:	6
+
+Cumulative Diff:	0.96738181695666
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	32
+Len:	6
+
+Cumulative Diff:	0.9613732342426433
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9612736227452947
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	34
+Len:	6
+
+Cumulative Diff:	0.9734036182221836
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	36
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	37
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	38
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	39
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	40
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	43
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	45
+Len:	5
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	46
+Len:	5
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	47
+Len:	5
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	50
+Len:	5
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	51
+Len:	4
+
+Cumulative Diff:	0.9688350695610014
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	52
+Len:	4
+
+Cumulative Diff:	0.9688350695610014
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	53
+Len:	4
+
+Cumulative Diff:	0.9688350695610014
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	54
+Len:	4
+
+Cumulative Diff:	0.9688350695610014
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	55
+Len:	3
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	62
+Len:	4
+
+Cumulative Diff:	0.9766593325278358
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	72
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	13
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	15
+Len:	44
+
+Cumulative Diff:	0.9498879477614794
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	16
+Len:	28
+
+Cumulative Diff:	0.9455869370536187
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	17
+Len:	26
+
+Cumulative Diff:	0.930529267027292
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	18
+Len:	21
+
+Cumulative Diff:	0.947038472395639
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	19
+Len:	18
+
+Cumulative Diff:	0.9270354519864688
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	20
+Len:	13
+
+Cumulative Diff:	0.9497811229842283
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	21
+Len:	12
+
+Cumulative Diff:	0.9388402601352412
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	22
+Len:	13
+
+Cumulative Diff:	0.9619130001423476
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	23
+Len:	16
+
+Cumulative Diff:	0.9424922072039698
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	24
+Len:	14
+
+Cumulative Diff:	0.9503476832589604
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	25
+Len:	11
+
+Cumulative Diff:	0.9613874340823947
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	26
+Len:	11
+
+Cumulative Diff:	0.944709099998132
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	27
+Len:	10
+
+Cumulative Diff:	0.948618511844291
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	28
+Len:	10
+
+Cumulative Diff:	0.9255055207657673
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	29
+Len:	10
+
+Cumulative Diff:	0.948476004716641
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	30
+Len:	10
+
+Cumulative Diff:	0.9424739299992936
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	31
+Len:	8
+
+Cumulative Diff:	0.9481681918517562
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	32
+Len:	7
+
+Cumulative Diff:	0.954118095406906
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	33
+Len:	8
+
+Cumulative Diff:	0.9570843320399244
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	34
+Len:	8
+
+Cumulative Diff:	0.9678349017408578
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	35
+Len:	6
+
+Cumulative Diff:	0.9730891788358275
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	36
+Len:	6
+
+Cumulative Diff:	0.9779076024686854
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	37
+Len:	5
+
+Cumulative Diff:	0.9752324385461747
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	39
+Len:	5
+
+Cumulative Diff:	0.9791709862035515
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	40
+Len:	5
+
+Cumulative Diff:	0.979094007352435
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	41
+Len:	6
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	42
+Len:	5
+
+Cumulative Diff:	0.9673435517845166
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	43
+Len:	6
+
+Cumulative Diff:	0.9673435517845166
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	45
+Len:	5
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	47
+Len:	6
+
+Cumulative Diff:	0.9673435517845166
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.9673435517845166
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	49
+Len:	5
+
+Cumulative Diff:	0.9733894489831699
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	51
+Len:	5
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	52
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	53
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	54
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	55
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	56
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	57
+Len:	4
+
+Cumulative Diff:	0.9749669370898685
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	59
+Len:	5
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	61
+Len:	4
+
+Cumulative Diff:	0.9734659793274566
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	62
+Len:	5
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	63
+Len:	6
+
+Cumulative Diff:	0.9627417672367183
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	64
+Len:	5
+
+Cumulative Diff:	0.9604190618085221
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	65
+Len:	5
+
+Cumulative Diff:	0.966497663465538
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	66
+Len:	6
+
+Cumulative Diff:	0.9604190618085221
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	76
+Len:	5
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	78
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	79
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	80
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9733894489831699
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	83
+Len:	6
+
+Cumulative Diff:	0.9610944789560956
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	84
+Len:	5
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	14
+D in:	85
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	18
+Len:	24
+
+Cumulative Diff:	1.0262993625710621
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	20
+Len:	15
+
+Cumulative Diff:	0.9559921755833031
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	21
+Len:	15
+
+Cumulative Diff:	0.9647800844067428
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	26
+Len:	11
+
+Cumulative Diff:	0.9648959372168233
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	27
+Len:	9
+
+Cumulative Diff:	0.9628362756856677
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	28
+Len:	8
+
+Cumulative Diff:	0.969645169367004
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	29
+Len:	9
+
+Cumulative Diff:	0.9560368809702439
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9608500196377933
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	37
+Len:	6
+
+Cumulative Diff:	0.9752324385461747
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	38
+Len:	7
+
+Cumulative Diff:	0.9792479711069403
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	82
+Len:	3
+
+Cumulative Diff:	0.9796485518594185
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	83
+Len:	3
+
+Cumulative Diff:	0.9796485518594185
+
+Tick:	../data/FNBC.txt
+K in:	15
+D in:	84
+Len:	4
+
+Cumulative Diff:	0.9796485518594185
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	19
+Len:	22
+
+Cumulative Diff:	0.9671624672679896
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	20
+Len:	20
+
+Cumulative Diff:	0.9551892624148427
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	21
+Len:	16
+
+Cumulative Diff:	0.9415703172386647
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	22
+Len:	14
+
+Cumulative Diff:	0.9509839327692876
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	23
+Len:	15
+
+Cumulative Diff:	0.9519066404629687
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	25
+Len:	15
+
+Cumulative Diff:	0.9365316686959483
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	26
+Len:	11
+
+Cumulative Diff:	0.9325202369616842
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	27
+Len:	10
+
+Cumulative Diff:	0.960758262087671
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	28
+Len:	11
+
+Cumulative Diff:	0.9381183200751444
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	29
+Len:	9
+
+Cumulative Diff:	0.9458720974330324
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	30
+Len:	8
+
+Cumulative Diff:	0.9672835142868885
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	31
+Len:	7
+
+Cumulative Diff:	0.973127671287522
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	33
+Len:	5
+
+Cumulative Diff:	0.9608880279455322
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	34
+Len:	5
+
+Cumulative Diff:	0.9690993788819876
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	36
+Len:	6
+
+Cumulative Diff:	0.9796659074860327
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	43
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	45
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	49
+Len:	4
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	55
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	56
+Len:	4
+
+Cumulative Diff:	0.9744363242929216
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	57
+Len:	4
+
+Cumulative Diff:	0.9744363242929216
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	60
+Len:	5
+
+Cumulative Diff:	0.9744363242929216
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	61
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	62
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	64
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	71
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	77
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	80
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	81
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	82
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	83
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	84
+Len:	5
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	16
+D in:	85
+Len:	5
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	19
+Len:	26
+
+Cumulative Diff:	0.9751732140903078
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	20
+Len:	24
+
+Cumulative Diff:	0.9484503359815565
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	21
+Len:	20
+
+Cumulative Diff:	0.9566404297156196
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	22
+Len:	17
+
+Cumulative Diff:	0.9489318298840912
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	23
+Len:	15
+
+Cumulative Diff:	0.9675640014390804
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	24
+Len:	13
+
+Cumulative Diff:	0.955271935721363
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	25
+Len:	13
+
+Cumulative Diff:	0.9400398962292307
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	26
+Len:	12
+
+Cumulative Diff:	0.9181712287552152
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	27
+Len:	12
+
+Cumulative Diff:	0.9407170621256016
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	28
+Len:	10
+
+Cumulative Diff:	0.9422926143570255
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	29
+Len:	10
+
+Cumulative Diff:	0.9595322382698495
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	30
+Len:	8
+
+Cumulative Diff:	0.9756262185740209
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	31
+Len:	7
+
+Cumulative Diff:	0.9695887315510655
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	32
+Len:	7
+
+Cumulative Diff:	0.9635664412929842
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.951447055599088
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	34
+Len:	8
+
+Cumulative Diff:	0.9494307095936664
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	35
+Len:	5
+
+Cumulative Diff:	0.9735044866842337
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	36
+Len:	6
+
+Cumulative Diff:	0.9735044866842337
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	37
+Len:	7
+
+Cumulative Diff:	0.967457874965698
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	38
+Len:	5
+
+Cumulative Diff:	0.9613732342426433
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	39
+Len:	5
+
+Cumulative Diff:	0.9674196067850499
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	40
+Len:	5
+
+Cumulative Diff:	0.9735425156887527
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	41
+Len:	4
+
+Cumulative Diff:	0.9735425156887527
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	42
+Len:	6
+
+Cumulative Diff:	0.9674196067850499
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	43
+Len:	4
+
+Cumulative Diff:	0.9756100689528107
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	44
+Len:	3
+
+Cumulative Diff:	0.9796271564118075
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	45
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	46
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	47
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	48
+Len:	5
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	49
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	51
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	17
+D in:	52
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	19
+Len:	41
+
+Cumulative Diff:	0.9644596124549455
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	20
+Len:	26
+
+Cumulative Diff:	0.9494491841808745
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	21
+Len:	24
+
+Cumulative Diff:	0.9199130665958578
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	22
+Len:	23
+
+Cumulative Diff:	0.937317549769546
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9196453600647324
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	24
+Len:	15
+
+Cumulative Diff:	0.9263365359165487
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	25
+Len:	15
+
+Cumulative Diff:	0.9083081710986589
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	26
+Len:	14
+
+Cumulative Diff:	0.9212608407034292
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	27
+Len:	14
+
+Cumulative Diff:	0.9214026683179314
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	28
+Len:	13
+
+Cumulative Diff:	0.9194907749043961
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	29
+Len:	10
+
+Cumulative Diff:	0.9439266154999957
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	30
+Len:	10
+
+Cumulative Diff:	0.9320401298351239
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9491376251724534
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	32
+Len:	9
+
+Cumulative Diff:	0.9735044866842337
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9433852759289839
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	34
+Len:	7
+
+Cumulative Diff:	0.971233850931677
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	36
+Len:	5
+
+Cumulative Diff:	0.9694362864852187
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	37
+Len:	6
+
+Cumulative Diff:	0.9773422399312472
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	38
+Len:	4
+
+Cumulative Diff:	0.9772654048494918
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	42
+Len:	3
+
+Cumulative Diff:	0.9755719591844922
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	51
+Len:	4
+
+Cumulative Diff:	0.9770375154576787
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	52
+Len:	3
+
+Cumulative Diff:	0.9770375154576787
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	53
+Len:	3
+
+Cumulative Diff:	0.9770375154576787
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	54
+Len:	5
+
+Cumulative Diff:	0.9708926254233538
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	55
+Len:	4
+
+Cumulative Diff:	0.9770375154576787
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	58
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	59
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	60
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	65
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	67
+Len:	4
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	68
+Len:	4
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	69
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	70
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	71
+Len:	4
+
+Cumulative Diff:	0.9704405225102865
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	72
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	77
+Len:	4
+
+Cumulative Diff:	0.9688562293051334
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	78
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	79
+Len:	4
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	80
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	83
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	84
+Len:	5
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	86
+Len:	6
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	18
+D in:	87
+Len:	4
+
+Cumulative Diff:	0.9765825511337692
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	20
+Len:	41
+
+Cumulative Diff:	0.9568885318142917
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	21
+Len:	28
+
+Cumulative Diff:	0.9475200780524845
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	22
+Len:	24
+
+Cumulative Diff:	0.9462386674944715
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	23
+Len:	22
+
+Cumulative Diff:	0.9490496159442585
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	24
+Len:	15
+
+Cumulative Diff:	0.9523634080360218
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	25
+Len:	14
+
+Cumulative Diff:	0.9205479752948242
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	26
+Len:	13
+
+Cumulative Diff:	0.9297937615475423
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	27
+Len:	14
+
+Cumulative Diff:	0.9267867619874158
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	28
+Len:	12
+
+Cumulative Diff:	0.922500373213224
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	29
+Len:	12
+
+Cumulative Diff:	0.9383311322912339
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	30
+Len:	10
+
+Cumulative Diff:	0.9511176246140997
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	31
+Len:	10
+
+Cumulative Diff:	0.9552041681111402
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	32
+Len:	8
+
+Cumulative Diff:	0.9629903963707469
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	33
+Len:	8
+
+Cumulative Diff:	0.9450464759414784
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	34
+Len:	10
+
+Cumulative Diff:	0.966955522159729
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	37
+Len:	3
+
+Cumulative Diff:	0.9690610457709998
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	38
+Len:	5
+
+Cumulative Diff:	0.9729746698064823
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	39
+Len:	4
+
+Cumulative Diff:	0.9751943435290441
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	41
+Len:	3
+
+Cumulative Diff:	0.9751943435290441
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	42
+Len:	3
+
+Cumulative Diff:	0.9791327373369031
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	43
+Len:	4
+
+Cumulative Diff:	0.9751943435290441
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	44
+Len:	5
+
+Cumulative Diff:	0.9791709862035515
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	54
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	55
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	56
+Len:	4
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	57
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	59
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	61
+Len:	4
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	64
+Len:	3
+
+Cumulative Diff:	0.9729801529658236
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	65
+Len:	3
+
+Cumulative Diff:	0.9729801529658236
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9729801529658236
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	78
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	79
+Len:	5
+
+Cumulative Diff:	0.9732987310723061
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	83
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	85
+Len:	5
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	19
+D in:	86
+Len:	5
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	21
+Len:	40
+
+Cumulative Diff:	0.943259443262002
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	22
+Len:	26
+
+Cumulative Diff:	0.9393418757649065
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	23
+Len:	23
+
+Cumulative Diff:	0.9672272606453519
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	24
+Len:	17
+
+Cumulative Diff:	0.9168505568036202
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	25
+Len:	17
+
+Cumulative Diff:	0.9338517584695979
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	26
+Len:	13
+
+Cumulative Diff:	0.9463374479091509
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	27
+Len:	13
+
+Cumulative Diff:	0.9502818205012591
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	28
+Len:	12
+
+Cumulative Diff:	0.9441671448018341
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	29
+Len:	12
+
+Cumulative Diff:	0.9632614308164333
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	31
+Len:	9
+
+Cumulative Diff:	0.9671057055133299
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	32
+Len:	7
+
+Cumulative Diff:	0.9793580843420439
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9730131577285474
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	34
+Len:	8
+
+Cumulative Diff:	0.9730131577285474
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	49
+Len:	3
+
+Cumulative Diff:	0.9704789101891832
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	55
+Len:	4
+
+Cumulative Diff:	0.9744363242929216
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	57
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	58
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	59
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	62
+Len:	4
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	64
+Len:	3
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	65
+Len:	4
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	66
+Len:	3
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	67
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	68
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	69
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	71
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	72
+Len:	4
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	74
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	77
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	78
+Len:	4
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	79
+Len:	5
+
+Cumulative Diff:	0.9671773554051848
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	80
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	81
+Len:	5
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	85
+Len:	4
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	86
+Len:	5
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	87
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	88
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	92
+Len:	3
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	20
+D in:	93
+Len:	3
+
+Cumulative Diff:	0.9748902887457578
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	22
+Len:	39
+
+Cumulative Diff:	0.954016589784763
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	23
+Len:	28
+
+Cumulative Diff:	0.9423734780967036
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	24
+Len:	22
+
+Cumulative Diff:	0.9387369082610028
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	25
+Len:	18
+
+Cumulative Diff:	0.947143581321449
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	26
+Len:	17
+
+Cumulative Diff:	0.9434234622944325
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	27
+Len:	14
+
+Cumulative Diff:	0.9499178557990909
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	28
+Len:	11
+
+Cumulative Diff:	0.9517940328305234
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	29
+Len:	12
+
+Cumulative Diff:	0.9575023962596335
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	30
+Len:	11
+
+Cumulative Diff:	0.953185842861882
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	32
+Len:	8
+
+Cumulative Diff:	0.9753421002477607
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	33
+Len:	7
+
+Cumulative Diff:	0.9690993788819876
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	34
+Len:	6
+
+Cumulative Diff:	0.9752329192546584
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	63
+Len:	3
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	79
+Len:	3
+
+Cumulative Diff:	0.9732987310723062
+
+Tick:	../data/FNBC.txt
+K in:	21
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	24
+Len:	25
+
+Cumulative Diff:	0.9618576343458817
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	25
+Len:	22
+
+Cumulative Diff:	0.9426729304916948
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	26
+Len:	16
+
+Cumulative Diff:	0.9483376455088876
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	27
+Len:	17
+
+Cumulative Diff:	0.9666448068538638
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	28
+Len:	14
+
+Cumulative Diff:	0.9383765243374305
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	29
+Len:	12
+
+Cumulative Diff:	0.9757920528664209
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	31
+Len:	10
+
+Cumulative Diff:	0.9791002686320203
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	32
+Len:	12
+
+Cumulative Diff:	0.9632877583923006
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	33
+Len:	9
+
+Cumulative Diff:	0.9569477826988624
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	37
+Len:	5
+
+Cumulative Diff:	0.9751176773070687
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	38
+Len:	4
+
+Cumulative Diff:	0.9689848617265211
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	53
+Len:	3
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	54
+Len:	3
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	55
+Len:	3
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	56
+Len:	3
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	57
+Len:	3
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	59
+Len:	3
+
+Cumulative Diff:	0.9772637133876858
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.9751159895625734
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	61
+Len:	4
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	62
+Len:	4
+
+Cumulative Diff:	0.9729801529658236
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	64
+Len:	3
+
+Cumulative Diff:	0.9729801529658236
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	65
+Len:	4
+
+Cumulative Diff:	0.9731132466409921
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	67
+Len:	4
+
+Cumulative Diff:	0.9752565593614417
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.968758903281948
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	78
+Len:	4
+
+Cumulative Diff:	0.978904412500161
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	79
+Len:	3
+
+Cumulative Diff:	0.9732987310723062
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.978904412500161
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	82
+Len:	4
+
+Cumulative Diff:	0.978904412500161
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	83
+Len:	4
+
+Cumulative Diff:	0.978904412500161
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	84
+Len:	4
+
+Cumulative Diff:	0.978904412500161
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	85
+Len:	4
+
+Cumulative Diff:	0.978904412500161
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	86
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	22
+D in:	87
+Len:	4
+
+Cumulative Diff:	0.9727477809750027
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	24
+Len:	38
+
+Cumulative Diff:	0.9555810702634517
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	25
+Len:	26
+
+Cumulative Diff:	0.9431969706388528
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	26
+Len:	22
+
+Cumulative Diff:	0.9481998232171248
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	27
+Len:	17
+
+Cumulative Diff:	0.9285617949854442
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	28
+Len:	17
+
+Cumulative Diff:	0.9425626146496695
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	29
+Len:	15
+
+Cumulative Diff:	0.9367385921446552
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	30
+Len:	12
+
+Cumulative Diff:	0.9618914163554718
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	31
+Len:	14
+
+Cumulative Diff:	0.9637908576771391
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	32
+Len:	10
+
+Cumulative Diff:	0.973797767714089
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	33
+Len:	11
+
+Cumulative Diff:	0.9568725509549395
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	34
+Len:	8
+
+Cumulative Diff:	0.9629287063407302
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	35
+Len:	8
+
+Cumulative Diff:	0.963225998315519
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	37
+Len:	7
+
+Cumulative Diff:	0.9751176773070687
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	38
+Len:	6
+
+Cumulative Diff:	0.9751176773070687
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	43
+Len:	3
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	46
+Len:	3
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	49
+Len:	3
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	50
+Len:	4
+
+Cumulative Diff:	0.9746690996464435
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	51
+Len:	3
+
+Cumulative Diff:	0.9746690996464435
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	52
+Len:	5
+
+Cumulative Diff:	0.9620862043309066
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	53
+Len:	5
+
+Cumulative Diff:	0.9624476643951512
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	54
+Len:	5
+
+Cumulative Diff:	0.9624476643951512
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	55
+Len:	5
+
+Cumulative Diff:	0.9763609780835657
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	58
+Len:	4
+
+Cumulative Diff:	0.9706723433384593
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	59
+Len:	5
+
+Cumulative Diff:	0.978511444035294
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.9706723433384593
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	61
+Len:	3
+
+Cumulative Diff:	0.9768158391823736
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	62
+Len:	3
+
+Cumulative Diff:	0.9768158391823736
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9768158391823736
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	71
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	72
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	79
+Len:	4
+
+Cumulative Diff:	0.9775027874053325
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	80
+Len:	3
+
+Cumulative Diff:	0.9753545381693646
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	81
+Len:	4
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	82
+Len:	5
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	83
+Len:	5
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	85
+Len:	4
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	86
+Len:	4
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	87
+Len:	4
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	88
+Len:	4
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	23
+D in:	89
+Len:	5
+
+Cumulative Diff:	0.9791012196363097
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	25
+Len:	38
+
+Cumulative Diff:	0.940327365062657
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	26
+Len:	25
+
+Cumulative Diff:	0.9123371472715837
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	27
+Len:	23
+
+Cumulative Diff:	0.9377871830230621
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	28
+Len:	18
+
+Cumulative Diff:	0.9219763050261488
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	29
+Len:	17
+
+Cumulative Diff:	0.9560382686646411
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	30
+Len:	14
+
+Cumulative Diff:	0.9585202529289354
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	31
+Len:	14
+
+Cumulative Diff:	0.9733391411472205
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	32
+Len:	13
+
+Cumulative Diff:	0.9751139719209251
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	33
+Len:	11
+
+Cumulative Diff:	0.9545658529026777
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	34
+Len:	12
+
+Cumulative Diff:	0.9550088677697697
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	35
+Len:	9
+
+Cumulative Diff:	0.9693223653934653
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	37
+Len:	7
+
+Cumulative Diff:	0.9691372358052611
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	52
+Len:	3
+
+Cumulative Diff:	0.9743030496590951
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	54
+Len:	6
+
+Cumulative Diff:	0.9626660799908666
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	56
+Len:	5
+
+Cumulative Diff:	0.9729801529658237
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	57
+Len:	4
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	58
+Len:	3
+
+Cumulative Diff:	0.9726147372849402
+
+Tick:	../data/FNBC.txt
+K in:	24
+D in:	59
+Len:	5
+
+Cumulative Diff:	0.966629870402833
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	26
+Len:	37
+
+Cumulative Diff:	0.9395798704374879
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	27
+Len:	26
+
+Cumulative Diff:	0.9309130229524339
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	28
+Len:	21
+
+Cumulative Diff:	0.9124743995311082
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	29
+Len:	18
+
+Cumulative Diff:	0.9379314582712499
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	30
+Len:	16
+
+Cumulative Diff:	0.9799261622140044
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	31
+Len:	13
+
+Cumulative Diff:	0.9599566140683312
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	32
+Len:	13
+
+Cumulative Diff:	0.9553248850048646
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	33
+Len:	13
+
+Cumulative Diff:	0.9530060419922468
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	34
+Len:	12
+
+Cumulative Diff:	0.9570945763455412
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	37
+Len:	5
+
+Cumulative Diff:	0.9751943435290441
+
+Tick:	../data/FNBC.txt
+K in:	25
+D in:	38
+Len:	6
+
+Cumulative Diff:	0.9751176773070687
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	27
+Len:	37
+
+Cumulative Diff:	0.9710471897032157
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	28
+Len:	25
+
+Cumulative Diff:	0.9637278729764127
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	29
+Len:	20
+
+Cumulative Diff:	0.9736059989523858
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	32
+Len:	12
+
+Cumulative Diff:	0.9683453151328341
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	33
+Len:	13
+
+Cumulative Diff:	0.9593824685933173
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	34
+Len:	12
+
+Cumulative Diff:	0.979382852738229
+
+Tick:	../data/FNBC.txt
+K in:	26
+D in:	37
+Len:	9
+
+Cumulative Diff:	0.9702776441790123
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	28
+Len:	36
+
+Cumulative Diff:	0.9474042905553346
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	29
+Len:	26
+
+Cumulative Diff:	0.9682247897585053
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	30
+Len:	19
+
+Cumulative Diff:	0.961413732700574
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	31
+Len:	16
+
+Cumulative Diff:	0.9666945328959596
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	32
+Len:	17
+
+Cumulative Diff:	0.9783132874171999
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	33
+Len:	12
+
+Cumulative Diff:	0.9767487912591387
+
+Tick:	../data/FNBC.txt
+K in:	27
+D in:	37
+Len:	8
+
+Cumulative Diff:	0.9739649699566771
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	29
+Len:	36
+
+Cumulative Diff:	0.9741954917667222
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	32
+Len:	16
+
+Cumulative Diff:	0.9711732819866572
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	33
+Len:	16
+
+Cumulative Diff:	0.9606235162630341
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	34
+Len:	12
+
+Cumulative Diff:	0.949639181982243
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	35
+Len:	11
+
+Cumulative Diff:	0.9609815875963
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	36
+Len:	11
+
+Cumulative Diff:	0.9790028081794467
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	37
+Len:	9
+
+Cumulative Diff:	0.9734983061405922
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	39
+Len:	6
+
+Cumulative Diff:	0.9705168210025035
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	41
+Len:	5
+
+Cumulative Diff:	0.9686152543070246
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	42
+Len:	4
+
+Cumulative Diff:	0.9746690996464435
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	45
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	28
+D in:	46
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	30
+Len:	34
+
+Cumulative Diff:	0.9515575246912499
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	31
+Len:	26
+
+Cumulative Diff:	0.9558863354574598
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	32
+Len:	16
+
+Cumulative Diff:	0.9460921160448975
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	33
+Len:	15
+
+Cumulative Diff:	0.9223702497213212
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	34
+Len:	14
+
+Cumulative Diff:	0.9473878315238181
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	35
+Len:	13
+
+Cumulative Diff:	0.9533462455585591
+
+Tick:	../data/FNBC.txt
+K in:	29
+D in:	38
+Len:	9
+
+Cumulative Diff:	0.9786419978997836
+
+Tick:	../data/FNBC.txt
+K in:	30
+D in:	31
+Len:	35
+
+Cumulative Diff:	0.9753405440774607
+
+Tick:	../data/FNBC.txt
+K in:	30
+D in:	33
+Len:	16
+
+Cumulative Diff:	0.9625435381967187
+
+Tick:	../data/FNBC.txt
+K in:	31
+D in:	33
+Len:	24
+
+Cumulative Diff:	0.9487263202347122
+
+Tick:	../data/FNBC.txt
+K in:	31
+D in:	34
+Len:	15
+
+Cumulative Diff:	0.9632775667471627
+
+Tick:	../data/FNBC.txt
+K in:	31
+D in:	35
+Len:	15
+
+Cumulative Diff:	0.9635545901180411
+
+Tick:	../data/FNBC.txt
+K in:	32
+D in:	33
+Len:	34
+
+Cumulative Diff:	0.961209849658705
+
+Tick:	../data/FNBC.txt
+K in:	32
+D in:	42
+Len:	6
+
+Cumulative Diff:	0.9746690996464435
+
+Tick:	../data/FNBC.txt
+K in:	32
+D in:	43
+Len:	5
+
+Cumulative Diff:	0.968251477922082
+
+Tick:	../data/FNBC.txt
+K in:	32
+D in:	48
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	33
+D in:	42
+Len:	7
+
+Cumulative Diff:	0.9790138965185284
+
+Tick:	../data/FNBC.txt
+K in:	33
+D in:	43
+Len:	6
+
+Cumulative Diff:	0.9788104556146692
+
+Tick:	../data/FNBC.txt
+K in:	34
+D in:	47
+Len:	5
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	35
+D in:	36
+Len:	31
+
+Cumulative Diff:	1.0213163979830142
+
+Tick:	../data/FNBC.txt
+K in:	35
+D in:	42
+Len:	7
+
+Cumulative Diff:	0.9720454116681418
+
+Tick:	../data/FNBC.txt
+K in:	35
+D in:	45
+Len:	7
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	37
+D in:	38
+Len:	29
+
+Cumulative Diff:	1.0701464142614998
+
+Tick:	../data/FNBC.txt
+K in:	37
+D in:	42
+Len:	12
+
+Cumulative Diff:	0.9753921675882757
+
+Tick:	../data/FNBC.txt
+K in:	38
+D in:	39
+Len:	28
+
+Cumulative Diff:	0.968315123420593
+
+Tick:	../data/FNBC.txt
+K in:	38
+D in:	41
+Len:	16
+
+Cumulative Diff:	0.954239141742113
+
+Tick:	../data/FNBC.txt
+K in:	38
+D in:	42
+Len:	11
+
+Cumulative Diff:	0.9556353197552718
+
+Tick:	../data/FNBC.txt
+K in:	38
+D in:	43
+Len:	13
+
+Cumulative Diff:	0.9609023269049496
+
+Tick:	../data/FNBC.txt
+K in:	38
+D in:	45
+Len:	9
+
+Cumulative Diff:	0.9694926437629422
+
+Tick:	../data/FNBC.txt
+K in:	38
+D in:	47
+Len:	6
+
+Cumulative Diff:	0.9634853205364141
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	41
+Len:	21
+
+Cumulative Diff:	0.9768941890969808
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	42
+Len:	14
+
+Cumulative Diff:	0.9530823462146566
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	43
+Len:	11
+
+Cumulative Diff:	0.963210903584437
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	45
+Len:	10
+
+Cumulative Diff:	0.9727737000332581
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	46
+Len:	9
+
+Cumulative Diff:	0.9722479461446772
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	47
+Len:	9
+
+Cumulative Diff:	0.9785119055658351
+
+Tick:	../data/FNBC.txt
+K in:	39
+D in:	54
+Len:	4
+
+Cumulative Diff:	0.9796485518594185
+
+Tick:	../data/FNBC.txt
+K in:	40
+D in:	42
+Len:	20
+
+Cumulative Diff:	0.9790617823941714
+
+Tick:	../data/FNBC.txt
+K in:	40
+D in:	43
+Len:	14
+
+Cumulative Diff:	0.9630460350426766
+
+Tick:	../data/FNBC.txt
+K in:	40
+D in:	45
+Len:	14
+
+Cumulative Diff:	0.9632830148924055
+
+Tick:	../data/FNBC.txt
+K in:	40
+D in:	47
+Len:	9
+
+Cumulative Diff:	0.9786520254853911
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	42
+Len:	27
+
+Cumulative Diff:	0.9543137750751681
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	43
+Len:	19
+
+Cumulative Diff:	0.9672657663395949
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	44
+Len:	14
+
+Cumulative Diff:	0.9775384907252836
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	46
+Len:	12
+
+Cumulative Diff:	0.9799053300930309
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	48
+Len:	8
+
+Cumulative Diff:	0.9770886423802717
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	51
+Len:	7
+
+Cumulative Diff:	0.979527609404444
+
+Tick:	../data/FNBC.txt
+K in:	41
+D in:	53
+Len:	4
+
+Cumulative Diff:	0.9799844260514754
+
+Tick:	../data/FNBC.txt
+K in:	42
+D in:	45
+Len:	13
+
+Cumulative Diff:	0.9793700282503984
+
+Tick:	../data/FNBC.txt
+K in:	42
+D in:	47
+Len:	13
+
+Cumulative Diff:	0.9756974880530046
+
+Tick:	../data/FNBC.txt
+K in:	42
+D in:	49
+Len:	8
+
+Cumulative Diff:	0.9788208209387543
+
+Tick:	../data/FNBC.txt
+K in:	42
+D in:	50
+Len:	8
+
+Cumulative Diff:	0.9759726310226189
+
+Tick:	../data/FNBC.txt
+K in:	42
+D in:	55
+Len:	4
+
+Cumulative Diff:	1.0214920959599545
+
+Tick:	../data/FNBC.txt
+K in:	43
+D in:	44
+Len:	26
+
+Cumulative Diff:	1.026955337103081
+
+Tick:	../data/FNBC.txt
+K in:	43
+D in:	45
+Len:	19
+
+Cumulative Diff:	1.0215655891084272
+
+Tick:	../data/FNBC.txt
+K in:	43
+D in:	49
+Len:	10
+
+Cumulative Diff:	0.9782355964308771
+
+Tick:	../data/FNBC.txt
+K in:	43
+D in:	51
+Len:	8
+
+Cumulative Diff:	1.0268045223835918
+
+Tick:	../data/FNBC.txt
+K in:	44
+D in:	45
+Len:	25
+
+Cumulative Diff:	0.9582558261127969
+
+Tick:	../data/FNBC.txt
+K in:	44
+D in:	47
+Len:	12
+
+Cumulative Diff:	0.9637765779722177
+
+Tick:	../data/FNBC.txt
+K in:	44
+D in:	49
+Len:	13
+
+Cumulative Diff:	0.956651466737954
+
+Tick:	../data/FNBC.txt
+K in:	44
+D in:	56
+Len:	5
+
+Cumulative Diff:	0.977438736511598
+
+Tick:	../data/FNBC.txt
+K in:	45
+D in:	46
+Len:	24
+
+Cumulative Diff:	0.9764477816419487
+
+Tick:	../data/FNBC.txt
+K in:	45
+D in:	47
+Len:	19
+
+Cumulative Diff:	0.9707173640110327
+
+Tick:	../data/FNBC.txt
+K in:	45
+D in:	52
+Len:	7
+
+Cumulative Diff:	0.9761382967465165
+
+Tick:	../data/FNBC.txt
+K in:	45
+D in:	54
+Len:	6
+
+Cumulative Diff:	0.9750791061398953
+
+Tick:	../data/FNBC.txt
+K in:	45
+D in:	59
+Len:	4
+
+Cumulative Diff:	0.9750791061398953
+
+Tick:	../data/FNBC.txt
+K in:	45
+D in:	65
+Len:	3
+
+Cumulative Diff:	0.9796485518594185
+
+Tick:	../data/FNBC.txt
+K in:	46
+D in:	48
+Len:	19
+
+Cumulative Diff:	1.0235510635788607
+
+Tick:	../data/FNBC.txt
+K in:	46
+D in:	49
+Len:	12
+
+Cumulative Diff:	0.979585777250207
+
+Tick:	../data/FNBC.txt
+K in:	46
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	48
+D in:	49
+Len:	23
+
+Cumulative Diff:	0.9659903261056526
+
+Tick:	../data/FNBC.txt
+K in:	48
+D in:	54
+Len:	8
+
+Cumulative Diff:	0.978731121122199
+
+Tick:	../data/FNBC.txt
+K in:	48
+D in:	56
+Len:	9
+
+Cumulative Diff:	0.979572356942792
+
+Tick:	../data/FNBC.txt
+K in:	48
+D in:	60
+Len:	4
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	49
+D in:	63
+Len:	4
+
+Cumulative Diff:	0.9789600956826229
+
+Tick:	../data/FNBC.txt
+K in:	50
+D in:	51
+Len:	23
+
+Cumulative Diff:	1.0456275077145394
+
+Tick:	../data/FNBC.txt
+K in:	51
+D in:	52
+Len:	21
+
+Cumulative Diff:	0.9797317365910839
+
+Tick:	../data/FNBC.txt
+K in:	51
+D in:	54
+Len:	10
+
+Cumulative Diff:	0.9714734469180496
+
+Tick:	../data/FNBC.txt
+K in:	51
+D in:	56
+Len:	10
+
+Cumulative Diff:	0.9748223675786901
+
+Tick:	../data/FNBC.txt
+K in:	51
+D in:	57
+Len:	7
+
+Cumulative Diff:	0.972665266984288
+
+Tick:	../data/FNBC.txt
+K in:	51
+D in:	60
+Len:	5
+
+Cumulative Diff:	0.9690227141762934
+
+Tick:	../data/FNBC.txt
+K in:	52
+D in:	60
+Len:	8
+
+Cumulative Diff:	0.9713643470773561
+
+Tick:	../data/FNBC.txt
+K in:	52
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9753545381693647
+
+Tick:	../data/FNBC.txt
+K in:	53
+D in:	54
+Len:	20
+
+Cumulative Diff:	0.9737794560498092
+
+Tick:	../data/FNBC.txt
+K in:	53
+D in:	55
+Len:	13
+
+Cumulative Diff:	0.9742559188127016
+
+Tick:	../data/FNBC.txt
+K in:	53
+D in:	59
+Len:	7
+
+Cumulative Diff:	0.9735637782453845
+
+Tick:	../data/FNBC.txt
+K in:	53
+D in:	60
+Len:	6
+
+Cumulative Diff:	0.975230551213459
+
+Tick:	../data/FNBC.txt
+K in:	53
+D in:	73
+Len:	3
+
+Cumulative Diff:	0.9749882307564317
+
+Tick:	../data/FNBC.txt
+K in:	55
+D in:	56
+Len:	19
+
+Cumulative Diff:	0.9747062398019
+
+Tick:	../data/FNBC.txt
+K in:	55
+D in:	60
+Len:	9
+
+Cumulative Diff:	0.9465885869915515
+
+Tick:	../data/FNBC.txt
+K in:	55
+D in:	68
+Len:	4
+
+Cumulative Diff:	0.9753545381693647
+
+Tick:	../data/FNBC.txt
+K in:	56
+D in:	59
+Len:	8
+
+Cumulative Diff:	0.9733653743467509
+
+Tick:	../data/FNBC.txt
+K in:	57
+D in:	58
+Len:	18
+
+Cumulative Diff:	0.9625401888020293
+
+Tick:	../data/FNBC.txt
+K in:	57
+D in:	59
+Len:	13
+
+Cumulative Diff:	0.9784088623335033
+
+Tick:	../data/FNBC.txt
+K in:	57
+D in:	63
+Len:	7
+
+Cumulative Diff:	0.977302370971285
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	63
+Len:	8
+
+Cumulative Diff:	0.9773618938436334
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	68
+Len:	3
+
+Cumulative Diff:	0.9753545381693647
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	71
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	72
+Len:	4
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	73
+Len:	4
+
+Cumulative Diff:	0.9753545381693646
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	74
+Len:	3
+
+Cumulative Diff:	0.9753545381693646
+
+Tick:	../data/FNBC.txt
+K in:	58
+D in:	76
+Len:	3
+
+Cumulative Diff:	0.976949457539956
+
+Tick:	../data/FNBC.txt
+K in:	59
+D in:	60
+Len:	17
+
+Cumulative Diff:	0.9686619735834686
+
+Tick:	../data/FNBC.txt
+K in:	59
+D in:	63
+Len:	8
+
+Cumulative Diff:	0.9728203483003982
+
+Tick:	../data/FNBC.txt
+K in:	59
+D in:	64
+Len:	8
+
+Cumulative Diff:	0.976712209358011
+
+Tick:	../data/FNBC.txt
+K in:	60
+D in:	63
+Len:	8
+
+Cumulative Diff:	0.9712321699093515
+
+Tick:	../data/FNBC.txt
+K in:	61
+D in:	63
+Len:	12
+
+Cumulative Diff:	0.9711558151790128
+
+Tick:	../data/FNBC.txt
+K in:	61
+D in:	66
+Len:	8
+
+Cumulative Diff:	0.9771024762784757
+
+Tick:	../data/FNBC.txt
+K in:	61
+D in:	67
+Len:	6
+
+Cumulative Diff:	0.9647375893207066
+
+Tick:	../data/FNBC.txt
+K in:	61
+D in:	68
+Len:	5
+
+Cumulative Diff:	0.9753545381693647
+
+Tick:	../data/FNBC.txt
+K in:	61
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	61
+D in:	82
+Len:	3
+
+Cumulative Diff:	0.9748902887457577
+
+Tick:	../data/FNBC.txt
+K in:	62
+D in:	63
+Len:	16
+
+Cumulative Diff:	0.971484348571155
+
+Tick:	../data/FNBC.txt
+K in:	62
+D in:	75
+Len:	4
+
+Cumulative Diff:	0.9733894489831699
+
+Tick:	../data/FNBC.txt
+K in:	62
+D in:	76
+Len:	4
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	62
+D in:	81
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	63
+D in:	68
+Len:	7
+
+Cumulative Diff:	0.976366252485077
+
+Tick:	../data/FNBC.txt
+K in:	64
+D in:	67
+Len:	7
+
+Cumulative Diff:	0.965038215415721
+
+Tick:	../data/FNBC.txt
+K in:	64
+D in:	68
+Len:	8
+
+Cumulative Diff:	0.9752163296660687
+
+Tick:	../data/FNBC.txt
+K in:	65
+D in:	67
+Len:	11
+
+Cumulative Diff:	0.9716727779599784
+
+Tick:	../data/FNBC.txt
+K in:	65
+D in:	68
+Len:	7
+
+Cumulative Diff:	0.977287437679402
+
+Tick:	../data/FNBC.txt
+K in:	67
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	68
+D in:	75
+Len:	3
+
+Cumulative Diff:	0.9795501416982533
+
+Tick:	../data/FNBC.txt
+K in:	69
+D in:	71
+Len:	10
+
+Cumulative Diff:	0.97383171482376
+
+Tick:	../data/FNBC.txt
+K in:	74
+D in:	75
+Len:	12
+
+Cumulative Diff:	0.9767977455347475
+
+Tick:	../data/FNBC.txt
+K in:	75
+D in:	77
+Len:	10
+
+Cumulative Diff:	1.02554439454432
+
+Tick:	../data/FNBC.txt
+K in:	76
+D in:	77
+Len:	11
+
+Cumulative Diff:	1.0241519229834226
+
+Tick:	../data/FNBC.txt
+K in:	77
+D in:	78
+Len:	11
+
+Cumulative Diff:	0.9653378694281329
+
+Tick:	../data/FNBC.txt
+K in:	77
+D in:	82
+Len:	5
+
+Cumulative Diff:	0.9752565593614418
+
+Tick:	../data/FNBC.txt
+K in:	80
+D in:	85
+Len:	4
+
+Cumulative Diff:	0.9770375154576788
+
+Tick:	../data/FNBC.txt
+K in:	82
+D in:	86
+Len:	4
+
+Cumulative Diff:	1.0252257314859359
+
+Tick:	../data/FNBC.txt
+K in:	90
+D in:	91
+Len:	6
+
+Cumulative Diff:	0.9775510899696346

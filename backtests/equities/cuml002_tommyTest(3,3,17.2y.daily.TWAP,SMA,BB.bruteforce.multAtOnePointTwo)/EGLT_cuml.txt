@@ -1,0 +1,9509 @@
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	2
+K1 in:	1
+D1 in:	1
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	3.016959624265322
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	2.8264616898256922
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	2.7782716422977822
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	3.443009507130706
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	3.1273762840251966
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	3.6721084664605845
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	4.073858199664312
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	4.259236299890231
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	3
+K1 in:	1
+D1 in:	1
+Len:	86
+
+Cumulative Diff:	4.259236299890231
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	2.2089742495700393
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.976682525005215
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.6452029526594676
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.7693619027410978
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.433930425108723
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.4918342485974978
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.5305105528860699
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.3858956895981378
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	4
+K1 in:	1
+D1 in:	1
+Len:	74
+
+Cumulative Diff:	1.3464836908266076
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	5
+K1 in:	1
+D1 in:	1
+Len:	61
+
+Cumulative Diff:	1.3988941324182025
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	5
+K1 in:	1
+D1 in:	1
+Len:	61
+
+Cumulative Diff:	1.2532772697962367
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	5
+K1 in:	1
+D1 in:	1
+Len:	61
+
+Cumulative Diff:	1.0360624117579755
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	5
+K1 in:	1
+D1 in:	1
+Len:	61
+
+Cumulative Diff:	1.1151526802263447
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	5
+K1 in:	1
+D1 in:	1
+Len:	61
+
+Cumulative Diff:	1.3029646672996695
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	6
+K1 in:	1
+D1 in:	1
+Len:	56
+
+Cumulative Diff:	1.035306220132657
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.7156205786476566
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.6093256229474182
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.3189241231208553
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.309330173155561
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.0891123468353594
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.1333581611890944
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.0755313800472908
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	7
+K1 in:	1
+D1 in:	1
+Len:	55
+
+Cumulative Diff:	1.404196990714055
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	8
+K1 in:	1
+D1 in:	1
+Len:	51
+
+Cumulative Diff:	1.6550046686116833
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	21
+K1 in:	1
+D1 in:	1
+Len:	22
+
+Cumulative Diff:	1.064643273790982
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	21
+K1 in:	1
+D1 in:	1
+Len:	22
+
+Cumulative Diff:	1.3483603977972143
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	2.222018196631565
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	2.1284659916292465
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	2.1306762861204342
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	2.0185426745375157
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	1.976064338984483
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	1.8111917254585919
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	1.6837459478984367
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	2.4815323542705734
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	1
+D in:	28
+K1 in:	1
+D1 in:	1
+Len:	17
+
+Cumulative Diff:	3.190556637498919
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	2
+K1 in:	2
+D1 in:	2
+Len:	122
+
+Cumulative Diff:	1.098320274264243
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	2.058170282981496
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	1.929091496152723
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	1.6277289077282309
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	2.1828889313853583
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	1.7799799883434697
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	2.0900201931932942
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	2.342670398120171
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	2.1234505067313942
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	3
+K1 in:	2
+D1 in:	2
+Len:	79
+
+Cumulative Diff:	2.066598281202169
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	3.1080689652555025
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.819881863273269
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.3410871241407856
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.4619933160754175
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.058632480608697
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.1417625193456775
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.3301219901207304
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	2.0661116155256547
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	4
+K1 in:	2
+D1 in:	2
+Len:	59
+
+Cumulative Diff:	3.518819624894734
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.5693949359549104
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.4158525913266864
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.156325245168204
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.1229742999322945
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.0367329232241373
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.088297108721999
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	5
+K1 in:	2
+D1 in:	2
+Len:	51
+
+Cumulative Diff:	1.4359699079817312
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	6
+K1 in:	2
+D1 in:	2
+Len:	45
+
+Cumulative Diff:	1.406559601156692
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	40
+
+Cumulative Diff:	1.1531529674524506
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	40
+
+Cumulative Diff:	1.0779948982372913
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	7
+K1 in:	2
+D1 in:	2
+Len:	40
+
+Cumulative Diff:	2.20578757888413
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	8
+K1 in:	2
+D1 in:	2
+Len:	39
+
+Cumulative Diff:	2.1048956502526144
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	21
+K1 in:	2
+D1 in:	2
+Len:	19
+
+Cumulative Diff:	1.2002273341461582
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.5346292876709144
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.4655528444137385
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.4689095380039303
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.3845711981508655
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.206649750379453
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.1093599050454497
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.0345752187852295
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	1.5518308314916296
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	2
+D in:	28
+K1 in:	2
+D1 in:	2
+Len:	15
+
+Cumulative Diff:	2.023906130993634
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	2.62039984486048
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	2.114171597269941
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	2.114171597269941
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	2.114171597269941
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	3.0542313181782017
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	2.7356357467731267
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	2
+K1 in:	3
+D1 in:	3
+Len:	144
+
+Cumulative Diff:	3.3602851593296172
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	2.0603770910075094
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.8626209140798327
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.509618435521547
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.5754713837799064
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.3165983724523644
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.451860080585772
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.6746954047682752
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.4504548595105784
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	3
+K1 in:	3
+D1 in:	3
+Len:	72
+
+Cumulative Diff:	1.498020331911193
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.6090217728114116
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.3123691094856198
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.193988470570858
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.328499127143482
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.2584421746681758
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.3092595729720653
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.4739524179425096
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	1.3062124526882788
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	4
+K1 in:	3
+D1 in:	3
+Len:	67
+
+Cumulative Diff:	2.1197481166802725
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.4313122508499354
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.3707571351239474
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.2113263930454294
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.1763890945940811
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.1181263038916418
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.2241772387170244
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.1564152668327232
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	5
+K1 in:	3
+D1 in:	3
+Len:	49
+
+Cumulative Diff:	1.5083626309939813
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	6
+K1 in:	3
+D1 in:	3
+Len:	44
+
+Cumulative Diff:	1.2616402853386763
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	6
+K1 in:	3
+D1 in:	3
+Len:	44
+
+Cumulative Diff:	1.1826437278674524
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	6
+K1 in:	3
+D1 in:	3
+Len:	44
+
+Cumulative Diff:	1.054519314726676
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	6
+K1 in:	3
+D1 in:	3
+Len:	44
+
+Cumulative Diff:	1.0840235828139408
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	6
+K1 in:	3
+D1 in:	3
+Len:	44
+
+Cumulative Diff:	1.2853732382857475
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	37
+
+Cumulative Diff:	1.5728807725914131
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	37
+
+Cumulative Diff:	1.4571644792642577
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	37
+
+Cumulative Diff:	1.30371731651291
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	37
+
+Cumulative Diff:	1.4064376395057538
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	7
+K1 in:	3
+D1 in:	3
+Len:	37
+
+Cumulative Diff:	1.970588788314481
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	8
+K1 in:	3
+D1 in:	3
+Len:	37
+
+Cumulative Diff:	1.1546403337810616
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.721466972246574
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.6330856346758869
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.6400641389542643
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.594338572252429
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.5650486758126914
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.4048377380005341
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	1.4351468618545102
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	2.1138459261880063
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	21
+K1 in:	3
+D1 in:	3
+Len:	18
+
+Cumulative Diff:	2.7089754405498483
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.6766151639970868
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.601147679328046
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.605135257732168
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.509576483894046
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.3155914913600317
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.2079513778071238
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.1134171558483237
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	1.6681213602420704
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	3
+D in:	28
+K1 in:	3
+D1 in:	3
+Len:	14
+
+Cumulative Diff:	2.1656283401226712
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.2449672708237005
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.5505187041518325
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.177697091602774
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.1568578779346101
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.681532561489165
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.6099981743578247
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	2
+K1 in:	4
+D1 in:	4
+Len:	100
+
+Cumulative Diff:	1.7578618884748534
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.4727712400088695
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.6249233735578548
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.7751464110170818
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.7511629958557946
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.7087056593259462
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.6603263394096304
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.325741132154741
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.2011373829169274
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	3
+K1 in:	4
+D1 in:	4
+Len:	118
+
+Cumulative Diff:	1.2011373829169274
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	2.51642188279395
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	2.1640398575668454
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	2.1948037095143365
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	2.719939232397657
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	2.5251654571771285
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	2.965003444542087
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	3.4350253536515365
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	3.1617889000826893
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	4
+K1 in:	4
+D1 in:	4
+Len:	82
+
+Cumulative Diff:	3.264265776636915
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.660029304387024
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.5869993411333845
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.4449752689123379
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.5670593427476391
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.2772108897558363
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.3383605314704583
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.3434295465459765
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.1091888583724794
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	5
+K1 in:	4
+D1 in:	4
+Len:	51
+
+Cumulative Diff:	1.8051045925455946
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	48
+
+Cumulative Diff:	1.1034340256109254
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	48
+
+Cumulative Diff:	1.0456454347984496
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	48
+
+Cumulative Diff:	1.1473591464277386
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	48
+
+Cumulative Diff:	1.2111915563536413
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	6
+K1 in:	4
+D1 in:	4
+Len:	48
+
+Cumulative Diff:	1.6608162083116496
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	2.6641512560869196
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	2.49509092526308
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	2.239531316591522
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	1.6362948321141308
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	1.5242450317150338
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	1.6821565938901308
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	1.8572698564198824
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	3.0707165159552967
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	7
+K1 in:	4
+D1 in:	4
+Len:	39
+
+Cumulative Diff:	4.240053659732585
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	8
+K1 in:	4
+D1 in:	4
+Len:	40
+
+Cumulative Diff:	1.058663400183114
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	8
+K1 in:	4
+D1 in:	4
+Len:	40
+
+Cumulative Diff:	1.445625305378408
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	16
+K1 in:	4
+D1 in:	4
+Len:	21
+
+Cumulative Diff:	1.0214474322823357
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.7208567392217433
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.6486702991209015
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.705647380581475
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.6095975652266497
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.5800273429315586
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.4182508345984832
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	1.448849343621334
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	2.135661650942935
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	21
+K1 in:	4
+D1 in:	4
+Len:	17
+
+Cumulative Diff:	2.736933136920591
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.5011998156600372
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.4336280934746073
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.4371984727087592
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.3516375063338073
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.177948134266681
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.0815698346466187
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.4940177713045106
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	4
+D in:	28
+K1 in:	4
+D1 in:	4
+Len:	14
+
+Cumulative Diff:	1.9395994220195343
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	2
+K1 in:	5
+D1 in:	5
+Len:	72
+
+Cumulative Diff:	1.1671029089244467
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	2
+K1 in:	5
+D1 in:	5
+Len:	72
+
+Cumulative Diff:	1.030597272586636
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	4.134348463649849
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	4.501601600906899
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	4.688486103715688
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	4.634616024216356
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	4.759909389383047
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	4.062255073569634
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	2.879541230754797
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	2.697145594048395
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	3
+K1 in:	5
+D1 in:	5
+Len:	87
+
+Cumulative Diff:	1.9046486346903473
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	4
+K1 in:	5
+D1 in:	5
+Len:	99
+
+Cumulative Diff:	1.9675351385001447
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	4
+K1 in:	5
+D1 in:	5
+Len:	99
+
+Cumulative Diff:	1.6963435395903783
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	1.9406571901487908
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.132037023455546
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.114484325842861
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.415798386867452
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.238916154630795
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.348297159490226
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.70834369822062
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	2.3456983682668615
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	5
+K1 in:	5
+D1 in:	5
+Len:	67
+
+Cumulative Diff:	4.35751592266181
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.4639261344947743
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.334886413157878
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	1.9411355404450612
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.1134033068398423
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	1.9454499397662468
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.18831432131545
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.2117753116223806
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.0374132897803388
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	6
+K1 in:	5
+D1 in:	5
+Len:	53
+
+Cumulative Diff:	2.8424775065928856
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	3.4832466234581814
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	3.2622085629661512
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	2.928076954648617
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	2.142741874380233
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	1.9945039721595823
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	2.2011342917308245
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	2.4177012494861785
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	3.943714124855757
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	7
+K1 in:	5
+D1 in:	5
+Len:	41
+
+Cumulative Diff:	5.457258192989079
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	1.6397162586232117
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	1.5340277298101452
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	1.4066592296905716
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	1.0233137354635211
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	1.2237952560801202
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	2.0079901234702446
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	8
+K1 in:	5
+D1 in:	5
+Len:	40
+
+Cumulative Diff:	2.772638186393512
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	13
+K1 in:	5
+D1 in:	5
+Len:	30
+
+Cumulative Diff:	1.0511150693391622
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	13
+K1 in:	5
+D1 in:	5
+Len:	30
+
+Cumulative Diff:	1.2852397872363217
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.5731056265041377
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.5057668693485264
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.5086203920276076
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.4153790853997716
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.3457702779210945
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.2080064360434566
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.234102553415505
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	1.8169706078558148
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	21
+K1 in:	5
+D1 in:	5
+Len:	15
+
+Cumulative Diff:	2.3016797068129424
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.2704931819773186
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.2133059831544164
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.2135467592214355
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.1708031287318166
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.1708031287318166
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.0750094248712736
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.0866491667855687
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	1.6261147010198207
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	5
+D in:	28
+K1 in:	5
+D1 in:	5
+Len:	14
+
+Cumulative Diff:	2.2198290136109486
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.1198392113239
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.2293233353198014
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.2665235123940073
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.2185955136456659
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.1698407147959158
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.3113253224291712
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.4138998403870258
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	5
+K1 in:	6
+D1 in:	6
+Len:	91
+
+Cumulative Diff:	1.387745919528564
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	6
+K1 in:	6
+D1 in:	6
+Len:	73
+
+Cumulative Diff:	1.8450719225325196
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	2.8824692614602663
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	2.724148887979843
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	2.2944165927604603
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	2.234433033036047
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	1.964399015782707
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	1.683066767927531
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	1.8538570616245513
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	3.474905764489011
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	7
+K1 in:	6
+D1 in:	6
+Len:	59
+
+Cumulative Diff:	3.280270006987807
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	8
+K1 in:	6
+D1 in:	6
+Len:	48
+
+Cumulative Diff:	1.044192585081653
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	8
+K1 in:	6
+D1 in:	6
+Len:	48
+
+Cumulative Diff:	1.3605110584183877
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	13
+K1 in:	6
+D1 in:	6
+Len:	35
+
+Cumulative Diff:	1.147344846202021
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	13
+K1 in:	6
+D1 in:	6
+Len:	35
+
+Cumulative Diff:	1.347773384012311
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	2.189000919514369
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	2.0658610198105443
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	2.0757780080165045
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	1.9473469750072427
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	1.8515758123019688
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	1.6555214777446334
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	1.6912850974623166
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	2.4900809929358796
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	21
+K1 in:	6
+D1 in:	6
+Len:	16
+
+Cumulative Diff:	3.1424167743600266
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.8228233785914107
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.7230421884485914
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.7273551851656093
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.6646617217221331
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.6646617217221331
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.5274946710958188
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	1.5417407411745137
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	2.329701775553911
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	6
+D in:	28
+K1 in:	6
+D1 in:	6
+Len:	14
+
+Cumulative Diff:	3.1682686674705027
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.15309844374670303
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.24618133096620345
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.23209041840872766
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.22140014800877356
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.22140014800877356
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.23069288369863608
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.27117399808093007
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.2586851879935111
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	2
+K1 in:	7
+D1 in:	7
+Len:	44
+
+Cumulative Diff:	-0.3050684366923462
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	5
+K1 in:	7
+D1 in:	7
+Len:	85
+
+Cumulative Diff:	1.0419280775390651
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.1344243194139199
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.1879554604976215
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.232420495416289
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.591640302331572
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.402305899086926
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.3337871634141598
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.502751315334989
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.599699554826916
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	6
+K1 in:	7
+D1 in:	7
+Len:	83
+
+Cumulative Diff:	1.664834057886849
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.316491220380352
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.316491220380352
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.0847539510340478
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.2951137590779038
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.056903888288124
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.1641885220986405
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	1.5025290241551643
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	7
+K1 in:	7
+D1 in:	7
+Len:	74
+
+Cumulative Diff:	2.352596704907558
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.537152792549664
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.519461847445305
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.526755893402909
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.432293558902083
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.3618528920708333
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.2233123086033577
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.249739073093573
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	1.9031177567278061
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	21
+K1 in:	7
+D1 in:	7
+Len:	16
+
+Cumulative Diff:	2.17520440491145
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.6154988910427943
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.6006971547405948
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.604703906066604
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.5481065768887197
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.5481065768887197
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.4224919072626085
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	1.4377982321174299
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	2.206057246821996
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	7
+D in:	28
+K1 in:	7
+D1 in:	7
+Len:	13
+
+Cumulative Diff:	2.6367942750039224
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	5.267670323589422
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	5.293820887517534
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	4.478324601844253
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	4.591093689502452
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	4.17570334998969
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	4.238899250966236
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	4.751314761547839
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	4.146751648251459
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	7
+K1 in:	8
+D1 in:	8
+Len:	81
+
+Cumulative Diff:	5.889988008117576
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	3.895020467747345
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	3.8695954542563773
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	3.1055213912890225
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	3.013373064633747
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	2.486259317708652
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	2.355280876640657
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	2.627797823912399
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	2.3433469728034653
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	8
+K1 in:	8
+D1 in:	8
+Len:	76
+
+Cumulative Diff:	3.598160493268911
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	1.4674070682367581
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	1.7932661272390493
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	1.4944217077269626
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	1.340771304848372
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	1.2182844951843326
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	1.8993405391307367
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	9
+K1 in:	8
+D1 in:	8
+Len:	66
+
+Cumulative Diff:	2.7626038773161237
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	13
+K1 in:	8
+D1 in:	8
+Len:	41
+
+Cumulative Diff:	1.0339641035218272
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.9468678336804395
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.924461517185412
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.9336997292363378
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.8140592605559422
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.7248432313482733
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.551576577237153
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	1.5850947136172193
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	2.413801377045078
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	21
+K1 in:	8
+D1 in:	8
+Len:	17
+
+Cumulative Diff:	2.950760396730855
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.9286944554811598
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.9090475806223153
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.8629986519884323
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.7953820790411124
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.7953820790411124
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.565469044917136
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	1.5806773301155008
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	2.4207017484111644
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	8
+D in:	28
+K1 in:	8
+D1 in:	8
+Len:	14
+
+Cumulative Diff:	3.2920237187691823
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.01453548576149144
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.02064005200997446
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.023639805882896874
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.022677745300689698
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.022677745300689698
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.019209787515561908
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.016052289266035264
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.017008132417126492
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	2
+K1 in:	9
+D1 in:	9
+Len:	39
+
+Cumulative Diff:	-0.02300677313578844
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	2.059607413332395
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	2.0461765492555157
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	1.7164143124140965
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	1.7581405936243055
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	1.6589868116953508
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	1.6826173774734725
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	1.895771339357702
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	1.7197144567061395
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	7
+K1 in:	9
+D1 in:	9
+Len:	81
+
+Cumulative Diff:	5.250660415408648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	9.799867376086869
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	9.703608729537903
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	7.913942607717014
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	8.306869649841433
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	7.7385147105369825
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	7.354927497811058
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	8.032878057677962
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	11.159676268827415
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	8
+K1 in:	9
+D1 in:	9
+Len:	78
+
+Cumulative Diff:	17.89456316972978
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	4.441641776511821
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	4.390742046427042
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	3.6767266629994153
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	4.044044584677414
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	3.6412222819908417
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	3.2887243753775683
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	3.6789066061239266
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	3.0573612681829907
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	9
+K1 in:	9
+D1 in:	9
+Len:	74
+
+Cumulative Diff:	4.902484895463215
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	76
+
+Cumulative Diff:	1.1541809971272232
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	10
+K1 in:	9
+D1 in:	9
+Len:	76
+
+Cumulative Diff:	2.464157009362365
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	13
+K1 in:	9
+D1 in:	9
+Len:	45
+
+Cumulative Diff:	1.2058161456540322
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.5340668837010731
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.516411454027778
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.5237679154135944
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.4286749674015198
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.358412264086691
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.2219549074851683
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.2483523485398091
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	1.911054010476635
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	21
+K1 in:	9
+D1 in:	9
+Len:	22
+
+Cumulative Diff:	2.3964460303406248
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.5690328267740066
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.553049687760233
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.5155879319808243
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.460580451512988
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.460580451512988
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.2870247786895128
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	1.3071627876809195
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	2.0018324963046052
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	9
+D in:	28
+K1 in:	9
+D1 in:	9
+Len:	19
+
+Cumulative Diff:	2.7223841446651185
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.016074273628516756
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.022585471650968594
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.026043920660192742
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.016298900415215818
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.016298900415215818
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.013704513659919943
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.011216601005486904
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.014346911194871416
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	2
+K1 in:	10
+D1 in:	10
+Len:	38
+
+Cumulative Diff:	-0.01592701090367421
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.3295782051261478
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.3143084774120983
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.303579389728177
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.9109623760122223
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.8513392611970088
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.8513392611970088
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.802151091790726
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	2.5618743581167585
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	7
+K1 in:	10
+D1 in:	10
+Len:	74
+
+Cumulative Diff:	4.4179815682854535
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.9040237388235064
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.8341182271504946
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.481893622819144
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.6466480550085816
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.5719564281204645
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.5719564281204645
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	3.7811070372392495
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	5.279696342168909
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	8
+K1 in:	10
+D1 in:	10
+Len:	73
+
+Cumulative Diff:	11.135022078859794
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	3.2180981296412714
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	3.207518479499195
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	2.685917002397057
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	2.9542495551126393
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	2.8042883394350295
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	2.240857286390021
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	1.9590030604853312
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	2.3956595026310787
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	9
+K1 in:	10
+D1 in:	10
+Len:	70
+
+Cumulative Diff:	5.049666203326684
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.5349196918229338
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.5273242062226764
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.2982704674029752
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.3205493680399911
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.1611414027032163
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.0932055838860115
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	1.6328625932600371
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	10
+K1 in:	10
+D1 in:	10
+Len:	72
+
+Cumulative Diff:	3.4797670100783993
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	13
+K1 in:	10
+D1 in:	10
+Len:	47
+
+Cumulative Diff:	1.6603223955752104
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.7354653646519473
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.7154486069338015
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.7237706434119233
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.6161538496439403
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.5366708734319434
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.382259656768907
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	1.4121201021816272
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	2.096304855737607
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	21
+K1 in:	10
+D1 in:	10
+Len:	21
+
+Cumulative Diff:	2.6287490685117842
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.2573487568270965
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.2445181964352041
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.214597134830532
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.1704921547007985
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.1704921547007985
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.0315469914042368
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.0415420324276001
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	1.5695458169033263
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	10
+D in:	28
+K1 in:	10
+D1 in:	10
+Len:	15
+
+Cumulative Diff:	2.134497593655256
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	2.0060426610642823
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	1.966257975940911
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	1.9563810366620245
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	2.0133289705919033
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	1.9911904561566254
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	1.9911904561566254
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	2.3210335839773446
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	1.8098946564227552
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	7
+K1 in:	12
+D1 in:	12
+Len:	62
+
+Cumulative Diff:	4.781054301337185
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.6566199951232294
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.622794905537025
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.599834612905005
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.57374737214136
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.429670141725534
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.429670141725534
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	1.5726495057830203
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	2.998899754269361
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	8
+K1 in:	12
+D1 in:	12
+Len:	67
+
+Cumulative Diff:	10.368655148486642
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	9
+K1 in:	12
+D1 in:	12
+Len:	63
+
+Cumulative Diff:	3.579412121824191
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	10
+K1 in:	12
+D1 in:	12
+Len:	65
+
+Cumulative Diff:	3.049731723842345
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	13
+K1 in:	12
+D1 in:	12
+Len:	63
+
+Cumulative Diff:	1.2609581325317483
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	13
+K1 in:	12
+D1 in:	12
+Len:	63
+
+Cumulative Diff:	2.644436294603502
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	21
+K1 in:	12
+D1 in:	12
+Len:	24
+
+Cumulative Diff:	1.1977680690179342
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	21
+K1 in:	12
+D1 in:	12
+Len:	24
+
+Cumulative Diff:	1.1977680690179342
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	21
+K1 in:	12
+D1 in:	12
+Len:	24
+
+Cumulative Diff:	1.1334614486169932
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	21
+K1 in:	12
+D1 in:	12
+Len:	24
+
+Cumulative Diff:	1.0671636686449135
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	21
+K1 in:	12
+D1 in:	12
+Len:	24
+
+Cumulative Diff:	1.368717351435213
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	21
+K1 in:	12
+D1 in:	12
+Len:	24
+
+Cumulative Diff:	1.4650645035634027
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	12
+D in:	28
+K1 in:	12
+D1 in:	12
+Len:	16
+
+Cumulative Diff:	1.0609385002322642
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	8
+K1 in:	14
+D1 in:	14
+Len:	58
+
+Cumulative Diff:	1.2144181665326732
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	9
+K1 in:	14
+D1 in:	14
+Len:	52
+
+Cumulative Diff:	1.088034673865867
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.6912337705662672
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.6736533671107015
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.510919804072091
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.4205929675550786
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.2475802524227038
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.083995949509111
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.0762275876941185
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	1.795894508884356
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	14
+D in:	13
+K1 in:	14
+D1 in:	14
+Len:	55
+
+Cumulative Diff:	3.8046487576084895
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	23
+
+Cumulative Diff:	1.1271949027390422
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	23
+
+Cumulative Diff:	1.1271949027390422
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	2
+K1 in:	17
+D1 in:	17
+Len:	23
+
+Cumulative Diff:	1.067396395669753
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.020904292958097995
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.020904292958097995
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.02418745029215081
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.023339270307786833
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.020809030088093435
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.026073967044956046
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.02363189215565735
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.02334194003884591
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	5
+K1 in:	17
+D1 in:	17
+Len:	26
+
+Cumulative Diff:	-0.019106391640552993
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.0029978317750326334
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.0028108220640891825
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.0028027150664308824
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.0027044324118928238
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.0026490394993862855
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.003217421651358834
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.002974143758287467
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	6
+K1 in:	17
+D1 in:	17
+Len:	28
+
+Cumulative Diff:	-0.002937652423918755
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.001496482782651544
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.001496482782651544
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.001743079949336039
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.001718195209743364
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.0016116147715299841
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.001632857571746459
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.001542140358942682
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	7
+K1 in:	17
+D1 in:	17
+Len:	35
+
+Cumulative Diff:	-0.0015078704433121328
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	9
+K1 in:	17
+D1 in:	17
+Len:	53
+
+Cumulative Diff:	1.1546942293112727
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	10
+K1 in:	17
+D1 in:	17
+Len:	53
+
+Cumulative Diff:	1.2429259189004234
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	10
+K1 in:	17
+D1 in:	17
+Len:	53
+
+Cumulative Diff:	1.2672125359645738
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	1.093638094844021
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	1.1773969478089699
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	1.1515479567277094
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	1.1547534575149172
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	1.1620051790818002
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	1.04121824540125
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	2.103639078649363
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	13
+K1 in:	17
+D1 in:	17
+Len:	51
+
+Cumulative Diff:	3.150772382845048
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	21
+K1 in:	17
+D1 in:	17
+Len:	42
+
+Cumulative Diff:	1.2224919892277426
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	28
+K1 in:	17
+D1 in:	17
+Len:	20
+
+Cumulative Diff:	1.034518728201499
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	28
+K1 in:	17
+D1 in:	17
+Len:	20
+
+Cumulative Diff:	1.034518728201499
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	28
+K1 in:	17
+D1 in:	17
+Len:	20
+
+Cumulative Diff:	1.8022028790080593
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	17
+D in:	28
+K1 in:	17
+D1 in:	17
+Len:	20
+
+Cumulative Diff:	1.3898011208352488
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.015457790837281875
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.015457790837281875
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.017892134057207604
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.017345209188471017
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.014275885174348411
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.014275885174348411
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.012814456968018795
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.012678134511062889
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	5
+K1 in:	20
+D1 in:	20
+Len:	20
+
+Cumulative Diff:	-0.009072499563728987
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0032907340335518744
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0030854525946359336
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0030776879394290024
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0029836094987632884
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0028368746053814876
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0028368746053814876
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0025439815559917143
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	6
+K1 in:	20
+D1 in:	20
+Len:	23
+
+Cumulative Diff:	-0.0025169182307934993
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.006250615924102028
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.006250615924102028
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.007280924961562745
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.007174904302252877
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.006521162121593307
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.006521162121593307
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.006010135511306115
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	7
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	-0.005936777571702317
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	41
+
+Cumulative Diff:	2.0917205038934656
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	10
+K1 in:	20
+D1 in:	20
+Len:	41
+
+Cumulative Diff:	1.8815859729329873
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.1446620307948023
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.1664983876916906
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.2647545912542884
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.1855972468049727
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.1609714918263425
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.113294518683336
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.059459109225811
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	13
+K1 in:	20
+D1 in:	20
+Len:	46
+
+Cumulative Diff:	1.069430669210767
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.2309970806742168
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.2309970806742168
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.1814336646960195
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.128055329694232
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.1463862288017634
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.0541441556578834
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.0768064921416134
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	2.2254634840846284
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	20
+D in:	28
+K1 in:	20
+D1 in:	20
+Len:	24
+
+Cumulative Diff:	1.7031187072516143
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	36
+
+Cumulative Diff:	1.0115849543133097
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	13
+K1 in:	24
+D1 in:	24
+Len:	36
+
+Cumulative Diff:	1.2279401244763937
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	33
+
+Cumulative Diff:	1.0175239469353323
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	33
+
+Cumulative Diff:	1.2284408914112483
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	33
+
+Cumulative Diff:	1.2658503403430674
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	33
+
+Cumulative Diff:	1.7855388194535453
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	24
+D in:	28
+K1 in:	24
+D1 in:	24
+Len:	33
+
+Cumulative Diff:	1.640648597254509
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.3941808399001725
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.3830865096485616
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.363573762071252
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.2505320342388888
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.2505320342388888
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.239672388367105
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.239672388367105
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	10
+K1 in:	29
+D1 in:	29
+Len:	14
+
+Cumulative Diff:	1.2264321935589653
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.8139932022410892
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.7919330135648173
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.8002854286498953
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.7382868299956697
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.7032063564858577
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.6884156775015604
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.7630934942096979
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.6817950840959648
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	13
+K1 in:	29
+D1 in:	29
+Len:	23
+
+Cumulative Diff:	1.6817950840959648
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	29
+
+Cumulative Diff:	1.1849149104416479
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	29
+
+Cumulative Diff:	1.1849149104416479
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	29
+
+Cumulative Diff:	1.1927362135599222
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	16
+K1 in:	29
+D1 in:	29
+Len:	29
+
+Cumulative Diff:	1.4185867229807152
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.9454242782822804
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.7295335059767727
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.6832841484050807
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.6499710397270264
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.7067508336618549
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.8057745862979269
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	1.8607654553261326
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	2.3256312729508752
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	29
+D in:	28
+K1 in:	29
+D1 in:	29
+Len:	28
+
+Cumulative Diff:	2.907016353565885
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.230026956729867
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.2203451140167072
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.2002834060849914
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.0993076659493033
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.0993076659493033
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.0562988974802403
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.0562988974802403
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	7
+K1 in:	35
+D1 in:	35
+Len:	10
+
+Cumulative Diff:	1.045041345644614
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	11
+
+Cumulative Diff:	1.0555891391350427
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	8
+K1 in:	35
+D1 in:	35
+Len:	11
+
+Cumulative Diff:	1.0472592879227285
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	11
+
+Cumulative Diff:	1.1670629193601352
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	11
+
+Cumulative Diff:	1.1578409451356455
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	9
+K1 in:	35
+D1 in:	35
+Len:	11
+
+Cumulative Diff:	1.0762231041089234
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.2893274558141428
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.2792079474522526
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.2614103791612035
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.1564580718947388
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.1564580718947388
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.1564580718947388
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.1564580718947388
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	10
+K1 in:	35
+D1 in:	35
+Len:	12
+
+Cumulative Diff:	1.144123152667261
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.4087793596212985
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.3862652660228565
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.3956677104469724
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.1718224835825861
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.1718224835825861
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.1718224835825861
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.230859482352263
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.1221760343268443
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	13
+K1 in:	35
+D1 in:	35
+Len:	14
+
+Cumulative Diff:	1.214112575435266
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.8765603459848768
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.8765603459848768
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.8696890072754542
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.588293328508295
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.5577399383880308
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.5577399383880308
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.5951995231362326
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	1.4600976111358497
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	16
+K1 in:	35
+D1 in:	35
+Len:	21
+
+Cumulative Diff:	2.711282821885437
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	2.314330363222543
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	2.314330363222543
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	2.035699649294241
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	1.9049000923683845
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	1.9049000923683845
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	2.342289659876463
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	2.403209891536452
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	2.3211377215138342
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	21
+K1 in:	35
+D1 in:	35
+Len:	25
+
+Cumulative Diff:	4.137785054364724
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.5368544433067126
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.3830006569296915
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.3109248513735867
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.2689155295805608
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.0848746547709331
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.1952603990421644
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	1.231659409503974
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	2.0456453045264693
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	35
+D in:	28
+K1 in:	35
+D1 in:	35
+Len:	23
+
+Cumulative Diff:	2.503330897124652
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	14
+
+Cumulative Diff:	1.034877610527369
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	13
+K1 in:	42
+D1 in:	42
+Len:	14
+
+Cumulative Diff:	1.1196620517131115
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.7064052914028194
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	3.004291294093821
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.673351718937197
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.634323864989986
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.634323864989986
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.608455265269389
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.6762981549670335
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	2.6762981549670335
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	21
+K1 in:	42
+D1 in:	42
+Len:	21
+
+Cumulative Diff:	5.211480441764588
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.9120672138751154
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.7289197727673549
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.638816210820588
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.5862994265916113
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.6120767922737251
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.5938585791114142
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	1.6909521239736163
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	2.449078784232822
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	42
+D in:	28
+K1 in:	42
+D1 in:	42
+Len:	20
+
+Cumulative Diff:	2.252052384361841
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	51
+D in:	16
+K1 in:	51
+D1 in:	51
+Len:	15
+
+Cumulative Diff:	1.038654964539342
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	51
+D in:	21
+K1 in:	51
+D1 in:	51
+Len:	18
+
+Cumulative Diff:	1.1942496991269986
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.7269122539981148
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.7269122539981148
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.7269122539981148
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.7269122539981148
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.626770482238043
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.613829816589866
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.7069788491421714
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.7069788491421714
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	13
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.4995634044045636
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.5653978912351605
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.5653978912351605
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.5542102756630474
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.5542102756630474
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.4640833046300548
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.4524367861241185
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.3892447776723749
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.3892447776723749
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	16
+K1 in:	61
+D1 in:	61
+Len:	8
+
+Cumulative Diff:	1.2204372827493284
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.6797983629669344
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.6797983629669344
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.596869123589604
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.5550036409486778
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.660121946417278
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.6469159758895666
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.5780051133841586
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	1.5780051133841586
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	21
+K1 in:	61
+D1 in:	61
+Len:	15
+
+Cumulative Diff:	3.1460636522784333
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	61
+D in:	28
+K1 in:	61
+D1 in:	61
+Len:	18
+
+Cumulative Diff:	2.6392114555865613
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	10
+
+Cumulative Diff:	1.066060940519227
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	10
+
+Cumulative Diff:	1.066060940519227
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	10
+
+Cumulative Diff:	1.066060940519227
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	10
+
+Cumulative Diff:	1.066060940519227
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	4
+K1 in:	74
+D1 in:	74
+Len:	10
+
+Cumulative Diff:	1.066060940519227
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.0891182587393777
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2311440117968098
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.248261358701064
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.248261358701064
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.248261358701064
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.248261358701064
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.248261358701064
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.10849730784974
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	6
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.10849730784974
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.1005712872970337
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2440905650407306
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2406153114849081
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2406153114849081
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2406153114849081
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2060346780887028
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.2060346780887028
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	7
+K1 in:	74
+D1 in:	74
+Len:	9
+
+Cumulative Diff:	1.0432471050013696
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.8579400883611685
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0837648603481145
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0837648603481145
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0837648603481145
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0837648603481145
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0837648603481145
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0837648603481145
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0169060947754476
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	10
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	2.0169060947754476
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7010447494684489
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7010447494684489
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7010447494684489
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7010447494684489
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7010447494684489
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7010447494684489
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7859788403819141
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.7286747064659167
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	13
+K1 in:	74
+D1 in:	74
+Len:	8
+
+Cumulative Diff:	1.740901781344048
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.671400541703989
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.671400541703989
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.671400541703989
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.671400541703989
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.671400541703989
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.671400541703989
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.7110129716147604
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.656114159691292
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	16
+K1 in:	74
+D1 in:	74
+Len:	7
+
+Cumulative Diff:	1.667946697995257
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5551784196452194
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5551784196452194
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5551784196452194
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5551784196452194
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5551784196452194
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5551784196452194
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5948583614083414
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.5436864353738489
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	21
+K1 in:	74
+D1 in:	74
+Len:	6
+
+Cumulative Diff:	1.554715704563406
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.314858925976544
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.255429286088397
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.1589793581170709
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.1285941314997692
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.1285941314997692
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.1285941314997692
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.2588590481168076
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.2588590481168076
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	74
+D in:	28
+K1 in:	74
+D1 in:	74
+Len:	11
+
+Cumulative Diff:	1.6228302503588046
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	3
+K1 in:	89
+D1 in:	89
+Len:	11
+
+Cumulative Diff:	1.0407469040992174
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	11
+
+Cumulative Diff:	1.054802989987701
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	11
+
+Cumulative Diff:	1.054802989987701
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	4
+K1 in:	89
+D1 in:	89
+Len:	11
+
+Cumulative Diff:	1.054802989987701
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.0749055800519034
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.0900211583309396
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.0900211583309396
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.0299481154181138
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.0299481154181138
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	5
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.0299481154181138
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.3497624759017657
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.525777367352121
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.5215632939438226
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.5215632939438226
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.4377071812866804
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.3992735442285436
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	6
+K1 in:	89
+D1 in:	89
+Len:	9
+
+Cumulative Diff:	1.3992735442285436
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.2051166497804613
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.350715907260869
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.2909539903017249
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.246646482032247
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.1790189867169032
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.1790189867169032
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	1.1790189867169032
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	3.1568742151603835
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	9
+K1 in:	89
+D1 in:	89
+Len:	8
+
+Cumulative Diff:	3.066637358042361
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	10
+K1 in:	89
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	2.635926753976136
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	10
+K1 in:	89
+D1 in:	89
+Len:	7
+
+Cumulative Diff:	2.5613926320191265
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.8617088225179814
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.8617088225179814
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.8617088225179814
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.8617088225179814
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.7308954006868182
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.7308954006868182
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.8672504955833973
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	3.9852042274448536
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	13
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	3.8907843818728027
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.372525035960984
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.372525035960984
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.372525035960984
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.372525035960984
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.2626909845346477
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.2626909845346477
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	2.6470006423693064
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	3.6774262071401265
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	16
+K1 in:	89
+D1 in:	89
+Len:	5
+
+Cumulative Diff:	3.430340447691471
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.176327989531338
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.176327989531338
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.1817756190420545
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.124575509179529
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.0219715611053557
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.0219715611053557
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.0735615991214775
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.002336803923494
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	21
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.8656125676750903
+bitchCunt:	0.038985765000000006
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.536534180360873
+bitchCunt:	0.0
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.536534180360873
+bitchCunt:	0.0035
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.5403803234906874
+bitchCunt:	0.007
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.4999958206276356
+bitchCunt:	0.0105
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.4521195443587427
+bitchCunt:	0.01365
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	1.4521195443587427
+bitchCunt:	0.017745
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.313915132738495
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	2.313915132738495
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/EGLT.txt
+K in:	89
+D in:	28
+K1 in:	89
+D1 in:	89
+Len:	6
+
+Cumulative Diff:	3.115211024552191
+bitchCunt:	0.038985765000000006

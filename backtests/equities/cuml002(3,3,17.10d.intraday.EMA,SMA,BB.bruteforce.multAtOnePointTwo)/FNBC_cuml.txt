@@ -1,0 +1,29 @@
+Tick:	../../data/FNBC.txt
+K in:	3
+D in:	8
+K1 in:	3
+D1 in:	3
+Len:	211
+
+Cumulative Diff:	1.0119247855090676
+bitchCunt:	0.023068500000000002
+
+Tick:	../../data/FNBC.txt
+K in:	3
+D in:	8
+K1 in:	3
+D1 in:	3
+Len:	211
+
+Cumulative Diff:	1.0119247855090676
+bitchCunt:	0.029989050000000003
+
+Tick:	../../data/FNBC.txt
+K in:	3
+D in:	8
+K1 in:	3
+D1 in:	3
+Len:	211
+
+Cumulative Diff:	1.1051046948326768
+bitchCunt:	0.038985765000000006

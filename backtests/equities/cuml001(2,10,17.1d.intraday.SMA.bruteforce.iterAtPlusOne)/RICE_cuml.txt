@@ -1,0 +1,132 @@
+Tick:	../data/RICE.txt
+K in:	1
+D in:	2
+Len:	79
+
+Cumulative Diff:	0.9786564024783246
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	3
+Len:	71
+
+Cumulative Diff:	0.9730919692402533
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	4
+Len:	59
+
+Cumulative Diff:	0.9704196090630056
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	5
+Len:	49
+
+Cumulative Diff:	0.9769484879171942
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	6
+Len:	44
+
+Cumulative Diff:	0.9740473219060032
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	8
+Len:	37
+
+Cumulative Diff:	0.979758794797682
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	13
+Len:	35
+
+Cumulative Diff:	0.9783667088535426
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	18
+Len:	32
+
+Cumulative Diff:	0.9794760986778236
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	21
+Len:	28
+
+Cumulative Diff:	0.9793500172179509
+
+Tick:	../data/RICE.txt
+K in:	1
+D in:	24
+Len:	26
+
+Cumulative Diff:	0.9781978921922035
+
+Tick:	../data/RICE.txt
+K in:	2
+D in:	3
+Len:	67
+
+Cumulative Diff:	0.979670434986317
+
+Tick:	../data/RICE.txt
+K in:	2
+D in:	4
+Len:	49
+
+Cumulative Diff:	0.9757528438251587
+
+Tick:	../data/RICE.txt
+K in:	2
+D in:	21
+Len:	24
+
+Cumulative Diff:	0.9767984479141125
+
+Tick:	../data/RICE.txt
+K in:	2
+D in:	22
+Len:	22
+
+Cumulative Diff:	0.9778173036154073
+
+Tick:	../data/RICE.txt
+K in:	2
+D in:	23
+Len:	19
+
+Cumulative Diff:	0.9791579276453999
+
+Tick:	../data/RICE.txt
+K in:	2
+D in:	24
+Len:	19
+
+Cumulative Diff:	0.9773743860219832
+
+Tick:	../data/RICE.txt
+K in:	3
+D in:	4
+Len:	56
+
+Cumulative Diff:	0.9797119555500237
+
+Tick:	../data/RICE.txt
+K in:	3
+D in:	21
+Len:	18
+
+Cumulative Diff:	0.9793304910925411
+
+Tick:	../data/RICE.txt
+K in:	3
+D in:	22
+Len:	17
+
+Cumulative Diff:	0.9792335889158152

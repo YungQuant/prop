@@ -1,0 +1,7888 @@
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	6
+Len:	20
+
+Cumulative Diff:	1.0283720834097132
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	8
+Len:	17
+
+Cumulative Diff:	1.0281020296631438
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	9
+Len:	16
+
+Cumulative Diff:	1.0452142983878439
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	10
+Len:	15
+
+Cumulative Diff:	1.0420511044738825
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	11
+Len:	15
+
+Cumulative Diff:	1.02270206521819
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	12
+Len:	25
+
+Cumulative Diff:	1.036189889599623
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	13
+Len:	21
+
+Cumulative Diff:	1.0247268570925554
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	14
+Len:	18
+
+Cumulative Diff:	1.0254566524094357
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	15
+Len:	16
+
+Cumulative Diff:	1.0225313143834727
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	19
+Len:	14
+
+Cumulative Diff:	1.0334531960673166
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0270731880365438
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	21
+Len:	14
+
+Cumulative Diff:	1.0287833807389795
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	22
+Len:	13
+
+Cumulative Diff:	1.0272842428435494
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	23
+Len:	14
+
+Cumulative Diff:	1.0281640518043118
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	24
+Len:	16
+
+Cumulative Diff:	1.0431449158426982
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	25
+Len:	15
+
+Cumulative Diff:	1.043752987482205
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	26
+Len:	17
+
+Cumulative Diff:	1.0479101060621712
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	27
+Len:	16
+
+Cumulative Diff:	1.0332016985213859
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	28
+Len:	15
+
+Cumulative Diff:	1.0247485524154551
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	29
+Len:	15
+
+Cumulative Diff:	1.026942874797501
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	30
+Len:	16
+
+Cumulative Diff:	1.0286617248946743
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	31
+Len:	15
+
+Cumulative Diff:	1.031040798617425
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.030124076830169
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0316314594765652
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0312618286338588
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	35
+Len:	9
+
+Cumulative Diff:	1.031368632135647
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	36
+Len:	13
+
+Cumulative Diff:	1.0305959705614316
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	37
+Len:	12
+
+Cumulative Diff:	1.0325854705485844
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	38
+Len:	13
+
+Cumulative Diff:	1.031811445981279
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	39
+Len:	13
+
+Cumulative Diff:	1.031172667019414
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	40
+Len:	12
+
+Cumulative Diff:	1.0437215929659
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	41
+Len:	12
+
+Cumulative Diff:	1.0444592053990913
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	42
+Len:	12
+
+Cumulative Diff:	1.045717490998213
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	43
+Len:	10
+
+Cumulative Diff:	1.0303787867668373
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	44
+Len:	11
+
+Cumulative Diff:	1.0268751570030605
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	45
+Len:	13
+
+Cumulative Diff:	1.029243847308986
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	46
+Len:	13
+
+Cumulative Diff:	1.030313466732979
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	47
+Len:	12
+
+Cumulative Diff:	1.0343775154567854
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	48
+Len:	11
+
+Cumulative Diff:	1.0458608020708924
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	50
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	51
+Len:	10
+
+Cumulative Diff:	1.0289159835864274
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	52
+Len:	13
+
+Cumulative Diff:	1.0309032966389733
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	53
+Len:	13
+
+Cumulative Diff:	1.0309016863819376
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	54
+Len:	12
+
+Cumulative Diff:	1.0300125181169886
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	55
+Len:	13
+
+Cumulative Diff:	1.0265555919094411
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	56
+Len:	14
+
+Cumulative Diff:	1.0381532997636236
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	57
+Len:	13
+
+Cumulative Diff:	1.0268301514739837
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	58
+Len:	11
+
+Cumulative Diff:	1.0229119562827897
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	60
+Len:	14
+
+Cumulative Diff:	1.0229994899305894
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	61
+Len:	12
+
+Cumulative Diff:	1.0215655800343029
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	62
+Len:	11
+
+Cumulative Diff:	1.0263083701942421
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	63
+Len:	9
+
+Cumulative Diff:	1.026520808008842
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	72
+Len:	8
+
+Cumulative Diff:	1.021024885715091
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	73
+Len:	8
+
+Cumulative Diff:	1.021024885715091
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	76
+Len:	8
+
+Cumulative Diff:	1.0245882416836274
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	77
+Len:	10
+
+Cumulative Diff:	1.0256502359967699
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	78
+Len:	11
+
+Cumulative Diff:	1.026004152572338
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	79
+Len:	5
+
+Cumulative Diff:	1.0227336539958947
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	84
+Len:	9
+
+Cumulative Diff:	1.0229483251218217
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	85
+Len:	9
+
+Cumulative Diff:	1.0229483251218217
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	86
+Len:	9
+
+Cumulative Diff:	1.0215339479007755
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	87
+Len:	9
+
+Cumulative Diff:	1.0203233413152804
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	88
+Len:	10
+
+Cumulative Diff:	1.0230460242079455
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	89
+Len:	10
+
+Cumulative Diff:	1.0230460242079455
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	90
+Len:	10
+
+Cumulative Diff:	1.0230460242079455
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	91
+Len:	9
+
+Cumulative Diff:	1.0206968053837393
+
+Tick:	../data/PTLA.txt
+K in:	3
+D in:	95
+Len:	7
+
+Cumulative Diff:	1.0200898947909485
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	6
+Len:	20
+
+Cumulative Diff:	1.0283720834097132
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	7
+Len:	19
+
+Cumulative Diff:	1.0317029763163665
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	8
+Len:	17
+
+Cumulative Diff:	1.0281020296631438
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	9
+Len:	16
+
+Cumulative Diff:	1.0452142983878439
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	10
+Len:	15
+
+Cumulative Diff:	1.0426201167260531
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	11
+Len:	15
+
+Cumulative Diff:	1.0365992127978765
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	12
+Len:	26
+
+Cumulative Diff:	1.0376998202219911
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	13
+Len:	22
+
+Cumulative Diff:	1.0278133837705454
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	14
+Len:	18
+
+Cumulative Diff:	1.0254566524094357
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	15
+Len:	18
+
+Cumulative Diff:	1.0254701185844468
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	20
+Len:	13
+
+Cumulative Diff:	1.026232014254368
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.0279408063075797
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0264428962073138
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	23
+Len:	12
+
+Cumulative Diff:	1.0264428962073138
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	24
+Len:	15
+
+Cumulative Diff:	1.0422905793022865
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	25
+Len:	14
+
+Cumulative Diff:	1.0428981529306225
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	26
+Len:	16
+
+Cumulative Diff:	1.0470518668270672
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	27
+Len:	16
+
+Cumulative Diff:	1.0470518668270672
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	28
+Len:	17
+
+Cumulative Diff:	1.0282987137200574
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	29
+Len:	17
+
+Cumulative Diff:	1.0297503646708297
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	30
+Len:	18
+
+Cumulative Diff:	1.0314739138163729
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	31
+Len:	17
+
+Cumulative Diff:	1.0316587518646811
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0301276824573389
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0316314594765652
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0312618286338588
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	35
+Len:	9
+
+Cumulative Diff:	1.0327670499429848
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	36
+Len:	14
+
+Cumulative Diff:	1.0317218947827298
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	37
+Len:	13
+
+Cumulative Diff:	1.0337135682949958
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	38
+Len:	15
+
+Cumulative Diff:	1.0340696528862097
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	39
+Len:	13
+
+Cumulative Diff:	1.03312188311555
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	40
+Len:	13
+
+Cumulative Diff:	1.0448610270193557
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	41
+Len:	13
+
+Cumulative Diff:	1.0455994447062948
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	42
+Len:	13
+
+Cumulative Diff:	1.046859103979652
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	43
+Len:	14
+
+Cumulative Diff:	1.0472288881915837
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	44
+Len:	13
+
+Cumulative Diff:	1.0309434877723946
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	45
+Len:	15
+
+Cumulative Diff:	1.0333215624865308
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	46
+Len:	15
+
+Cumulative Diff:	1.0343954195878935
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	47
+Len:	15
+
+Cumulative Diff:	1.0342580585854564
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	48
+Len:	11
+
+Cumulative Diff:	1.0458608020708924
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	49
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	50
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	52
+Len:	12
+
+Cumulative Diff:	1.0300589859947151
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	53
+Len:	12
+
+Cumulative Diff:	1.0300573770564814
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	54
+Len:	11
+
+Cumulative Diff:	1.0291689370210697
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	55
+Len:	11
+
+Cumulative Diff:	1.0239657732991698
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	56
+Len:	14
+
+Cumulative Diff:	1.038438784628782
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	57
+Len:	13
+
+Cumulative Diff:	1.0271125225528999
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	58
+Len:	11
+
+Cumulative Diff:	1.023193249885551
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	59
+Len:	10
+
+Cumulative Diff:	1.022477605017647
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	60
+Len:	16
+
+Cumulative Diff:	1.0233731825383279
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	61
+Len:	14
+
+Cumulative Diff:	1.0219387488475193
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	62
+Len:	13
+
+Cumulative Diff:	1.0261530511906811
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	63
+Len:	13
+
+Cumulative Diff:	1.0259693475148466
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	76
+Len:	7
+
+Cumulative Diff:	1.0234791906748093
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	77
+Len:	9
+
+Cumulative Diff:	1.0245400354472716
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	78
+Len:	11
+
+Cumulative Diff:	1.0247165885183378
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	79
+Len:	11
+
+Cumulative Diff:	1.0248935689308625
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	84
+Len:	8
+
+Cumulative Diff:	1.022484647830186
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	85
+Len:	8
+
+Cumulative Diff:	1.022484647830186
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	86
+Len:	8
+
+Cumulative Diff:	1.0210709117115133
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	87
+Len:	8
+
+Cumulative Diff:	1.0210709117115133
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	88
+Len:	10
+
+Cumulative Diff:	1.0233273546784436
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	89
+Len:	10
+
+Cumulative Diff:	1.0233273546784436
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	90
+Len:	10
+
+Cumulative Diff:	1.0233273546784436
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	91
+Len:	10
+
+Cumulative Diff:	1.0233273546784436
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	92
+Len:	11
+
+Cumulative Diff:	1.020892287694124
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	93
+Len:	11
+
+Cumulative Diff:	1.020892287694124
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	94
+Len:	11
+
+Cumulative Diff:	1.0221288763796854
+
+Tick:	../data/PTLA.txt
+K in:	4
+D in:	95
+Len:	11
+
+Cumulative Diff:	1.0221288763796854
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	5
+Len:	12
+
+Cumulative Diff:	1.0250393791737302
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	6
+Len:	9
+
+Cumulative Diff:	1.029029675112924
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	7
+Len:	12
+
+Cumulative Diff:	1.0232361877254161
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	8
+Len:	19
+
+Cumulative Diff:	1.0348551710316107
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	9
+Len:	18
+
+Cumulative Diff:	1.0511740440844897
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	10
+Len:	17
+
+Cumulative Diff:	1.0447236241675613
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	11
+Len:	16
+
+Cumulative Diff:	1.0394372420149245
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	12
+Len:	17
+
+Cumulative Diff:	1.03982180266113
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	13
+Len:	17
+
+Cumulative Diff:	1.0235429285180528
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	14
+Len:	16
+
+Cumulative Diff:	1.0295441759439365
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	15
+Len:	16
+
+Cumulative Diff:	1.0242922170663284
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.0314000106050405
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	22
+Len:	14
+
+Cumulative Diff:	1.0374697079104196
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	23
+Len:	14
+
+Cumulative Diff:	1.032517135594163
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	24
+Len:	15
+
+Cumulative Diff:	1.0422905793022865
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	25
+Len:	14
+
+Cumulative Diff:	1.0428981529306225
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	26
+Len:	16
+
+Cumulative Diff:	1.04470652931701
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	27
+Len:	16
+
+Cumulative Diff:	1.0470518668270672
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	28
+Len:	16
+
+Cumulative Diff:	1.0461686216663382
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	29
+Len:	16
+
+Cumulative Diff:	1.0384153021783744
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	30
+Len:	17
+
+Cumulative Diff:	1.0397758258802126
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	31
+Len:	17
+
+Cumulative Diff:	1.0355834959437071
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0303452561525364
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0303399067416417
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	37
+Len:	10
+
+Cumulative Diff:	1.0315409456655553
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	38
+Len:	10
+
+Cumulative Diff:	1.0406251219870417
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	39
+Len:	10
+
+Cumulative Diff:	1.0324022149769614
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	40
+Len:	15
+
+Cumulative Diff:	1.0463749700055183
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	41
+Len:	15
+
+Cumulative Diff:	1.0476688651697057
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	42
+Len:	14
+
+Cumulative Diff:	1.0468846292873486
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	43
+Len:	14
+
+Cumulative Diff:	1.0478213549756872
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	44
+Len:	14
+
+Cumulative Diff:	1.0458369255376152
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	45
+Len:	16
+
+Cumulative Diff:	1.0425854248269644
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	46
+Len:	15
+
+Cumulative Diff:	1.0420039193476482
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	47
+Len:	15
+
+Cumulative Diff:	1.0358316595155055
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	51
+Len:	8
+
+Cumulative Diff:	1.0306708902696693
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	53
+Len:	10
+
+Cumulative Diff:	1.02727848746226
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	54
+Len:	9
+
+Cumulative Diff:	1.0223744950265181
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	55
+Len:	10
+
+Cumulative Diff:	1.0205618714870253
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	56
+Len:	14
+
+Cumulative Diff:	1.0399542005859204
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	57
+Len:	13
+
+Cumulative Diff:	1.0286114098532328
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	58
+Len:	13
+
+Cumulative Diff:	1.0286114098532328
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	59
+Len:	11
+
+Cumulative Diff:	1.0246864177073467
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	60
+Len:	11
+
+Cumulative Diff:	1.0310380321449115
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	61
+Len:	12
+
+Cumulative Diff:	1.0308802534725556
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	62
+Len:	11
+
+Cumulative Diff:	1.0294437032793902
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	63
+Len:	11
+
+Cumulative Diff:	1.0298369464362223
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	72
+Len:	9
+
+Cumulative Diff:	1.0216776332232753
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	73
+Len:	9
+
+Cumulative Diff:	1.0216776332232753
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	77
+Len:	9
+
+Cumulative Diff:	1.023371522189923
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	78
+Len:	9
+
+Cumulative Diff:	1.0249863574638247
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	79
+Len:	10
+
+Cumulative Diff:	1.0244655118530335
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	86
+Len:	9
+
+Cumulative Diff:	1.0211826664259656
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	88
+Len:	10
+
+Cumulative Diff:	1.022089316053703
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	89
+Len:	10
+
+Cumulative Diff:	1.022089316053703
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	90
+Len:	10
+
+Cumulative Diff:	1.022089316053703
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	91
+Len:	10
+
+Cumulative Diff:	1.0233273546784436
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	92
+Len:	10
+
+Cumulative Diff:	1.0226201484899997
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	93
+Len:	11
+
+Cumulative Diff:	1.022767343750495
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	94
+Len:	11
+
+Cumulative Diff:	1.022767343750495
+
+Tick:	../data/PTLA.txt
+K in:	5
+D in:	95
+Len:	11
+
+Cumulative Diff:	1.0220915062986773
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	6
+Len:	9
+
+Cumulative Diff:	1.0252863878262268
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	7
+Len:	10
+
+Cumulative Diff:	1.036737400345635
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	8
+Len:	19
+
+Cumulative Diff:	1.030354169925275
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	9
+Len:	18
+
+Cumulative Diff:	1.0511740440844897
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	10
+Len:	17
+
+Cumulative Diff:	1.0447236241675613
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	11
+Len:	16
+
+Cumulative Diff:	1.0394372420149245
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	12
+Len:	17
+
+Cumulative Diff:	1.03982180266113
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	13
+Len:	16
+
+Cumulative Diff:	1.0402291466053684
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	14
+Len:	16
+
+Cumulative Diff:	1.0295441759439365
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	15
+Len:	17
+
+Cumulative Diff:	1.0316400178703282
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	22
+Len:	14
+
+Cumulative Diff:	1.0374697079104196
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	23
+Len:	16
+
+Cumulative Diff:	1.041771997810847
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	24
+Len:	16
+
+Cumulative Diff:	1.040777295899425
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	25
+Len:	15
+
+Cumulative Diff:	1.0413839874022712
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	26
+Len:	17
+
+Cumulative Diff:	1.0431897382387156
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	27
+Len:	17
+
+Cumulative Diff:	1.045531670594396
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	28
+Len:	17
+
+Cumulative Diff:	1.046994917749131
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	29
+Len:	16
+
+Cumulative Diff:	1.0450089408512675
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	30
+Len:	17
+
+Cumulative Diff:	1.0397758258802126
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	31
+Len:	16
+
+Cumulative Diff:	1.0394183917702504
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0303452561525364
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0303399067416417
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	38
+Len:	10
+
+Cumulative Diff:	1.0368396541005847
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	39
+Len:	10
+
+Cumulative Diff:	1.0373991935486908
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	40
+Len:	15
+
+Cumulative Diff:	1.0479019674079337
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	41
+Len:	14
+
+Cumulative Diff:	1.048087806055414
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	42
+Len:	14
+
+Cumulative Diff:	1.048412370446469
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	43
+Len:	14
+
+Cumulative Diff:	1.0493504631186654
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	44
+Len:	14
+
+Cumulative Diff:	1.0473444415242694
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	45
+Len:	13
+
+Cumulative Diff:	1.0440038683358805
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	46
+Len:	15
+
+Cumulative Diff:	1.0437448840474661
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	47
+Len:	14
+
+Cumulative Diff:	1.0409907864330943
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	50
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	51
+Len:	8
+
+Cumulative Diff:	1.0306708902696693
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	54
+Len:	9
+
+Cumulative Diff:	1.0223744950265181
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	55
+Len:	9
+
+Cumulative Diff:	1.0223744950265181
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	56
+Len:	15
+
+Cumulative Diff:	1.0384443093303206
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	57
+Len:	14
+
+Cumulative Diff:	1.027117986996464
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	58
+Len:	13
+
+Cumulative Diff:	1.0263961893949203
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	59
+Len:	12
+
+Cumulative Diff:	1.0231986934778021
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	60
+Len:	12
+
+Cumulative Diff:	1.029541086117818
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	61
+Len:	11
+
+Cumulative Diff:	1.0291792087589013
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	62
+Len:	11
+
+Cumulative Diff:	1.0294437032793902
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	63
+Len:	10
+
+Cumulative Diff:	1.0284149690479945
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	72
+Len:	9
+
+Cumulative Diff:	1.0216776332232753
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	73
+Len:	9
+
+Cumulative Diff:	1.0216776332232753
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	78
+Len:	10
+
+Cumulative Diff:	1.026108605300464
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	79
+Len:	10
+
+Cumulative Diff:	1.026108605300464
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	86
+Len:	9
+
+Cumulative Diff:	1.0215369976773276
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	87
+Len:	9
+
+Cumulative Diff:	1.0215369976773276
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	88
+Len:	11
+
+Cumulative Diff:	1.0206053625104778
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	89
+Len:	11
+
+Cumulative Diff:	1.0206053625104778
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	90
+Len:	11
+
+Cumulative Diff:	1.0218416036486633
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	91
+Len:	11
+
+Cumulative Diff:	1.0218416036486633
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	92
+Len:	11
+
+Cumulative Diff:	1.0211354242404749
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	93
+Len:	11
+
+Cumulative Diff:	1.0211354242404749
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	94
+Len:	11
+
+Cumulative Diff:	1.0240062036581352
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	95
+Len:	11
+
+Cumulative Diff:	1.0240062036581352
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	110
+Len:	9
+
+Cumulative Diff:	1.020647392186663
+
+Tick:	../data/PTLA.txt
+K in:	6
+D in:	111
+Len:	9
+
+Cumulative Diff:	1.020647392186663
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	8
+Len:	18
+
+Cumulative Diff:	1.0312782657651742
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	9
+Len:	17
+
+Cumulative Diff:	1.0475407337629308
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	10
+Len:	16
+
+Cumulative Diff:	1.0411126092759504
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	11
+Len:	15
+
+Cumulative Diff:	1.0358444991373035
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	12
+Len:	16
+
+Cumulative Diff:	1.0362277305762542
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	13
+Len:	15
+
+Cumulative Diff:	1.0366336665643454
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	14
+Len:	11
+
+Cumulative Diff:	1.0346753629036836
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	15
+Len:	14
+
+Cumulative Diff:	1.0265222678474775
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	23
+Len:	15
+
+Cumulative Diff:	1.0341321994651749
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	24
+Len:	16
+
+Cumulative Diff:	1.0390759065805202
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	25
+Len:	15
+
+Cumulative Diff:	1.0396816063068866
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	26
+Len:	17
+
+Cumulative Diff:	1.0414844052292198
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	27
+Len:	17
+
+Cumulative Diff:	1.0438225091590583
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	28
+Len:	17
+
+Cumulative Diff:	1.0452833643005455
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	29
+Len:	16
+
+Cumulative Diff:	1.0456428152511301
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	30
+Len:	18
+
+Cumulative Diff:	1.0473184668107
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	31
+Len:	16
+
+Cumulative Diff:	1.0418367582597838
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0303452561525364
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0303399067416417
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	39
+Len:	9
+
+Cumulative Diff:	1.0268381029266043
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	40
+Len:	14
+
+Cumulative Diff:	1.0442799667929168
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	41
+Len:	14
+
+Cumulative Diff:	1.0455712713804912
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	42
+Len:	13
+
+Cumulative Diff:	1.0447886056586788
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	43
+Len:	13
+
+Cumulative Diff:	1.0457234558784883
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	44
+Len:	13
+
+Cumulative Diff:	1.0437429995725793
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	45
+Len:	13
+
+Cumulative Diff:	1.0415081902055046
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	46
+Len:	12
+
+Cumulative Diff:	1.041015563618946
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	47
+Len:	12
+
+Cumulative Diff:	1.0373702097803408
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	51
+Len:	8
+
+Cumulative Diff:	1.0306708902696693
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	56
+Len:	15
+
+Cumulative Diff:	1.035233234931837
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	57
+Len:	14
+
+Cumulative Diff:	1.0239419358181459
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	58
+Len:	14
+
+Cumulative Diff:	1.0239419358181459
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	59
+Len:	12
+
+Cumulative Diff:	1.0200347615272223
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	60
+Len:	12
+
+Cumulative Diff:	1.0263575422396183
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	61
+Len:	11
+
+Cumulative Diff:	1.0259967838767925
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	62
+Len:	10
+
+Cumulative Diff:	1.0244424311330633
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	63
+Len:	10
+
+Cumulative Diff:	1.0248163152320175
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	91
+Len:	11
+
+Cumulative Diff:	1.020971635780496
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	92
+Len:	11
+
+Cumulative Diff:	1.020266057594055
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	93
+Len:	11
+
+Cumulative Diff:	1.020266057594055
+
+Tick:	../data/PTLA.txt
+K in:	7
+D in:	95
+Len:	11
+
+Cumulative Diff:	1.020266057594055
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	8
+Len:	18
+
+Cumulative Diff:	1.0312782657651742
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	9
+Len:	17
+
+Cumulative Diff:	1.0475407337629308
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	10
+Len:	16
+
+Cumulative Diff:	1.0411126092759504
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	11
+Len:	15
+
+Cumulative Diff:	1.0358444991373035
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	12
+Len:	16
+
+Cumulative Diff:	1.0362277305762542
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	13
+Len:	15
+
+Cumulative Diff:	1.0366336665643454
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	14
+Len:	11
+
+Cumulative Diff:	1.0346753629036836
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	15
+Len:	13
+
+Cumulative Diff:	1.0410959673028548
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0398536233932014
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	24
+Len:	14
+
+Cumulative Diff:	1.0349090005113515
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	25
+Len:	13
+
+Cumulative Diff:	1.03551227125842
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	26
+Len:	15
+
+Cumulative Diff:	1.0373078405898035
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	27
+Len:	15
+
+Cumulative Diff:	1.039636568246557
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	28
+Len:	15
+
+Cumulative Diff:	1.0410915650613168
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	29
+Len:	14
+
+Cumulative Diff:	1.0414495745403616
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	30
+Len:	16
+
+Cumulative Diff:	1.043118506395808
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	31
+Len:	15
+
+Cumulative Diff:	1.04116080312213
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0314364111836671
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	34
+Len:	10
+
+Cumulative Diff:	1.0312502618456725
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	40
+Len:	14
+
+Cumulative Diff:	1.0442799667929168
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	41
+Len:	14
+
+Cumulative Diff:	1.0455712713804912
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	42
+Len:	13
+
+Cumulative Diff:	1.0447886056586788
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	43
+Len:	13
+
+Cumulative Diff:	1.0457234558784883
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	44
+Len:	14
+
+Cumulative Diff:	1.0470046964462436
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	45
+Len:	13
+
+Cumulative Diff:	1.0415081902055046
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	46
+Len:	13
+
+Cumulative Diff:	1.0413799372848958
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	47
+Len:	11
+
+Cumulative Diff:	1.035065716370576
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	51
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	56
+Len:	13
+
+Cumulative Diff:	1.0337736409909781
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	57
+Len:	12
+
+Cumulative Diff:	1.0224982616828098
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	58
+Len:	12
+
+Cumulative Diff:	1.0224982616828098
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	60
+Len:	10
+
+Cumulative Diff:	1.0249104622973806
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	61
+Len:	9
+
+Cumulative Diff:	1.0245502125742532
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	62
+Len:	8
+
+Cumulative Diff:	1.0229980513403891
+
+Tick:	../data/PTLA.txt
+K in:	8
+D in:	63
+Len:	8
+
+Cumulative Diff:	1.0229980513403891
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	9
+Len:	9
+
+Cumulative Diff:	1.0408795564278182
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	10
+Len:	8
+
+Cumulative Diff:	1.0421533687384958
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	11
+Len:	9
+
+Cumulative Diff:	1.0403949805278165
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	12
+Len:	7
+
+Cumulative Diff:	1.0391558452021175
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	13
+Len:	12
+
+Cumulative Diff:	1.0428299354679103
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	14
+Len:	9
+
+Cumulative Diff:	1.0420144423304334
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	15
+Len:	11
+
+Cumulative Diff:	1.0424142001040382
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0398536233932014
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	24
+Len:	11
+
+Cumulative Diff:	1.0449363713190647
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	25
+Len:	12
+
+Cumulative Diff:	1.0487922047923657
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	26
+Len:	12
+
+Cumulative Diff:	1.0528909767833936
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	27
+Len:	15
+
+Cumulative Diff:	1.0501804457455857
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	28
+Len:	12
+
+Cumulative Diff:	1.04842555029689
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	29
+Len:	12
+
+Cumulative Diff:	1.0454100333473575
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	30
+Len:	15
+
+Cumulative Diff:	1.0473772992532102
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	31
+Len:	12
+
+Cumulative Diff:	1.0476564368628225
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0314364111836671
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0303399067416417
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	41
+Len:	11
+
+Cumulative Diff:	1.0442075465164782
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	42
+Len:	8
+
+Cumulative Diff:	1.0239221044877345
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	43
+Len:	11
+
+Cumulative Diff:	1.0375400634414291
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	45
+Len:	9
+
+Cumulative Diff:	1.0344475398021895
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	47
+Len:	9
+
+Cumulative Diff:	1.0235303598838619
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	51
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	57
+Len:	7
+
+Cumulative Diff:	1.021490612895131
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	58
+Len:	7
+
+Cumulative Diff:	1.0211068329421151
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	59
+Len:	8
+
+Cumulative Diff:	1.024907498826039
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	61
+Len:	7
+
+Cumulative Diff:	1.023201781849147
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	62
+Len:	7
+
+Cumulative Diff:	1.0200193614385722
+
+Tick:	../data/PTLA.txt
+K in:	9
+D in:	63
+Len:	7
+
+Cumulative Diff:	1.023201781849147
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	10
+Len:	8
+
+Cumulative Diff:	1.0421533687384958
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	11
+Len:	8
+
+Cumulative Diff:	1.0421533687384958
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	12
+Len:	7
+
+Cumulative Diff:	1.0391558452021175
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	13
+Len:	6
+
+Cumulative Diff:	1.0379827373937867
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	14
+Len:	9
+
+Cumulative Diff:	1.0420144423304334
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	15
+Len:	9
+
+Cumulative Diff:	1.0427469656642332
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0398536233932014
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	24
+Len:	11
+
+Cumulative Diff:	1.0449363713190647
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	25
+Len:	10
+
+Cumulative Diff:	1.045465532466297
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	26
+Len:	12
+
+Cumulative Diff:	1.0528909767833936
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	27
+Len:	14
+
+Cumulative Diff:	1.0486914289705382
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	28
+Len:	12
+
+Cumulative Diff:	1.04842555029689
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	29
+Len:	11
+
+Cumulative Diff:	1.0510368745602032
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	30
+Len:	15
+
+Cumulative Diff:	1.0473772992532102
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	31
+Len:	16
+
+Cumulative Diff:	1.0482515182296446
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0314364111836671
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	34
+Len:	9
+
+Cumulative Diff:	1.0303399067416417
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	42
+Len:	8
+
+Cumulative Diff:	1.0239221044877345
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	43
+Len:	7
+
+Cumulative Diff:	1.0209976572060844
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	49
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	51
+Len:	8
+
+Cumulative Diff:	1.0306708902696693
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	58
+Len:	7
+
+Cumulative Diff:	1.0211068329421151
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	59
+Len:	6
+
+Cumulative Diff:	1.0200864298354537
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	62
+Len:	7
+
+Cumulative Diff:	1.0200193614385722
+
+Tick:	../data/PTLA.txt
+K in:	10
+D in:	63
+Len:	7
+
+Cumulative Diff:	1.0200193614385722
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	12
+Len:	7
+
+Cumulative Diff:	1.0391558452021175
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	13
+Len:	6
+
+Cumulative Diff:	1.0379827373937867
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	14
+Len:	5
+
+Cumulative Diff:	1.0332213005936728
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	15
+Len:	6
+
+Cumulative Diff:	1.0302797276674567
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0398536233932014
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0458764795813382
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	24
+Len:	11
+
+Cumulative Diff:	1.0449363713190647
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	25
+Len:	10
+
+Cumulative Diff:	1.0445647350059606
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	26
+Len:	10
+
+Cumulative Diff:	1.0471332493965273
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	27
+Len:	10
+
+Cumulative Diff:	1.0384891615932261
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	28
+Len:	11
+
+Cumulative Diff:	1.047659437362804
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	29
+Len:	10
+
+Cumulative Diff:	1.050268853460781
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	30
+Len:	10
+
+Cumulative Diff:	1.043918831926828
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	31
+Len:	12
+
+Cumulative Diff:	1.0366837345699647
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0308834609989728
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	34
+Len:	10
+
+Cumulative Diff:	1.0312502618456725
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	48
+Len:	10
+
+Cumulative Diff:	1.0451170096038913
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	49
+Len:	11
+
+Cumulative Diff:	1.039883992378883
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	11
+D in:	51
+Len:	9
+
+Cumulative Diff:	1.0313960060346674
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	12
+Len:	7
+
+Cumulative Diff:	1.0391558452021175
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	13
+Len:	6
+
+Cumulative Diff:	1.0379827373937867
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	14
+Len:	5
+
+Cumulative Diff:	1.0332213005936728
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	15
+Len:	4
+
+Cumulative Diff:	1.0264237920371353
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0447755569712522
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	24
+Len:	11
+
+Cumulative Diff:	1.0449363713190647
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	25
+Len:	11
+
+Cumulative Diff:	1.0456709487329972
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	26
+Len:	10
+
+Cumulative Diff:	1.046197138857106
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	27
+Len:	9
+
+Cumulative Diff:	1.0462300811634786
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	28
+Len:	12
+
+Cumulative Diff:	1.0460771358128351
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	29
+Len:	12
+
+Cumulative Diff:	1.0496091726257446
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	30
+Len:	11
+
+Cumulative Diff:	1.0423421798900196
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	31
+Len:	10
+
+Cumulative Diff:	1.042495506344888
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0308834609989728
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0314277881431153
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0317431434547797
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	36
+Len:	8
+
+Cumulative Diff:	1.024412300860237
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	48
+Len:	12
+
+Cumulative Diff:	1.04875163000583
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	49
+Len:	11
+
+Cumulative Diff:	1.039875400497527
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	12
+D in:	51
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0447755569712522
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	24
+Len:	11
+
+Cumulative Diff:	1.0449363713190647
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	25
+Len:	11
+
+Cumulative Diff:	1.0456709487329972
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	26
+Len:	10
+
+Cumulative Diff:	1.046197138857106
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	27
+Len:	9
+
+Cumulative Diff:	1.0462300811634786
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	28
+Len:	11
+
+Cumulative Diff:	1.0467710484992208
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	29
+Len:	11
+
+Cumulative Diff:	1.0432761646723387
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	30
+Len:	7
+
+Cumulative Diff:	1.04124066178808
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	31
+Len:	9
+
+Cumulative Diff:	1.0399144022092337
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0308834609989728
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	34
+Len:	12
+
+Cumulative Diff:	1.0325200895960114
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0317431434547797
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	48
+Len:	12
+
+Cumulative Diff:	1.04875163000583
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	49
+Len:	12
+
+Cumulative Diff:	1.0402410388240029
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	13
+D in:	51
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0447755569712522
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	24
+Len:	10
+
+Cumulative Diff:	1.0443761838433754
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	25
+Len:	11
+
+Cumulative Diff:	1.0456709487329972
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	26
+Len:	10
+
+Cumulative Diff:	1.046197138857106
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	27
+Len:	9
+
+Cumulative Diff:	1.0462300811634786
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	28
+Len:	11
+
+Cumulative Diff:	1.0467710484992208
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	29
+Len:	9
+
+Cumulative Diff:	1.033000517063872
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	30
+Len:	7
+
+Cumulative Diff:	1.04124066178808
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	31
+Len:	5
+
+Cumulative Diff:	1.0299988419757573
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0317431434547797
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	48
+Len:	12
+
+Cumulative Diff:	1.04875163000583
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	49
+Len:	12
+
+Cumulative Diff:	1.0402410388240029
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	14
+D in:	51
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0447755569712522
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	24
+Len:	10
+
+Cumulative Diff:	1.0443761838433754
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	25
+Len:	11
+
+Cumulative Diff:	1.0456709487329972
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	26
+Len:	10
+
+Cumulative Diff:	1.046197138857106
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	27
+Len:	9
+
+Cumulative Diff:	1.0462300811634786
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	28
+Len:	11
+
+Cumulative Diff:	1.0467710484992208
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	29
+Len:	9
+
+Cumulative Diff:	1.033000517063872
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	30
+Len:	8
+
+Cumulative Diff:	1.0330000259130145
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	31
+Len:	9
+
+Cumulative Diff:	1.0367727344139517
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	48
+Len:	12
+
+Cumulative Diff:	1.04875163000583
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	49
+Len:	12
+
+Cumulative Diff:	1.0402410388240029
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	15
+D in:	51
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	16
+Len:	13
+
+Cumulative Diff:	1.0383986925735165
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	17
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	18
+Len:	13
+
+Cumulative Diff:	1.0387402897493117
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	19
+Len:	13
+
+Cumulative Diff:	1.0433389456863145
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	20
+Len:	14
+
+Cumulative Diff:	1.0447755569712522
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	21
+Len:	13
+
+Cumulative Diff:	1.052988854316826
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	22
+Len:	12
+
+Cumulative Diff:	1.0534568332450795
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	23
+Len:	10
+
+Cumulative Diff:	1.0434663290652846
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	24
+Len:	11
+
+Cumulative Diff:	1.0449363713190647
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	25
+Len:	11
+
+Cumulative Diff:	1.0456709487329972
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	26
+Len:	10
+
+Cumulative Diff:	1.046197138857106
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	27
+Len:	9
+
+Cumulative Diff:	1.0462300811634786
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	28
+Len:	11
+
+Cumulative Diff:	1.0467710484992208
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	29
+Len:	9
+
+Cumulative Diff:	1.033000517063872
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	30
+Len:	8
+
+Cumulative Diff:	1.0330000259130145
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	31
+Len:	8
+
+Cumulative Diff:	1.0281144842912975
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	34
+Len:	12
+
+Cumulative Diff:	1.0325200895960114
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0317431434547797
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	48
+Len:	12
+
+Cumulative Diff:	1.04875163000583
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	49
+Len:	12
+
+Cumulative Diff:	1.0402410388240029
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	50
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	16
+D in:	51
+Len:	10
+
+Cumulative Diff:	1.039520142136623
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	19
+Len:	7
+
+Cumulative Diff:	1.0455105098773043
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	21
+Len:	7
+
+Cumulative Diff:	1.0420611018592483
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	22
+Len:	6
+
+Cumulative Diff:	1.0426000807492453
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	23
+Len:	8
+
+Cumulative Diff:	1.0460471595480574
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	27
+Len:	8
+
+Cumulative Diff:	1.0367069843579635
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	31
+Len:	6
+
+Cumulative Diff:	1.031630425888969
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	34
+Len:	12
+
+Cumulative Diff:	1.0325200895960114
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0317431434547797
+
+Tick:	../data/PTLA.txt
+K in:	17
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	22
+Len:	6
+
+Cumulative Diff:	1.0426000807492453
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	23
+Len:	7
+
+Cumulative Diff:	1.0315517223139201
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	34
+Len:	12
+
+Cumulative Diff:	1.0325200895960114
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	35
+Len:	10
+
+Cumulative Diff:	1.0317431434547797
+
+Tick:	../data/PTLA.txt
+K in:	18
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	19
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	19
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0310620896141847
+
+Tick:	../data/PTLA.txt
+K in:	19
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	19
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	19
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	20
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	20
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	20
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	20
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	20
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	21
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	21
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0307013261118705
+
+Tick:	../data/PTLA.txt
+K in:	21
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	21
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	21
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	22
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	22
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0310620896141847
+
+Tick:	../data/PTLA.txt
+K in:	22
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	22
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	22
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	23
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	23
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0310620896141847
+
+Tick:	../data/PTLA.txt
+K in:	23
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	23
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	23
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0325751362633484
+
+Tick:	../data/PTLA.txt
+K in:	24
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	24
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0310620896141847
+
+Tick:	../data/PTLA.txt
+K in:	24
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	24
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	24
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	25
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	25
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	25
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	25
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	25
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	26
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0306621661427273
+
+Tick:	../data/PTLA.txt
+K in:	26
+D in:	33
+Len:	9
+
+Cumulative Diff:	1.0310620896141847
+
+Tick:	../data/PTLA.txt
+K in:	26
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	26
+D in:	35
+Len:	11
+
+Cumulative Diff:	1.032469013590252
+
+Tick:	../data/PTLA.txt
+K in:	26
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	27
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	27
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	27
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	27
+D in:	35
+Len:	12
+
+Cumulative Diff:	1.0335624177205067
+
+Tick:	../data/PTLA.txt
+K in:	27
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	28
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	28
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	28
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	28
+D in:	35
+Len:	12
+
+Cumulative Diff:	1.0335624177205067
+
+Tick:	../data/PTLA.txt
+K in:	28
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	29
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	29
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	29
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	29
+D in:	35
+Len:	12
+
+Cumulative Diff:	1.0335624177205067
+
+Tick:	../data/PTLA.txt
+K in:	29
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	30
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	30
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	30
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	30
+D in:	35
+Len:	12
+
+Cumulative Diff:	1.0335624177205067
+
+Tick:	../data/PTLA.txt
+K in:	30
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	31
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	31
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	31
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.0319665584543412
+
+Tick:	../data/PTLA.txt
+K in:	31
+D in:	35
+Len:	12
+
+Cumulative Diff:	1.0335624177205067
+
+Tick:	../data/PTLA.txt
+K in:	31
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	32
+D in:	32
+Len:	8
+
+Cumulative Diff:	1.0292039945893416
+
+Tick:	../data/PTLA.txt
+K in:	32
+D in:	33
+Len:	8
+
+Cumulative Diff:	1.0306977184768473
+
+Tick:	../data/PTLA.txt
+K in:	32
+D in:	34
+Len:	11
+
+Cumulative Diff:	1.032327512129911
+
+Tick:	../data/PTLA.txt
+K in:	32
+D in:	35
+Len:	12
+
+Cumulative Diff:	1.0335624177205067
+
+Tick:	../data/PTLA.txt
+K in:	32
+D in:	36
+Len:	10
+
+Cumulative Diff:	1.0316520403074545
+
+Tick:	../data/PTLA.txt
+K in:	41
+D in:	44
+Len:	1
+
+Cumulative Diff:	1.0240262104113578
+
+Tick:	../data/PTLA.txt
+K in:	42
+D in:	44
+Len:	1
+
+Cumulative Diff:	1.0240262104113578
+
+Tick:	../data/PTLA.txt
+K in:	42
+D in:	45
+Len:	1
+
+Cumulative Diff:	1.0240262104113578
+
+Tick:	../data/PTLA.txt
+K in:	43
+D in:	44
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	43
+D in:	45
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	43
+D in:	46
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	44
+D in:	44
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	44
+D in:	45
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	44
+D in:	46
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	44
+D in:	47
+Len:	2
+
+Cumulative Diff:	1.0251453647396764
+
+Tick:	../data/PTLA.txt
+K in:	45
+D in:	45
+Len:	1
+
+Cumulative Diff:	1.0245722606479797
+
+Tick:	../data/PTLA.txt
+K in:	45
+D in:	47
+Len:	1
+
+Cumulative Diff:	1.0245722606479797
+
+Tick:	../data/PTLA.txt
+K in:	47
+D in:	47
+Len:	1
+
+Cumulative Diff:	1.0269384783400073
+
+Tick:	../data/PTLA.txt
+K in:	49
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	50
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	50
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	51
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	51
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	51
+D in:	58
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	52
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	52
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	52
+D in:	58
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	52
+D in:	59
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	53
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	53
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	53
+D in:	58
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	53
+D in:	59
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	53
+D in:	60
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	54
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	54
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	54
+D in:	58
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	54
+D in:	59
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	54
+D in:	60
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	54
+D in:	61
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	58
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	59
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	60
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	61
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	55
+D in:	62
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	56
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	58
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	59
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	60
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	61
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	62
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	56
+D in:	63
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	57
+D in:	57
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	57
+D in:	59
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	57
+D in:	61
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	57
+D in:	63
+Len:	1
+
+Cumulative Diff:	1.0200218420094649
+
+Tick:	../data/PTLA.txt
+K in:	65
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	66
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	66
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	67
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	67
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	67
+D in:	106
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	68
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	68
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	68
+D in:	106
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	68
+D in:	107
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	69
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	69
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	69
+D in:	106
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	69
+D in:	107
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	69
+D in:	108
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	70
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	70
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	70
+D in:	106
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	70
+D in:	107
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	70
+D in:	108
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	70
+D in:	109
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	103
+Len:	2
+
+Cumulative Diff:	1.02055167524881
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	106
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	107
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	108
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	109
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	110
+Len:	4
+
+Cumulative Diff:	1.0233734520593198
+
+Tick:	../data/PTLA.txt
+K in:	71
+D in:	111
+Len:	4
+
+Cumulative Diff:	1.0212174686631275
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	104
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	105
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	106
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	107
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	108
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	109
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	110
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	72
+D in:	111
+Len:	4
+
+Cumulative Diff:	1.0224585821754835
+
+Tick:	../data/PTLA.txt
+K in:	73
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0204158067453648
+
+Tick:	../data/PTLA.txt
+K in:	73
+D in:	109
+Len:	2
+
+Cumulative Diff:	1.0204158067453648
+
+Tick:	../data/PTLA.txt
+K in:	73
+D in:	111
+Len:	3
+
+Cumulative Diff:	1.0224096381909134
+
+Tick:	../data/PTLA.txt
+K in:	75
+D in:	111
+Len:	2
+
+Cumulative Diff:	1.0206076375906679
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	82
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	84
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	85
+Len:	1
+
+Cumulative Diff:	1.020515574650913
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	86
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	87
+Len:	1
+
+Cumulative Diff:	1.020515574650913
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.020515574650913
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.020515574650913
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	94
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0203426124197001
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	81
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0203426124197001
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	82
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	83
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	84
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	85
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	86
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	87
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	94
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	95
+Len:	1
+
+Cumulative Diff:	1.0236305048335124
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0203426124197001
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0203426124197001
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0203426124197001
+
+Tick:	../data/PTLA.txt
+K in:	82
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0203426124197001
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	83
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	84
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	85
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	86
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	87
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	94
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	95
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0210113960113962
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	83
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	84
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	85
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	86
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	87
+Len:	1
+
+Cumulative Diff:	1.0261274158911955
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	94
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	95
+Len:	1
+
+Cumulative Diff:	1.0264948084496957
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	84
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.023197715917202
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	85
+Len:	1
+
+Cumulative Diff:	1.0257787325456498
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	86
+Len:	2
+
+Cumulative Diff:	1.0309443926605315
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	87
+Len:	1
+
+Cumulative Diff:	1.025411596277738
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.025411596277738
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	94
+Len:	2
+
+Cumulative Diff:	1.0272558617386691
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	95
+Len:	2
+
+Cumulative Diff:	1.0285507997959662
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0202991452991452
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	118
+Len:	2
+
+Cumulative Diff:	1.025804356514788
+
+Tick:	../data/PTLA.txt
+K in:	85
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0202991452991452
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	86
+Len:	2
+
+Cumulative Diff:	1.0309443926605315
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	87
+Len:	2
+
+Cumulative Diff:	1.0309443926605315
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	94
+Len:	2
+
+Cumulative Diff:	1.0272558617386691
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	95
+Len:	2
+
+Cumulative Diff:	1.0272558617386691
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	118
+Len:	2
+
+Cumulative Diff:	1.025804356514788
+
+Tick:	../data/PTLA.txt
+K in:	86
+D in:	119
+Len:	2
+
+Cumulative Diff:	1.025804356514788
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	87
+Len:	1
+
+Cumulative Diff:	1.0252416756176155
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	94
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	87
+D in:	95
+Len:	2
+
+Cumulative Diff:	1.028012291523822
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	88
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	90
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	92
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	94
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	88
+D in:	95
+Len:	1
+
+Cumulative Diff:	1.0229062276306369
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	89
+Len:	1
+
+Cumulative Diff:	1.0247046186895812
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	90
+Len:	2
+
+Cumulative Diff:	1.0250569633707258
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0243378668575518
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	92
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	93
+Len:	1
+
+Cumulative Diff:	1.0243378668575518
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	94
+Len:	3
+
+Cumulative Diff:	1.0261572034029665
+
+Tick:	../data/PTLA.txt
+K in:	89
+D in:	95
+Len:	1
+
+Cumulative Diff:	1.0243378668575518
+
+Tick:	../data/PTLA.txt
+K in:	90
+D in:	90
+Len:	2
+
+Cumulative Diff:	1.0250569633707258
+
+Tick:	../data/PTLA.txt
+K in:	90
+D in:	91
+Len:	2
+
+Cumulative Diff:	1.0250569633707258
+
+Tick:	../data/PTLA.txt
+K in:	90
+D in:	92
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	90
+D in:	93
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	90
+D in:	94
+Len:	3
+
+Cumulative Diff:	1.0261572034029665
+
+Tick:	../data/PTLA.txt
+K in:	90
+D in:	95
+Len:	3
+
+Cumulative Diff:	1.0261572034029665
+
+Tick:	../data/PTLA.txt
+K in:	91
+D in:	91
+Len:	1
+
+Cumulative Diff:	1.0243465807375582
+
+Tick:	../data/PTLA.txt
+K in:	91
+D in:	92
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	91
+D in:	93
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	91
+D in:	94
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	91
+D in:	95
+Len:	1
+
+Cumulative Diff:	1.0239799570508232
+
+Tick:	../data/PTLA.txt
+K in:	92
+D in:	92
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	92
+D in:	93
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	92
+D in:	94
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	92
+D in:	95
+Len:	2
+
+Cumulative Diff:	1.0240679810941666
+
+Tick:	../data/PTLA.txt
+K in:	93
+D in:	95
+Len:	2
+
+Cumulative Diff:	1.0207728546860575
+
+Tick:	../data/PTLA.txt
+K in:	97
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	97
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	98
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	98
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	98
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	98
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	99
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	99
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	99
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	99
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	99
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	99
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	100
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	108
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	101
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	108
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	109
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	102
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	108
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	109
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	110
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	103
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	104
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	108
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	109
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	110
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	111
+Len:	2
+
+Cumulative Diff:	1.0216251499527018
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	104
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	105
+Len:	2
+
+Cumulative Diff:	1.0280811162524512
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0274625815144205
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0258834460560058
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	108
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	109
+Len:	2
+
+Cumulative Diff:	1.0269878006378617
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	110
+Len:	2
+
+Cumulative Diff:	1.0274625815144205
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	111
+Len:	2
+
+Cumulative Diff:	1.0258834460560058
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	105
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	106
+Len:	2
+
+Cumulative Diff:	1.0274625815144205
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	107
+Len:	2
+
+Cumulative Diff:	1.0274625815144205
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	108
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	109
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	110
+Len:	2
+
+Cumulative Diff:	1.0274625815144205
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	111
+Len:	2
+
+Cumulative Diff:	1.0274625815144205
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	106
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	107
+Len:	1
+
+Cumulative Diff:	1.02950226114832
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	108
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	109
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	110
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	111
+Len:	2
+
+Cumulative Diff:	1.0300512314262162
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	107
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	108
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	109
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	110
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	111
+Len:	1
+
+Cumulative Diff:	1.0307362401715512
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	108
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	109
+Len:	1
+
+Cumulative Diff:	1.0312891113892366
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	110
+Len:	1
+
+Cumulative Diff:	1.033639942734431
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	111
+Len:	1
+
+Cumulative Diff:	1.0312891113892366
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	109
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	110
+Len:	1
+
+Cumulative Diff:	1.033639942734431
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	111
+Len:	1
+
+Cumulative Diff:	1.033639942734431
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	110
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	111
+Len:	1
+
+Cumulative Diff:	1.0320443967060509
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	111
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	112
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	112
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0216388790351187
+
+Tick:	../data/PTLA.txt
+K in:	113
+D in:	113
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	113
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	113
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	113
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	113
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	114
+D in:	114
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	114
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	114
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	114
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	114
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	114
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0204154066754687
+
+Tick:	../data/PTLA.txt
+K in:	115
+D in:	115
+Len:	1
+
+Cumulative Diff:	1.0242165242165244
+
+Tick:	../data/PTLA.txt
+K in:	115
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	115
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	115
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	115
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0212052778843013
+
+Tick:	../data/PTLA.txt
+K in:	116
+D in:	116
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	116
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	116
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	116
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0201400428934624
+
+Tick:	../data/PTLA.txt
+K in:	117
+D in:	117
+Len:	1
+
+Cumulative Diff:	1.0222578347578348
+
+Tick:	../data/PTLA.txt
+K in:	117
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0243378668575518
+
+Tick:	../data/PTLA.txt
+K in:	117
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0222578347578348
+
+Tick:	../data/PTLA.txt
+K in:	118
+D in:	118
+Len:	1
+
+Cumulative Diff:	1.0243378668575518
+
+Tick:	../data/PTLA.txt
+K in:	118
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0243378668575518
+
+Tick:	../data/PTLA.txt
+K in:	119
+D in:	119
+Len:	1
+
+Cumulative Diff:	1.0239885427855353

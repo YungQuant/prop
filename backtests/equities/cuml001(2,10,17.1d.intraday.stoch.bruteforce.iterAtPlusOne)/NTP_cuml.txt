@@ -1,0 +1,20 @@
+Tick:	../data/NTP.txt
+K in:	1
+D in:	2
+Len:	4
+
+Cumulative Diff:	1.0229177034427832
+
+Tick:	../data/NTP.txt
+K in:	1
+D in:	2
+Len:	4
+
+Cumulative Diff:	1.0229177034427832
+
+Tick:	../data/NTP.txt
+K in:	1
+D in:	4
+Len:	4
+
+Cumulative Diff:	1.0229177034427832
