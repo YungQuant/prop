@@ -20,8 +20,6 @@
        -Use binary classification on daily time periods, or deep predictions for intraday updated position/swing trading
     -Intrinsic Value and/or Event Focused strategies
        -10bp per asset class
-    -Pretty website
-        -5bp
     -Website with encrypted communications portal and other auxillary functions for investors
         -10bp
 
@@ -37,6 +35,9 @@
 
     -Improve binary accuracy of mlsp2/mltf2
         -1bp/ percent improvement in accuracy over 50%
+
+    -Completed pitchdeck
+
 2bp:
     -Options Chain Data Scraper/Source
     
