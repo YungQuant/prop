@@ -319,7 +319,7 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3; k2 = 300
+    k1 = 7; k2 = 300
     l1 = 2; l2 = 30
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30

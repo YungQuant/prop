@@ -200,7 +200,7 @@ def createBinaryTrainingSet(dataset, look_back):
     for i in range(len(dataset)-look_back-1):
         a = dataset[i:i+look_back]
         X.append(a)
-        if dataset[i + look_back] > dataset[i + look_back - 1]:
+        if dataset[i + look_back + 1] > dataset[i + look_back]:
             Y.append(1)
         else:
             Y.append(0)
@@ -280,7 +280,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         scaler = MinMaxScaler(feature_range=(0,1))
         cuml.append(1)
         #dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
-        dataset = stock[:len(stock) * .95]
+        dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
@@ -296,7 +296,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > len(stock) * .95:
+            if i > len(stock) * int(np.floor(.95)):
                 #print("\n\ninput array:", arr)
                 arry = scaler.fit_transform(arr[-Nin:])
                 #arry = arr[-Nin:]
@@ -308,7 +308,6 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 arry = np.reshape(arry, (1, Nin))
                 #predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
-                #arry = scaler.inverse_transform(arry)
                 #kar.append(predict)
                 if i < len(stock) - 1: print("arry", (arry[0][Nin - 1] - stock[i + 1]))
                 #if i > 100:
@@ -355,7 +354,7 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         # plot(perc)
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID"]
 fileTicker = []
 fileOutput = []
 fileCuml = []

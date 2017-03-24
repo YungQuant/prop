@@ -239,6 +239,8 @@ def createBinaryTrainingSet(dataset, look_back):
     return np.array(X), np.array(Y)
 
 def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
+    #WRITES ENVIRONMENT, LOOKBACK PERIOD, EPOCH COUNT, BATCH SIZE, OPTIMIZATION FUNCTION, ERROR METRIC, AND ACTUAL ERRORS
+    #TO OUTPUT/LOG FILES
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -281,6 +283,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         arr = []; diff = []; false_margin_array = []; correct_margin_array = [];
         scaler = MinMaxScaler(feature_range=(0,1))
         scaler1 = MinMaxScaler(feature_range=(0,1))
+        #SCALER FUNCTIONS FOR NORMALIZING DATA^
         cuml.append(1)
 
         dataset = scaler1.fit_transform(stock[:int(np.floor(len(stock) * .95))])
@@ -288,26 +291,31 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
         act = keras.layers.advanced_activations.PReLU(init='zero', weights=None)
+        #SCALES DATA, FORMATS INTO TRAINING SETS, RESHAPES INTO 3 DIMENSIONS, ADDS ADVANCED PARAMETRIC RELU ACTIVATION FUNCTION
 
-        model = Sequential()
-        model.add(Dense(Nin, input_shape=(1, Nin)))
-        model.add(act)
-        model.add(Dropout(0.2, input_shape=(1, Nin)))
-        model.add(LSTM(Nin))
-        model.add(Dense(1))
-        model.add(act)
+        model = Sequential() #MAKES MODEL FRAMEWORK
+        model.add(Dense(Nin, input_shape=(1, Nin))) #ADDS LAYER OF "Nin" NODES/NEURONS/SYNAPSES
+        model.add(act) #ADDS PARAMETRIC RELU ACTIVATION
+        #model.add(Dropout(0.2, input_shape=(1, Nin))) #ADDS DROPOUT OPTIMIZATION TO AVOID OVERFITTING
+        model.add(LSTM(Nin)) #ADDS LSTM RNN LAYER
+        model.add(Dense(1)) #ADDS SINGLE NODE DENSE OUTPUT LAYER
+        model.add(act) #ADDS PARAMETRIC RELU ACTIVATION TO OUTPUT NODE
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
-        model.fit(trainX, trainY, nb_epoch=numBatch, batch_size=numBatch, verbose=0)
-
+        #COMPILES MODEL WITH "err" ERROR METRIC, "opt" OPTIMIZATION FUNCTION, AND BINARY_ACCURACY METRIC
+        model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
+        #FITS MODEL TO TRAINGING DATA USING "numEpoch" EPOCHS, AND "numBatch" BATCHES
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             if i > (int(np.floor(len(stock) * .95))):
                 arry = scaler.fit_transform(arr[-Nin:])
                 arry = np.reshape(arry, (1, 1, len(arry)))
+                #SHAPES AND SCALES PREDICTION INPUT^
                 predict = model.predict(arry)
+                #PREDICTS^
                 # invert predictions
                 arry = np.reshape(arry, (1, Nin))
                 arry = scaler.inverse_transform(arry)
+                #RESHAPES FOR PRESENTATION^
                 # predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
                 print(predict)
@@ -320,10 +328,12 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         correct_margin_array.append(predict - .5)
+                        #IF CORRECT PREDICTION SAVES "1" FOR CORRECT IN DIFF ARRAY AND SAVES MARGIN FOR ANALYSIS
                     else:
                         diff.append(0)
                         #print("incorrect, margin:", predict - .5)
                         false_margin_array.append(predict - .5)
+                        #ELSE SAVES "0" FOR INCORRECT IN DIFF ARRAY AND SAVES MARGIN FOR ANALYSIS
                 # if i > 100:
                 # plot(trainPredict)
 
@@ -341,11 +351,12 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         print("mean correct margin:", np.mean(correct_margin_array))
         print("mean error margin:", np.mean(false_margin_array))
         print("\n\n")
+        #PRINTS DATA GENERATED FROM EACH TEST
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(diff) > 0.5:
-            write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
+        write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
+        #WRITES DATA GENERATED FROM EACH TEST TO LOG FILESQ
 
 
     return cuml
@@ -387,5 +398,3 @@ for i in range(len(errs)):
             for l in range(len(opts)):
                 for m in range(len(nins)):
                     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
-
-#fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)
