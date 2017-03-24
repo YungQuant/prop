@@ -1,9 +1,9 @@
 >10bp:
-    -Any, and every, independantly developed strategy included in the beta run of ip1.n will be evaluated for its impact 
+    -Any, and every, independantly developed strategy included in the beta run of cip1.n/ib1.n/angel1.n will be evaluated for its impact
         on the beta phase profits. 
         -Up to 30bp will be remited to the developer(s) of the strategy
     
-    -Any, and every, independantly developed strategy included in the alpha run of iaN.N, daN.N, or any other independant
+    -Any, and every, independantly developed strategy included in the alpha run of iaN.N, caN.N, daN.N, faN.N or any other independant
         trading algorithm, will be evaluated for its impact on the alpha phase profits.
         -Up to 300bp will be remited to the developer(s) of the strategy
 
@@ -20,13 +20,15 @@
        -Use binary classification on daily time periods, or deep predictions for intraday updated position/swing trading
     -Intrinsic Value and/or Event Focused strategies
        -10bp per asset class
+    -Pretty website
+        -5bp
+    -Website with encrypted communications portal and other auxillary functions for investors
+        -10bp
 
 4bp:
     -Position entry system
        -must account for slippage and market impact
        -For position entry EOD find avg volume/period and put hidden limit @ trip price for [-n:]
-    -Fix/restructure multiprocessing/threading system for all ip, fip, and ib variants
-       -1bp/file
   
 3bp:
     -Add dimensionality to Machine Learning systems inputs w/OHLV Data, financials, news, etc..
@@ -36,8 +38,8 @@
     -Improve binary accuracy of mlsp2/mltf2
         -1bp/ percent improvement in accuracy over 50%
 2bp:
-    -Options Chain, and Cryptocurrency Data Scraper/Source
-       -1bp/data type
+    -Options Chain Data Scraper/Source
+    
     -Volume Weighted Average Price function
 
     -Create diagrams that describe current frameworks for new employees
