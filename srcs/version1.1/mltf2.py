@@ -291,11 +291,11 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
 
         model = Sequential()
         model.add(Dense(Nin, input_shape=(1, Nin)))
-        model.add(act)
+        #model.add(act)
         model.add(Dropout(0.2, input_shape=(1, Nin)))
         model.add(LSTM(Nin))
         model.add(Dense(1))
-        model.add(act)
+        #model.add(act)
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=numBatch, batch_size=numBatch, verbose=0)
 

@@ -29,10 +29,8 @@
        -1bp/file
   
 3bp:
-    -Build ML-based strategy using existing keras model to predict future data -or- parameters for existing strategies 
-
-    -Add dimensionality to Machine Learning systems inputs w/OHLV gata, financials, news, etc..
-        -1bp/ML system updated, .5bp for each additional dimension ("etc..") added 
+    -Add dimensionality to Machine Learning systems inputs w/OHLV Data, financials, news, etc..
+        -1bp/ dimension added (ie; adding volume data = +1 dimension)
         -Sources: Intrino?
 
     -Improve binary accuracy of mlsp2/mltf2
