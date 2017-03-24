@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
-import pandas as pd
+#import matplotlib.pyplot as plt
+#import pandas as pd
 import math
 import keras
 from keras.models import Sequential
@@ -9,10 +9,10 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 import yahoo_finance
 import numpy as np
-import urllib.request
-import urllib, time, datetime
+import urllib3.request
+import urllib3, time, datetime
 import scipy.stats as sp
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 import os.path
 import scipy
 import warnings
