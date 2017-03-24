@@ -185,7 +185,7 @@ class GoogleIntradayQuote(Quote):
         self.symbol = symbol.upper()
         url_string = "http://www.google.com/finance/getprices?q={0}".format(self.symbol)
         url_string += "&i={0}&p={1}d&f=d,o,h,l,c,v".format(interval_seconds, num_days)
-        thing = urllib.request.urlopen(url_string)
+        thing = urllib3.request.urlopen(url_string)
         csv = thing.read().decode('utf-8').split('\n')
         for bar in range(7, len(csv)):
             if csv[bar].count(',') != 5: continue
