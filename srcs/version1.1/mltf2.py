@@ -213,7 +213,7 @@ class ohlcvObj():
 def CryptoQuote1(the_symbol):
     obj = ohlcvObj
     the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
-    response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
+    response = urllib3.request.urlopen(the_url).read().decode("utf-8").split(",")
     for i, curr in enumerate(response):
         if curr.find('open') > 0:
             obj.open.append(getNum(curr))
@@ -287,15 +287,15 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         #dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-        prelu = keras.layers.advanced_activations.PReLU(init='zero', weights=None)
+        act = keras.layers.advanced_activations.PReLU(init='zero', weights=None)
 
         model = Sequential()
         model.add(Dense(Nin, input_shape=(1, Nin)))
-        model.add(prelu)
-        #model.add(Dropout(0.2, input_shape=(1, Nin)))
-        model.add(LSTM(Nin, activation='relu'))
+        #model.add(act)
+        model.add(Dropout(0.2, input_shape=(1, Nin)))
+        model.add(LSTM(Nin))
         model.add(Dense(1))
-        model.add(prelu)
+        #model.add(act)
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=numBatch, batch_size=numBatch, verbose=0)
 
@@ -310,7 +310,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
                 arry = scaler.inverse_transform(arry)
                 # predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
-                if predict > 1 or predict < 0: print("tengo una problema, prediction:", predict)
+                print(predict)
                 # kar.append(predict)
                 if i < len(stock) - 1:
                     difference = arry[0][Nin - 1] - stock[i + 1]
@@ -344,7 +344,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(diff) > 0.3:
+        if np.mean(diff) > 0.5:
             write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
 
 
@@ -374,7 +374,7 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(close))
             fileWrite.write('\n')
 
-opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
+opts = ['sgd', 'Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
 nins = [500, 1000, 3000, 6000]
