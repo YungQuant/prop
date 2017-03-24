@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
-import pandas as pd
+#import matplotlib.pyplot as plt
+#import pandas as pd
 import math
 import keras
 from keras.models import Sequential
@@ -9,10 +9,10 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 import yahoo_finance
 import numpy as np
-import urllib.request
-import urllib, time, datetime
+import urllib3.request
+import urllib3, time, datetime
 import scipy.stats as sp
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 import os.path
 import scipy
 import warnings
@@ -279,8 +279,8 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .5)):]):
             stock.append(float(stocks))
         arr = []; diff = []; false_margin_array = []; correct_margin_array = [];
-        scaler = MinMaxScaler(feature_range=(0,1))
-        scaler1 = MinMaxScaler(feature_range=(0,1))
+        scaler = MinMaxScaler(feature_range=(-1,1))
+        scaler1 = MinMaxScaler(feature_range=(-1,1))
         cuml.append(1)
 
         dataset = scaler1.fit_transform(stock[:int(np.floor(len(stock) * .95))])
@@ -377,9 +377,9 @@ for i, file in enumerate(fileTicker):
 opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
-nins = [50, 100, 300, 600]
+nins = [500, 1000, 3000, 6000]
 batchs = [10, 30, 90, 150, 270]
-epochs = [100, 300, 900, 1500, 2700]
+epochs = [1000, 2000, 3000, 4000, 5000]
 
 for i in range(len(errs)):
     for j in range(len(batchs)):
