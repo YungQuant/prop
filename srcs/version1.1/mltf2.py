@@ -275,8 +275,13 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         with open(tik, 'r') as f:
             stock1 = f.readlines()
         f.close()
+<<<<<<< HEAD
         #for i, stocks in enumerate(stock1):
         for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .97)):]):
+=======
+        for i, stocks in enumerate(stock1):
+        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .95)):]):
+>>>>>>> parent of 575bec2... mltf2 readied for p2.2xlarge AWS EC2 run
             stock.append(float(stocks))
         arr = []; diff = []; false_margin_array = []; correct_margin_array = [];
         scaler = MinMaxScaler(feature_range=(-1,1))
