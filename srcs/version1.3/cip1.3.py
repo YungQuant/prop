@@ -157,7 +157,6 @@ def CryptoQuote1(the_symbol):
         open, high, low, close, volume = [], [], [], [], []
     the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
-    print(response[1:10])
     for i, curr in enumerate(response):
         if curr.find('open') > 0:
             ohlcvObj.open.append(getNum(curr))
@@ -196,8 +195,10 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     file.write(str(len(perc)))
     # file.write("\n\n\nPercent Diff:\n")
     # file.write(str(perc))
-    # file.write("\n\nDescribed Diff:\n")
-    # file.write(str(desc))
+    if len(perc) > 10:
+        desc = sp.describe(perc)
+        file.write("\n\nDescribed Diff:\n")
+        file.write(str(desc))
     file.write("\n\n [sma,sma],[ema,sma] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
@@ -219,10 +220,11 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
     for i, stocks in enumerate(stock1[int(np.floor(len(stock1)/2)):]):
         stock.append(float(stocks))
-
+    print("test length:", len(stock))
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
-    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 0.0
+    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
+    # WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
     stockBought = False
     stopLoss = False
     bull = 0; shit = 0; maxP = 0;

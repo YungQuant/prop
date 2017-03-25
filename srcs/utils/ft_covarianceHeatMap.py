@@ -55,20 +55,24 @@ for i, file in enumerate(fileTicker):
             fileWrite.write('\n')
         fileWrite.close()
 
-tickers = np.zeros((8, 1000), dtype=object)
-stock = []
+stock = []; size = 10000;
+tickers = np.zeros((len(ticker), size), dtype=object)
 for i, tik in enumerate(fileTicker):
     with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
     for k in range(len(stock1)):
         stock.append(getNum(stock1[k]))
-    tickers[i] = np.array(stock[-1000:])
+    tickers[i] = np.array(stock[-size:])
     #tickers[i] = np.random.uniform(0, 10, size=1000)
 
-
+#COVARIANCE ARRAY OF ALL CRYPTO'S IN TESTING ENVIRONMENT \/
 Arr = np.corrcoef(np.array(tickers.astype(float)))
-print(Arr)
+print(ticker)
+for i in range(len(ticker)):
+    print(ticker[i], Arr[i])
+
+#HEATMAP \/
 plt.pcolor(Arr, cmap=plt.cm.Blues)
 plt.show()
 

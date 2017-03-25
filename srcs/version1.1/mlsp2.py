@@ -250,8 +250,10 @@ def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
     file.write(str(len(perc)))
     # file.write("\n\n\nPercent Diff:\n")
     # file.write(str(perc))
-    # file.write("\n\nDescribed Diff:\n")
-    # file.write(str(desc))
+    if len(perc) > 10:
+        desc = sp.describe(perc)
+        file.write("\n\nDescribed Diff:\n")
+        file.write(str(desc))
     file.write("\n\nCumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
@@ -315,12 +317,12 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 print("predict:", predict)
                 #print("predicted:", kar)
                 # calculate root mean squared error
-                if stockBought == True and closeData > max:
-                    max = closeData
                 if ((float(predict) > 0.5) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1 + tradeCost))
                     bull += 1
                     stockBought = True
+                if stockBought == True and closeData > maxP:
+                    maxP = closeData
                 elif ((float(predict) < 0.5) and stockBought == True):
                     sell.append(closeData * (1 - tradeCost))
                     max = 0
