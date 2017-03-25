@@ -52,7 +52,8 @@
     -HigherHigh/LowerLow strategy
     -Straddle/Strangle Options strategy
     -Organize Everything, Update README.md
-    -Volume oscillators 
+    -Volume oscillators
+    -Fibonacci Ratio Strategy
     -Shell Script to Intialize Server instances for testing
     
 .5bp:

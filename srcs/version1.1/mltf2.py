@@ -207,25 +207,24 @@ def  getNum(str):
             tmp += l
     return float(tmp)
 
-class ohlcvObj():
-    open, high, low, close, volume = [],[],[],[],[]
-
 def CryptoQuote1(the_symbol):
-    obj = ohlcvObj
+    class ohlcvObj():
+        open, high, low, close, volume = [], [], [], [], []
     the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
+    print(response[1:10])
     for i, curr in enumerate(response):
         if curr.find('open') > 0:
-            obj.open.append(getNum(curr))
+            ohlcvObj.open.append(getNum(curr))
         elif curr.find('high') > 0:
-            obj.high.append(getNum(curr))
+            ohlcvObj.high.append(getNum(curr))
         elif curr.find('low') > 0:
-            obj.low.append(getNum(curr))
+            ohlcvObj.low.append(getNum(curr))
         elif curr.find('close') > 0:
-            obj.close.append(getNum(curr))
+            ohlcvObj.close.append(getNum(curr))
         elif curr.find('volume') > 0:
-            obj.volume.append(getNum(curr))
-    return obj
+            ohlcvObj.volume.append(getNum(curr))
+    return ohlcvObj
 
 def createBinaryTrainingSet(dataset, look_back):
     X, Y = [], []
@@ -235,7 +234,7 @@ def createBinaryTrainingSet(dataset, look_back):
         if dataset[i + look_back + 1] > dataset[i + look_back]:
             Y.append(1)
         else:
-            Y.append(0)
+            Y.append(1)
     return np.array(X), np.array(Y)
 
 def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
@@ -279,6 +278,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .97)):]):
             stock.append(float(stocks))
         arr = []; diff = []; false_margin_array = []; correct_margin_array = [];
+        errorCnt = 0; predictArray = [];
         scaler = MinMaxScaler(feature_range=(-1,1))
         scaler1 = MinMaxScaler(feature_range=(-1,1))
         cuml.append(1)
@@ -286,14 +286,17 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         dataset = scaler1.fit_transform(stock[:int(np.floor(len(stock) * .95))])
         #dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
+        #print("len X:", len(trainX), "len Y:", len(trainY))
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+        #trainY = np.reshape(trainY, (1, 1, trainY.shape[0]))
         prelu = keras.layers.advanced_activations.PReLU(init='zero', weights=None)
 
         model = Sequential()
         model.add(Dense(Nin, input_shape=(1, Nin)))
         model.add(prelu)
-        #model.add(Dropout(0.2, input_shape=(1, Nin)))
         model.add(LSTM(Nin, activation='relu'))
+        #model.add(Dropout(0.3, input_shape=(1, Nin)))
+        model.add(Dense(Nin))
         model.add(Dense(1))
         model.add(prelu)
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
@@ -310,7 +313,8 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
                 arry = scaler.inverse_transform(arry)
                 # predict = scaler.inverse_transform(predict)
                 predict = predict[0][0]
-                if predict > 1 or predict < 0: print("tengo una problema, prediction:", predict)
+                predictArray.append(predict)
+                if predict > 1 or predict < 0: errorCnt += 1
                 # kar.append(predict)
                 if i < len(stock) - 1:
                     difference = arry[0][Nin - 1] - stock[i + 1]
@@ -337,6 +341,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
               "numBatch:", numBatch, "\n",
               "opt:", opt, "\n",
               "err:", err)
+        if errorCnt > 0: print("tengo", errorCnt, "problemas, avg prediction:", np.mean(predict))
         print("mean inverse error (% correct):", np.mean(diff))
         print("mean correct margin:", np.mean(correct_margin_array))
         print("mean error margin:", np.mean(false_margin_array))
@@ -377,9 +382,9 @@ for i, file in enumerate(fileTicker):
 opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
-nins = [500, 1000, 3000, 6000]
-batchs = [10, 30, 90, 150, 270]
-epochs = [1000, 2000, 3000, 4000, 5000]
+nins = np.arange(5, 100, step=5)
+batchs = np.arange(5, 50, step=5)
+epochs = np.arange(10, 500, step=10)
 
 for i in range(len(errs)):
     for j in range(len(batchs)):
