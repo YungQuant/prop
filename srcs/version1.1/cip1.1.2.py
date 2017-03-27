@@ -182,7 +182,7 @@ def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
     file.write("\nK in:\t")
     file.write(str(int(np.floor(kin))))
     file.write("\nD in:\t")
-    file.write(str(int(np.floor(din))))
+    file.write(str(din))
     # file.write("\nK1 in:\t")
     # file.write(str(int(np.floor(kin1))))
     # file.write("\nD1 in:\t")
@@ -203,6 +203,7 @@ def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
+    file.write("\n\n")
     file.close()
     # print("Described diff")
     # print(desc)
@@ -218,9 +219,11 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     f.close()
     #REMOVE INT(NP.FLOOR(LEN(STOCK1)/2)) FOR REAL RUNS
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
-    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .8)):]):
+    #28880 = 100 day lookback
+    #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .66)):]):
+    for i, stocks in enumerate(stock1[-28880:]):
         stock.append(float(stocks))
-    #print("test length:", len(stock))
+    if Kin < 10: print(tik, "test length:", len(stock)/288, "days")
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
@@ -231,7 +234,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i > max([Kin, Din]):
-                lb, md, ub = BBn(arr[:-1], int(np.floor(Kin)), int(np.floor(Din)), int(np.floor(Din)))
+                lb, md, ub = BBn(arr[:-1], int(np.floor(Kin)), Din, Din)
                 if ((closeData > ub) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1+tradeCost))
                     bull += 1
@@ -262,7 +265,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i in range(bull):
         cuml += cuml * perc[i]
 
-    print("cuml:", cuml)
+    print(tik, "cuml:", cuml)
 
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
@@ -306,7 +309,7 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3; k2 = 300
+    k1 = 3; k2 = 3000
     l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30
@@ -318,8 +321,8 @@ def run():
             while (j < j2):
                 #while (d < d2):
                     #while (s < s2):
-                if i > k and i >= d:
-                    print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2, int(np.floor(d)), "/", d2)
+                if i > 0:
+                    print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
                     pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.002)
                     #     if (s < 10):
                     #         s += 1
@@ -336,7 +339,7 @@ def run():
                 else:
                     j *= 1.3
             j = j1
-            i += .1
+            i *= 1.1
         i = l1
         if (k < 10):
             k += 1

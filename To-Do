@@ -6,22 +6,18 @@
     -Any, and every, independantly developed strategy included in the alpha run of iaN.N, caN.N, daN.N, faN.N or any other independant
         trading algorithm, will be evaluated for its impact on the alpha phase profits.
         -Up to 300bp will be remited to the developer(s) of the strategy
-
   
 5-10bp:
     -Build overarching ML framework
        -8bp
+
     -Intrisic Value -and/or- Sentiment Analysis -or- Arbitrage strategy and Implementation for Cryptocurrencies
        -8bp
+
     -Kelly Criterion based Risk Management Strategy
        -requires probabilistic models built on decent sample size of environments and trades
        -8bp
-    -Build "mlsp3" by training and trading keras NN in ip1.1 style framework on OHLCV data from all vehicles in environment
-       -Use binary classification on daily time periods, or deep predictions for intraday updated position/swing trading
-    -Intrinsic Value and/or Event Focused strategies
-       -10bp per asset class
-    -Pretty website
-        -5bp
+
     -Website with encrypted communications portal and other auxillary functions for investors
         -10bp
 
@@ -31,12 +27,15 @@
        -For position entry EOD find avg volume/period and put hidden limit @ trip price for [-n:]
   
 3bp:
-    -Add dimensionality to Machine Learning systems inputs w/OHLV Data, financials, news, etc..
+    -Add dimensionality to Machine Learning systems inputs w/OHLV Data, financials, sentiment analysis, news, etc..
         -1bp/ dimension added (ie; adding volume data = +1 dimension)
         -Sources: Intrino?
 
+    -Train mlsp2 and mltf2 on correlated cryptocurrency environment
+
     -Improve binary accuracy of mlsp2/mltf2
         -1bp/ percent improvement in accuracy over 50%
+
 2bp:
     -Options Chain Data Scraper/Source
     
@@ -44,22 +43,37 @@
 
     -Create diagrams that describe current frameworks for new employees
 
+    -Rate of Change based strategy
+
+    -Trend Volume Analysis based strategy
+
+    -Volume oscillators
+
+    -Fibonacci Ratio Strategy
+
+    -BB Convergence based Strategy
+
+    -HigherHigh/LowerLow strategy
+
+    -Straddle/Strangle Options strategy
+
+    -Implement Gap-Detection environment filter for applying momentum strategies
    
 1bp:
     -Finish logParser.py
-        -Must record Nth best results (including all data from backtest) from any category/line in the log files 
-    -BB Convergence based Strategy
-    -HigherHigh/LowerLow strategy
-    -Straddle/Strangle Options strategy
-    -Organize Everything, Update README.md
-    -Volume oscillators
-    -Fibonacci Ratio Strategy
-    -Shell Script to Intialize Server instances for testing
-    
-.5bp:
-    -Run Correlation Matrices on FOREX & Crypto's
-    -Record per trade holding time and plot in ft_closelyExamine.py
+        -Must record Nth best results (including all data from backtest) from any category/line in the log files
+        -Must log all info from backtest to seperate logfile
 
+    -Organize Everything, Update README.md
+
+    -Analyze BTC_MAID and BTC_XRP data for discrepancies
+
+    -cip1.1.2 long only and long preference runs
+
+.5bp:
+    -Run Correlation Matrices on FOREX
+
+    -Record per trade holding time and plot in ft_closelyExamine.py
 
 .1bp:
     -Investigate LJPC, LA JOLLA PHARMACEUTICAL, BCRX, BIOCRYST PHARMACEUTICALS, LNTH, LANTHEUS HOLDINGS, 

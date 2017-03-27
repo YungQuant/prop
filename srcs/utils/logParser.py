@@ -1,34 +1,33 @@
 import os.path
-ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA", "NTP"]
+import numpy as np
+
+tickers = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+outputs = []
 fileCuml = []
 best = []
-bestFiles = []
-for i, tick in enumerate(ticker):
-    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
-    bestFiles.append("../../best/" + tick + "_best.txt")
-    best.append(0)
+env = "crypto/"
+run = "cuml001.1.2(3,26,17.100d.300Sintervals.BBbreak)/"
 
-for fi, file in enumerate(fileCuml):
+for i, tik in enumerate(tickers):
+    outputs.append("../../backtests/" + env + run + tik + "_output.txt")
+
+def  getNum(str):
+    tmp = ""
+    for i, l in enumerate(str):
+        print(l)
+        if l.isnumeric() or l == ".":
+            tmp += l
+    return float(tmp)
+
+for fi, file in enumerate(outputs):
     with open(file) as fp:
         for li, line in enumerate(fp):
-            tempStr = " "
-            tempStr += line.split()
-            if li % 6 == 0:
-                for si in line.split():
-                    if si.isnumeric():
-                        for bi in range(len(best)):
-                            if float(si) > best[bi]:
-                                if (os.path.isfile(bestFiles[bi]) == False):
-                                    bestFile = open(bestFiles[bi], 'w')
-                                else:
-                                    bestFile = open(bestFiles[bi], "a")
-                                best[bi] = int(si)
-                                #bestFile.write(delete (lowest) saved log result/last 6 lines?)
-                                bestFile.write(tempStr)
-                             else: 
-                                tempStr = " "
+            print(li)
+            if li % 11 == 0 and li > 5:
+                num = getNum(line)
+                best.append(num)
+
     fp.close()
-    bestFile.close()
 
-
-
+best.sort(reverse=True)
+print(best[-10:])
