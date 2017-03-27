@@ -7296,6 +7296,9 @@ K in:	221
 D in:	4.594972986357222
 Len:	10
 
+
+
+
  [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3797979711836819
 bitchCunt:	0.09380903291500002
 
@@ -7557,6 +7560,9 @@ K in:	266
 D in:	3.797498335832415
 Len:	10
 
+
+
+
  [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5029564207268633
 bitchCunt:	0.09380903291500002
 
@@ -7564,6 +7570,9 @@ Tick:	../../data/BTC_ETH.txt
 K in:	266
 D in:	4.177248169415656
 Len:	10
+
+
+
 
  [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4191696748114806
 bitchCunt:	0.09380903291500002
@@ -7573,6 +7582,9 @@ K in:	266
 D in:	4.594972986357222
 Len:	9
 
+
+
+
  [BBbreak, static bitchcunt distance] Cumulative Diff:	1.43883132712588
 bitchCunt:	0.09380903291500002
 
@@ -7580,6 +7592,9 @@ Tick:	../../data/BTC_ETH.txt
 K in:	319
 D in:	1
 Len:	27
+
+
+
 
 Described Diff:
 DescribeResult(nobs=27, minmax=(-0.14484320353232835, 0.28229663990199722), mean=0.014354841458373091, variance=0.013312690209241595, skewness=0.8682721030010438, kurtosis=-0.024727340557553212)

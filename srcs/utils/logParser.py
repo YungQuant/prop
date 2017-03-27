@@ -1,10 +1,12 @@
 import os.path
 import numpy as np
+import re
 
-tickers = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+#tickers = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+tickers = ["BTC_ETH"]
 outputs = []
 fileCuml = []
-best = []
+best = []; kurt = [];
 env = "crypto/"
 run = "cuml001.1.2(3,26,17.100d.300Sintervals.BBbreak)/"
 
@@ -14,20 +16,23 @@ for i, tik in enumerate(tickers):
 def  getNum(str):
     tmp = ""
     for i, l in enumerate(str):
-        print(l)
         if l.isnumeric() or l == ".":
-            tmp += l
-    return float(tmp)
+            tmp.append(l)
+    return tmp
 
 for fi, file in enumerate(outputs):
+    i = 0
     with open(file) as fp:
-        for li, line in enumerate(fp):
-            print(li)
-            if li % 11 == 0 and li > 5:
-                num = getNum(line)
+        fd = fp.readlines()
+        for li, line in enumerate(fd[:int(len(fd) * 0.1)]):
+            if line.find("Cumulative") > 5:
+                tmp = re.findall(r"[-+]?\d*\.\d+|\d+", line)
+                num = float(tmp[0])
                 best.append(num)
+                i += 2
 
     fp.close()
 
+
 best.sort(reverse=True)
-print(best[-10:])
+print(best)
