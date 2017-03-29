@@ -1,0 +1,234 @@
+
+Tick:	../../data/BTC_ETH.txt
+K in:	8
+D in:	1.771561000000001
+Len:	23
+
+Described Diff:
+DescribeResult(nobs=23, minmax=(-0.12464297763485974, 0.86555593593306557), mean=0.066546498455613542, variance=0.051837714185606718, skewness=2.163436474038332, kurtosis=4.723063659999144)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.9357659625955197
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_ETH.txt
+K in:	3
+D in:	1
+Len:	47
+
+Described Diff:
+DescribeResult(nobs=47, minmax=(-0.17416989269791483, 0.33694435343269435), mean=0.012377805102048701, variance=0.014370915680317717, skewness=1.165474332550077, kurtosis=0.9136432767215941)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.320131018102406
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_ETH.txt
+K in:	7
+D in:	1.3310000000000004
+Len:	43
+
+Described Diff:
+DescribeResult(nobs=43, minmax=(-0.12768719717079435, 0.35837660311487407), mean=0.021367306875665727, variance=0.012948103866880485, skewness=1.3757105763567838, kurtosis=1.467015190560697)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9522093865599532
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_ETH.txt
+K in:	29
+D in:	4.594972986357222
+Len:	16
+##CHOSEN##
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.095946800012435426, 0.83718567020151979), mean=0.099096777260330893, variance=0.05752493005429192, skewness=1.9963062675342333, kurtosis=3.6195206898652676)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.386998672528742
+bitchCunt:	0.09380903291500002
+
+
+
+
+Tick:	../../data/BTC_LTC.txt
+K in:	1957
+D in:	1.2100000000000002
+Len:	17
+##CHOSEN##
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.064375079389369372, 0.20686593730451369), mean=0.027905907743534231, variance=0.0055617871880458006, skewness=0.9893935884379764, kurtosis=0.36127638947622653)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5333086089535148
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_LTC.txt
+K in:	1957
+D in:	1.4641000000000006
+Len:	22
+
+Described Diff:
+DescribeResult(nobs=22, minmax=(-0.086413109722660572, 0.30315503367876245), mean=0.02040594223344195, variance=0.0076268513113746453, skewness=1.5498414743718996, kurtosis=3.089720288683849)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4517539812889253
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_LTC.txt
+K in:	2158
+D in:	1.6105100000000008
+Len:	23
+
+Described Diff:
+DescribeResult(nobs=23, minmax=(-0.086413109722660572, 0.1398220854692496), mean=0.017135660778837762, variance=0.0039001583675713314, skewness=0.47510372154147795, kurtosis=-0.4633184939947701)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4189530211555532
+bitchCunt:	0.025265500000000003
+
+
+
+
+Tick:	../../data/BTC_XMR.txt
+K in:	3
+D in:	1
+Len:	29
+
+Described Diff:
+DescribeResult(nobs=29, minmax=(-0.14102027709247267, 0.45306246937921435), mean=0.025294460575228783, variance=0.016818570484246002, skewness=1.5997692015667582, kurtosis=2.773228059359573)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6858907960884535
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XMR.txt
+K in:	3
+D in:	2.1435888100000016
+Len:	29
+
+Described Diff:
+DescribeResult(nobs=29, minmax=(-0.14508501034622745, 0.41963186968136179), mean=0.024861327443969908, variance=0.016723985322457634, skewness=1.4625523575193031, kurtosis=2.0152505640890155)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6641832400012087
+bitchCunt:	0.09380903291500002
+
+
+Tick:	../../data/BTC_XMR.txt
+K in:	6
+D in:	2.853116706110003
+Len:	41
+##CHOSEN##
+Described Diff:
+DescribeResult(nobs=41, minmax=(-0.10140247579937922, 0.33127095489826736), mean=0.014429406265239156, variance=0.0094231750219388368, skewness=1.3204833159946063, kurtosis=1.2978800454578971)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5166827901850883
+bitchCunt:	0.07216079455000002
+
+
+Tick:	../../data/BTC_XMR.txt
+K in:	10
+D in:	1
+Len:	28
+
+Described Diff:
+DescribeResult(nobs=28, minmax=(-0.14365766044764466, 0.37251249487991234), mean=0.021351985314630229, variance=0.015496899016249496, skewness=1.2818189867937146, kurtosis=1.344299497288362)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5014138471529415
+bitchCunt:	0.09380903291500002
+
+
+
+Tick:	../../data/BTC_ZEC.txt
+K in:	1691
+D in:	1.4641000000000006
+Len:	16
+##CHOSEN##
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.13399513393886045, 0.6308644022338642), mean=0.06757577024935113, variance=0.044322683660714249, skewness=1.3824831252381762, kurtosis=1.1470340344951646)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.2026734605376332
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_ZEC.txt
+K in:	61
+D in:	4.594972986357222
+Len:	60
+
+Described Diff:
+DescribeResult(nobs=60, minmax=(-0.31081552522661171, 0.3036371464136417), mean=0.016112447722452856, variance=0.0074571442912625425, skewness=0.04540164818190773, kurtosis=3.8204229714864875)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0975490704856083
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_ZEC.txt
+K in:	42
+D in:	4.177248169415656
+Len:	99
+
+Described Diff:
+DescribeResult(nobs=99, minmax=(-0.18151651033336244, 0.2539913040561152), mean=0.007617724586284195, variance=0.004427688002535274, skewness=1.0030107724490267, kurtosis=2.6598598418111994)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7239419751928948
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_ZEC.txt
+K in:	51
+D in:	3.4522712143931042
+Len:	135
+
+Described Diff:
+DescribeResult(nobs=135, minmax=(-0.19599437874805153, 0.28292485729393096), mean=0.0051372698248654371, variance=0.0043289584303362301, skewness=1.2708442477187891, kurtosis=3.961634781296344)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5170149625318405
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_ZEC.txt
+K in:	42
+D in:	4.177248169415656
+Len:	97
+
+Described Diff:
+DescribeResult(nobs=97, minmax=(-0.1913369967979858, 0.2539913040561152), mean=0.0059566259363710199, variance=0.0044978543157746407, skewness=0.9593506298602608, kurtosis=2.772531140793715)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4467076257402038
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_ZEC.txt
+K in:	51
+D in:	4.177248169415656
+Len:	89
+
+Described Diff:
+DescribeResult(nobs=89, minmax=(-0.18151651033336244, 0.29274907545571671), mean=0.0064333997086277904, variance=0.0052076341178407632, skewness=1.0758660836574652, kurtosis=2.9751219069526584)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.423380207882144
+bitchCunt:	0.008
+
+
+
+Tick:	../../data/BTC_DASH.txt
+K in:	7
+D in:	3.797498335832415
+Len:	30
+##CHOSEN##
+Described Diff:
+DescribeResult(nobs=30, minmax=(-0.18767984198866541, 0.59130569418774193), mean=0.040831094784799703, variance=0.030312267442549487, skewness=1.1917389519339383, kurtosis=1.3773523566656705)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.2926646295392112
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_DASH.txt
+K in:	61
+D in:	4.177248169415656
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.21412898647237952, 0.31480500352183749), mean=0.053269923729573877, variance=0.024532657942087848, skewness=-0.013160200709806644, kurtosis=-0.7442870525450669)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8585223815480751
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_DASH.txt
+K in:	4
+D in:	4.594972986357222
+Len:	53
+
+Described Diff:
+DescribeResult(nobs=53, minmax=(-0.22195442523135442, 0.30080537179401978), mean=0.013688906007820648, variance=0.01008270731479613, skewness=0.7600279482334863, kurtosis=0.7929729540405663)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6062024637796264
+bitchCunt:	0.07216079455000002
+
+

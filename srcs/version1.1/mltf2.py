@@ -268,6 +268,7 @@ def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
     file.close()
 
 def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
+    Nin *= 5
     cuml = []
     for j, tik in enumerate(tick):
         stock = []
@@ -355,7 +356,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
 
     return cuml
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_ZEC", "BTC_LTC"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -366,7 +367,12 @@ for i, tick in enumerate(ticker):
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = CryptoQuote1(ticker[i]).close
+        dataset = CryptoQuote1(ticker[i])
+        O = dataset.open
+        H = dataset.high
+        L = dataset.low
+        C = dataset.close
+        V = dataset.volume
         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         # dataset = np.zeros(len(tick))
         # i = len(tick) - 1
@@ -375,8 +381,16 @@ for i, file in enumerate(fileTicker):
         #     dataset[ik] = tick[i]['Close']
         #     i -= 1
         #     ik += 1
-        for i, close in enumerate(dataset):
-            fileWrite.write(str(close))
+        for i in range(len(C)):
+            fileWrite.write(str(O[i]))
+            fileWrite.write('\n')
+            fileWrite.write(str(H[i]))
+            fileWrite.write('\n')
+            fileWrite.write(str(L[i]))
+            fileWrite.write('\n')
+            fileWrite.write(str(C[i]))
+            fileWrite.write('\n')
+            fileWrite.write(str(V[i]))
             fileWrite.write('\n')
 
 opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']

@@ -136,8 +136,8 @@ def twap(arr, ll):
     close = a[len(a) - 1]
     return (high + low + close) / 3
 
-def BBmomma(arr, Kin):
-    lb, mb, ub = BBn(arr, Kin, 2.5, 2.5)
+def BBmomma(arr, Kin, Din, Din1):
+    lb, mb, ub = BBn(arr, Kin, Din, Din1)
     srange = ub - lb
     pos = arr[-1] - lb
     if srange > 0:
@@ -216,9 +216,9 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
     with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
-    for i, stocks in enumerate(stock1):
+    for i, stocks in enumerate(stock1[-28880:]):
         stock.append(float(stocks))
-    print("test length:", len(stock))
+    if Kin < 10: print(tik, "test length:", len(stock) / 288, "days")
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
@@ -229,35 +229,35 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
 
     for i, closeData in enumerate(stock):
         arr.append(closeData)
-        if i > int(Kin * Kin1) and i > Din1 * 10:
-                Kv = SMAn(arr, int(np.floor(Kin)))
+        if i > int(max([Kin, Kin1, Din])):
+                Kv = BBmomma(arr, int(np.floor(Kin)), Din1, Din1)
                 kar.append(Kv)
                 Dv = SMAn(kar, int(np.floor(Din)))
                 #dar.append(Dv)
-                Kv1 = BBmomma(arr, int(np.floor(Kin * Kin1)))
-                kar1.append(Kv1)
-                Dv1 = SMAn(kar1, int(np.floor(Din1)))
+                # Kv1 = BBmomma(arr, int(np.floor(Kin * Kin1)))
+                # kar1.append(Kv1)
+                # Dv1 = SMAn(kar1, int(np.floor(Din1)))
                 #dar1.append(Dv1)
                 # Kv2 = SMAn(arr, Kin2)
                 # kar2.append(Kv2)
                 # Dv2 = SMAn(arr, Din2)
                 # dar2.append(Dv2)
-                scaler = MinMaxScaler(feature_range=(min(arr), max(arr)))
-                Kvl = [0, Kv, Kv1, 1000]
-                Dvl = [0, Dv, Dv1, 1000]
-                Kvl = scaler.fit_transform(Kvl)
-                Dvl = scaler.fit_transform(Dvl)
-                s1 = (Kvl[1] + Kvl[2]) / 2
-                s2 = (Dvl[1] + Dvl[2]) / 2
+                # scaler = MinMaxScaler(feature_range=(min(arr), max(arr)))
+                # Kvl = [0, Kv, Kv1, 1000]
+                # Dvl = [0, Dv, Dv1, 1000]
+                # Kvl = scaler.fit_transform(Kvl)
+                # Dvl = scaler.fit_transform(Dvl)
+                # s1 = (Kvl[1] + Kvl[2]) / 2
+                # s2 = (Dvl[1] + Dvl[2]) / 2
                 #s1ar.append(s1)
                 #s2ar.append(s2)
-                if ((s1 > s2) and (stockBought == False and stopLoss == False)):
+                if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1+tradeCost))
                     bull += 1
                     stockBought = True
                 if stockBought == True and closeData > maxP:
                     maxP = closeData
-                elif ((s1 < s2) and stockBought == True):
+                elif ((Kv < Dv) and stockBought == True):
                     sell.append(closeData * (1-tradeCost))
                     maxP = 0
                     shit += 1
@@ -268,7 +268,7 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
                     shit += 1
                     stockBought = False
                     stopLoss = True
-                elif ((s1 > s2) and stopLoss == True):
+                elif ((Kv > Dv) and stopLoss == True):
                     stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
@@ -284,7 +284,7 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
     for i in range(bull):
         cuml += cuml * perc[i]
 
-    print("len:", len(perc))
+    print("len:", len(perc), "cuml:", cuml)
 
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
@@ -294,13 +294,13 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
     return cuml
 
 def pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 8; verbOS = 10; inc = 0
+    n_proc = 7; verbOS = 10; inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
             (fileTicker[inc], fileOutput[inc], k, i, d, s, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_ZEC", "BTC_LTC"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -328,32 +328,30 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3; k2 = 300
+    k1 = 3; k2 = 3000
     l1 = 2; l2 = 30
-    d1 = 2; d2 = 10
+    d1 = 1; d2 = 5
     s1 = 2; s2 = 30
-    j1 = 0.001; j2 = 0.15
+    j1 = 0.001; j2 = 0.10
     k = k1; i = l1; j = j1; d = d1; s = s1
     returns = []
     while (k < k2):
         while (i < l2):
             while (j < j2):
                 while (d < d2):
-                    while (s < s2):
-                        if i > 0:
-                            print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                            if pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0005) != 1:
-                                print("things are probably going ok")
-                            else:
-                                print("oh jeez")
-                        if (s < 10):
-                            s += 1
+                    #while (s < s2):
+                    if i > 0:
+                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+                        if pillowcaseAssassination(fileTicker, k, i, d, d, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0005) != 1:
+                            print("things are probably going ok")
                         else:
-                            s *= 1.3
-                    if (d < 10):
-                        d += 1
-                    else:
-                        d *= 1.3
+                            print("oh jeez")
+                        # if (s < 10):
+                        #     s += 1
+                        # else:
+                        #     s *= 1.3
+                    d *= 1.1
+                d = d1
                 if (j < 0.01):
                     j += 0.0035
                 else:
