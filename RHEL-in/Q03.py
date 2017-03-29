@@ -172,25 +172,24 @@ def  getNum(str):
         if l.isnumeric() or l == ".":
             tmp += l
     return float(tmp)
-class ohlcvObj():
-    open, high, low, close, volume = [],[],[],[],[]
 
 def CryptoQuote1(the_symbol):
-    obj = ohlcvObj
+    class ohlcvObj():
+        open, high, low, close, volume = [], [], [], [], []
     the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     for i, curr in enumerate(response):
         if curr.find('open') > 0:
-            obj.open.append(getNum(curr))
+            ohlcvObj.open.append(getNum(curr))
         elif curr.find('high') > 0:
-            obj.high.append(getNum(curr))
+            ohlcvObj.high.append(getNum(curr))
         elif curr.find('low') > 0:
-            obj.low.append(getNum(curr))
+            ohlcvObj.low.append(getNum(curr))
         elif curr.find('close') > 0:
-            obj.close.append(getNum(curr))
+            ohlcvObj.close.append(getNum(curr))
         elif curr.find('volume') > 0:
-            obj.volume.append(getNum(curr))
-    return obj
+            ohlcvObj.volume.append(getNum(curr))
+    return ohlcvObj
 
 def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
     # desc = sp.describe(perc)

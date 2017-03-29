@@ -255,6 +255,8 @@ def fucking_paul(tick, Kin, Din, log, save_max, max_len, bitchCunt, tradeCost):
                     dar.append(Dv)
                     if len(buy) > max_len:
                         return 0
+                    # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+                    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                     if stockBought == True and closeData > max:
                         max = closeData
                     if ((Kv > Dv) and (stockBought == False and stopLoss == False)):

@@ -222,7 +222,9 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
-    # WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
+    # WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INITIAL STARTING CAPITAL)
+    # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     stockBought = False
     stopLoss = False
     bull = 0; shit = 0; maxP = 0;

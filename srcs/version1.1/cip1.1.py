@@ -225,6 +225,8 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
             kar.append(Kv)
             Dv = SMAn(kar, int(np.floor(Din)))
             print(Kv, Dv)
+            # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             #dar.append(Dv)
             if stockBought == True and closeData > max:
                 max = closeData
