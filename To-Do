@@ -25,6 +25,8 @@
     -Position entry system
        -must account for slippage and market impact
        -For position entry EOD find avg volume/period and put hidden limit @ trip price for [-n:]
+       
+    -Purpose built market manipulation algorithm for illiquid cryptocurrencies
   
 3bp:
     -Add dimensionality to Machine Learning systems inputs w/OHLV Data, financials, sentiment analysis, news, etc..
