@@ -228,13 +228,15 @@ def CryptoQuote1(the_symbol):
 
 def createBinaryTrainingSet(dataset, look_back):
     X, Y = [], []
-    for i in range(len(dataset)-look_back-1):
-        a = dataset[i:i+look_back]
+    i = 3
+    while i < len(dataset)-look_back-5:
+        a = dataset[i-3:i+look_back]
         X.append(a)
-        if dataset[i + look_back + 1] > dataset[i + look_back]:
+        if dataset[i + look_back + 5] > dataset[i + look_back]:
             Y.append(1)
         else:
-            Y.append(1)
+            Y.append(0)
+        i +=5
     return np.array(X), np.array(Y)
 
 def write_that_shit(log, tick, Nin, numEpoch, numBatch, opt, err, diff):
@@ -276,7 +278,7 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
             stock1 = f.readlines()
         f.close()
         #for i, stocks in enumerate(stock1):
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .97)):]):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .5)):]):
             stock.append(float(stocks))
         arr = []; diff = []; false_margin_array = []; correct_margin_array = [];
         errorCnt = 0; predictArray = [];
@@ -285,19 +287,20 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         cuml.append(1)
 
         dataset = scaler1.fit_transform(stock[:int(np.floor(len(stock) * .95))])
-        #dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX, trainY = createBinaryTrainingSet(dataset, Nin)
+        print(trainX[0], trainY[0])
         #print("len X:", len(trainX), "len Y:", len(trainY))
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-        #trainY = np.reshape(trainY, (1, 1, trainY.shape[0]))
+        #trainY = np.reshape(trainY, (1, trainY.shape[0], 1))
         prelu = keras.layers.advanced_activations.PReLU(init='zero', weights=None)
 
         model = Sequential()
         model.add(Dense(Nin, input_shape=(1, Nin)))
         model.add(prelu)
         model.add(LSTM(Nin, activation='relu'))
-        #model.add(Dropout(0.3, input_shape=(1, Nin)))
+        model.add(Dropout(0.1, input_shape=(1, Nin)))
         model.add(Dense(Nin))
+        model.add(prelu)
         model.add(Dense(1))
         model.add(prelu)
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
@@ -318,10 +321,10 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
                 if predict > 1 or predict < 0: errorCnt += 1
                 # kar.append(predict)
                 if i < len(stock) - 1:
-                    difference = arry[0][Nin - 1] - stock[i + 1]
+                    difference = arry[0][Nin - 1] - stock[i + 5]
                     # print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if stock[i + 1] > arry[0][-1] and (predict > .5):
+                    if stock[i + 5] > arry[0][-1] and (predict > .5):
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         correct_margin_array.append(predict - .5)
@@ -350,8 +353,8 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(diff) > 0.3:
-            write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
+        # if errorCnt < 10:
+        #     write_that_shit(log[j], tik, Nin, numEpoch, numBatch, opt, err, diff)
 
 
     return cuml
@@ -362,7 +365,7 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
+    fileTicker.append("../../mlData/" + tick + ".txt")
     fileOutput.append("../../output/" + tick + "_mlOutput.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -393,18 +396,24 @@ for i, file in enumerate(fileTicker):
             fileWrite.write(str(V[i]))
             fileWrite.write('\n')
 
-opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam', 'TFOptimizer']
+#opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam']
+opts = ['adam']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
-nins = np.arange(5, 100, step=5)
-batchs = np.arange(5, 50, step=5)
-epochs = np.arange(10, 500, step=10)
+#nins = np.arange(10, 200, step=10)
+nins = [10, 50, 200]
+#batchs = np.arange(5, 50, step=5)
+batchs = [3, 5, 10]
+#epochs = np.arange(10, 200, step=10)
+epochs = [10, 30, 90]
+
+#nins = [300]; batchs = [50]; epochs = [100];
 
 for i in range(len(errs)):
-    for j in range(len(batchs)):
-        for k in range(len(epochs)):
-            for l in range(len(opts)):
-                for m in range(len(nins)):
+    for k in range(len(epochs)):
+        for m in range(len(nins)):
+            for j in range(len(batchs)):
+                for l in range(len(opts)):
                     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
 
 #fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)

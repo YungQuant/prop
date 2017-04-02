@@ -221,7 +221,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
     #28880 = 100 day lookback
     #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .66)):]):
-    for i, stocks in enumerate(stock1[-28880:]):
+    for i, stocks in enumerate(stock1[-86640:]):
         stock.append(float(stocks))
     if Kin < 10: print(tik, "test length:", len(stock)/288, "days")
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
@@ -275,13 +275,13 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     return cuml
 
 def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 8; verbOS = 0; inc = 0
+    n_proc = 6; verbOS = 0; inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
             (fileTicker[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_LTC"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -309,11 +309,11 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3; k2 = 3000
+    k1 = 8; k2 = 3000
     l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30
-    j1 = 0.001; j2 = 0.1
+    j1 = 0.001; j2 = 0.2
     k = k1; i = l1; j = j1; d = d1; s = s1
     returns = []
     while (k < k2):

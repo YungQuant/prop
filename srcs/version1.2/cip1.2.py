@@ -330,11 +330,11 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3; k2 = 3000
+    k1 = 460; k2 = 3000
     l1 = 2; l2 = 30
     d1 = 1; d2 = 5
     s1 = 2; s2 = 30
-    j1 = 0.001; j2 = 0.10
+    j1 = 0.001; j2 = 0.15
     k = k1; i = l1; j = j1; d = d1; s = s1
     returns = []
     while (k < k2):

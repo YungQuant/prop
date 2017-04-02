@@ -323,7 +323,7 @@ def fucking_paul(tick, Kin, Din, bitchCunt, tradeCost):
         cumld1 = cumld
     return perc1, cumld1
 
-ticker = ["BTC_DASH"]
+ticker = ["BTC_ETH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -348,5 +348,5 @@ for i, file in enumerate(fileTicker):
             fileWrite.write('\n')
 
 
-a, b = fucking_paul(fileTicker, 7, 3.797, 0.0938, 0.002)
+a, b = fucking_paul(fileTicker, 8, 3.45, 0.07216, 0.002)
 print(a, "\n", b)

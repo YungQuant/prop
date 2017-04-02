@@ -3,7 +3,7 @@ import numpy as np
 import re
 
 #tickers = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-tickers = ["BTC_DASH"]
+tickers = ["BTC_ETH"]
 outputs = []
 fileCuml = []
 best = []; kurt = [];
@@ -24,9 +24,9 @@ for fi, file in enumerate(outputs):
     i = 0
     with open(file) as fp:
         fd = fp.readlines()
-        for li, line in enumerate(fd[int(len(fd) * 0.0001):int(len(fd) * 0.2)]):
-            if line.find("Cumulative") > 5:
-                tmp = re.findall(r"[-+]?\d*\.\d+|\d+", line)
+        for li, line in enumerate(fd[int(len(fd) * 0.0001):int(len(fd) * 0.3)]):
+            if line.find("kurtosis") > 5:
+                tmp = re.findall(r"[-+]?\d*\.\d+|\d+", line[int(np.floor(len(line) - 25)):])
                 num = float(tmp[0])
                 best.append(num)
                 i += 2
@@ -34,5 +34,5 @@ for fi, file in enumerate(outputs):
     fp.close()
 
 
-best.sort(reverse=True)
+best.sort()
 print(best)
