@@ -309,7 +309,7 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 8; k2 = 3000
+    k1 = 9; k2 = 300
     l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30
@@ -339,7 +339,7 @@ def run():
                 else:
                     j *= 1.3
             j = j1
-            i *= 1.1
+            i *= 1.3
         i = l1
         if (k < 10):
             k += 1

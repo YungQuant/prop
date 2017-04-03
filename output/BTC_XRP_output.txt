@@ -6862,3 +6862,4414 @@ DescribeResult(nobs=1031, minmax=(-9.9212424637403753, 9.3465570448258575), mean
  [BBbreak, static bitchcunt distance] Cumulative Diff:	1.302905997891081e+66
 bitchCunt:	0.025265500000000003
 
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.4641000000000006
+Len:	767
+
+Described Diff:
+DescribeResult(nobs=767, minmax=(-9.9212424637403753, 9.1799707877370107), mean=-1.5305138034187584, variance=11.917305596316389, skewness=-1.7612442043763643, kurtosis=1.6138948195885723)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.538112157058883e+67
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.4641000000000006
+Len:	376
+
+Described Diff:
+DescribeResult(nobs=376, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-2.9268827616028092, variance=18.256645771327868, skewness=-0.8710022509838725, kurtosis=-1.210475071133483)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9679041150459603e+69
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.4641000000000006
+Len:	237
+
+Described Diff:
+DescribeResult(nobs=237, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.6259497434053216, variance=21.180209951663201, skewness=-0.09577139244044794, kurtosis=-1.9570538416509526)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8905235484429117e+71
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.4641000000000006
+Len:	187
+
+Described Diff:
+DescribeResult(nobs=187, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.7548964687783126, variance=19.919050055585892, skewness=0.37413147465209234, kurtosis=-1.817634715046172)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.631078325192877e+70
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	5762
+
+Described Diff:
+DescribeResult(nobs=5762, minmax=(-9.9212424637403753, 9.7596042116782318), mean=-0.17243415037930135, variance=1.5835751414464758, skewness=-6.450997450466072, kurtosis=49.9001052455545)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.246790470963313e+31
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	4850
+
+Described Diff:
+DescribeResult(nobs=4850, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.25507226052317178, variance=2.2177009849345795, skewness=-5.732877085192139, kurtosis=34.10273186037267)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2466767993908422e+42
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	2696
+
+Described Diff:
+DescribeResult(nobs=2696, minmax=(-9.9212424637403753, 9.5484002890817194), mean=-0.47488124449830427, variance=4.1331182996687774, skewness=-3.9824095830048236, kurtosis=15.73041726344433)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.054184710037628e+57
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	1971
+
+Described Diff:
+DescribeResult(nobs=1971, minmax=(-9.9212424637403753, 9.3558556600276699), mean=-0.62005493183655169, variance=5.4432408668064438, skewness=-3.2883135911207435, kurtosis=10.645262572565526)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4951438843143793e+61
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	1021
+
+Described Diff:
+DescribeResult(nobs=1021, minmax=(-9.9212424637403753, 9.3372766890549794), mean=-1.1744641330589192, variance=9.5231209289047936, skewness=-2.205103936923858, kurtosis=3.488807848336755)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0646646651230878e+67
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	762
+
+Described Diff:
+DescribeResult(nobs=762, minmax=(-9.9212424637403753, 9.1799707877370107), mean=-1.5414346241124, variance=12.002468734893037, skewness=-1.751220092057142, kurtosis=1.574578744330692)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6799620793011642e+68
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	374
+
+Described Diff:
+DescribeResult(nobs=374, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-2.9436007629812186, variance=18.353014570835448, skewness=-0.8628291334510595, kurtosis=-1.2253573329501257)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9653287083723882e+70
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	236
+
+Described Diff:
+DescribeResult(nobs=236, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.6473897110820657, variance=21.242895010997501, skewness=-0.08779871079556525, kurtosis=-1.9591709972055529)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.842790070313763e+72
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.6105100000000008
+Len:	186
+
+Described Diff:
+DescribeResult(nobs=186, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.7871190651439672, variance=19.934509764656234, skewness=0.38757073835511063, kurtosis=-1.8078702292714024)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0828538808547226e+72
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	5176
+
+Described Diff:
+DescribeResult(nobs=5176, minmax=(-9.9212424637403753, 9.7596042116782318), mean=-0.1639594815295663, variance=1.518188385176424, skewness=-6.4458450595755945, kurtosis=51.817776855181876)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.804303044619149e+23
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	4402
+
+Described Diff:
+DescribeResult(nobs=4402, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.2350357720991274, variance=2.0401625809160309, skewness=-5.9223214127751405, kurtosis=37.239439694868956)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.5840922975999284e+28
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	3445
+
+Described Diff:
+DescribeResult(nobs=3445, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.31788692494135734, variance=2.7208171827584966, skewness=-5.152086066461264, kurtosis=26.55680391162212)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.222049616146827e+36
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	2549
+
+Described Diff:
+DescribeResult(nobs=2549, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.42115836812150753, variance=3.6035241869420016, skewness=-4.336141701300285, kurtosis=18.66414066535573)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.8332251976816435e+38
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	1883
+
+Described Diff:
+DescribeResult(nobs=1883, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.53573588252375592, variance=4.7298759220865252, skewness=-3.535087771159248, kurtosis=13.004752484504532)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.4990752155737172e+41
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	1359
+
+Described Diff:
+DescribeResult(nobs=1359, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.74023900187685876, variance=6.3526764853797966, skewness=-2.948878975323883, kurtosis=8.17231062221331)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.537779152525231e+46
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	977
+
+Described Diff:
+DescribeResult(nobs=977, minmax=(-9.9212424637403753, 9.3367568008942321), mean=-1.0094816455470241, variance=8.2827305048279616, skewness=-2.4410344131407227, kurtosis=4.813225362439107)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.01205882481307e+46
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	725
+
+Described Diff:
+DescribeResult(nobs=725, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.3266865673694512, variance=10.53207296914332, skewness=-1.9677184725847192, kurtosis=2.5564502433580385)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.852472536931312e+48
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	351
+
+Described Diff:
+DescribeResult(nobs=351, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-2.5322340616498238, variance=16.542037708593359, skewness=-1.0986775304975913, kurtosis=-0.7555745411176811)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.780422056997632e+49
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	214
+
+Described Diff:
+DescribeResult(nobs=214, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.1340626753226024, variance=20.591172747462014, skewness=-0.3043737329699666, kurtosis=-1.870721638188179)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.4162621446155195e+51
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.771561000000001
+Len:	164
+
+Described Diff:
+DescribeResult(nobs=164, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.2700376375462703, variance=20.345767672822845, skewness=0.16569197036882855, kurtosis=-1.9296892896189637)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.2512801028201824e+51
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	4071
+
+Described Diff:
+DescribeResult(nobs=4071, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.24282152395180276, variance=2.1125397310816441, skewness=-5.781939305813511, kurtosis=35.6157832494489)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.485893529279576e+27
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	3247
+
+Described Diff:
+DescribeResult(nobs=3247, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.32321882996075368, variance=2.7715957397641438, skewness=-5.080730985210771, kurtosis=25.866630378624222)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.355101261876399e+35
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	2433
+
+Described Diff:
+DescribeResult(nobs=2433, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.42376922353091012, variance=3.624007385019381, skewness=-4.304506258908273, kurtosis=18.451618641764522)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.897176938741888e+35
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	1814
+
+Described Diff:
+DescribeResult(nobs=1814, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.53311235857006933, variance=4.7118763466309463, skewness=-3.5239290457558643, kurtosis=13.025789128140211)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.7217006459154116e+38
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	1316
+
+Described Diff:
+DescribeResult(nobs=1316, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.73438096462141256, variance=6.2947197967848778, skewness=-2.952401112189096, kurtosis=8.259561933768452)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5349072578686264e+42
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	958
+
+Described Diff:
+DescribeResult(nobs=958, minmax=(-9.9212424637403753, 9.3693180491593022), mean=-0.98867294025263108, variance=8.1086296098238346, skewness=-2.4693490530645743, kurtosis=5.008510584912651)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8791179228136152e+42
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	717
+
+Described Diff:
+DescribeResult(nobs=717, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.2874151885367835, variance=10.236240467255639, skewness=-2.010146845742319, kurtosis=2.7706345985708207)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.8016108595215533e+43
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	346
+
+Described Diff:
+DescribeResult(nobs=346, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-2.4564135166595693, variance=16.14136035369264, skewness=-1.1453353406083693, kurtosis=-0.6492960617068735)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8563209401856255e+45
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	210
+
+Described Diff:
+DescribeResult(nobs=210, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.0268328759975471, variance=20.358095119676946, skewness=-0.3494122595362877, kurtosis=-1.8405747533303407)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1574251866445123e+47
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	1.9487171000000014
+Len:	160
+
+Described Diff:
+DescribeResult(nobs=160, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.157670966748559, variance=20.325988200252969, skewness=0.1200952743038193, kurtosis=-1.9427401592688516)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.128649682002611e+47
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.1435888100000016
+Len:	3010
+
+Described Diff:
+DescribeResult(nobs=3010, minmax=(-9.9212424637403753, 8.3519591397025525), mean=-0.35569129169721786, variance=3.0088715329586093, skewness=-4.931472662034496, kurtosis=23.29123174087084)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.733500357555733e+39
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.1435888100000016
+Len:	1752
+
+Described Diff:
+DescribeResult(nobs=1752, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.56157439951565591, variance=4.8679619044392366, skewness=-3.519045605904288, kurtosis=12.356862506149971)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.3301036976781187e+39
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.1435888100000016
+Len:	1286
+
+Described Diff:
+DescribeResult(nobs=1286, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.75897783778877115, variance=6.5019322819650434, skewness=-2.891795114762845, kurtosis=7.842931060134781)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.945939053975841e+43
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.1435888100000016
+Len:	706
+
+Described Diff:
+DescribeResult(nobs=706, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.3212762594921938, variance=10.490172397128108, skewness=-1.9695484268810441, kurtosis=2.584863975451496)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2515740861128306e+45
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.1435888100000016
+Len:	180
+
+Described Diff:
+DescribeResult(nobs=180, minmax=(-9.9212424637403753, 0.47701794087250149), mean=-4.7495601405708534, variance=20.658272554475111, skewness=-0.047148991084496605, kurtosis=-1.958357643553958)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.889429662409806e+48
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.1435888100000016
+Len:	160
+
+Described Diff:
+DescribeResult(nobs=160, minmax=(-9.9212424637403753, 0.54310293009043209), mean=-5.2182278004677451, variance=20.377577280297043, skewness=0.1454055534290376, kurtosis=-1.9370323986039657)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6641100950078016e+49
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.357947691000002
+Len:	2774
+
+Described Diff:
+DescribeResult(nobs=2774, minmax=(-9.9210424033641775, 8.3556189502105678), mean=-0.37676536885172235, variance=3.2001831982154481, skewness=-4.759361295112267, kurtosis=21.584079189455554)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6570054749318637e+42
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.357947691000002
+Len:	1251
+
+Described Diff:
+DescribeResult(nobs=1251, minmax=(-9.9210424033641775, 9.3553357718669226), mean=-0.78481966468418951, variance=6.6039904576122908, skewness=-2.9152147691453343, kurtosis=7.5586812141274144)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.921968684518281e+45
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.357947691000002
+Len:	697
+
+Described Diff:
+DescribeResult(nobs=697, minmax=(-9.9210424033641775, 9.1794492793139728), mean=-1.3389133329435503, variance=10.630012978459087, skewness=-1.9493882547133319, kurtosis=2.4968140859748864)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.962558469912096e+45
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.357947691000002
+Len:	178
+
+Described Diff:
+DescribeResult(nobs=178, minmax=(-9.9210424033641775, 0.47701794087250149), mean=-4.8043620553879807, variance=20.729365174474875, skewness=-0.025723761568994124, kurtosis=-1.9599088909822584)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.730814069797355e+49
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.357947691000002
+Len:	158
+
+Described Diff:
+DescribeResult(nobs=158, minmax=(-9.9210424033641775, 0.54310293009043209), mean=-5.2857991451695323, variance=20.392976154983444, skewness=0.17225313155536437, kurtosis=-1.928246307429188)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.4791209977225167e+50
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	2957
+
+Described Diff:
+DescribeResult(nobs=2957, minmax=(-9.9210424033641775, 8.8210747949317518), mean=-0.31948827742552727, variance=2.7748637531250098, skewness=-5.046713925716163, kurtosis=25.738661546488373)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.779799236437601e+35
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	2523
+
+Described Diff:
+DescribeResult(nobs=2523, minmax=(-9.9210424033641775, 8.3556189502105678), mean=-0.40125138021040863, variance=3.4044420006057221, skewness=-4.583202956574903, kurtosis=19.907565133600666)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.536497439632621e+39
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	2029
+
+Described Diff:
+DescribeResult(nobs=2029, minmax=(-9.9210424033641775, 0.8805089665162098), mean=-0.50392685106641577, variance=4.136232726427945, skewness=-4.1336775898026215, kurtosis=15.210480478423008)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.10645206414697e+33
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	1597
+
+Described Diff:
+DescribeResult(nobs=1597, minmax=(-9.9210424033641775, 8.7330147154616142), mean=-0.61778049563840121, variance=5.1446257458839364, skewness=-3.5327804762332495, kurtosis=11.170964705536754)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.867031267039183e+37
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	884
+
+Described Diff:
+DescribeResult(nobs=884, minmax=(-9.9210424033641775, 8.6359582845116645), mean=-1.0789655428070739, variance=8.6135592166539912, skewness=-2.4161744593059495, kurtosis=4.268185798549585)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.224060435265762e+42
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	672
+
+Described Diff:
+DescribeResult(nobs=672, minmax=(-9.9210424033641775, 9.1788756200486326), mean=-1.3726113747762601, variance=10.871151075277172, skewness=-1.9035299099252112, kurtosis=2.325285086313417)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.425246392966989e+44
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	246
+
+Described Diff:
+DescribeResult(nobs=246, minmax=(-9.9210424033641775, 0.50387338425609296), mean=-3.4470717726661051, variance=19.430317894037426, skewness=-0.6134440075645045, kurtosis=-1.5887473126540161)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.493868316366532e+45
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.5937424601000023
+Len:	204
+
+Described Diff:
+DescribeResult(nobs=204, minmax=(-9.9210424033641775, 0.45136939649393687), mean=-4.1493248550788007, variance=20.479853148100219, skewness=-0.29944217093711745, kurtosis=-1.873977672946989)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.83903772923026e+45
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.853116706110003
+Len:	1856
+
+Described Diff:
+DescribeResult(nobs=1856, minmax=(-9.9209420720617256, 0.88020398230720842), mean=-0.43811831111157856, variance=3.564572887755888, skewness=-4.490449226186396, kurtosis=18.320700357600497)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.028554853410675e+19
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.853116706110003
+Len:	1488
+
+Described Diff:
+DescribeResult(nobs=1488, minmax=(-9.9209420720617256, 8.7330147154616142), mean=-0.52346674258532522, variance=4.3560681802520005, skewness=-3.8791639478722546, kurtosis=14.052973461900603)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.5192613657010015e+22
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.853116706110003
+Len:	825
+
+Described Diff:
+DescribeResult(nobs=825, minmax=(-9.9209420720617256, 8.6359582845116645), mean=-0.89615607408921527, variance=7.2133415580160491, skewness=-2.73156393366799, kurtosis=6.100623134585021)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.973567717837687e+25
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.853116706110003
+Len:	628
+
+Described Diff:
+DescribeResult(nobs=628, minmax=(-9.9210424033641775, 9.1788756200486326), mean=-1.1281705502787982, variance=9.168728029946255, skewness=-2.179534975028111, kurtosis=3.782315481280296)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.1296049645559919e+28
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.853116706110003
+Len:	219
+
+Described Diff:
+DescribeResult(nobs=219, minmax=(-9.9210424033641775, 0.50387338425609296), mean=-2.8095342452984426, variance=17.23075401815677, skewness=-0.9378472773897026, kurtosis=-1.0785705212401793)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.610225824312632e+27
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	2.853116706110003
+Len:	178
+
+Described Diff:
+DescribeResult(nobs=178, minmax=(-9.9209420720617256, 0.45136939649393687), mean=-3.4474932825748352, variance=18.956870493129479, skewness=-0.6110390305813657, kurtosis=-1.5857445282365097)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.818627687299079e+27
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.1384283767210035
+Len:	2476
+
+Described Diff:
+DescribeResult(nobs=2476, minmax=(-9.9209420720617256, 9.3608724489604516), mean=-0.2395801172705142, variance=2.207992821975171, skewness=-5.207162506176067, kurtosis=32.96430898431189)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.8846568460938216e+16
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.1384283767210035
+Len:	2318
+
+Described Diff:
+DescribeResult(nobs=2318, minmax=(-9.9209420720617256, 8.8210747949317518), mean=-0.30774382354057001, variance=2.6565543458106329, skewness=-5.052275278512574, kurtosis=26.59109383772041)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.255903205875074e+19
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.1384283767210035
+Len:	1717
+
+Described Diff:
+DescribeResult(nobs=1717, minmax=(-9.9209420720617256, 0.88020398230720842), mean=-0.46145450793284376, variance=3.7407417220897186, skewness=-4.356431742165197, kurtosis=17.130362318435893)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0930414852770463e+18
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.1384283767210035
+Len:	1390
+
+Described Diff:
+DescribeResult(nobs=1390, minmax=(-9.9209420720617256, 8.7330147154616142), mean=-0.5594138367781788, variance=4.6442072059990567, skewness=-3.7240204144118625, kurtosis=12.815266101096048)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.5255203568144256e+23
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.1384283767210035
+Len:	802
+
+Described Diff:
+DescribeResult(nobs=802, minmax=(-9.9209420720617256, 8.6359582845116645), mean=-0.92232868551891611, variance=7.4002875964485844, skewness=-2.6788087880795133, kurtosis=5.800783390617463)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.5334852581470584e+25
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.1384283767210035
+Len:	217
+
+Described Diff:
+DescribeResult(nobs=217, minmax=(-9.9210424033641775, 0.5086230437380832), mean=-2.8361905442775668, variance=17.320620180946879, skewness=-0.9235702977360002, kurtosis=-1.1054046743604309)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.4901168500369027e+27
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.4522712143931042
+Len:	1853
+
+Described Diff:
+DescribeResult(nobs=1853, minmax=(-9.9209420720617256, 8.3556189502105678), mean=-0.40836249681145992, variance=3.4533860303213753, skewness=-4.483043854708201, kurtosis=19.24420904227487)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0256205391056266e+26
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.4522712143931042
+Len:	1294
+
+Described Diff:
+DescribeResult(nobs=1294, minmax=(-9.9209420720617256, 8.7330147154616142), mean=-0.59239499220822067, variance=4.9116881580586327, skewness=-3.59162194422315, kurtosis=11.805422769955596)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.5927816902391436e+23
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.4522712143931042
+Len:	1013
+
+Described Diff:
+DescribeResult(nobs=1013, minmax=(-9.9209420720617256, 8.7015666416245256), mean=-0.74454730085869458, variance=6.0823520591936155, skewness=-3.1037369046151824, kurtosis=8.37821194463211)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0626402856880022e+25
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.4522712143931042
+Len:	766
+
+Described Diff:
+DescribeResult(nobs=766, minmax=(-9.9209420720617256, 8.6359582845116645), mean=-0.95164332437664878, variance=7.6253064995168378, skewness=-2.6172211802457106, kurtosis=5.463766101643001)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.360507928510033e+25
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.4522712143931042
+Len:	434
+
+Described Diff:
+DescribeResult(nobs=434, minmax=(-9.9210424033641775, 0.39432022656137666), mean=-1.6804707614978973, variance=12.122416964117857, skewness=-1.7482024754745438, kurtosis=1.1038877673099243)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.948497262720795e+30
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.4522712143931042
+Len:	296
+
+Described Diff:
+DescribeResult(nobs=296, minmax=(-9.9209420720617256, 0.39432022656137666), mean=-2.1169804900910623, variance=14.262769239047179, skewness=-1.3763972957329693, kurtosis=-0.05788104183113507)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7051035361747733e+25
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.797498335832415
+Len:	1892
+
+Described Diff:
+DescribeResult(nobs=1892, minmax=(-9.9209420720617256, 9.3608724489604516), mean=-0.29814321661629128, variance=2.785289756910208, skewness=-4.540516068209947, kurtosis=25.042772791156352)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.2353867850161206e+20
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.797498335832415
+Len:	1641
+
+Described Diff:
+DescribeResult(nobs=1641, minmax=(-9.9209420720617256, 8.3556189502105678), mean=-0.43446293829264948, variance=3.659881386176552, skewness=-4.30343096193128, kurtosis=17.66652803571938)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.762734629558108e+23
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.797498335832415
+Len:	727
+
+Described Diff:
+DescribeResult(nobs=727, minmax=(-9.9209420720617256, 8.6338958194006707), mean=-0.97427182207501206, variance=7.7699520691979611, skewness=-2.5685388117041303, kurtosis=5.219346670579842)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2858367991372199e+24
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.797498335832415
+Len:	565
+
+Described Diff:
+DescribeResult(nobs=565, minmax=(-9.9210424033641775, 9.1797621843677959), mean=-1.1987207843527241, variance=9.6118082917616832, skewness=-2.060459922334741, kurtosis=3.284970071941263)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.413836205553879e+24
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	3.797498335832415
+Len:	143
+
+Described Diff:
+DescribeResult(nobs=143, minmax=(-9.9209420720617256, 0.44972027866390796), mean=-4.0739351850186356, variance=19.673305938862249, skewness=-0.3275285763369367, kurtosis=-1.8486485262643237)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.213925145443615e+24
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	1459
+
+Described Diff:
+DescribeResult(nobs=1459, minmax=(-9.9209420720617256, 8.3556189502105678), mean=-0.45362639056889364, variance=3.8185164291527687, skewness=-4.178671473570866, kurtosis=16.647516340690817)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.9198110526202993e+22
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	1291
+
+Described Diff:
+DescribeResult(nobs=1291, minmax=(-9.9209420720617256, 0.92883957959859276), mean=-0.53182539956097108, variance=4.2663600504907597, skewness=-3.993474514955038, kurtosis=14.096498953279895)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3585375377500833.0
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	876
+
+Described Diff:
+DescribeResult(nobs=876, minmax=(-9.9209420720617256, 8.6995168090070667), mean=-0.74438277728522928, variance=6.0561779943492065, skewness=-3.075406621145267, kurtosis=8.319986753754886)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.154216171995224e+18
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	679
+
+Described Diff:
+DescribeResult(nobs=679, minmax=(-9.9209420720617256, 8.6338958194006707), mean=-0.98194195726223144, variance=7.8489901463905536, skewness=-2.5411981390989817, kurtosis=5.109347138552087)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.4887138654860526e+22
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	531
+
+Described Diff:
+DescribeResult(nobs=531, minmax=(-9.9210424033641775, 8.5440137465415322), mean=-1.2480416798529046, variance=9.6977981417377688, skewness=-2.1155044505963456, kurtosis=3.009665577371459)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.2527897494544866e+24
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	401
+
+Described Diff:
+DescribeResult(nobs=401, minmax=(-9.9210424033641775, 0.3446384813417368), mean=-1.6233307265043324, variance=11.722895041184577, skewness=-1.8048664595054658, kurtosis=1.311885508839847)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.065922598749259e+23
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	272
+
+Described Diff:
+DescribeResult(nobs=272, minmax=(-9.9209420720617256, 0.3446384813417368), mean=-2.0161782809244753, variance=13.657463173720267, skewness=-1.4521931841592475, kurtosis=0.16424205365327138)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.283115078099637e+18
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	196
+
+Described Diff:
+DescribeResult(nobs=196, minmax=(-9.9209420720617256, 0.4589412985184434), mean=-2.6867447115130747, variance=16.552840899080575, skewness=-1.004422058393044, kurtosis=-0.9420297344019746)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.629665325870881e+19
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	164
+
+Described Diff:
+DescribeResult(nobs=164, minmax=(-9.9209420720617256, 0.40168765127429701), mean=-3.2054309108531278, variance=18.06983481520481, skewness=-0.7262486620202384, kurtosis=-1.4253181172487386)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.0700957963973485e+19
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.177248169415656
+Len:	117
+
+Described Diff:
+DescribeResult(nobs=117, minmax=(-9.9209420720617256, 0.48933521001842234), mean=-4.3169263601455263, variance=19.751110304059512, skewness=-0.22760762606655735, kurtosis=-1.8999061312461993)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.477092539620756e+20
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	1420
+
+Described Diff:
+DescribeResult(nobs=1420, minmax=(-9.9209420720617256, 9.3608724489604516), mean=-0.37479662560836163, variance=3.5063101812892987, skewness=-3.928541995632247, kurtosis=18.809978516818916)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.491694778777548e+19
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	1368
+
+Described Diff:
+DescribeResult(nobs=1368, minmax=(-9.9209420720617256, 8.3950140774750093), mean=-0.44802600063612885, variance=3.8686396999425536, skewness=-4.0112113551067425, kurtosis=16.349464931946862)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.3742933656125764e+19
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	1158
+
+Described Diff:
+DescribeResult(nobs=1158, minmax=(-9.9209420720617256, 0.92883957959859276), mean=-0.58925504412832153, variance=4.7286663897179695, skewness=-3.7436000669746576, kurtosis=12.14993035475872)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.38414464415355e+17
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	807
+
+Described Diff:
+DescribeResult(nobs=807, minmax=(-9.9209420720617256, 8.6995168090070667), mean=-0.80453504175188739, variance=6.5323184864697099, skewness=-2.9149583759993343, kurtosis=7.3021669998133945)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.221936409101349e+20
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	640
+
+Described Diff:
+DescribeResult(nobs=640, minmax=(-9.9209420720617256, 8.6338958194006707), mean=-1.0391921620651667, variance=8.2754808482540305, skewness=-2.4360030885420265, kurtosis=4.556245540059795)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.133833932445115e+23
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	507
+
+Described Diff:
+DescribeResult(nobs=507, minmax=(-9.9210424033641775, 8.5440137465415322), mean=-1.3039213810285888, variance=10.099647259969768, skewness=-2.0386999359390945, kurtosis=2.672680278015907)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.462433723845785e+25
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	389
+
+Described Diff:
+DescribeResult(nobs=389, minmax=(-9.9210424033641775, 0.3446384813417368), mean=-1.6749119852956726, variance=12.011125843271452, skewness=-1.756642489636894, kurtosis=1.1387524160268034)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.7649461430730274e+23
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	264
+
+Described Diff:
+DescribeResult(nobs=264, minmax=(-9.9209420720617256, 0.3446384813417368), mean=-2.0793102838057482, variance=14.01621577726632, skewness=-1.406377900738999, kurtosis=0.03014743291892019)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.33269805099333e+19
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	191
+
+Described Diff:
+DescribeResult(nobs=191, minmax=(-9.9209420720617256, 0.4589412985184434), mean=-2.7563379541272695, variance=16.90621589185719, skewness=-0.96487073869739, kurtosis=-1.0223375679690403)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.1633853087506825e+20
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	162
+
+Described Diff:
+DescribeResult(nobs=162, minmax=(-9.9209420720617256, 0.40168765127429701), mean=-3.2466361726591524, variance=18.282838214694216, skewness=-0.7072381103255508, kurtosis=-1.4547491395515815)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.385103611247524e+20
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	8
+D in:	4.594972986357222
+Len:	115
+
+Described Diff:
+DescribeResult(nobs=115, minmax=(-9.9209420720617256, 0.48933521001842234), mean=-4.3910772971693817, variance=19.953635877238799, skewness=-0.19640789021645724, kurtosis=-1.914859120956682)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.907909136649296e+21
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	7642
+
+Described Diff:
+DescribeResult(nobs=7642, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.15770980835968484, variance=1.4347176798146313, skewness=-7.004977718869949, kurtosis=56.159940951040966)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2234397259518492e+45
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	6123
+
+Described Diff:
+DescribeResult(nobs=6123, minmax=(-9.9212424637403753, 8.8241123343106302), mean=-0.24891707022652346, variance=2.1733888947240225, skewness=-5.882898029519133, kurtosis=35.31988342243431)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.683914706810194e+61
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	4369
+
+Described Diff:
+DescribeResult(nobs=4369, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.35405916168466561, variance=3.0910522979205548, skewness=-4.821047081945523, kurtosis=23.0924273035915)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.837706070267924e+69
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	3024
+
+Described Diff:
+DescribeResult(nobs=3024, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.50146544882191701, variance=4.365819585187757, skewness=-3.8934736549936053, kurtosis=14.67136023300555)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.505442730618327e+75
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	1500
+
+Described Diff:
+DescribeResult(nobs=1500, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.96698044099736669, variance=8.1332333378528308, skewness=-2.5197309017574043, kurtosis=5.185540473918209)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1156557662072328e+84
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	571
+
+Described Diff:
+DescribeResult(nobs=571, minmax=(-9.9212424637403753, 0.43799735429141351), mean=-2.4796934423504102, variance=16.595427456658861, skewness=-1.1304393003439155, kurtosis=-0.6929309453976296)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6546884882880435e+88
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	306
+
+Described Diff:
+DescribeResult(nobs=306, minmax=(-9.9212424637403753, 0.52434663091253808), mean=-4.3448359585016485, variance=21.175958294382998, skewness=-0.21302040470247682, kurtosis=-1.9239629705758694)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9731909915339938e+87
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	230
+
+Described Diff:
+DescribeResult(nobs=230, minmax=(-9.9212424637403753, 0.4999037192700429), mean=-5.6861331934261647, variance=20.13622031232681, skewness=0.3469838073859435, kurtosis=-1.8393632489901917)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.37947077534153e+86
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.1
+Len:	5877
+
+Described Diff:
+DescribeResult(nobs=5877, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.25862777511172785, variance=2.2627250858135355, skewness=-5.753412086998809, kurtosis=33.708852771798526)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.80899297207519e+63
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.1
+Len:	1482
+
+Described Diff:
+DescribeResult(nobs=1482, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.97861313508493997, variance=8.2253127715049761, skewness=-2.4968573110392827, kurtosis=5.069636304301504)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.6197557597835084e+84
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.1
+Len:	570
+
+Described Diff:
+DescribeResult(nobs=570, minmax=(-9.9212424637403753, 0.45164618539571022), mean=-2.4843957116015023, variance=16.618330173700357, skewness=-1.1277489486202517, kurtosis=-0.698967175627025)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0868672713036317e+88
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.1
+Len:	306
+
+Described Diff:
+DescribeResult(nobs=306, minmax=(-9.9212424637403753, 0.53799546201683479), mean=-4.3460797554919264, variance=21.18639575338889, skewness=-0.2128994974713721, kurtosis=-1.9241012215374138)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5707413965152015e+87
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.1
+Len:	230
+
+Described Diff:
+DescribeResult(nobs=230, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-5.6876770962429459, variance=20.147005299202874, skewness=0.3471604706699379, kurtosis=-1.8393505073980765)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.767831730667057e+86
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	5617
+
+Described Diff:
+DescribeResult(nobs=5617, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.24243287985432319, variance=2.1119464739478189, skewness=-5.932637540770052, kurtosis=36.30383081735979)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.073106431506721e+49
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	4119
+
+Described Diff:
+DescribeResult(nobs=4119, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.33708516871200706, variance=2.9405781547365213, skewness=-4.933295643042597, kurtosis=24.489247418630683)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5468106106289028e+58
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	1046
+
+Described Diff:
+DescribeResult(nobs=1046, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-1.2020003947133475, variance=9.7312577574242738, skewness=-2.1695199683179456, kurtosis=3.3060188089862788)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.534927396570555e+71
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	778
+
+Described Diff:
+DescribeResult(nobs=778, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.5842673347095073, variance=12.291639598996442, skewness=-1.7114393499418679, kurtosis=1.412948717378641)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.083784382974884e+72
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	383
+
+Described Diff:
+DescribeResult(nobs=383, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-3.0258777340462855, variance=18.683003270124097, skewness=-0.8194007425815971, kurtosis=-1.299530987669613)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.368289275378154e+74
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	243
+
+Described Diff:
+DescribeResult(nobs=243, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.752054876347958, variance=21.317602475607053, skewness=-0.04451594150861459, kurtosis=-1.9653857752665855)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.186531740038928e+76
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.2100000000000002
+Len:	193
+
+Described Diff:
+DescribeResult(nobs=193, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.8783259249469975, variance=19.818591022121083, skewness=0.42730080182850927, kurtosis=-1.7756546970652045)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.431494036381272e+76
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3310000000000004
+Len:	6444
+
+Described Diff:
+DescribeResult(nobs=6444, minmax=(-9.9212424637403753, 9.7596042116782318), mean=-0.16090227407497543, variance=1.4740812067491424, skewness=-6.743609469440506, kurtosis=54.13437419843068)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9629592566699754e+34
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3310000000000004
+Len:	2791
+
+Described Diff:
+DescribeResult(nobs=2791, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.48031913583251207, variance=4.1866910569161782, skewness=-3.9699021387134295, kurtosis=15.527219526767684)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.659042490012054e+62
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3310000000000004
+Len:	2013
+
+Described Diff:
+DescribeResult(nobs=2013, minmax=(-9.9212424637403753, 9.3367568008942321), mean=-0.63652842791004016, variance=5.5877483800578709, skewness=-3.2508117896466078, kurtosis=10.270067726466381)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.732647630638897e+66
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3310000000000004
+Len:	1438
+
+Described Diff:
+DescribeResult(nobs=1438, minmax=(-9.9212424637403753, 9.3367568008942321), mean=-0.88861686587069699, variance=7.5465552555469237, skewness=-2.6545505310522155, kurtosis=6.0582881977469825)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.986800163300924e+70
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3310000000000004
+Len:	548
+
+Described Diff:
+DescribeResult(nobs=548, minmax=(-9.9212424637403753, 0.45164618539571022), mean=-2.26985419464296, variance=15.627271608259131, skewness=-1.2709763904128697, kurtosis=-0.35392702930463527)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.465280864476476e+75
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3310000000000004
+Len:	286
+
+Described Diff:
+DescribeResult(nobs=286, minmax=(-9.9212424637403753, 0.53799546201683479), mean=-4.0450950950579845, variance=20.962197072515181, skewness=-0.34287409839087474, kurtosis=-1.8526407993797536)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.189614630561889e+76
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	7642
+
+Described Diff:
+DescribeResult(nobs=7642, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.15770980835968484, variance=1.4347176798146313, skewness=-7.004977718869949, kurtosis=56.159940951040966)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2234397259518492e+45
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	6123
+
+Described Diff:
+DescribeResult(nobs=6123, minmax=(-9.9212424637403753, 8.8241123343106302), mean=-0.24891707022652346, variance=2.1733888947240225, skewness=-5.882898029519133, kurtosis=35.31988342243431)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.683914706810194e+61
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	4369
+
+Described Diff:
+DescribeResult(nobs=4369, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.35405916168466561, variance=3.0910522979205548, skewness=-4.821047081945523, kurtosis=23.0924273035915)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.837706070267924e+69
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	3024
+
+Described Diff:
+DescribeResult(nobs=3024, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.50146544882191701, variance=4.365819585187757, skewness=-3.8934736549936053, kurtosis=14.67136023300555)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.505442730618327e+75
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	1500
+
+Described Diff:
+DescribeResult(nobs=1500, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.96698044099736669, variance=8.1332333378528308, skewness=-2.5197309017574043, kurtosis=5.185540473918209)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1156557662072328e+84
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	571
+
+Described Diff:
+DescribeResult(nobs=571, minmax=(-9.9212424637403753, 0.43799735429141351), mean=-2.4796934423504102, variance=16.595427456658861, skewness=-1.1304393003439155, kurtosis=-0.6929309453976296)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6546884882880435e+88
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	306
+
+Described Diff:
+DescribeResult(nobs=306, minmax=(-9.9212424637403753, 0.52434663091253808), mean=-4.3448359585016485, variance=21.175958294382998, skewness=-0.21302040470247682, kurtosis=-1.9239629705758694)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9731909915339938e+87
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	7642
+
+Described Diff:
+DescribeResult(nobs=7642, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.15770980835968484, variance=1.4347176798146313, skewness=-7.004977718869949, kurtosis=56.159940951040966)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2234397259518492e+45
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	6123
+
+Described Diff:
+DescribeResult(nobs=6123, minmax=(-9.9212424637403753, 8.8241123343106302), mean=-0.24891707022652346, variance=2.1733888947240225, skewness=-5.882898029519133, kurtosis=35.31988342243431)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.683914706810194e+61
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	4369
+
+Described Diff:
+DescribeResult(nobs=4369, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.35405916168466561, variance=3.0910522979205548, skewness=-4.821047081945523, kurtosis=23.0924273035915)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.837706070267924e+69
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	3024
+
+Described Diff:
+DescribeResult(nobs=3024, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.50146544882191701, variance=4.365819585187757, skewness=-3.8934736549936053, kurtosis=14.67136023300555)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.505442730618327e+75
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	1500
+
+Described Diff:
+DescribeResult(nobs=1500, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.96698044099736669, variance=8.1332333378528308, skewness=-2.5197309017574043, kurtosis=5.185540473918209)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1156557662072328e+84
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	571
+
+Described Diff:
+DescribeResult(nobs=571, minmax=(-9.9212424637403753, 0.43799735429141351), mean=-2.4796934423504102, variance=16.595427456658861, skewness=-1.1304393003439155, kurtosis=-0.6929309453976296)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6546884882880435e+88
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	306
+
+Described Diff:
+DescribeResult(nobs=306, minmax=(-9.9212424637403753, 0.52434663091253808), mean=-4.3448359585016485, variance=21.175958294382998, skewness=-0.21302040470247682, kurtosis=-1.9239629705758694)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.9731909915339938e+87
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1
+Len:	230
+
+Described Diff:
+DescribeResult(nobs=230, minmax=(-9.9212424637403753, 0.4999037192700429), mean=-5.6861331934261647, variance=20.13622031232681, skewness=0.3469838073859435, kurtosis=-1.8393632489901917)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.37947077534153e+86
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	5398
+
+Described Diff:
+DescribeResult(nobs=5398, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.24442264624122223, variance=2.129326462932049, skewness=-5.89205492506988, kurtosis=35.890747495969215)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.1268524342590305e+47
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	4005
+
+Described Diff:
+DescribeResult(nobs=4005, minmax=(-9.9212424637403753, 8.7585429324947501), mean=-0.33651994713443512, variance=2.9336856151484914, skewness=-4.929010234225929, kurtosis=24.51312050137198)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7482627951404737e+55
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	2818
+
+Described Diff:
+DescribeResult(nobs=2818, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.4689225023798938, variance=4.0811206763809107, skewness=-4.0229012177318415, kurtosis=16.023250285777642)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0149417389354954e+59
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	2020
+
+Described Diff:
+DescribeResult(nobs=2020, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-0.62455356519830674, variance=5.4789187942269404, skewness=-3.283845480335031, kurtosis=10.54833229964517)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.9698894399589414e+63
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	1038
+
+Described Diff:
+DescribeResult(nobs=1038, minmax=(-9.9212424637403753, 9.3553357718669226), mean=-1.1927597592439254, variance=9.6599105819259545, skewness=-2.1809034668502205, kurtosis=3.3684686235573524)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1003604593221706e+69
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	774
+
+Described Diff:
+DescribeResult(nobs=774, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.5677820908749351, variance=12.178563180067824, skewness=-1.726563515847351, kurtosis=1.4760222911430798)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.595132978444739e+70
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	381
+
+Described Diff:
+DescribeResult(nobs=381, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-2.9917517263178759, variance=18.543779884085247, skewness=-0.8376602742839798, kurtosis=-1.2688826838737095)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.367637852742978e+72
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	241
+
+Described Diff:
+DescribeResult(nobs=241, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.7113420343542636, variance=21.291365480817067, skewness=-0.06135884865812414, kurtosis=-1.9634526946637147)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.454027334400555e+74
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.3
+Len:	191
+
+Described Diff:
+DescribeResult(nobs=191, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.8387804565755443, variance=19.872815278446389, skewness=0.409821566665739, kurtosis=-1.7903618083806576)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.472880627571229e+74
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	4416
+
+Described Diff:
+DescribeResult(nobs=4416, minmax=(-9.9212424637403753, 8.8237073290601131), mean=-0.26686908905984758, variance=2.2908073186441391, skewness=-5.69278748280941, kurtosis=32.67148527683821)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.5502559583374798e+40
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	3473
+
+Described Diff:
+DescribeResult(nobs=3473, minmax=(-9.9212424637403753, 8.3519591397025525), mean=-0.36160220524899106, variance=3.0666437557692192, skewness=-4.912926113591377, kurtosis=22.959692411536768)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.840492901902998e+51
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	1890
+
+Described Diff:
+DescribeResult(nobs=1890, minmax=(-9.9212424637403753, 9.3367568008942321), mean=-0.61916476865722248, variance=5.3573333989258591, skewness=-3.359742850368518, kurtosis=10.813574079249497)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.894950104183843e+56
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	996
+
+Described Diff:
+DescribeResult(nobs=996, minmax=(-9.9212424637403753, 9.3367568008942321), mean=-1.1461615053642433, variance=9.3190424060937094, skewness=-2.2396867332779284, kurtosis=3.6957373751693785)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.599274269659471e+61
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	748
+
+Described Diff:
+DescribeResult(nobs=748, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.4934664115830181, variance=11.693622327889715, skewness=-1.7950745810710598, kurtosis=1.774662391658583)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.200387066734693e+63
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	365
+
+Described Diff:
+DescribeResult(nobs=365, minmax=(-9.9212424637403753, 0.44220461507997433), mean=-2.8574573304354089, variance=18.02403393285892, skewness=-0.9097170166246887, kurtosis=-1.1413701498828017)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6090426432520547e+65
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	229
+
+Described Diff:
+DescribeResult(nobs=229, minmax=(-9.9212424637403753, 0.50672813482219126), mean=-4.5363023294704972, variance=21.189317903063753, skewness=-0.13405051745899152, kurtosis=-1.9487075158489602)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.478991213632884e+67
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	1.6900000000000002
+Len:	179
+
+Described Diff:
+DescribeResult(nobs=179, minmax=(-9.9212424637403753, 0.54310293009043209), mean=-5.6898491418571346, variance=20.093990486107671, skewness=0.3450637822095365, kurtosis=-1.8392935837978401)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3941168718606542e+67
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	2782
+
+Described Diff:
+DescribeResult(nobs=2782, minmax=(-9.9206398664236666, 8.3556189502105678), mean=-0.35611748382240882, variance=3.0218055155940879, skewness=-4.923507208549051, kurtosis=23.276256220830803)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.010428773577306e+37
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	2174
+
+Described Diff:
+DescribeResult(nobs=2174, minmax=(-9.9206398664236666, 0.8805089665162098), mean=-0.45849089142197724, variance=3.7795392670957475, skewness=-4.378222285308962, kurtosis=17.304514460860975)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.4945038831588933e+34
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	1673
+
+Described Diff:
+DescribeResult(nobs=1673, minmax=(-9.9206398664236666, 8.7330147154616142), mean=-0.5686262550328447, variance=4.8660579471263965, skewness=-3.608245266059651, kurtosis=12.343097107131427)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1920154768679157e+40
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	684
+
+Described Diff:
+DescribeResult(nobs=684, minmax=(-9.9206398664236666, 9.1794492793139728), mean=-1.2801703042210504, variance=10.279911151733389, skewness=-2.0136791322162537, kurtosis=2.8246041594434974)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.041686017044704e+43
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	200
+
+Described Diff:
+DescribeResult(nobs=200, minmax=(-9.9206398664236666, 0.4786670587025304), mean=-3.9933835897213203, variance=20.473530868363305, skewness=-0.36806861437101424, kurtosis=-1.8278685848534397)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.570554787929553e+45
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	171
+
+Described Diff:
+DescribeResult(nobs=171, minmax=(-9.9206398664236666, 0.47701794087250149), mean=-4.6679955825340684, variance=20.838540489024329, skewness=-0.08530873720075988, kurtosis=-1.9534487048259603)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7433186533022434e+46
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.1970000000000005
+Len:	151
+
+Described Diff:
+DescribeResult(nobs=151, minmax=(-9.9206398664236666, 0.54310293009043209), mean=-5.1539163069547076, variance=20.640782117076171, skewness=0.11371762438867772, kurtosis=-1.9455009623837443)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.3944806041756182e+47
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.856100000000001
+Len:	2064
+
+Described Diff:
+DescribeResult(nobs=2064, minmax=(-9.9206398664236666, 0.90324863256584786), mean=-0.38197331925619404, variance=3.1611056959837414, skewness=-4.835510933096899, kurtosis=21.5603458963292)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.038677100504085e+24
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.856100000000001
+Len:	795
+
+Described Diff:
+DescribeResult(nobs=795, minmax=(-9.9206398664236666, 8.6359582845116645), mean=-0.9172460408696419, variance=7.4089113555441779, skewness=-2.686823471852844, kurtosis=5.844602668098185)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.769356867853504e+27
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.856100000000001
+Len:	213
+
+Described Diff:
+DescribeResult(nobs=213, minmax=(-9.9210424033641775, 0.5086230437380832), mean=-2.8416847430688619, variance=17.395783911901795, skewness=-0.9195935774760426, kurtosis=-1.1129946604890695)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.387660503256477e+27
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.856100000000001
+Len:	174
+
+Described Diff:
+DescribeResult(nobs=174, minmax=(-9.9206398664236666, 0.45136939649393687), mean=-3.4711233697920814, variance=19.062411032907075, skewness=-0.600149510796564, kurtosis=-1.599321757223228)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.374999231274639e+27
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.856100000000001
+Len:	146
+
+Described Diff:
+DescribeResult(nobs=146, minmax=(-9.9206398664236666, 0.44972027866390796), mean=-4.1332847317141796, variance=20.032046508191097, skewness=-0.3062481461049882, kurtosis=-1.86485624961648)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.09186128879765e+27
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	2.856100000000001
+Len:	126
+
+Described Diff:
+DescribeResult(nobs=126, minmax=(-9.9206398664236666, 0.50683833479861606), mean=-4.6290833855610716, variance=20.282551884466447, skewness=-0.09937657005882845, kurtosis=-1.9473612094837522)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.376860148447886e+29
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	3.7129300000000014
+Len:	1717
+
+Described Diff:
+DescribeResult(nobs=1717, minmax=(-9.9106148238272382, 9.3598660255281825), mean=-0.31144073271083789, variance=2.8124475118624792, skewness=-4.584688134007686, kurtosis=24.491463327212028)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	126362662624551.25
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	3.7129300000000014
+Len:	543
+
+Described Diff:
+DescribeResult(nobs=543, minmax=(-9.9210424033641775, 8.5440137465415322), mean=-1.1898769437765171, variance=9.2903499727405769, skewness=-2.200980538742206, kurtosis=3.407831496752288)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1463550523119724e+22
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	3.7129300000000014
+Len:	406
+
+Described Diff:
+DescribeResult(nobs=406, minmax=(-9.9210424033641775, 0.3446384813417368), mean=-1.6044792475894425, variance=11.643049753734429, skewness=-1.8244029013683642, kurtosis=1.3797588094342448)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.275456179846068e+24
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	3.7129300000000014
+Len:	276
+
+Described Diff:
+DescribeResult(nobs=276, minmax=(-9.9206398664236666, 0.3446384813417368), mean=-1.9891554493423254, variance=13.568836848840881, skewness=-1.4739529719253333, kurtosis=0.2243984747146759)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.0204462292846813e+19
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	3.7129300000000014
+Len:	164
+
+Described Diff:
+DescribeResult(nobs=164, minmax=(-9.9206398664236666, 0.40168765127429701), mean=-3.2070790322753813, variance=18.166137198915028, skewness=-0.7249578390151359, kurtosis=-1.4306702137360687)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6786207596973697e+20
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	3.7129300000000014
+Len:	117
+
+Described Diff:
+DescribeResult(nobs=117, minmax=(-9.9206398664236666, 0.43954386307727111), mean=-4.3184465023705165, variance=19.881930042053668, skewness=-0.22578086022119426, kurtosis=-1.9045451877410544)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.954683282350214e+21
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	1079
+
+Described Diff:
+DescribeResult(nobs=1079, minmax=(-9.9212424637403753, 8.3950140774750093), mean=-0.5384178382585959, variance=4.4737704447510733, skewness=-3.745489199104315, kurtosis=13.189936596607222)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	774736738512087.0
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	1018
+
+Described Diff:
+DescribeResult(nobs=1018, minmax=(-9.9212424637403753, 0.88453077769263455), mean=-0.59768313612182589, variance=4.817637635154191, skewness=-3.6952752412048695, kurtosis=11.790309215090415)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3780846669878298e+17
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	944
+
+Described Diff:
+DescribeResult(nobs=944, minmax=(-9.9212424637403753, 0.87740362636057634), mean=-0.67957956380854434, variance=5.3996890163932409, skewness=-3.428252336845748, kurtosis=9.867880581206148)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4527131292509064.0
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	251
+
+Described Diff:
+DescribeResult(nobs=251, minmax=(-9.9206398664236666, 0.3446384813417368), mean=-2.1085655307393365, variance=14.140075816642458, skewness=-1.3833806524576797, kurtosis=-0.035351482918185795)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.9548290863837875e+17
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	182
+
+Described Diff:
+DescribeResult(nobs=182, minmax=(-9.9206398664236666, 0.4589412985184434), mean=-2.7846810952224166, variance=16.984175385256286, skewness=-0.9474940597080028, kurtosis=-1.056556972317253)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.113113158786401e+18
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	157
+
+Described Diff:
+DescribeResult(nobs=157, minmax=(-9.9206398664236666, 0.40168765127429701), mean=-3.2273791715059224, variance=18.188594644403945, skewness=-0.7162864554412502, kurtosis=-1.442765049035264)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4714794742476854e+18
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	9
+D in:	4.826809000000002
+Len:	111
+
+Described Diff:
+DescribeResult(nobs=111, minmax=(-9.9206398664236666, 0.37046943815982408), mean=-4.3759133701480621, variance=19.894935515612936, skewness=-0.2023723216771401, kurtosis=-1.9140913757349725)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.029343485300763e+19
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	7317
+
+Described Diff:
+DescribeResult(nobs=7317, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.1629559950716189, variance=1.4628910012808536, skewness=-7.025901664449814, kurtosis=54.94371342980854)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.579759561968212e+43
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	5907
+
+Described Diff:
+DescribeResult(nobs=5907, minmax=(-9.9212424637403753, 8.3976466116033706), mean=-0.25313740251727845, variance=2.1787041260105262, skewness=-5.949021567824226, kurtosis=35.171599372115345)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.557023970591768e+57
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	4247
+
+Described Diff:
+DescribeResult(nobs=4247, minmax=(-9.9212424637403753, 8.7078390655499067), mean=-0.36189563065169511, variance=3.1218093927827972, skewness=-4.851640067972583, kurtosis=22.801518452919765)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1514940112715214e+68
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	2954
+
+Described Diff:
+DescribeResult(nobs=2954, minmax=(-9.9212424637403753, 9.5482982142529238), mean=-0.50978672408699544, variance=4.3866442199777147, skewness=-3.9308446397382064, kurtosis=14.552347420958274)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.490131689827429e+74
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	1474
+
+Described Diff:
+DescribeResult(nobs=1474, minmax=(-9.9212424637403753, 9.3557516823955194), mean=-0.97170993408574247, variance=8.1875551504627495, skewness=-2.511126366216012, kurtosis=5.145745716630266)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.070985152931817e+84
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	560
+
+Described Diff:
+DescribeResult(nobs=560, minmax=(-9.9212424637403753, 0.45164618539571022), mean=-2.4958170496742933, variance=16.710145633672468, skewness=-1.1218841669691781, kurtosis=-0.7126545604328403)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.324523034312911e+88
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	302
+
+Described Diff:
+DescribeResult(nobs=302, minmax=(-9.9212424637403753, 0.53799546201683479), mean=-4.3420744103543472, variance=21.257876089255731, skewness=-0.2157745501031716, kurtosis=-1.923109501724202)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.016293603516341e+87
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1
+Len:	226
+
+Described Diff:
+DescribeResult(nobs=226, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-5.7064306432838023, variance=20.269674004365253, skewness=0.35341302202986663, kurtosis=-1.83536477285502)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.263725667584525e+87
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	6259
+
+Described Diff:
+DescribeResult(nobs=6259, minmax=(-9.9212424637403753, 9.7600067810511391), mean=-0.16104441584860721, variance=1.4493919103687654, skewness=-6.899441208807666, kurtosis=55.12922114578451)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.3005891355928394e+30
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	5203
+
+Described Diff:
+DescribeResult(nobs=5203, minmax=(-9.9212424637403753, 8.3976466116033706), mean=-0.24471791747786231, variance=2.093807933497386, skewness=-6.033246298799862, kurtosis=36.563311906102136)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.981618830597149e+41
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	3880
+
+Described Diff:
+DescribeResult(nobs=3880, minmax=(-9.9212424637403753, 8.70276626837917), mean=-0.33934177073761407, variance=2.924830034790213, skewness=-5.007807715949336, kurtosis=24.63437304964662)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.890833941363422e+54
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	1013
+
+Described Diff:
+DescribeResult(nobs=1013, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-1.1848155247112468, variance=9.6434815162455418, skewness=-2.1916077699624807, kurtosis=3.4300784890028293)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.819409465581147e+69
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	755
+
+Described Diff:
+DescribeResult(nobs=755, minmax=(-9.9212424637403753, 9.1788756200486326), mean=-1.5571852481820709, variance=12.166825508968349, skewness=-1.7364125008532467, kurtosis=1.5230259066748495)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.236149168430476e+70
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	370
+
+Described Diff:
+DescribeResult(nobs=370, minmax=(-9.9212424637403753, 0.45427326114020572), mean=-2.9779398272433588, variance=18.592625127829546, skewness=-0.8467730366926443, kurtosis=-1.2536984967446774)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.844095742062654e+72
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	234
+
+Described Diff:
+DescribeResult(nobs=234, minmax=(-9.9212424637403753, 0.51355255037433956), mean=-4.6914503083726116, variance=21.433552435070148, skewness=-0.07215525926184131, kurtosis=-1.9622608863511364)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.731814846488863e+74
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.3
+Len:	184
+
+Described Diff:
+DescribeResult(nobs=184, minmax=(-9.9212424637403753, 0.54992734564258039), mean=-5.856357862758693, variance=20.010199822743989, skewness=0.41428570892228617, kurtosis=-1.7864978491058003)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.8982505994650063e+74
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.6900000000000002
+Len:	1825
+
+Described Diff:
+DescribeResult(nobs=1825, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-0.60447609355967202, variance=5.255106488210564, skewness=-3.4003690838279383, kurtosis=11.200067944238766)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.3566408429574097e+52
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.6900000000000002
+Len:	964
+
+Described Diff:
+DescribeResult(nobs=964, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-1.0931401823120801, variance=8.9774066189564028, skewness=-2.3111349222165636, kurtosis=4.095124578651736)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0323133743800081e+57
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.6900000000000002
+Len:	724
+
+Described Diff:
+DescribeResult(nobs=724, minmax=(-9.9212424637403753, 9.1788756200486326), mean=-1.4242234335295993, variance=11.273954101764, skewness=-1.864379265476403, kurtosis=2.0873574802793895)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2067191292323748e+57
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.6900000000000002
+Len:	352
+
+Described Diff:
+DescribeResult(nobs=352, minmax=(-9.9212424637403753, 0.44220461507997433), mean=-2.7197104565567667, variance=17.53124419125751, skewness=-0.9898893426289365, kurtosis=-0.9877523396985017)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7831371044944936e+59
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	1.6900000000000002
+Len:	168
+
+Described Diff:
+DescribeResult(nobs=168, minmax=(-9.9212424637403753, 0.5341359970072096), mean=-5.5526892261841798, variance=20.401061012657376, skewness=0.2819773773200013, kurtosis=-1.8792790730356113)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.596668896053585e+60
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.1970000000000005
+Len:	3501
+
+Described Diff:
+DescribeResult(nobs=3501, minmax=(-9.9106148238272382, 9.7590506787904836), mean=-0.20955492215145641, variance=1.9093625672143306, skewness=-5.813825466147463, kurtosis=39.77464588388501)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.40623354058207e+23
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.1970000000000005
+Len:	2625
+
+Described Diff:
+DescribeResult(nobs=2625, minmax=(-9.9206398664236666, 0.89438706942137847), mean=-0.35276722742204614, variance=2.9264672783809917, skewness=-5.0759842933784105, kurtosis=23.94739375866651)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.5397944253729994e+30
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.1970000000000005
+Len:	471
+
+Described Diff:
+DescribeResult(nobs=471, minmax=(-9.9210424033641775, 0.44220461507997433), mean=-1.8202911117373539, variance=13.059588446426076, skewness=-1.6210356785449074, kurtosis=0.6698135822450064)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8514392464132462e+41
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.1970000000000005
+Len:	192
+
+Described Diff:
+DescribeResult(nobs=192, minmax=(-9.9206398664236666, 0.4786670587025304), mean=-3.9062969492282966, variance=20.101058605533584, skewness=-0.40449696185812556, kurtosis=-1.7980036392047598)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.815676352077912e+39
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.1970000000000005
+Len:	163
+
+Described Diff:
+DescribeResult(nobs=163, minmax=(-9.9206398664236666, 0.47701794087250149), mean=-4.5982266121608104, variance=20.53902965734013, skewness=-0.11273579416127505, kurtosis=-1.946515059700589)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.910791472768763e+39
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.1970000000000005
+Len:	143
+
+Described Diff:
+DescribeResult(nobs=143, minmax=(-9.9206398664236666, 0.5341359970072096), mean=-5.101441021428518, variance=20.350515720604267, skewness=0.09323427427766787, kurtosis=-1.94820799266504)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.00406695582164e+40
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.856100000000001
+Len:	2351
+
+Described Diff:
+DescribeResult(nobs=2351, minmax=(-9.9110467508144868, 9.3598660255281825), mean=-0.2908330000865133, variance=2.7100999202114626, skewness=-4.768990403574821, kurtosis=26.387252954818635)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.125962028578781e+30
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.856100000000001
+Len:	1950
+
+Described Diff:
+DescribeResult(nobs=1950, minmax=(-9.9206398664236666, 0.90324863256584786), mean=-0.4385364139595383, variance=3.6401150619069189, skewness=-4.460599821850831, kurtosis=18.047904495228916)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.1410338766157776e+30
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.856100000000001
+Len:	1661
+
+Described Diff:
+DescribeResult(nobs=1661, minmax=(-9.9206398664236666, 0.87740362636057634), mean=-0.5187771297314463, variance=4.2324590193719542, skewness=-4.06632428683731, kurtosis=14.656570367582084)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.041584782240748e+24
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.856100000000001
+Len:	804
+
+Described Diff:
+DescribeResult(nobs=804, minmax=(-9.9206398664236666, 8.6338958194006707), mean=-1.0298905107035607, variance=8.2314018381887806, skewness=-2.4896490176031154, kurtosis=4.706321893581011)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.490186554244787e+33
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	2.856100000000001
+Len:	309
+
+Described Diff:
+DescribeResult(nobs=309, minmax=(-9.9206398664236666, 0.43612517385347099), mean=-2.3462215262635118, variance=15.496069191709962, skewness=-1.2196436881191746, kurtosis=-0.4709710189485006)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0250822902799868e+33
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	1470
+
+Described Diff:
+DescribeResult(nobs=1470, minmax=(-9.9210424033641775, 8.3950140774750093), mean=-0.38511172745586703, variance=3.2218175621343081, skewness=-4.572504478148095, kurtosis=20.536356998399825)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	137448030643.95972
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	658
+
+Described Diff:
+DescribeResult(nobs=658, minmax=(-9.9206398664236666, 8.6338958194006707), mean=-0.86959961889771575, variance=6.9954879657829743, skewness=-2.753420188226824, kurtosis=6.406672409332872)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	686012719633672.2
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	389
+
+Described Diff:
+DescribeResult(nobs=389, minmax=(-9.9210424033641775, 0.3446384813417368), mean=-1.4774670191897046, variance=10.811084828401837, skewness=-1.9634829989382918, kurtosis=1.9105791356901491)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.1681811390155397e+18
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	188
+
+Described Diff:
+DescribeResult(nobs=188, minmax=(-9.9210424033641775, 0.4589412985184434), mean=-2.5012098183669518, variance=15.877450741914096, skewness=-1.1178827829396847, kurtosis=-0.7054893386222347)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.610228381828422e+16
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	154
+
+Described Diff:
+DescribeResult(nobs=154, minmax=(-9.9206398664236666, 0.40168765127429701), mean=-3.0466775348080208, variance=17.660481364776778, skewness=-0.8086953453108598, kurtosis=-1.3036451725771347)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3755424477609374e+16
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	127
+
+Described Diff:
+DescribeResult(nobs=127, minmax=(-9.9206398664236666, 0.44311077699597073), mean=-3.6885467006300083, variance=19.106638407792975, skewness=-0.49998444758473537, kurtosis=-1.7084728986393503)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.5995207775119612e+16
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	3.7129300000000014
+Len:	107
+
+Described Diff:
+DescribeResult(nobs=107, minmax=(-9.9206398664236666, 0.43954386307727111), mean=-4.1893654794343549, variance=19.753214206256423, skewness=-0.28232856434882414, kurtosis=-1.8787327724711045)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.504718331001374e+17
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	4.826809000000002
+Len:	918
+
+Described Diff:
+DescribeResult(nobs=918, minmax=(-9.9210424033641775, 8.3950140774750093), mean=-0.58379110566641346, variance=4.8887568472422362, skewness=-3.5351671239940203, kurtosis=11.62971818072245)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.1355581642990204e+16
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	4.826809000000002
+Len:	880
+
+Described Diff:
+DescribeResult(nobs=880, minmax=(-9.9210424033641775, 0.88126023258474284), mean=-0.64130634336032544, variance=5.1614675650780102, skewness=-3.5237760169746064, kurtosis=10.547174241884933)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4504700112643812.0
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	4.826809000000002
+Len:	827
+
+Described Diff:
+DescribeResult(nobs=827, minmax=(-9.9210424033641775, 0.87638287807262194), mean=-0.71123086650662803, variance=5.6332506829259366, skewness=-3.3193595098650395, kurtosis=9.128980955035043)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	33208812268960.75
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	4.826809000000002
+Len:	347
+
+Described Diff:
+DescribeResult(nobs=347, minmax=(-9.9210424033641775, 0.32367169239216365), mean=-1.7072781442874023, variance=12.18226023374217, skewness=-1.724834699478589, kurtosis=1.0249477861563383)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.9725057842761676e+20
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	10
+D in:	4.826809000000002
+Len:	124
+
+Described Diff:
+DescribeResult(nobs=124, minmax=(-9.9206398664236666, 0.45560465474649409), mean=-3.9292455771422379, variance=19.495522070034454, skewness=-0.39311240364288524, kurtosis=-1.8040275900677105)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.991965804751901e+17
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1
+Len:	4046
+
+Described Diff:
+DescribeResult(nobs=4046, minmax=(-9.9212424637403753, 8.70276626837917), mean=-0.36413444969569969, variance=3.1565437874731526, skewness=-4.824522209377617, kurtosis=22.566121648575574)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.802378871765275e+70
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1
+Len:	1425
+
+Described Diff:
+DescribeResult(nobs=1425, minmax=(-9.9212424637403753, 9.3649646333383014), mean=-0.97877851103378399, variance=8.2883911833391828, skewness=-2.496058383457856, kurtosis=5.084035190534086)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1969225555594705e+86
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1
+Len:	549
+
+Described Diff:
+DescribeResult(nobs=549, minmax=(-9.9212424637403753, 0.44382426009776499), mean=-2.4786266123400682, variance=16.734530058102745, skewness=-1.1354150405466366, kurtosis=-0.6837431991249692)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.283187515297995e+90
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1
+Len:	295
+
+Described Diff:
+DescribeResult(nobs=295, minmax=(-9.9212424637403753, 0.53799546201683479), mean=-4.3201845909584797, variance=21.435961620489934, skewness=-0.22804015090651014, kurtosis=-1.9195796518275796)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.260464038579172e+88
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1
+Len:	219
+
+Described Diff:
+DescribeResult(nobs=219, minmax=(-9.9212424637403753, 0.48384235642464979), mean=-5.7200856582354822, variance=20.504087081184835, skewness=0.35570788151548677, kurtosis=-1.8359825961323084)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8144434089503193e+89
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.3
+Len:	2623
+
+Described Diff:
+DescribeResult(nobs=2623, minmax=(-9.9212424637403753, 9.5473285033793669), mean=-0.4887093519943721, variance=4.1975415550793107, skewness=-4.012258341518533, kurtosis=15.433936571603926)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5241704888385844e+57
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.3
+Len:	1902
+
+Described Diff:
+DescribeResult(nobs=1902, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-0.65259358756013863, variance=5.6472540758602117, skewness=-3.269142050457187, kurtosis=10.057102327412569)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8806688838097336e+63
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.3
+Len:	989
+
+Described Diff:
+DescribeResult(nobs=989, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-1.2042338509475041, variance=9.7726751357690826, skewness=-2.1633612800806876, kurtosis=3.3049813137275006)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3053177288922256e+68
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.3
+Len:	742
+
+Described Diff:
+DescribeResult(nobs=742, minmax=(-9.9212424637403753, 9.1788756200486326), mean=-1.5722508001306454, variance=12.252332924389304, skewness=-1.7206714454155239, kurtosis=1.4699440873088)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.3345959346803835e+69
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.3
+Len:	364
+
+Described Diff:
+DescribeResult(nobs=364, minmax=(-9.9212424637403753, 0.44902903063212263), mean=-3.0009426451850802, variance=18.651868802908382, skewness=-0.8349819919783419, kurtosis=-1.2735116695027686)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.573031137417161e+71
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.3
+Len:	181
+
+Described Diff:
+DescribeResult(nobs=181, minmax=(-9.9212424637403753, 0.54096041255935789), mean=-5.9007315644474394, variance=19.867102456690322, skewness=0.4332257237838414, kurtosis=-1.7698883250135402)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6685756801936195e+73
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	3086
+
+Described Diff:
+DescribeResult(nobs=3086, minmax=(-9.9212424637403753, 0.92235865771276426), mean=-0.36960841105060743, variance=3.0815220239011865, skewness=-4.950008380641353, kurtosis=22.657593639866935)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4484098840535635e+43
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	1744
+
+Described Diff:
+DescribeResult(nobs=1744, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-0.62471405696503135, variance=5.3324314835273698, skewness=-3.41191302527154, kurtosis=10.836364811602444)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.840677621882681e+51
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	935
+
+Described Diff:
+DescribeResult(nobs=935, minmax=(-9.9212424637403753, 9.3361849239174131), mean=-1.1047706295971871, variance=9.0624197222201364, skewness=-2.2869768995775384, kurtosis=3.98924059381672)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.968224364837805e+56
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	708
+
+Described Diff:
+DescribeResult(nobs=708, minmax=(-9.9212424637403753, 9.1788756200486326), mean=-1.4276553576693767, variance=11.296680876638263, skewness=-1.8556138041793593, kurtosis=2.0628846945525323)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1026655695646567e+56
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	256
+
+Described Diff:
+DescribeResult(nobs=256, minmax=(-9.9212424637403753, 0.53117104646468649), mean=-3.6513766265454155, variance=20.161921966070654, skewness=-0.5178998899716233, kurtosis=-1.7000544569533493)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.692280066153002e+58
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	212
+
+Described Diff:
+DescribeResult(nobs=212, minmax=(-9.9212424637403753, 0.5050132297359996), mean=-4.3085675006251432, variance=21.040359924281233, skewness=-0.23056881085728473, kurtosis=-1.9133941389403069)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.618838586197188e+58
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	1.6900000000000002
+Len:	183
+
+Described Diff:
+DescribeResult(nobs=183, minmax=(-9.9212424637403753, 0.47701794087250149), mean=-4.9895070647883504, variance=21.01651602457768, skewness=0.05068886618672046, kurtosis=-1.9606112331335954)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.978385290973316e+58
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	2418
+
+Described Diff:
+DescribeResult(nobs=2418, minmax=(-9.9212424637403753, 0.89438706942137847), mean=-0.39717905284231636, variance=3.2984224426469932, skewness=-4.732934012007283, kurtosis=20.558551219936735)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.240625615837404e+32
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	1521
+
+Described Diff:
+DescribeResult(nobs=1521, minmax=(-9.9212424637403753, 8.7330147154616142), mean=-0.6218707943962547, variance=5.1912060809557232, skewness=-3.512875358573761, kurtosis=11.045379325744836)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.4895814890838395e+35
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	1154
+
+Described Diff:
+DescribeResult(nobs=1154, minmax=(-9.9212424637403753, 8.6995168090070667), mean=-0.82454865363022456, variance=6.7500929251107209, skewness=-2.9263664607010105, kurtosis=7.107898306631149)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.652307109846838e+38
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	868
+
+Described Diff:
+DescribeResult(nobs=868, minmax=(-9.9212424637403753, 8.6338958194006707), mean=-1.066515742466154, variance=8.5283073272915235, skewness=-2.436654142736653, kurtosis=4.38100047594467)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3522387704104827e+40
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	663
+
+Described Diff:
+DescribeResult(nobs=663, minmax=(-9.9212424637403753, 9.1788756200486326), mean=-1.349731691942275, variance=10.726331692506342, skewness=-1.92876999935411, kurtosis=2.4481919777924244)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.765561354193154e+41
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	323
+
+Described Diff:
+DescribeResult(nobs=323, minmax=(-9.9212424637403753, 0.44220461507997433), mean=-2.5445475262805139, variance=16.534741628670478, skewness=-1.09373588839837, kurtosis=-0.7669488959960851)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0409590302180583e+42
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.1970000000000005
+Len:	238
+
+Described Diff:
+DescribeResult(nobs=238, minmax=(-9.9212424637403753, 0.53592070594667673), mean=-3.4420091155431995, variance=19.460487132365945, skewness=-0.6166207846617859, kurtosis=-1.585227831136112)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4668293019101954e+44
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	1938
+
+Described Diff:
+DescribeResult(nobs=1938, minmax=(-9.911017360767751, 8.3950140774750093), mean=-0.37932251448010001, variance=3.2062611486932018, skewness=-4.662772804306238, kurtosis=21.03865430964626)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.6086217993568205e+22
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	1743
+
+Described Diff:
+DescribeResult(nobs=1743, minmax=(-9.911017360767751, 0.89342128609287441), mean=-0.43714550189049678, variance=3.5945877644637978, skewness=-4.456025367040168, kurtosis=18.025700144148537)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.97594825813232e+22
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	1002
+
+Described Diff:
+DescribeResult(nobs=1002, minmax=(-9.9111467806125049, 8.6995168090070667), mean=-0.76230970064401748, variance=6.2252684387360047, skewness=-3.0564783616109468, kurtosis=8.062360118101696)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.0069803991008977e+25
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	592
+
+Described Diff:
+DescribeResult(nobs=592, minmax=(-9.9210424033641775, 9.1788756200486326), mean=-1.2288865288296098, variance=9.8795086211148142, skewness=-2.0390813507632255, kurtosis=3.1017884622102407)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1157747036940626e+29
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	434
+
+Described Diff:
+DescribeResult(nobs=434, minmax=(-9.9210424033641775, 0.82329472916210866), mean=-1.7043063844029394, variance=12.322515737364263, skewness=-1.7255971467113127, kurtosis=1.0226904278409599)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.4963626246361865e+31
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	295
+
+Described Diff:
+DescribeResult(nobs=295, minmax=(-9.9111467806125049, 0.78484844587872926), mean=-2.1585213702956478, variance=14.619287472066498, skewness=-1.3460938175375814, kurtosis=-0.144561569824734)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8149585075062982e+28
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	213
+
+Described Diff:
+DescribeResult(nobs=213, minmax=(-9.9210424033641775, 0.78484844587872926), mean=-2.975927042644658, variance=17.936082657025334, skewness=-0.844302267239948, kurtosis=-1.2484249074870792)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.116919836363414e+30
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	174
+
+Described Diff:
+DescribeResult(nobs=174, minmax=(-9.9111467806125049, 0.45136939649393687), mean=-3.5877762753669939, variance=19.295518656628889, skewness=-0.5468100116637694, kurtosis=-1.6625756204861488)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.878233735247793e+27
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	147
+
+Described Diff:
+DescribeResult(nobs=147, minmax=(-9.9111467806125049, 0.44972027866390796), mean=-4.2434579388011633, variance=20.104698137885091, skewness=-0.2605461123867442, kurtosis=-1.892799085465694)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.670989333067886e+27
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	2.856100000000001
+Len:	127
+
+Described Diff:
+DescribeResult(nobs=127, minmax=(-9.9111467806125049, 0.48922560829691097), mean=-4.7534111642789085, variance=20.233333909419922, skewness=-0.049804625431027816, kurtosis=-1.9569815012185885)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.447926598179519e+29
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	1280
+
+Described Diff:
+DescribeResult(nobs=1280, minmax=(-9.9111467806125049, 9.3598660255281825), mean=-0.32901286856378276, variance=3.0093670181532444, skewness=-4.228059341563175, kurtosis=22.094508831114368)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	988698686.8250109
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	1235
+
+Described Diff:
+DescribeResult(nobs=1235, minmax=(-9.9111467806125049, 8.3950140774750093), mean=-0.40671139184132354, variance=3.3674123869872887, skewness=-4.377823359093763, kurtosis=18.90706213827914)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7911044.393759819
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	1159
+
+Described Diff:
+DescribeResult(nobs=1159, minmax=(-9.9111467806125049, 0.88166800922528454), mean=-0.4577030437524125, variance=3.6458517584192216, skewness=-4.324680670990199, kurtosis=16.893396856733403)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4571914.174372908
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	618
+
+Described Diff:
+DescribeResult(nobs=618, minmax=(-9.9111467806125049, 8.6338958194006707), mean=-0.83035145199562188, variance=6.6346598335737257, skewness=-2.819485687059062, kurtosis=6.909600513043282)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2945143389.5881515
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	487
+
+Described Diff:
+DescribeResult(nobs=487, minmax=(-9.9210424033641775, 8.5440137465415322), mean=-1.0468988538157378, variance=8.2011420894313005, skewness=-2.3881204747719065, kurtosis=4.4821367656037205)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	97489047072.98245
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	370
+
+Described Diff:
+DescribeResult(nobs=370, minmax=(-9.9210424033641775, 0.37335343761180351), mean=-1.3942749842151729, variance=10.173964589730179, skewness=-2.0591150995599996, kurtosis=2.2995883186816126)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	18888772836696.26
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	3.7129300000000014
+Len:	254
+
+Described Diff:
+DescribeResult(nobs=254, minmax=(-9.9111467806125049, 0.37335343761180351), mean=-1.6308738162288303, variance=11.393426941751656, skewness=-1.7915104070653438, kurtosis=1.2690956279371584)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	454231782.2158511
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	755
+
+Described Diff:
+DescribeResult(nobs=755, minmax=(-9.9111467806125049, 9.357349966947508), mean=-0.5449975109251417, variance=5.0100893680763363, skewness=-3.0783360135564304, kurtosis=11.271469236254342)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	413543231696288.25
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	742
+
+Described Diff:
+DescribeResult(nobs=742, minmax=(-9.9111467806125049, 8.3950140774750093), mean=-0.62375392999459112, variance=5.14713437144216, skewness=-3.3376714457979317, kurtosis=10.373238451150412)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	96787943886.31923
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	721
+
+Described Diff:
+DescribeResult(nobs=721, minmax=(-9.9111467806125049, 0.88126023258474284), mean=-0.68189695545128437, variance=5.3751511265608203, skewness=-3.37188086686322, kurtosis=9.50377275746051)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	24901092495.711784
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	692
+
+Described Diff:
+DescribeResult(nobs=692, minmax=(-9.9111467806125049, 0.87638287807262194), mean=-0.77369465918307667, variance=6.016131222427564, skewness=-3.1318282579534578, kurtosis=7.917312311461298)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	12140584098.402775
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	624
+
+Described Diff:
+DescribeResult(nobs=624, minmax=(-9.9111467806125049, 8.726481926418705), mean=-0.84033398978763241, variance=6.7838360519439913, skewness=-2.7692424587878195, kurtosis=6.609658809779351)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	14295246244686.367
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	394
+
+Described Diff:
+DescribeResult(nobs=394, minmax=(-9.9210424033641775, 8.5298786440383889), mean=-1.3046007758176117, variance=9.9963732125717719, skewness=-1.997821856300862, kurtosis=2.6373509113129803)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	458358066072327.4
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	137
+
+Described Diff:
+DescribeResult(nobs=137, minmax=(-9.9111467806125049, 0.52370820134670948), mean=-3.0484820438901146, variance=17.363684368594374, skewness=-0.7980127379821813, kurtosis=-1.3160740006623337)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1956544649408.2703
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	12
+D in:	4.826809000000002
+Len:	114
+
+Described Diff:
+DescribeResult(nobs=114, minmax=(-9.9111467806125049, 0.52370820134670948), mean=-3.66454878717414, variance=18.708933823765555, skewness=-0.5037029528663929, kurtosis=-1.7009235711637216)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3393797914645.07
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1
+Len:	6488
+
+Described Diff:
+DescribeResult(nobs=6488, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.1691890455245508, variance=1.5024293503279127, skewness=-6.983696006777622, kurtosis=53.360002190601215)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.8022247211981616e+39
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1
+Len:	5341
+
+Described Diff:
+DescribeResult(nobs=5341, minmax=(-9.9212424637403753, 8.3980516168538877), mean=-0.25684109237820457, variance=2.2124011785059952, skewness=-5.886302254309892, kurtosis=34.537927959924204)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.434415006512677e+53
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1
+Len:	538
+
+Described Diff:
+DescribeResult(nobs=538, minmax=(-9.9212424637403753, 0.43699984454561669), mean=-2.4188603115228116, variance=16.476481928006102, skewness=-1.1721949882989227, kurtosis=-0.5993325869901436)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.372334494755432e+87
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1
+Len:	288
+
+Described Diff:
+DescribeResult(nobs=288, minmax=(-9.9212424637403753, 0.53117104646468649), mean=-4.2887971331402035, variance=21.429533657385527, skewness=-0.2398777563411525, kurtosis=-1.9153849591094538)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.409920320893147e+87
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1
+Len:	242
+
+Described Diff:
+DescribeResult(nobs=242, minmax=(-9.9212424637403753, 0.51362861867179166), mean=-5.0150164792087031, variance=21.503568401247449, skewness=0.06283178409374206, kurtosis=-1.965616365514232)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.806919584009348e+87
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1
+Len:	213
+
+Described Diff:
+DescribeResult(nobs=213, minmax=(-9.9212424637403753, 0.47701794087250149), mean=-5.6968964099559516, variance=20.571169586407766, skewness=0.3477282452361857, kurtosis=-1.8434694702782093)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.591973333653243e+87
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	4633
+
+Described Diff:
+DescribeResult(nobs=4633, minmax=(-9.9212424637403753, 8.3950140774750093), mean=-0.25634389013020026, variance=2.1973433480798308, skewness=-5.861102858489779, kurtosis=34.53687752749048)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.384588041085428e+40
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	3520
+
+Described Diff:
+DescribeResult(nobs=3520, minmax=(-9.9212424637403753, 8.70276626837917), mean=-0.35125571712858628, variance=3.0194853307599008, skewness=-4.902483078147764, kurtosis=23.630347125231474)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6783730731145765e+49
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	2532
+
+Described Diff:
+DescribeResult(nobs=2532, minmax=(-9.9212424637403753, 9.5478899149377412), mean=-0.49100728857094161, variance=4.2107010901664257, skewness=-3.9983553162616468, kurtosis=15.356190561362137)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4394895912588175e+55
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	1842
+
+Described Diff:
+DescribeResult(nobs=1842, minmax=(-9.9212424637403753, 9.3460371566651101), mean=-0.65224399502502917, variance=5.6483440829263012, skewness=-3.2625011283000185, kurtosis=10.053819239812304)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.5059754645822828e+62
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	1321
+
+Described Diff:
+DescribeResult(nobs=1321, minmax=(-9.9212424637403753, 9.3460371566651101), mean=-0.90084739767496758, variance=7.6796797956372167, skewness=-2.6173919467300455, kurtosis=5.910274918163774)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.526129370988184e+68
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	964
+
+Described Diff:
+DescribeResult(nobs=964, minmax=(-9.9212424637403753, 9.3460371566651101), mean=-1.1942979329858923, variance=9.7272044465532232, skewness=-2.1727146068457164, kurtosis=3.365940418724394)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.147874392038624e+68
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	728
+
+Described Diff:
+DescribeResult(nobs=728, minmax=(-9.9212424637403753, 9.1794492793139728), mean=-1.5482686070729053, variance=12.132618860060669, skewness=-1.7410441207058684, kurtosis=1.5581544741664457)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1956656484338892e+69
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	270
+
+Described Diff:
+DescribeResult(nobs=270, minmax=(-9.9212424637403753, 0.53117104646468649), mean=-3.9669589559031668, variance=20.863801670308575, skewness=-0.3782831785098446, kurtosis=-1.8277965666903724)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.508358676178348e+71
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	225
+
+Described Diff:
+DescribeResult(nobs=225, minmax=(-9.9212424637403753, 0.51362861867179166), mean=-4.6646277074124551, variance=21.36470725126879, skewness=-0.08263404930092083, kurtosis=-1.96148504236938)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3702354309426783e+71
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.3
+Len:	196
+
+Described Diff:
+DescribeResult(nobs=196, minmax=(-9.9212424637403753, 0.47701794087250149), mean=-5.3536691267781924, variance=20.866297827166619, skewness=0.20101939425522541, kurtosis=-1.9237108038148294)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.325857432496867e+71
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	4122
+
+Described Diff:
+DescribeResult(nobs=4122, minmax=(-9.9111467806125049, 9.7596042116782318), mean=-0.19760657368929249, variance=1.7613821872723032, skewness=-6.28244341556186, kurtosis=43.89071989082455)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.982447033064437e+31
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	3608
+
+Described Diff:
+DescribeResult(nobs=3608, minmax=(-9.9212424637403753, 8.3950140774750093), mean=-0.27116754455491582, variance=2.3006914671445462, skewness=-5.7444100370801685, kurtosis=32.401525253558695)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.239448903837903e+34
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	2196
+
+Described Diff:
+DescribeResult(nobs=2196, minmax=(-9.9212424637403753, 0.87740362636057634), mean=-0.47363021950190587, variance=3.898379107913907, skewness=-4.304108452151896, kurtosis=16.648440950402126)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.9173570530574203e+36
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	1219
+
+Described Diff:
+DescribeResult(nobs=1219, minmax=(-9.9212424637403753, 8.7015666416245256), mean=-0.82967639282521621, variance=6.8376732641008395, skewness=-2.9219409852941935, kurtosis=7.043704468731184)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.863045073767591e+48
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	907
+
+Described Diff:
+DescribeResult(nobs=907, minmax=(-9.9212424637403753, 8.6359582845116645), mean=-1.0650641028469292, variance=8.5928560985766858, skewness=-2.445425022383373, kurtosis=4.399614518829947)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.2844119081945482e+49
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	482
+
+Described Diff:
+DescribeResult(nobs=482, minmax=(-9.9212424637403753, 0.45273298652618638), mean=-1.9602681523544914, variance=13.992594230809281, skewness=-1.5039136733943257, kurtosis=0.29709866869546087)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0935085843390613e+53
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	332
+
+Described Diff:
+DescribeResult(nobs=332, minmax=(-9.9212424637403753, 0.45273298652618638), mean=-2.595366878459501, variance=16.974121940216591, skewness=-1.0637043216943698, kurtosis=-0.835764994372874)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6165489461362302e+51
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	1.6900000000000002
+Len:	243
+
+Described Diff:
+DescribeResult(nobs=243, minmax=(-9.9212424637403753, 0.53117104646468649), mean=-3.5346465718308422, variance=19.916871873580774, skewness=-0.5734472658551748, kurtosis=-1.6396499714097323)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.4129771705627915e+52
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.1970000000000005
+Len:	2580
+
+Described Diff:
+DescribeResult(nobs=2580, minmax=(-9.9111467806125049, 8.3950140774750093), mean=-0.31101820337101216, variance=2.6374903126009923, skewness=-5.25565700266858, kurtosis=27.07315992423379)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.1186959819241537e+26
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.1970000000000005
+Len:	1800
+
+Described Diff:
+DescribeResult(nobs=1800, minmax=(-9.9111467806125049, 0.87740362636057634), mean=-0.48430264012343999, variance=3.9566266468002285, skewness=-4.233647835543018, kurtosis=16.05571550511758)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.8852965759460655e+25
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.1970000000000005
+Len:	1431
+
+Described Diff:
+DescribeResult(nobs=1431, minmax=(-9.9111467806125049, 8.726481926418705), mean=-0.59760944969834284, variance=4.985093263202482, skewness=-3.5855123711431554, kurtosis=11.65996545657832)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4460690692809918e+31
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.1970000000000005
+Len:	1098
+
+Described Diff:
+DescribeResult(nobs=1098, minmax=(-9.9109465204755729, 8.6995168090070667), mean=-0.78482642191482554, variance=6.4437937358497495, skewness=-3.0125502426608337, kurtosis=7.697390195144166)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.644085661114193e+34
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.1970000000000005
+Len:	636
+
+Described Diff:
+DescribeResult(nobs=636, minmax=(-9.9210424033641775, 8.5440137465415322), mean=-1.2779141306593891, variance=10.022080880678105, skewness=-2.106590786250504, kurtosis=2.858812934497773)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0834507783459717e+38
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.1970000000000005
+Len:	454
+
+Described Diff:
+DescribeResult(nobs=454, minmax=(-9.9210424033641775, 0.82329472916210866), mean=-1.7977589029430909, variance=12.982631985889634, skewness=-1.6382157597371116, kurtosis=0.724339530597577)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.066918712457227e+40
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	1740
+
+Described Diff:
+DescribeResult(nobs=1740, minmax=(-9.9207408042006247, 8.3950140774750093), mean=-0.36615266418741105, variance=3.077942628937488, skewness=-4.7377041234701345, kurtosis=21.984048068673385)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2696432090667726.0
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	1153
+
+Described Diff:
+DescribeResult(nobs=1153, minmax=(-9.9207408042006247, 8.6878760929517558), mean=-0.6024043788749015, variance=4.9949552801128005, skewness=-3.5346866389345384, kurtosis=11.45491899481837)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.5707169643188493e+20
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	941
+
+Described Diff:
+DescribeResult(nobs=941, minmax=(-9.9207408042006247, 8.6610679736428704), mean=-0.74838378048550713, variance=6.1193367360272939, skewness=-3.0849272907211684, kurtosis=8.294373891380458)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.187195053617469e+22
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	724
+
+Described Diff:
+DescribeResult(nobs=724, minmax=(-9.921142533722703, 8.5956824811906056), mean=-0.9382388424403143, variance=7.5401126682437454, skewness=-2.634956700337504, kurtosis=5.5916708474303185)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.4510036054781335e+23
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	564
+
+Described Diff:
+DescribeResult(nobs=564, minmax=(-9.921142533722703, 8.5060987047266963), mean=-1.1984781474210346, variance=9.3784053743306224, skewness=-2.1958091229526566, kurtosis=3.347372902217212)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2827204103099296e+25
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	281
+
+Described Diff:
+DescribeResult(nobs=281, minmax=(-9.921142533722703, 0.78484844587872926), mean=-2.0576880771028629, variance=14.049221097822651, skewness=-1.4200274747743302, kurtosis=0.06209874321227682)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.3390498824816246e+23
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	203
+
+Described Diff:
+DescribeResult(nobs=203, minmax=(-9.921142533722703, 0.78484844587872926), mean=-2.8351274269242954, variance=17.367658134947561, skewness=-0.9195801121293196, kurtosis=-1.1143602258157188)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.3129991767002265e+25
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	163
+
+Described Diff:
+DescribeResult(nobs=163, minmax=(-9.921142533722703, 0.45136939649393687), mean=-3.4699216086653069, variance=18.928847288460641, skewness=-0.6000264153310558, kurtosis=-1.600784177043992)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.397182757967351e+22
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	137
+
+Described Diff:
+DescribeResult(nobs=137, minmax=(-9.921142533722703, 0.44972027866390796), mean=-4.1254185310953861, variance=19.864472818037871, skewness=-0.30930763836070624, kurtosis=-1.864689735026991)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3189007178498878e+23
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	2.856100000000001
+Len:	117
+
+Described Diff:
+DescribeResult(nobs=117, minmax=(-9.921142533722703, 0.50981525043614528), mean=-4.6560074553474884, variance=20.115730499896969, skewness=-0.08712298178793643, kurtosis=-1.9513054539640982)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.7042333421919186e+24
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	1071
+
+Described Diff:
+DescribeResult(nobs=1071, minmax=(-9.9111467806125049, 9.3598660255281825), mean=-0.32565757149251995, variance=2.8985149988198091, skewness=-4.372235871739969, kurtosis=22.821265369786364)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1034043.7134724044
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	989
+
+Described Diff:
+DescribeResult(nobs=989, minmax=(-9.9111467806125049, 0.88166800922528454), mean=-0.45583179000074009, variance=3.6151412988302543, skewness=-4.337272221286559, kurtosis=17.009589645096497)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	127215.10558644809
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	933
+
+Described Diff:
+DescribeResult(nobs=933, minmax=(-9.9111467806125049, 0.87638287807262194), mean=-0.53165779348585107, variance=4.2011586439790598, skewness=-3.995890970389186, kurtosis=14.12106291849583)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	656288.9155410072
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	822
+
+Described Diff:
+DescribeResult(nobs=822, minmax=(-9.9111467806125049, 8.7046163648742105), mean=-0.5898299323743319, variance=4.8589637689940259, skewness=-3.508067669668661, kurtosis=11.681962469751653)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	894109017.1215603
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	701
+
+Described Diff:
+DescribeResult(nobs=701, minmax=(-9.9111467806125049, 8.6610679736428704), mean=-0.65296431951612088, variance=5.3168942870327855, skewness=-3.293587697076413, kurtosis=10.168312398338397)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	20885638.676391147
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	561
+
+Described Diff:
+DescribeResult(nobs=561, minmax=(-9.9111467806125049, 8.5956824811906056), mean=-0.80816085209008781, variance=6.5206963100105471, skewness=-2.8525877524929033, kurtosis=7.207943925211536)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	10503374917.725296
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	446
+
+Described Diff:
+DescribeResult(nobs=446, minmax=(-9.9210424033641775, 8.5060987047266963), mean=-1.0098238445541654, variance=8.0063646815034346, skewness=-2.4350244217694463, kurtosis=4.80184402193113)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	248268706522.5535
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	343
+
+Described Diff:
+DescribeResult(nobs=343, minmax=(-9.9210424033641775, 0.37335343761180351), mean=-1.3329632017963626, variance=9.8044614380304917, skewness=-2.138747242378063, kurtosis=2.6376376293088404)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2962249024497.0293
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	166
+
+Described Diff:
+DescribeResult(nobs=166, minmax=(-9.9210424033641775, 0.45136939649393687), mean=-2.0090158843385963, variance=13.412522901174754, skewness=-1.455984513716488, kurtosis=0.17489838910937872)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	845298374.3265562
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	135
+
+Described Diff:
+DescribeResult(nobs=135, minmax=(-9.9111467806125049, 0.45136939649393687), mean=-2.4620594370109075, variance=15.307465824339838, skewness=-1.135642969183176, kurtosis=-0.6605073867999458)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	329391924.82615435
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	110
+
+Described Diff:
+DescribeResult(nobs=110, minmax=(-9.9111467806125049, 0.45136939649393687), mean=-3.0188912622223829, variance=17.166375591823694, skewness=-0.8196148949301562, kurtosis=-1.281974397724581)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	561202788.9629667
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	3.7129300000000014
+Len:	90
+
+Described Diff:
+DescribeResult(nobs=90, minmax=(-9.9111467806125049, 0.50981525043614528), mean=-3.4606128488116483, variance=18.336932269900636, skewness=-0.5993849554070759, kurtosis=-1.595634958097938)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	14227709622.967653
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	4.826809000000002
+Len:	614
+
+Described Diff:
+DescribeResult(nobs=614, minmax=(-9.9206398664236666, 9.357349966947508), mean=-0.5515242414952567, variance=4.9567983966373284, skewness=-3.1358727053102915, kurtosis=11.230337090921152)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	169791342729.81006
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	4.826809000000002
+Len:	572
+
+Described Diff:
+DescribeResult(nobs=572, minmax=(-9.9206398664236666, 0.90048194543663529), mean=-0.77518727525849607, variance=6.0353445742640428, skewness=-3.114767171415727, kurtosis=7.817552088400442)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	156989222.1360986
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	4.826809000000002
+Len:	354
+
+Described Diff:
+DescribeResult(nobs=354, minmax=(-9.9210424033641775, 8.4403183657712155), mean=-1.1487735138691815, variance=8.9546268650882723, skewness=-2.1759901908761643, kurtosis=3.5851165972272554)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	865735478.7057958
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	4.826809000000002
+Len:	201
+
+Described Diff:
+DescribeResult(nobs=201, minmax=(-9.9206398664236666, 0.41566481403512334), mean=-1.6588351309199332, variance=11.258642688677144, skewness=-1.7526030822582406, kurtosis=1.1378144108789288)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1948.8098176477667
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	4.826809000000002
+Len:	145
+
+Described Diff:
+DescribeResult(nobs=145, minmax=(-9.9206398664236666, 0.49368077291725676), mean=-2.1476323892620637, variance=13.708671221111119, skewness=-1.3369791721243336, kurtosis=-0.15569439575893362)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	66312.98690556343
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	14
+D in:	4.826809000000002
+Len:	80
+
+Described Diff:
+DescribeResult(nobs=80, minmax=(-9.9111467806125049, 0.46246255980278383), mean=-3.629240109731021, variance=18.087343239845691, skewness=-0.5086813127559668, kurtosis=-1.6962222607182276)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1051620.6299463108
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1
+Len:	1889
+
+Described Diff:
+DescribeResult(nobs=1889, minmax=(-9.9206398664236666, 9.3547638948901035), mean=-0.67222557561568097, variance=5.8210050903948849, skewness=-3.213393942586419, kurtosis=9.62418735941469)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.462554038716963e+66
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1
+Len:	522
+
+Described Diff:
+DescribeResult(nobs=522, minmax=(-9.9206398664236666, 0.44220461507997433), mean=-2.3079547161475231, variance=15.916889753879211, skewness=-1.2462022410527671, kurtosis=-0.4197698883263423)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.249848705923557e+76
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1
+Len:	273
+
+Described Diff:
+DescribeResult(nobs=273, minmax=(-9.9206398664236666, 0.53117104646468649), mean=-4.168550734046792, variance=21.197148980407889, skewness=-0.2906559563084321, kurtosis=-1.8883032767894423)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.1546388342803608e+75
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1
+Len:	228
+
+Described Diff:
+DescribeResult(nobs=228, minmax=(-9.9206398664236666, 0.51362861867179166), mean=-4.896634307363005, variance=21.428598326460282, skewness=0.01430922565893564, kurtosis=-1.9695758386867033)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.348453106971359e+75
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1
+Len:	199
+
+Described Diff:
+DescribeResult(nobs=199, minmax=(-9.9206398664236666, 0.47701794087250149), mean=-5.6088568782610206, variance=20.582838435938221, skewness=0.31032337953412376, kurtosis=-1.8685545232191194)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.428728193008054e+75
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.3
+Len:	2401
+
+Described Diff:
+DescribeResult(nobs=2401, minmax=(-9.9210424033641775, 9.5473285033793669), mean=-0.48877123213618084, variance=4.1999951848661343, skewness=-4.000922518157767, kurtosis=15.452002415451673)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.353081082556184e+49
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.3
+Len:	1277
+
+Described Diff:
+DescribeResult(nobs=1277, minmax=(-9.9210424033641775, 9.3361849239174131), mean=-0.8634731840076274, variance=7.4011552461393535, skewness=-2.6816301875168045, kurtosis=6.363251122529615)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.743225121781428e+59
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.3
+Len:	499
+
+Described Diff:
+DescribeResult(nobs=499, minmax=(-9.9210424033641775, 0.45273298652618638), mean=-2.1444856883809673, variance=15.061955227556238, skewness=-1.3625005364527076, kurtosis=-0.11379871319276225)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.6500553525020364e+64
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.3
+Len:	258
+
+Described Diff:
+DescribeResult(nobs=258, minmax=(-9.9210424033641775, 0.53117104646468649), mean=-3.8905501092740997, variance=20.727136572203644, skewness=-0.41268467944128695, kurtosis=-1.8014658997527544)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.378360694989738e+62
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.3
+Len:	214
+
+Described Diff:
+DescribeResult(nobs=214, minmax=(-9.9210424033641775, 0.51074543989330523), mean=-4.5899720893216456, variance=21.338096103729757, skewness=-0.1145696069259556, kurtosis=-1.9564677991335437)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.093672273880002e+62
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.3
+Len:	185
+
+Described Diff:
+DescribeResult(nobs=185, minmax=(-9.9210424033641775, 0.47701794087250149), mean=-5.3066495354832037, variance=20.916836540698853, skewness=0.18090214916364838, kurtosis=-1.9327578818497197)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.6849422118554452e+63
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	3810
+
+Described Diff:
+DescribeResult(nobs=3810, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.1948429463936423, variance=1.7759155211743014, skewness=-6.111414365927954, kurtosis=43.10006367436419)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.923187803462918e+26
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	3339
+
+Described Diff:
+DescribeResult(nobs=3339, minmax=(-9.9207408042006247, 8.3950140774750093), mean=-0.27648440049525863, variance=2.3881558623542567, skewness=-5.504438013289018, kurtosis=30.811439351766033)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.778778651355939e+31
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	2691
+
+Described Diff:
+DescribeResult(nobs=2691, minmax=(-9.9207408042006247, 8.7007371495108767), mean=-0.34874747866820099, variance=3.0104098401634021, skewness=-4.821752553375686, kurtosis=23.304289796584747)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.79581252920992e+33
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	2050
+
+Described Diff:
+DescribeResult(nobs=2050, minmax=(-9.9207408042006247, 8.6682270464240379), mean=-0.4796513275866176, variance=4.0359016809577133, skewness=-4.13115116242229, kurtosis=15.918741003578063)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.1383741675129993e+36
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	1173
+
+Described Diff:
+DescribeResult(nobs=1173, minmax=(-9.920841539209853, 8.6610679736428704), mean=-0.79305044065850105, variance=6.6966391816445725, skewness=-2.8994186255708825, kurtosis=7.384656167988155)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.078798175171023e+44
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	663
+
+Described Diff:
+DescribeResult(nobs=663, minmax=(-9.9109465204755729, 9.1788756200486326), mean=-1.3021213633466642, variance=10.465321661932848, skewness=-1.979927567559417, kurtosis=2.6777519244148875)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4949507904515908e+44
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	470
+
+Described Diff:
+DescribeResult(nobs=470, minmax=(-9.9109465204755729, 0.43810996574868522), mean=-1.8636693092160126, variance=13.370999937627886, skewness=-1.5836736505863223, kurtosis=0.5453855841118473)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.506508847487007e+44
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	193
+
+Described Diff:
+DescribeResult(nobs=193, minmax=(-9.9109465204755729, 0.47457240937124129), mean=-4.0835829072436676, variance=20.545278261342201, skewness=-0.3260616080272203, kurtosis=-1.8606683347424153)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.345229253238516e+43
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	164
+
+Described Diff:
+DescribeResult(nobs=164, minmax=(-9.9109465204755729, 0.47292329154121238), mean=-4.801208489207899, variance=20.778824620052706, skewness=-0.026228332200815604, kurtosis=-1.9634959710379274)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.3299579900193165e+44
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	1.6900000000000002
+Len:	144
+
+Described Diff:
+DescribeResult(nobs=144, minmax=(-9.9109465204755729, 0.50263348549090225), mean=-5.3288005677453647, variance=20.399505943123103, skewness=0.19122219710170782, kurtosis=-1.9252529479813065)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.8317894739701574e+45
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	2563
+
+Described Diff:
+DescribeResult(nobs=2563, minmax=(-9.9206398664236666, 9.7590506787904836), mean=-0.2320731430059893, variance=2.0308948818814554, skewness=-5.761268840716062, kurtosis=36.71711661269361)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3432328672827636.0
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	2349
+
+Described Diff:
+DescribeResult(nobs=2349, minmax=(-9.9207408042006247, 8.3950140774750093), mean=-0.28419492229497895, variance=2.3910965363339045, skewness=-5.514013329502231, kurtosis=30.28289097624109)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.1200035592130354e+16
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	2008
+
+Described Diff:
+DescribeResult(nobs=2008, minmax=(-9.9207408042006247, 0.89342128609287441), mean=-0.35399777965684898, variance=2.9024212803615268, skewness=-5.058903732398857, kurtosis=23.784743789974144)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.1355050142092255e+19
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	1640
+
+Described Diff:
+DescribeResult(nobs=1640, minmax=(-9.9207408042006247, 0.87740362636057634), mean=-0.45824315959463141, variance=3.7400726443655006, skewness=-4.374403645966234, kurtosis=17.26984801068803)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0164895278335504e+21
+bitchCunt:	0.0115
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	1322
+
+Described Diff:
+DescribeResult(nobs=1322, minmax=(-9.9207408042006247, 8.7046163648742105), mean=-0.55693461733989369, variance=4.66575865761821, skewness=-3.724453811326503, kurtosis=12.83394316640483)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0300176588852095e+26
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	1032
+
+Described Diff:
+DescribeResult(nobs=1032, minmax=(-9.9207408042006247, 8.6610679736428704), mean=-0.70175638739451773, variance=5.8121381670349539, skewness=-3.2224625907290734, kurtosis=9.165178218983664)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7409482387886598e+28
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	789
+
+Described Diff:
+DescribeResult(nobs=789, minmax=(-9.921142533722703, 8.5956824811906056), mean=-0.88656501337653282, variance=7.2083677396865173, skewness=-2.7470812497196877, kurtosis=6.193573616684697)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.861865462062925e+28
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	430
+
+Described Diff:
+DescribeResult(nobs=430, minmax=(-9.921142533722703, 0.82329472916210866), mean=-1.6257346704167022, variance=11.947523977437207, skewness=-1.799194238172419, kurtosis=1.277539202584002)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.935753083921622e+33
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	167
+
+Described Diff:
+DescribeResult(nobs=167, minmax=(-9.921142533722703, 0.46911287692952264), mean=-3.6125198576450783, variance=19.471702263761227, skewness=-0.52978039301675, kurtosis=-1.6864234344116351)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2247523996842595e+29
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	138
+
+Described Diff:
+DescribeResult(nobs=138, minmax=(-9.921142533722703, 0.46746375909949373), mean=-4.3663792535023092, variance=20.329723502526775, skewness=-0.2017038669973758, kurtosis=-1.9251444739887387)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.271130950722323e+29
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.1970000000000005
+Len:	118
+
+Described Diff:
+DescribeResult(nobs=118, minmax=(-9.921142533722703, 0.52755873087173111), mean=-4.9343832951415951, variance=20.34693334481241, skewness=0.03407169148562854, kurtosis=-1.96323252167636)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	6.161533161873492e+30
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	1522
+
+Described Diff:
+DescribeResult(nobs=1522, minmax=(-9.9207408042006247, 8.3950140774750093), mean=-0.37747174194321503, variance=3.1965476562250039, skewness=-4.627140196588995, kurtosis=21.012059376117165)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.33178029571798e+16
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	1385
+
+Described Diff:
+DescribeResult(nobs=1385, minmax=(-9.9207408042006247, 0.88126023258474284), mean=-0.44822625016695961, variance=3.6716393464540329, skewness=-4.389267105526656, kurtosis=17.42979667201568)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.867810215312008e+18
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	1035
+
+Described Diff:
+DescribeResult(nobs=1035, minmax=(-9.9207408042006247, 8.7046163648742105), mean=-0.60805015292313891, variance=5.1037400361376308, skewness=-3.4823992409190345, kurtosis=11.143084431132491)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	8.569169021688556e+23
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	665
+
+Described Diff:
+DescribeResult(nobs=665, minmax=(-9.921142533722703, 8.5956824811906056), mean=-0.90163426307124173, variance=7.3138006147443617, skewness=-2.6908634782752814, kurtosis=5.977924848397798)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.401468833552733e+22
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	388
+
+Described Diff:
+DescribeResult(nobs=388, minmax=(-9.921142533722703, 0.82329472916210866), mean=-1.5509505361950882, variance=11.429718042645463, skewness=-1.8776307642416328, kurtosis=1.5713941779119471)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.2322975891954256e+26
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	153
+
+Described Diff:
+DescribeResult(nobs=153, minmax=(-9.921142533722703, 0.45136939649393687), mean=-3.3144498909165652, variance=18.595262364938101, skewness=-0.6715674333102044, kurtosis=-1.5125963984522595)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.285722900962445e+21
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	127
+
+Described Diff:
+DescribeResult(nobs=127, minmax=(-9.921142533722703, 0.45136939649393687), mean=-3.9905083106817263, variance=19.754528921363811, skewness=-0.3647260356033863, kurtosis=-1.8306680884471973)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.0228923807710102e+21
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	2.856100000000001
+Len:	107
+
+Described Diff:
+DescribeResult(nobs=107, minmax=(-9.921142533722703, 0.50981525043614528), mean=-4.5443971589239212, variance=20.171842517895278, skewness=-0.12959926490120263, kurtosis=-1.9458963051723415)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.430863878890862e+22
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	899
+
+Described Diff:
+DescribeResult(nobs=899, minmax=(-9.9212424637403753, 8.3950140774750093), mean=-0.64531565058148299, variance=5.5101407501200832, skewness=-3.3277811950124128, kurtosis=9.994357497508085)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.530845494021185e+28
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	748
+
+Described Diff:
+DescribeResult(nobs=748, minmax=(-9.9212424637403753, 8.7046163648742105), mean=-0.86015725203218041, variance=7.1738305919020977, skewness=-2.7769672343944554, kurtosis=6.428379809804339)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.9973424081502342e+31
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	643
+
+Described Diff:
+DescribeResult(nobs=643, minmax=(-9.9212424637403753, 8.6610679736428704), mean=-0.99124883932476759, variance=8.0797540812665485, skewness=-2.52392251647916, kurtosis=5.0179474234683)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2990517944238087e+28
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	438
+
+Described Diff:
+DescribeResult(nobs=438, minmax=(-9.9212424637403753, 8.491963602223553), mean=-1.4465836116823458, variance=11.185636067093938, skewness=-1.872280936582032, kurtosis=1.9760535011720481)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.2211777175276929e+29
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	341
+
+Described Diff:
+DescribeResult(nobs=341, minmax=(-9.9212424637403753, 0.82329472916210866), mean=-1.8768736478797146, variance=13.383303542650573, skewness=-1.5718180719077919, kurtosis=0.5114817417931601)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.878586629057144e+30
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	240
+
+Described Diff:
+DescribeResult(nobs=240, minmax=(-9.9212424637403753, 0.78484844587872926), mean=-2.1619657510742263, variance=14.602566375431485, skewness=-1.3424005534183219, kurtosis=-0.15272644963337356)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	7.602504359590952e+21
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	147
+
+Described Diff:
+DescribeResult(nobs=147, minmax=(-9.9212424637403753, 0.45136939649393687), mean=-3.4555621156403826, variance=18.921571065715646, skewness=-0.6099026033280674, kurtosis=-1.5885604984853847)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.0311958497850524e+20
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	3.7129300000000014
+Len:	103
+
+Described Diff:
+DescribeResult(nobs=103, minmax=(-9.9212424637403753, 0.42015118337946394), mean=-4.7277692137363045, variance=20.157791776678621, skewness=-0.06069230959490777, kurtosis=-1.9548844485052235)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.8074392593939386e+22
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	486
+
+Described Diff:
+DescribeResult(nobs=486, minmax=(-9.9206398664236666, 8.3950140774750093), mean=-0.75704806072754283, variance=6.4013685563821454, skewness=-2.8780171576974833, kurtosis=7.483254028986746)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.3663596893933024e+16
+bitchCunt:	0.0045000000000000005
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	478
+
+Described Diff:
+DescribeResult(nobs=478, minmax=(-9.9206398664236666, 0.88126023258474284), mean=-0.83018109913168259, variance=6.6112162356945534, skewness=-2.948299264962823, kurtosis=6.809279881278643)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2757447925403424.0
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	443
+
+Described Diff:
+DescribeResult(nobs=443, minmax=(-9.9206398664236666, 8.6352899080920036), mean=-0.93480823266703006, variance=7.6290703081364599, skewness=-2.532056729931993, kurtosis=5.415055737391004)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	145207195377601.0
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	265
+
+Described Diff:
+DescribeResult(nobs=265, minmax=(-9.9210424033641775, 0.32367169239216365), mean=-1.6441984555362428, variance=11.630840847158717, skewness=-1.789922309142042, kurtosis=1.259968767169183)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4524394475855.078
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	191
+
+Described Diff:
+DescribeResult(nobs=191, minmax=(-9.9206398664236666, 0.32367169239216365), mean=-1.8558931937525303, variance=12.602366629591367, skewness=-1.5872813789598677, kurtosis=0.5777071294966176)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	353468928.25926733
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	138
+
+Described Diff:
+DescribeResult(nobs=138, minmax=(-9.9206398664236666, 0.40168765127429701), mean=-2.4097377464613023, variance=15.248213298013233, skewness=-1.1736022569011388, kurtosis=-0.5723948464074362)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	12506528199.896301
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	17
+D in:	4.826809000000002
+Len:	76
+
+Described Diff:
+DescribeResult(nobs=76, minmax=(-9.9111467806125049, 0.37046943815982408), mean=-4.104592604847749, variance=19.333949378829786, skewness=-0.3195471741977845, kurtosis=-1.8557604162908747)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	102763610479.49292
+bitchCunt:	0.15853726562635007
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	3614
+
+Described Diff:
+DescribeResult(nobs=3614, minmax=(-9.9206398664236666, 8.3519591397025525), mean=-0.34126779558435594, variance=2.9039120457115506, skewness=-5.095151560090212, kurtosis=24.826890173870066)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	2.79344838398666e+49
+bitchCunt:	0.008
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	1826
+
+Described Diff:
+DescribeResult(nobs=1826, minmax=(-9.9206398664236666, 9.3547638948901035), mean=-0.67740971283777229, variance=5.7839390448099008, skewness=-3.266361653628545, kurtosis=9.644214246106856)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.344588143297973e+63
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	957
+
+Described Diff:
+DescribeResult(nobs=957, minmax=(-9.9206398664236666, 9.3547638948901035), mean=-1.2114051911132089, variance=9.877521536786297, skewness=-2.1488664168250406, kurtosis=3.244546492337572)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.517927302011505e+68
+bitchCunt:	0.025265500000000003
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	507
+
+Described Diff:
+DescribeResult(nobs=507, minmax=(-9.9206398664236666, 0.44220461507997433), mean=-2.2997651261770709, variance=15.858945532975969, skewness=-1.2522372414129919, kurtosis=-0.4041958312832499)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0472397497056667e+73
+bitchCunt:	0.04269869500000001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	265
+
+Described Diff:
+DescribeResult(nobs=265, minmax=(-9.9206398664236666, 0.53117104646468649), mean=-4.1484779715375497, variance=21.13924534060418, skewness=-0.29965450935697463, kurtosis=-1.8825241294589758)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	4.371745932560106e+71
+bitchCunt:	0.07216079455000002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	222
+
+Described Diff:
+DescribeResult(nobs=222, minmax=(-9.9206398664236666, 0.51074543989330523), mean=-4.855678578107069, variance=21.395813237852334, skewness=-0.003374878441458875, kurtosis=-1.9694526994514916)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.6732055236323466e+71
+bitchCunt:	0.09380903291500002
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1
+Len:	193
+
+Described Diff:
+DescribeResult(nobs=193, minmax=(-9.9206398664236666, 0.47701794087250149), mean=-5.5838480446148662, variance=20.572511513266232, skewness=0.29862338378327796, kurtosis=-1.8753560614392426)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	5.9800970594536265e+71
+bitchCunt:	0.12195174278950004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1.3
+Len:	4822
+
+Described Diff:
+DescribeResult(nobs=4822, minmax=(-9.9212424637403753, 8.8582010645660443), mean=-0.17051132819090908, variance=1.5343737727923046, skewness=-6.727757644551228, kurtosis=51.5608274374756)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.7732094604801635e+26
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1.3
+Len:	1686
+
+Described Diff:
+DescribeResult(nobs=1686, minmax=(-9.9210424033641775, 9.3454652796882911), mean=-0.63356005440963648, variance=5.4262285231777554, skewness=-3.379743157111589, kurtosis=10.611043833512555)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	3.6428624033145484e+51
+bitchCunt:	0.01495
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1.3
+Len:	1231
+
+Described Diff:
+DescribeResult(nobs=1231, minmax=(-9.9210424033641775, 9.3454652796882911), mean=-0.84513188996060995, variance=7.1388835654365019, skewness=-2.7869127516114425, kurtosis=6.699790394913512)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4062633418440924e+55
+bitchCunt:	0.019435
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1.3
+Len:	686
+
+Described Diff:
+DescribeResult(nobs=686, minmax=(-9.9210424033641775, 9.1788756200486326), mean=-1.4463330283254212, variance=11.490762969139174, skewness=-1.83660029157702, kurtosis=1.985064885692637)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.4358948243297657e+57
+bitchCunt:	0.032845150000000004
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1.3
+Len:	333
+
+Described Diff:
+DescribeResult(nobs=333, minmax=(-9.9210424033641775, 0.44220461507997433), mean=-2.8164713115869375, variance=17.951971710586225, skewness=-0.9349029847474223, kurtosis=-1.0981364605258805)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.032088330127266e+58
+bitchCunt:	0.055508303500000016
+
+Tick:	../../data/BTC_XRP.txt
+K in:	20
+D in:	1.3
+Len:	156
+
+Described Diff:
+DescribeResult(nobs=156, minmax=(-9.9210424033641775, 0.50672813482219126), mean=-5.8529647820222301, variance=19.908883296488149, skewness=0.4133668572291812, kurtosis=-1.7908335771336055)
+
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	9.909122808186023e+59
+bitchCunt:	0.15853726562635007
+
