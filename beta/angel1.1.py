@@ -1,8 +1,10 @@
 import urllib.request, urllib.parse
 import urllib, time, datetime
 import json
+import numpy as np
 import time
 import hmac, hashlib
+import binascii
 
 
 def createTimeStamp(datestr, format="%Y-%m-%d %H:%M:%S"):
@@ -11,8 +13,8 @@ def createTimeStamp(datestr, format="%Y-%m-%d %H:%M:%S"):
 
 class poloniex:
     def __init__(self):
-        self.APIKey = "AVVHWMA2-7JX6JX9I-1KA22UOP-Y69IAHFB"
-        self.Secret = "d8ac0a593cbbd06d84edb69c1e7ec2a66988b77c4ec8ab9d70e9bc0f0542e37a813eca343f068d61c68e5db80f633ebea29cc83386c14d952fd423a8ce022f9a"
+        self.APIKey = b'AVVHWMA2-7JX6JX9I-1KA22UOP-Y69IAHFB'
+        self.Secret = b"d8ac0a593cbbd06d84edb69c1e7ec2a66988b77c4ec8ab9d70e9bc0f0542e37a813eca343f068d61c68e5db80f633ebea29cc83386c14d952fd423a8ce022f9a"
 
     def post_process(self, before):
         after = before
@@ -44,7 +46,7 @@ class poloniex:
         else:
             req['command'] = command
             req['nonce'] = int(time.time() * 1000)
-            post_data = urllib.parse.urlencode(req)
+            post_data = urllib.parse.urlencode(req).encode('utf-8')
             print(post_data)
             sign = hmac.new(self.Secret, post_data, hashlib.sha512).hexdigest()
             headers = {

@@ -52,7 +52,7 @@ class poloniex:
                 'Key': self.APIKey
             }
 
-            ret = urllib2.urlopen(urllib2.Request('https://poloniex.com/tradingApi', post_data, headers))
+            ret = urllib.urlopen(urllib2.Request('https://poloniex.com/tradingApi', post_data, headers))
             jsonRet = json.loads(ret.read())
             return self.post_process(jsonRet)
 
@@ -136,3 +136,4 @@ class poloniex:
     # response      Text containing message about the withdrawal
     def withdraw(self, currency, amount, address):
         return self.api_query('withdraw', {"currency": currency, "amount": amount, "address": address})
+
