@@ -1,5 +1,5 @@
-
 import numpy as np
+from sklearn.linear_model import Ridge
 import quandl
 import urllib.request
 import urllib, time, datetime
@@ -49,7 +49,7 @@ def EMAn(a, n): #GETS EXPONENTIAL MOVING AVERAGE OF "N" PERIODS FROM "A" ARRAY
     m = 2 / (n + 1)
     if n < l:
         y = SMAn(a, n)
-        e = (a[len(a) - 1] * m) + (y * (1 - m))
+        e = (a[-1] * m) + (y * (1 - m))
     return e
 
 def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
@@ -73,6 +73,7 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
 #THIS SHITS KINDA IFFY, IF ITS ACTING WIERD GRAB ME
 
 def SMAn(a, n):                         #GETS SIMPLE MOVING AVERAGE OF "N" PERIODS FROM "A" ARRAY
+
     si = 0
     if (len(a) < n):
         n = len(a)
@@ -130,14 +131,6 @@ def BBn(a, n, stddevD, stddevU): #GETS BOLLINGER BANDS OF "N" PERIODS AND STDDEV
     lb = midb - (std * stddevD)
     return lb, midb, ub
 
-#TIME WEIGHTED AVERAGE PRICE
-def twap(arr, ll):
-    a = arr[-ll:]
-    high = max(a)
-    low = min(a)
-    close = a[len(a) - 1]
-    return (high + low + close) / 3
-
 def BBmomma(arr, Kin):
     lb, mb, ub = BBn(arr, Kin, 3, 3)
     srange = ub - lb
@@ -146,6 +139,14 @@ def BBmomma(arr, Kin):
         return pos/srange
     else:
         return 0.5
+
+#TIME WEIGHTED AVERAGE PRICE
+def twap(arr, ll):
+    a = arr[-ll:]
+    high = max(a)
+    low = min(a)
+    close = a[len(a) - 1]
+    return (high + low + close) / 3
 
 def  getNum(str):
     tmp = ""
@@ -159,7 +160,6 @@ def CryptoQuote1(the_symbol):
         open, high, low, close, volume = [], [], [], [], []
     the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
-    print(the_symbol, "data samples:", response[1:10])
     for i, curr in enumerate(response):
         if curr.find('open') > 0:
             ohlcvObj.open.append(getNum(curr))
@@ -173,7 +173,8 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
+def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
+    # desc = sp.describe(perc)
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -184,28 +185,18 @@ def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
     file.write("\nK in:\t")
     file.write(str(int(np.floor(kin))))
     file.write("\nD in:\t")
-    file.write(str(din))
-    # file.write("\nK1 in:\t")
-    # file.write(str(int(np.floor(kin1))))
-    # file.write("\nD1 in:\t")
-    # file.write(str(int(np.floor(din1))))
-    # file.write("\nK2 in:\t")
-    # file.write(str(int(np.floor(kin2))))
-    # file.write("\nD2 in:\t")
-    # file.write(str(int(np.floor(din2))))
+    file.write(str(int(np.floor(din))))
+    file.write("\nK1 in:\t")
     file.write("\nLen:\t")
     file.write(str(len(perc)))
     # file.write("\n\n\nPercent Diff:\n")
     # file.write(str(perc))
-    if len(perc) > 10:
-        desc = sp.describe(perc)
-        file.write("\n\nDescribed Diff:\n")
-        file.write(str(desc))
-    file.write("\n\n [killVolLO1] Cumulative Diff:\t")
+    # file.write("\n\nDescribed Diff:\n")
+    # file.write(str(desc))
+    file.write("\n\nCumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
-    file.write("\n\n")
     file.close()
     # print("Described diff")
     # print(desc)
@@ -219,40 +210,48 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
-    #REMOVE INT(NP.FLOOR(LEN(STOCK1)/2)) FOR REAL RUNS
-    #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
-    #28880 = 100 day lookback
-    #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .66)):]):
     for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
-    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
+    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; arr1 =[];
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
-    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
+    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0; X = []; Y = [];
+    #WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
     stockBought = False
     stopLoss = False
     bull = 0; shit = 0; maxP = 0;
+    R = Ridge(alpha=1.0)
+
+    for i in range(len(stock)):
+        if i >
+        arr1.append()
+
+    R.fit()
 
     for i, closeData in enumerate(stock):
         arr.append(closeData)
-        if i > max([Kin, Din]):
-                Kv = SMAn(arr, int(np.floor(Kin)))
-                Dv = SMAn(arr, int(np.floor(Din)))
-                if (stopLoss == False and stockBought  == False):
-                    buy.append(closeData * (1+tradeCost))
-                    bull += 1
-                    stockBought = True
-                if stockBought == True and closeData > maxP:
-                    maxP = closeData
-                #DYNAMIC BITCHCUNT DISTANCE IN DEVELOPMENT
-                #WILL BE BASED ON ANALYSIS OF VARIANCE, AND CORRELATION WITH ENVIRONMENTAL VOLITILITY
-                if (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
-                    sell.append(closeData * (1-tradeCost))
-                    maxP = 0
-                    shit += 1
-                    stockBought = False
-                    stopLoss = True
-                elif ((Kv > Dv) and stopLoss == True):
-                    stopLoss = False
+        if i >= len(stock) * 0.95:
+
+            if stockBought == True and closeData > maxP:
+                maxP = closeData
+            if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
+                buy.append(closeData * (1+tradeCost))
+                bull += 1
+                stockBought = True
+            if stockBought == True and closeData > maxP:
+                maxP = closeData
+            elif ((Kv < Dv) and stockBought == True):
+                sell.append(closeData * (1-tradeCost))
+                maxP = 0
+                shit += 1
+                stockBought = False
+            elif (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
+                sell.append(closeData * (1-tradeCost))
+                maxP = 0
+                shit += 1
+                stockBought = False
+                stopLoss = True
+            elif ((Kv < Dv) and stopLoss == True):
+                stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
         shit += 1
@@ -267,33 +266,37 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i in range(bull):
         cuml += cuml * perc[i]
 
-    print(tik, "cuml:", cuml)
+    print("len:", len(perc), "cuml:", cuml)
 
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
-    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+# DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
     # plot(perc)
     # plot2(s1ar, s2ar)
     return cuml
 
 def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 1; verbOS = 0; inc = 0
+    n_proc = 1
+    verbOS = 0
+    inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
             (fileTicker[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
-#ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-ticker = ['BCHARTS/BITSTAMPUSD']
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+#ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
+
 for i, tick in enumerate(ticker):
-    # fileTicker.append("../../data/" + tick + ".txt")
-    # fileOutput.append("../../output/" + tick + "_output.txt")
-    fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
-    fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_killVol01_output.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_output.txt")
+    # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
+    # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_twap,sma_output.txt")
+
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
@@ -319,37 +322,31 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 1; k2 = 30
-    l1 = 2; l2 = 60
-    d1 = 2; d2 = 300
-    s1 = 2; s2 = 30
-    j1 = 0.001; j2 = 0.2
-    k = k1; i = l1; j = j1; d = d1; s = s1
+    k1 = 3
+    k2 = 300
+    l1 = 2
+    l2 = 30
+    j1 = 0.000
+    j2 = 0.15
+    k = k1
+    i = l1
+    j = j1
     returns = []
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                #while (d < d2):
-                    #while (s < s2):
-                if i > k:
-                    print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
-                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.002)
-                    #     if (s < 10):
-                    #         s += 1
-                    #     else:
-                    #         s *= 1.3
-                    # s = s1
-                #     if (d < 10):
-                #         d += 1
-                #     else:
-                #         d *= 1.3
-                # d = d1
+                if i > 0:
+                    print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=20000, bitchCunt=j, tradeCost=0.0025)
                 if (j < 0.01):
                     j += 0.0035
                 else:
-                    j *= 1.2
+                    j *= 1.3
             j = j1
-            i *= 1.1
+            if (i < 10):
+                i += 1
+            else:
+                i *= 1.2
         i = l1
         if (k < 10):
             k += 1

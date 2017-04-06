@@ -1,0 +1,3221 @@
+Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	2.6465307573644133e+155
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	5.688348784156517e+155
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.106383238119117e+155
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.3231580528358545e+155
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.465243094921959e+155
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.528833395359802e+155
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.36265516130366e+155
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.36265516130366e+155
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	2.5776932631956183e+105
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	3.857557393858587e+105
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	4.3557182185401627e+105
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	4
+K1 in:	
+Len:	1976
+
+[Stoch<20:sma] Cumulative Diff:	1.946684097681497e+86
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	4
+K1 in:	
+Len:	1976
+
+[Stoch<20:sma] Cumulative Diff:	1.1914630965636059e+91
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	5
+K1 in:	
+Len:	1597
+
+[Stoch<20:sma] Cumulative Diff:	7.349574142715875e+76
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	5
+K1 in:	
+Len:	1597
+
+[Stoch<20:sma] Cumulative Diff:	2.2200452555159164e+79
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	5
+K1 in:	
+Len:	1597
+
+[Stoch<20:sma] Cumulative Diff:	2.518568571835772e+79
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	6
+K1 in:	
+Len:	1311
+
+[Stoch<20:sma] Cumulative Diff:	3.1330500848648727e+67
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	6
+K1 in:	
+Len:	1311
+
+[Stoch<20:sma] Cumulative Diff:	6.296600685447347e+69
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	6
+K1 in:	
+Len:	1311
+
+[Stoch<20:sma] Cumulative Diff:	6.7716087540783455e+69
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.832253478418593e+67
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1095088528403291e+70
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.152095952489804e+70
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1077752851884447e+70
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1570696128308297e+70
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1675711695743472e+70
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1802421220133997e+70
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2006846927216365e+70
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2028471027609006e+70
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2028471027609006e+70
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2028471027609006e+70
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	8
+K1 in:	
+Len:	1010
+
+[Stoch<20:sma] Cumulative Diff:	1.479933092896162e+63
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	8
+K1 in:	
+Len:	1010
+
+[Stoch<20:sma] Cumulative Diff:	2.270946572776235e+65
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	8
+K1 in:	
+Len:	1010
+
+[Stoch<20:sma] Cumulative Diff:	2.6615776704185524e+65
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	2.6465307573644133e+155
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	5.688348784156517e+155
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.106383238119117e+155
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.3231580528358545e+155
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.465243094921959e+155
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.528833395359802e+155
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.36265516130366e+155
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.36265516130366e+155
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	2.5776932631956183e+105
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	3.857557393858587e+105
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	4.3557182185401627e+105
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	4
+K1 in:	
+Len:	1976
+
+[Stoch<20:sma] Cumulative Diff:	1.946684097681497e+86
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	4
+K1 in:	
+Len:	1976
+
+[Stoch<20:sma] Cumulative Diff:	1.1914630965636059e+91
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	2.6465307573644133e+155
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	5.688348784156517e+155
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.106383238119117e+155
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.3231580528358545e+155
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.465243094921959e+155
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.528833395359802e+155
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.36265516130366e+155
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.36265516130366e+155
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	2
+K1 in:	
+Len:	3730
+
+[Stoch<20:sma] Cumulative Diff:	6.374147339094332e+155
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	2.5776932631956183e+105
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	3.857557393858587e+105
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	3
+K1 in:	
+Len:	2516
+
+[Stoch<20:sma] Cumulative Diff:	4.3557182185401627e+105
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	4
+K1 in:	
+Len:	1976
+
+[Stoch<20:sma] Cumulative Diff:	1.946684097681497e+86
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	4
+K1 in:	
+Len:	1976
+
+[Stoch<20:sma] Cumulative Diff:	1.1914630965636059e+91
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	5
+K1 in:	
+Len:	1597
+
+[Stoch<20:sma] Cumulative Diff:	7.349574142715875e+76
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	5
+K1 in:	
+Len:	1597
+
+[Stoch<20:sma] Cumulative Diff:	2.2200452555159164e+79
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	5
+K1 in:	
+Len:	1597
+
+[Stoch<20:sma] Cumulative Diff:	2.518568571835772e+79
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	6
+K1 in:	
+Len:	1311
+
+[Stoch<20:sma] Cumulative Diff:	3.1330500848648727e+67
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	6
+K1 in:	
+Len:	1311
+
+[Stoch<20:sma] Cumulative Diff:	6.296600685447347e+69
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	6
+K1 in:	
+Len:	1311
+
+[Stoch<20:sma] Cumulative Diff:	6.7716087540783455e+69
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.832253478418593e+67
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1095088528403291e+70
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.152095952489804e+70
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1077752851884447e+70
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1570696128308297e+70
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1675711695743472e+70
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.1802421220133997e+70
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2006846927216365e+70
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2028471027609006e+70
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2028471027609006e+70
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	7
+K1 in:	
+Len:	1133
+
+[Stoch<20:sma] Cumulative Diff:	1.2028471027609006e+70
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	8
+K1 in:	
+Len:	1010
+
+[Stoch<20:sma] Cumulative Diff:	1.479933092896162e+63
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	8
+K1 in:	
+Len:	1010
+
+[Stoch<20:sma] Cumulative Diff:	2.270946572776235e+65
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	8
+K1 in:	
+Len:	1010
+
+[Stoch<20:sma] Cumulative Diff:	2.6615776704185524e+65
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	9
+K1 in:	
+Len:	939
+
+[Stoch<20:sma] Cumulative Diff:	3.5149530252393656e+58
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	9
+K1 in:	
+Len:	939
+
+[Stoch<20:sma] Cumulative Diff:	6.951022773532403e+65
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	9
+K1 in:	
+Len:	939
+
+[Stoch<20:sma] Cumulative Diff:	8.30224152944356e+65
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	10
+K1 in:	
+Len:	887
+
+[Stoch<20:sma] Cumulative Diff:	1.2058101093441629e+63
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	10
+K1 in:	
+Len:	887
+
+[Stoch<20:sma] Cumulative Diff:	6.759252481088425e+65
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	10
+K1 in:	
+Len:	887
+
+[Stoch<20:sma] Cumulative Diff:	6.948874774775955e+65
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	9.609261425076754e+37
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	1.838103062550465e+45
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	2.7483527412890883e+45
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	3.878487579176452e+55
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	4.0953114193724357e+55
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	4.801759024619181e+55
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	4.741700352507523e+55
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	5.022701041825093e+55
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	5.022701041825093e+55
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	5.022701041825093e+55
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	12
+K1 in:	
+Len:	811
+
+[Stoch<20:sma] Cumulative Diff:	5.022701041825093e+55
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	14
+K1 in:	
+Len:	783
+
+[Stoch<20:sma] Cumulative Diff:	4.073633255528139e+38
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	14
+K1 in:	
+Len:	783
+
+[Stoch<20:sma] Cumulative Diff:	5.468345687149728e+50
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	14
+K1 in:	
+Len:	783
+
+[Stoch<20:sma] Cumulative Diff:	5.610827553346014e+50
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	1.3600036127963232e+48
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	1.3973163498377754e+45
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	2.2780357769228587e+45
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	4.1028443040531986e+55
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	4.585820131951349e+65
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	4.919665301943627e+65
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	5.846749256621876e+65
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	5.7736202231318025e+65
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	5.8895338207949e+65
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	6.839678685359902e+65
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	6.839678685359902e+65
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	17
+K1 in:	
+Len:	769
+
+[Stoch<20:sma] Cumulative Diff:	6.839678685359902e+65
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	20
+K1 in:	
+Len:	765
+
+[Stoch<20:sma] Cumulative Diff:	3.1150737571185744e+38
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	3.149611906692525e+38
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	1.2601901464014529e+45
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	1.6255713824151e+45
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	2.5619159013899076e+55
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	3.073336490799285e+70
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	3.220299479967382e+80
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	3.1838166432097995e+80
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	4.6708371511763975e+80
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	4.031422963800697e+80
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	4.7421991909515246e+80
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	5.482725989575601e+80
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	5.482725989575601e+80
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	24
+K1 in:	
+Len:	760
+
+[Stoch<20:sma] Cumulative Diff:	5.482725989575601e+80
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	29
+K1 in:	
+Len:	758
+
+[Stoch<20:sma] Cumulative Diff:	2.9875909159011105e+38
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	29
+K1 in:	
+Len:	758
+
+[Stoch<20:sma] Cumulative Diff:	1.1881912177401886e+45
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	29
+K1 in:	
+Len:	758
+
+[Stoch<20:sma] Cumulative Diff:	1.470432649612567e+45
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	3
+D in:	29
+K1 in:	
+Len:	758
+
+[Stoch<20:sma] Cumulative Diff:	2.3470252599260956e+55
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	7.631718992075195e+161
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.793962935591904e+164
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.9062278329850764e+164
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.8876613493546163e+164
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.8876613493546163e+164
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.8876613493546163e+164
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.770403780978314e+164
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.770403780978314e+164
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.770403780978314e+164
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.770403780978314e+164
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	2
+K1 in:	
+Len:	3430
+
+[Stoch<20:sma] Cumulative Diff:	2.770403780978314e+164
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	3
+K1 in:	
+Len:	2484
+
+[Stoch<20:sma] Cumulative Diff:	7.85417684316133e+128
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	3
+K1 in:	
+Len:	2484
+
+[Stoch<20:sma] Cumulative Diff:	1.1212171560049742e+129
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	3
+K1 in:	
+Len:	2484
+
+[Stoch<20:sma] Cumulative Diff:	1.235222948987196e+134
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.0537800702725952e+82
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	6.203151364537007e+81
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	6.091949569878453e+81
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	6.589831166413836e+81
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.9440882229646636e+79
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	2.267943731657274e+79
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.9859961761112337e+79
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.9859961761112337e+79
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.9859961761112337e+79
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.936280446701931e+79
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.996221104153511e+79
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.996221104153511e+79
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.996221104153511e+79
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	5
+K1 in:	
+Len:	1144
+
+[Stoch<20:sma] Cumulative Diff:	1.996221104153511e+79
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.2519508895280072e+39
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.3418127686324133e+39
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1809193548342507e+39
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1809193548342507e+39
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1809193548342507e+39
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1532029256270363e+39
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1532029256270363e+39
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1532029256270363e+39
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1532029256270363e+39
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	6
+K1 in:	
+Len:	886
+
+[Stoch<20:sma] Cumulative Diff:	1.1532029256270363e+39
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	6.844772695585313e+39
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	7.501796027916773e+39
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	6.676401075899764e+39
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.958061323030514e+39
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.958061323030514e+39
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.848382490766595e+39
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.848382490766595e+39
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.848382490766595e+39
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.848382490766595e+39
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	7
+K1 in:	
+Len:	756
+
+[Stoch<20:sma] Cumulative Diff:	5.848382490766595e+39
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	8
+K1 in:	
+Len:	666
+
+[Stoch<20:sma] Cumulative Diff:	3.6589286690324567e+42
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	8
+K1 in:	
+Len:	666
+
+[Stoch<20:sma] Cumulative Diff:	2.530297977118869e+42
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	8
+K1 in:	
+Len:	666
+
+[Stoch<20:sma] Cumulative Diff:	2.5255420336827456e+42
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	8
+K1 in:	
+Len:	666
+
+[Stoch<20:sma] Cumulative Diff:	2.847062925819616e+42
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.575406534978639e+41
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.765911445367572e+41
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.6899241311318856e+41
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.42727896787157e+41
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.4751054323722705e+41
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.40948664137017e+41
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.4329102079617054e+41
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.4329102079617054e+41
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.4329102079617054e+41
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	9
+K1 in:	
+Len:	597
+
+[Stoch<20:sma] Cumulative Diff:	2.4329102079617054e+41
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	10
+K1 in:	
+Len:	544
+
+[Stoch<20:sma] Cumulative Diff:	1.2866462464817844e+33
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	10
+K1 in:	
+Len:	544
+
+[Stoch<20:sma] Cumulative Diff:	1.3631662653403837e+33
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	2.4587170942146907e+33
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	2.2735509218757345e+43
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	2.0497676738106264e+43
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	1.964827449696459e+43
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	1.90803015657749e+43
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	1.92787978672624e+43
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	2.0680079899518803e+43
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	2.0680079899518803e+43
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	12
+K1 in:	
+Len:	479
+
+[Stoch<20:sma] Cumulative Diff:	2.0680079899518803e+43
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	14
+K1 in:	
+Len:	450
+
+[Stoch<20:sma] Cumulative Diff:	8.237588884678844e+26
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	14
+K1 in:	
+Len:	450
+
+[Stoch<20:sma] Cumulative Diff:	1.239477510422363e+27
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	14
+K1 in:	
+Len:	450
+
+[Stoch<20:sma] Cumulative Diff:	1.5417854259304773e+37
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	17
+K1 in:	
+Len:	429
+
+[Stoch<20:sma] Cumulative Diff:	1.651969999871354e+32
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	17
+K1 in:	
+Len:	429
+
+[Stoch<20:sma] Cumulative Diff:	1.0352416776690301e+32
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	17
+K1 in:	
+Len:	429
+
+[Stoch<20:sma] Cumulative Diff:	1.5590781354590005e+36
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	20
+K1 in:	
+Len:	418
+
+[Stoch<20:sma] Cumulative Diff:	3.223940602107894e+25
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	20
+K1 in:	
+Len:	418
+
+[Stoch<20:sma] Cumulative Diff:	5.22702118009013e+25
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	24
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	9.653987977683568e+25
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	24
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	1.477345418871336e+26
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	2.7916621286024213e+26
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	4.164820427748278e+26
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	5.574322672490466e+46
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	5.6038239547584775e+56
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	5.8784253021801425e+56
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	6.525299166174987e+56
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	6.516151938036165e+56
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	7.008821910343408e+56
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	7.889194866116996e+56
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	7.889194866116996e+56
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	4
+D in:	29
+K1 in:	
+Len:	411
+
+[Stoch<20:sma] Cumulative Diff:	7.889194866116996e+56
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.018342954154203e+127
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	7.851137066597889e+127
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	8.332193601203587e+127
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.2082776819823637e+133
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.3404566802484162e+133
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.536625576884327e+133
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.4835082644774027e+133
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.50548514800758e+133
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.50548514800758e+133
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.50548514800758e+133
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.5534725350814844e+133
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.5534725350814844e+133
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.5534725350814844e+133
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	3
+K1 in:	
+Len:	2491
+
+[Stoch<20:sma] Cumulative Diff:	1.5534725350814844e+133
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	1.0409434523234827e+67
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	6.094440927976014e+66
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	5.214145789051531e+66
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	6.07257645065313e+66
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	6.5934197479464675e+66
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.763203978277369e+61
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	5
+K1 in:	
+Len:	1070
+
+[Stoch<20:sma] Cumulative Diff:	7.07166888467664e+61
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	6
+K1 in:	
+Len:	821
+
+[Stoch<20:sma] Cumulative Diff:	1.3211240442198402e+47
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	6
+K1 in:	
+Len:	821
+
+[Stoch<20:sma] Cumulative Diff:	1.099427750093901e+47
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	6
+K1 in:	
+Len:	821
+
+[Stoch<20:sma] Cumulative Diff:	8.876941822683793e+46
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	6
+K1 in:	
+Len:	821
+
+[Stoch<20:sma] Cumulative Diff:	1.0466480352622104e+47
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	6
+K1 in:	
+Len:	821
+
+[Stoch<20:sma] Cumulative Diff:	1.1192726402455084e+47
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.531348211422158e+37
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.412913969781876e+37
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3750606086248964e+37
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3750606086248964e+37
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3814736724958367e+37
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3814736724958367e+37
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3814736724958367e+37
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3814736724958367e+37
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	7
+K1 in:	
+Len:	664
+
+[Stoch<20:sma] Cumulative Diff:	1.3814736724958367e+37
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	3.0742309497932604e+37
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.5163075632982273e+37
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.166459882530379e+37
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.419536285284687e+37
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.72375851677789e+37
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.9930606550700117e+37
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.9091734588645967e+37
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.842319441608607e+37
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.842319441608607e+37
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.808103591520088e+37
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.808103591520088e+37
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.808103591520088e+37
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.808103591520088e+37
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	8
+K1 in:	
+Len:	549
+
+[Stoch<20:sma] Cumulative Diff:	2.808103591520088e+37
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	12
+K1 in:	
+Len:	327
+
+[Stoch<20:sma] Cumulative Diff:	7.206271750843944e+22
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	12
+K1 in:	
+Len:	327
+
+[Stoch<20:sma] Cumulative Diff:	4.644345719639243e+22
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	12
+K1 in:	
+Len:	327
+
+[Stoch<20:sma] Cumulative Diff:	4.6638137138223444e+22
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	12
+K1 in:	
+Len:	327
+
+[Stoch<20:sma] Cumulative Diff:	6.062492359437844e+22
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	12
+K1 in:	
+Len:	327
+
+[Stoch<20:sma] Cumulative Diff:	7.1220139610734265e+22
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	14
+K1 in:	
+Len:	287
+
+[Stoch<20:sma] Cumulative Diff:	1.993198006164978e+23
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	14
+K1 in:	
+Len:	287
+
+[Stoch<20:sma] Cumulative Diff:	1.2760537911103387e+23
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	14
+K1 in:	
+Len:	287
+
+[Stoch<20:sma] Cumulative Diff:	1.3188275592558532e+23
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	14
+K1 in:	
+Len:	287
+
+[Stoch<20:sma] Cumulative Diff:	1.770501015382337e+23
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	14
+K1 in:	
+Len:	287
+
+[Stoch<20:sma] Cumulative Diff:	2.0759365115227205e+23
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.07670682778451e+34
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.0454251285895341e+34
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.0583669247487536e+34
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.1662518965493666e+34
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.1716911098140507e+34
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.1716911098140507e+34
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.1716911098140507e+34
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.1716911098140507e+34
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	17
+K1 in:	
+Len:	260
+
+[Stoch<20:sma] Cumulative Diff:	1.1716911098140507e+34
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.0652809672129959e+24
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.6083704724263572e+36
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.8101930136805922e+36
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.8161080007845003e+36
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.7852766376300736e+36
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.7852766376300736e+36
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.7852766376300736e+36
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	5
+D in:	29
+K1 in:	
+Len:	231
+
+[Stoch<20:sma] Cumulative Diff:	1.7852766376300736e+36
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.9345671825323165e+171
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.2065934206722366e+171
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.189944013610633e+171
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.317984695141871e+171
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.428833382958265e+171
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.4761134682153863e+171
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	2
+K1 in:	
+Len:	3492
+
+[Stoch<20:sma] Cumulative Diff:	2.495009238436134e+171
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	7.652666540589152e+133
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.140655615532096e+134
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	3.812131934813955e+134
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.418381942969504e+134
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.3923464207316036e+134
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.827034062644462e+134
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.849993607372179e+134
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.830306782728679e+134
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.830306782728679e+134
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.830306782728679e+134
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.984272965374569e+134
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.984272965374569e+134
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.984272965374569e+134
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	3
+K1 in:	
+Len:	2553
+
+[Stoch<20:sma] Cumulative Diff:	4.984272965374569e+134
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.7852837479756502e+75
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	8.612911888753197e+74
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	8.543834973524344e+74
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	9.633064996692116e+74
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	9.329419756095944e+74
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0953459656068706e+70
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.010402479589252e+70
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0064693916381908e+70
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0160078284823347e+70
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0160078284823347e+70
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0585478128744484e+70
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0585478128744484e+70
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0585478128744484e+70
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	5
+K1 in:	
+Len:	1408
+
+[Stoch<20:sma] Cumulative Diff:	1.0585478128744484e+70
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.3589470221631666e+29
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	9.061297232748353e+28
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	9.800586477330241e+28
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.0841582637746447e+29
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.1602858100342523e+29
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.1800218612153951e+29
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.1278592618047486e+29
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.063958767077412e+29
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.063958767077412e+29
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.0491337551641897e+29
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.0491337551641897e+29
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.0491337551641897e+29
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.0491337551641897e+29
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	9
+K1 in:	
+Len:	458
+
+[Stoch<20:sma] Cumulative Diff:	1.0491337551641897e+29
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	3.550060740204367e+29
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.538278718607425e+29
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.7838496686747175e+29
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.805948116429003e+29
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	3.2096946415578206e+29
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	3.2570307070163575e+29
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	3.0710264437574416e+29
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.897033007056101e+29
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.897033007056101e+29
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.8699028557289662e+29
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.8699028557289662e+29
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.8699028557289662e+29
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.8699028557289662e+29
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	10
+K1 in:	
+Len:	384
+
+[Stoch<20:sma] Cumulative Diff:	2.8699028557289662e+29
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	3.104094244357531e+19
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.1338652816131695e+19
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.317793228351065e+19
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.570909338689174e+19
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.8020388234295603e+19
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.7784289942398878e+19
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.7915506162567442e+19
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.7801293111094505e+19
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.831061783006786e+19
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.8567083811991933e+19
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.8567083811991933e+19
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.8567083811991933e+19
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.8567083811991933e+19
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	14
+K1 in:	
+Len:	228
+
+[Stoch<20:sma] Cumulative Diff:	2.8567083811991933e+19
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.150382908167309e+19
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	4.7545031362956706e+19
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	5.3425325247703e+19
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	5.760495118180612e+19
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	5.8596330662593765e+19
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	5.895802429542019e+19
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	5.948317731751687e+19
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	5.927523034431931e+19
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.234138726683407e+19
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.917176968374145e+19
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.917176968374145e+19
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.917176968374145e+19
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.917176968374145e+19
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	17
+K1 in:	
+Len:	177
+
+[Stoch<20:sma] Cumulative Diff:	6.917176968374145e+19
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.805078534822986e+19
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	6.018652779076849e+19
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	6.534506112776641e+19
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.17224092685036e+19
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.384352323072321e+19
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.503919283164437e+19
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.249540565895568e+19
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.27865428659405e+19
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	7.601863166970338e+19
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	8.465148910707684e+19
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	8.465148910707684e+19
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	8.465148910707684e+19
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	8.465148910707684e+19
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	20
+K1 in:	
+Len:	164
+
+[Stoch<20:sma] Cumulative Diff:	8.465148910707684e+19
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	7.000266424378183e+19
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	7.272792816092368e+19
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	7.443286141283906e+19
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	8.368495763551922e+19
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	9.573895914212439e+19
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	9.60038601218832e+19
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	9.60038601218832e+19
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	9.60038601218832e+19
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	24
+K1 in:	
+Len:	151
+
+[Stoch<20:sma] Cumulative Diff:	9.60038601218832e+19
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	1.980104772158677e+20
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	1.6059699943817844e+30
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	1.8064390191828028e+30
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	1.8323899258009596e+30
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	2.0021212870958573e+30
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	2.2721533655551485e+30
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	2.2343188579742228e+30
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	2.2343188579742228e+30
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	2.2343188579742228e+30
+bitchCunt:	0.11134724341650004Tick:	../../data/BTC_MAID.txt
+K in:	6
+D in:	29
+K1 in:	
+Len:	145
+
+[Stoch<20:sma] Cumulative Diff:	2.2343188579742228e+30
+bitchCunt:	0.14475141644145006Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	3
+K1 in:	
+Len:	2596
+
+[Stoch<20:sma] Cumulative Diff:	4.670290693390203e+117
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	4
+K1 in:	
+Len:	1937
+
+[Stoch<20:sma] Cumulative Diff:	1.1857911147821867e+88
+bitchCunt:	0.0Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	3.2686757387092803e+72
+bitchCunt:	0.0035Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	3.698577263406024e+72
+bitchCunt:	0.007Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.043488615362059e+72
+bitchCunt:	0.0105Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	3.892608626292275e+72
+bitchCunt:	0.01365Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.363223633724667e+72
+bitchCunt:	0.017745Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.106907632241279e+72
+bitchCunt:	0.023068500000000002Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	3.953272829668936e+72
+bitchCunt:	0.029989050000000003Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.003919300457131e+72
+bitchCunt:	0.038985765000000006Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	3.9529365527776065e+72
+bitchCunt:	0.05068149450000001Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.063346708256347e+72
+bitchCunt:	0.06588594285000002Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.063346708256347e+72
+bitchCunt:	0.08565172570500003Tick:	../../data/BTC_MAID.txt
+K in:	7
+D in:	5
+K1 in:	
+Len:	1493
+
+[Stoch<20:sma] Cumulative Diff:	4.063346708256347e+72
+bitchCunt:	0.11134724341650004

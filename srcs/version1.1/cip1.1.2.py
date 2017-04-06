@@ -1,4 +1,5 @@
 import numpy as np
+import quandl
 import urllib.request
 import urllib, time, datetime
 import scipy.stats as sp
@@ -137,7 +138,7 @@ def twap(arr, ll):
     return (high + low + close) / 3
 
 def BBmomma(arr, Kin):
-    lb, mb, ub = BBn(arr, Kin, 2.5, 2.5)
+    lb, mb, ub = BBn(arr, Kin, 3, 3)
     srange = ub - lb
     pos = arr[-1] - lb
     if srange > 0:
@@ -221,9 +222,8 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
     #28880 = 100 day lookback
     #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .66)):]):
-    for i, stocks in enumerate(stock1[-86640:]):
+    for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
-    if Kin < 10: print(tik, "test length:", len(stock)/288, "days")
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
@@ -275,24 +275,32 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     return cuml
 
 def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 6; verbOS = 0; inc = 0
+    n_proc = 1; verbOS = 0; inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
             (fileTicker[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_LTC"]
+#ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_output.txt")
+    # fileTicker.append("../../data/" + tick + ".txt")
+    # fileOutput.append("../../output/" + tick + "_output.txt")
+    fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
+    fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2_output.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
-        dataset = CryptoQuote1(ticker[i]).close
+        #dataset = CryptoQuote1(ticker[i]).close
+        data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
+        data = np.array(data)
+        for i in range(len(data)):
+            if float(data[i][-6:]) > 0:
+                dataset.append(float(data[i][-6:]))
         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         # dataset = np.zeros(len(tick))
         # i = len(tick) - 1
@@ -309,7 +317,7 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 34; k2 = 300
+    k1 = 2; k2 = 300
     l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30
@@ -323,7 +331,7 @@ def run():
                     #while (s < s2):
                 if i > 0:
                     print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
-                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.002)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0025)
                     #     if (s < 10):
                     #         s += 1
                     #     else:

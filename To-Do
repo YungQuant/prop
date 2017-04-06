@@ -60,6 +60,8 @@
     -Straddle/Strangle Options strategy
 
     -Implement Gap-Detection environment filter for applying momentum strategies
+
+    -Buy Low (momentum indicator), Sell High (static percent gains fit to crypto)
    
 1bp:
     -Finish logParser.py
