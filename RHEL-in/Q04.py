@@ -213,7 +213,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
 
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
-    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 0.0
+    Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
     stockBought = False
     stopLoss = False
     bull = 0; shit = 0; max = 0;
@@ -305,7 +305,7 @@ for i, file in enumerate(fileTicker):
 
 def run():
     k1 = 2
-    k2 = 3000
+    k2 = 300
     l1 = 2
     l2 = 30
     j1 = 0.000
