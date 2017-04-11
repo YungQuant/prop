@@ -48,14 +48,14 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
     n = int(np.floor(n))
     cpy = a[-n:]
     l = len(cpy)
-    lc, gc, la, ga = 0.01, 0.01, 0.01, 0.01
+    lc, gc, la, ga = 1, 1, 0.01, 0.01
     for i in range(1, l):
-        if a[i] < a[i - 1]:
+        if cpy[i] < cpy[i - 1]:
             lc += 1
-            la += a[i - 1] - a[i]
-        if a[i] > a[i - 1]:
+            la += cpy[i - 1] - cpy[i]
+        if cpy[i] > cpy[i - 1]:
             gc += 1
-            ga += a[i] - a[i - 1]
+            ga += cpy[i] - cpy[i - 1]
     la /= lc
     ga /= gc
     rs = ga/la

@@ -55,17 +55,23 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
     n = int(np.floor(n))
     cpy = a[-n:]
     l = len(cpy)
-    lc, gc, la, ga = 0.01, 0.01, 0.01, 0.01
+    lc, gc, la, ga = 0, 0, 0, 0
     for i in range(1, l):
-        if a[i] < a[i - 1]:
-            lc += 1
-            la += a[i - 1] - a[i]
-        if a[i] > a[i - 1]:
+        diff = cpy[i] - cpy[i-1]
+        if diff > 0:
             gc += 1
-            ga += a[i] - a[i - 1]
-    la /= lc
-    ga /= gc
-    rs = ga/la
+            ga += diff
+        else:
+            lc += 1
+            la += abs(diff)
+    if lc > 0 and gc > 0 and ga > 0 and la > 0:
+        la /= lc
+        ga /= gc
+        rs = ga/la
+    elif lc > 0:
+        rs = 0
+    else:
+        rs = 99
     rsi = 100 - (100 / (1 + rs))
     return rsi
 
@@ -192,7 +198,7 @@ def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
     # file.write(str(perc))
     # file.write("\n\nDescribed Diff:\n")
     # file.write(str(desc))
-    file.write("\n\n[Stoch<20:sma] Cumulative Diff:\t")
+    file.write("\n\n[rsi:sma] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -222,15 +228,16 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i >= int(Din) and i >= int(Kin):
-            Kv = stochK(arr, int(np.floor(Kin)))
+            Kv = rsiN(arr, int(np.floor(Kin)))
             kar.append(Kv)
             Dv = SMAn(kar, int(np.floor(Din)))
+            #print(Kv, "\n", Dv)
             # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             #dar.append(Dv)
             if stockBought == True and closeData > maxP:
                 maxP = closeData
-            if ((Kv > Dv) and Kv < 0.2 and (stockBought == False and stopLoss == False)):
+            if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
                 bull += 1
                 stockBought = True

@@ -55,14 +55,14 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
     n = int(np.floor(n))
     cpy = a[-n:]
     l = len(cpy)
-    lc, gc, la, ga = 0.01, 0.01, 0.01, 0.01
+    lc, gc, la, ga = 1, 1, 0.01, 0.01
     for i in range(1, l):
-        if a[i] < a[i - 1]:
+        if cpy[i] < cpy[i - 1]:
             lc += 1
-            la += a[i - 1] - a[i]
-        if a[i] > a[i - 1]:
+            la += cpy[i - 1] - cpy[i]
+        if cpy[i] > cpy[i - 1]:
             gc += 1
-            ga += a[i] - a[i - 1]
+            ga += cpy[i] - cpy[i - 1]
     la /= lc
     ga /= gc
     rs = ga/la
@@ -234,23 +234,28 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i > max([Kin, Din]):
-                lb, md, ub = BBn(arr[:-1], int(np.floor(Kin)), Din, Din)
-                if ((closeData > ub) and (stockBought == False and stopLoss == False)):
-                    buy.append(closeData * (1+tradeCost))
-                    bull += 1
-                    stockBought = True
-                if stockBought == True and closeData > maxP:
-                    maxP = closeData
-                #DYNAMIC BITCHCUNT DISTANCE IN DEVELOPMENT
-                #WILL BE BASED ON ANALYSIS OF VARIANCE, AND CORRELATION WITH ENVIRONMENTAL VOLITILITY
-                if (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
-                    sell.append(closeData * (1-tradeCost))
-                    maxP = 0
-                    shit += 1
-                    stockBought = False
-                    stopLoss = True
-                elif ((closeData < ub) and stopLoss == True):
-                    stopLoss = False
+            lb, md, ub = BBn(arr[:-1], int(np.floor(Kin)), Din, Din)
+            if ((closeData > ub) and (stockBought == False and stopLoss == False)):
+                buy.append(closeData * (1+tradeCost))
+                bull += 1
+                stockBought = True
+            elif (closeData < lb) and stockBought == True:
+                sell.append(closeData * (1 - tradeCost))
+                maxP = 0
+                shit += 1
+                stockBought = False
+            if stockBought == True and closeData > maxP:
+                maxP = closeData
+            #DYNAMIC BITCHCUNT DISTANCE IN DEVELOPMENT
+            #WILL BE BASED ON ANALYSIS OF VARIANCE, AND CORRELATION WITH ENVIRONMENTAL VOLITILITY
+            if (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
+                sell.append(closeData * (1-tradeCost))
+                maxP = 0
+                shit += 1
+                stockBought = False
+                stopLoss = True
+            elif ((closeData < ub) and stopLoss == True):
+                stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
         shit += 1
@@ -291,7 +296,7 @@ for i, tick in enumerate(ticker):
     # fileTicker.append("../../data/" + tick + ".txt")
     # fileOutput.append("../../output/" + tick + "_output.txt")
     fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
-    fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2_output.txt")
+    fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         fileWrite = open(file, 'w')
