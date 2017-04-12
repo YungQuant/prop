@@ -251,15 +251,48 @@ def create_dataset(dataset, look_back):
     return np.array(dataX), np.array(dataY)
 
 
-def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
+def write_that_shit(log, tick, a, lookback, perc, cuml, bitchCunt, avgError):
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
+    file.write("Tick:\t")
+    file.write(str(tick))
+    file.write("\nAlpha::\t")
+    file.write(str(a))
+    file.write("\nLookback:\t")
+    file.write(str(lookback))
+    file.write("\nAverage Error:\t")
+    file.write(str(avgError))
+    # file.write("\nK1 in:\t")
+    file.write("\nLen:\t")
+    file.write(str(len(perc)))
+    file.write("\nCumulative Diff:\t")
+    file.write(str(cuml))
+    file.write("\nbitchCunt:\t")
+    file.write(str(bitchCunt))
+    file.write("\n\n")
+    file.close()
+    # file.write("\n\n\nPercent Diff:\n")
+    # file.write(str(perc))
+    if len(perc) > 4:
+        desc = sp.describe(perc)
+        file.write("\n\nDescribed Diff:\n")
+        file.write(str(desc))
+
+
+
+
+def fucking_paul(tik, log, a, lookback, save_max, max_len, bitchCunt, tradeCost):
     stock = []
-    with open(tik[0], 'r') as f:
+    with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
-    for i, stocks in enumerate(stock1[-28880:]):
+    for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; err =[];
-    kar = []; dar = []; cumld = [1.0]; kar1 = []; dar1 = []; Kvl = np.zeros(2)
+    kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0; X = []; Y = [];
     avgError = 0
     #WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
@@ -268,28 +301,26 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
     stopLoss = False
     bull = 0; shit = 0; maxP = 0;
     X, Y = create_dataset(stock[:int(np.floor(len(stock) * 0.9))], look_back=lookback)
-    R = Ridge(alpha=0.001, fit_intercept=True, normalize=True)
+    R = Ridge(alpha=a, fit_intercept=True, normalize=True)
     R.fit(X, Y)
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i >= int(np.floor(len(stock) * 0.9)) + lookback + 1:
             arry = arr[-lookback:]
             p = R.predict(arry)
-            kar.append(p)
-            kar1.append(closeData)
             if i < len(stock) - 1:
                 err.append(abs(p - stock[i + 1]))
             #     print("predicted:", p, "actual:", stock[i + 1])
             #     print("prediction error:", abs(p - stock[i + 1]))
             if stockBought == True and closeData > maxP:
                 maxP = closeData
-            if ((p < closeData) and (stockBought == False and stopLoss == False)):
+            if ((p > closeData) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
                 bull += 1
                 stockBought = True
             if stockBought == True and closeData > maxP:
                 maxP = closeData
-            if ((p > closeData) and stockBought == True):
+            if ((p < closeData) and stockBought == True):
                 sell.append(closeData * (1-tradeCost))
                 maxP = 0
                 shit += 1
@@ -300,7 +331,7 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
                 shit += 1
                 stockBought = False
                 stopLoss = True
-            if ((p > closeData) and stopLoss == True):
+            if ((p < closeData) and stopLoss == True):
                 stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
@@ -315,29 +346,38 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
         perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
         cuml += cuml * perc[i]
-        cumld.append(cuml)
 
     if len(err) > 0:
         avgError = np.mean(err)
-        if cuml > 0:
+        if cuml > save_max:
+            write_that_shit(log, tik, a, lookback, perc, cuml, bitchCunt, avgError)
             print(tik)
             print("len:", len(perc), "cuml:", cuml)
             print("lookback:", lookback)
             print("average error:", avgError)
             print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
 
-    # plot2(kar1, kar)
+    else:
+        write_that_shit(log, tik, a, lookback, perc, cuml, bitchCunt, avgError)
+
+# DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
     # plot(perc)
-    # plot(cumld)
+    # plot2(s1ar, s2ar)
     return cuml
 
+def pillowcaseAssassination(fileTicker, a, lookback, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+    n_proc = 6
+    verbOS = 0
+    inc = 0
+    Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
+            (fileTicker[inc], fileOutput[inc], a, lookback, save_max, max_len, bitchCunt, tradeCost)
+            for inc, file in enumerate(fileTicker))
 
 
-#ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_FCT", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_FCT", "BTC_ZEC", "BTC_LTC"]
 #ticker = ['BCHARTS/BITSTAMPUSD']
 #ticker = ["GBPJPY", "EURNZD"]
 #ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA"]
-ticker = ["BTC_ETH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -345,7 +385,7 @@ dataset = []
 
 for i, tick in enumerate(ticker):
     fileTicker.append("../../data/" + tick + ".txt")
-    #fileOutput.append("../../output/" + tick + "_RidgeRegressionX0.666_1intervalPrediction_output.txt")
+    fileOutput.append("../../output/" + tick + "_RidgeRegressionX0.9_1intervalPrediction_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_RidgeRegressionX0.9_output.txt")
     # fileTicker.append("../../FXstatic_data/" + tick + ".2016.csv")
@@ -378,4 +418,39 @@ for i, file in enumerate(fileTicker):
 #pillowcaseAssassination(fileTicker, 10, fileOutput, save_max=1.01, max_len=20000, bitchCunt=0.01, tradeCost=0.0025)
 
 
-fucking_paul(fileTicker, 30, save_max=1.01, bitchCunt=0.09, tradeCost=0.0025)
+def run():
+    a1 = 0.001
+    a2 = 1.0
+    j1 = 0.001
+    j2 = 0.20
+    l1 = 180
+    l2 = 200
+    a = a1
+    j = j1
+    lookback = l1
+    while lookback <= l2:
+        while(a < a2):
+            print(lookback, "/", l2, "\t", a, "/", a2)
+            while j <= j2:
+                try:
+                    pillowcaseAssassination(fileTicker, a, int(np.floor(lookback)), fileOutput,
+                                            save_max=1.0, max_len=20000, bitchCunt=j, tradeCost=0.0025)
+                except:
+                    print("NOT GOOD")
+                if (j < 0.01):
+                    j += 0.0035
+                else:
+                    j *= 1.3
+            j = j1
+            if (a < 0.01):
+                a += 0.0035
+            else:
+                a *= 1.1
+        a = a1
+        if lookback < 10:
+            lookback += 2
+        else:
+            lookback *= 1.2
+
+
+run()

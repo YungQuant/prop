@@ -250,18 +250,18 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
                     buy.append(closeData * (1+tradeCost))
                     bull += 1
                     stockBought = True
-                elif ((Kv1 < Dv1) and stockBought == True):
+                if ((Kv1 < Dv1) and stockBought == True):
                     sell.append(closeData * (1-tradeCost))
                     maxP = 0
                     shit += 1
                     stockBought = False
-                elif (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
+                if (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
                     sell.append(closeData * (1-tradeCost))
                     maxP = 0
                     shit += 1
                     stockBought = False
                     stopLoss = True
-                elif ((Kv > Dv) and stopLoss == True):
+                if ((Kv > Dv) and stopLoss == True):
                     stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])

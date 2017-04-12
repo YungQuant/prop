@@ -28,6 +28,9 @@
        -requires probabilistic models built on decent sample size of environments and trades
        -8bp
 
+    -Unencrypted Client Database
+       -7bp
+
 
 4bp:
     -Position entry system
@@ -48,6 +51,8 @@
 
     -MLSP3
         -fit Ridge Regression system to higher dimensionality and for binary classification
+
+    -Website .onion Link
 
 2bp:
     -Options Chain Data Scraper/Source

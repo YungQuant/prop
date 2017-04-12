@@ -155,6 +155,8 @@ while 1:
         bbf.close()
         sbf.close()
         pf.close()
-        time.sleep(60)
+        print("got:", pairs[i])
+    print("i slp now")
+    time.sleep(60)
 
 

@@ -230,7 +230,7 @@ def createBinaryTrainingSet(dataset, look_back):
     X, Y = [], []
     i = 3
     while i < len(dataset)-look_back-5:
-        a = dataset[i-3:i+look_back]
+        a = dataset[i-3:i-3+look_back]
         X.append(a)
         if dataset[i + look_back + 5] > dataset[i + look_back]:
             Y.append(1)
