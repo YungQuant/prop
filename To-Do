@@ -44,7 +44,7 @@
         -1bp/ dimension added (ie; adding volume data = +1 dimension)
         -Sources: Intrino?
 
-    -Train mltf2 and 3 on correlated cryptocurrency environment
+    -Train mltf2 and 3 on correlated cryptocurrency environment, 
 
     -Improve binary accuracy of mlsp2/mltf2
         -1bp/ percent improvement in accuracy over 50%
@@ -91,6 +91,8 @@
     -cip1.1.2 long only and long preference runs
 
     -refit mltf2 and 3 to predict long term (T/n) prices instead of just n
+    
+    -run all ml strats on macroeconomic data & forex -or- indexs
 
     -make angel1.1 clear exisiting orders on start
 
