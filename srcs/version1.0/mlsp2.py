@@ -1,4 +1,4 @@
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 import math
 from keras.models import Sequential
@@ -13,6 +13,8 @@ import urllib, time, datetime
 import scipy.stats as sp
 #from matplotlib import pyplot as plt
 import os.path
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 def plot(a):
     y = np.arange(len(a))
@@ -206,7 +208,64 @@ def createBinaryTrainingSet(dataset, look_back):
             Y.append(0)
     return np.array(X), np.array(Y)
 
-def  getNum(str):
+def create_orderbook_training_set(buy_arr, sell_arr, lookback):
+    lookback *= 10
+    x, y = [], []
+    k = 0
+    while k < (len(buy_arr) - lookback):
+        x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
+        y.append(np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]))
+        k += 2
+    return np.array(x), np.array(y)
+
+def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
+    lookback *= 10
+    x, y = [], []
+    k = 2
+    while k < (len(buy_arr) - lookback - 2):
+        x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
+        if np.mean([float(sell_arr[k + lookback]),
+                    float(buy_arr[k + lookback])]) > np.mean([float(sell_arr[(k + lookback) + 2]),
+                                                              float(buy_arr[(k + lookback) + 2])]):
+            y.append(0)
+        else:
+            y.append(1)
+
+        k += 2
+    return np.array(x), np.array(y)
+
+def create_orderbook_magnitude_training_set(buy_arr, sell_arr, lookback):
+    lookback *= 10
+    x, y = [], []
+    k = 0
+    while k < (len(buy_arr) - lookback):
+        x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
+        y.append((np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]) -
+                 np.mean([float(sell_arr[k + lookback - 2]), float(buy_arr[k + lookback - 2])])) /
+                 np.mean([float(sell_arr[k + lookback - 2]), float(buy_arr[k + lookback - 2])]))
+        k += 2
+    return np.array(x), np.array(y)
+
+def books2arrays(buy_tick, sell_tick):
+    buy_arr, sell_arr = [], []
+    with open(buy_tick, 'r') as bf:
+        with open(sell_tick, 'r') as sf:
+            buy_file = bf.readlines()
+            sell_file = sf.readlines()
+            for i in range(len(buy_file)):
+                bObj = buy_file[i].split("\t")
+                sObj = sell_file[i].split("\t")
+                bp, bv = bObj[0], bObj[1]
+                sp, sv = sObj[0], sObj[1]
+                buy_arr.append(float(bp))
+                buy_arr.append(float(bv))
+                sell_arr.append(float(sp))
+                sell_arr.append(float(sv))
+    bf.close()
+    sf.close()
+    return buy_arr, sell_arr
+
+def getNum(str):
     tmp = ""
     for i, l in enumerate(str):
         if l.isnumeric() or l == ".":
@@ -231,7 +290,7 @@ def CryptoQuote1(the_symbol):
         elif curr.find('volume') > 0:
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
-d
+
 
 def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
     # desc = sp.describe(perc)
@@ -265,56 +324,60 @@ def write_that_shit(log, tick, kin, perc, cuml, bitchCunt):
     # print("len:", len(perc))
     # print(cuml[j])
 
-def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, tradeCost):
-    cuml = []
-    for j, tik in enumerate(tick):
-        stock = []
-        with open(tik, 'r') as f:
+def fucking_paul(tick, Nin, log, save_max, max_len, bitchCunt, tradeCost):
+    cuml, stock = [], []
+    jj = 0
+    while jj < len(tick) - 1:
+        with open(tick[jj + 2], 'r') as f:
             stock1 = f.readlines()
         f.close()
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
-
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
         kar = []; dar = []; cumld = []; shortDiff = []
         stockBought = False; stopLoss = False
-        bull = 0; shit = 0; max = 0;
-        scaler = MinMaxScaler(feature_range=(0,1))
+        bull = 0; shit = 0; maxP = 0;
+        scaler = MinMaxScaler(feature_range=(-1,1))
         cuml.append(1)
+        buys, sells = books2arrays(tick[jj], tick[jj + 1])
+        trainX, trainY = create_binary_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
+                                                              sells[:int(np.floor(len(sells) * 0.8))], Nin)
+        #print("training x[-1], y[-1]", trainX[-1], trainY[-1])
         #dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
-        dataset = stock[:int(np.floor(len(stock) * .95))]
-        trainX, trainY = createBinaryTrainingSet(dataset, Nin)
+        #dataset = stock[:int(np.floor(len(stock) * .95))]
+        trainX = scaler.fit_transform(trainX)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(Dense(Nin, input_shape=(1, Nin)))
-        model.add(Dropout(0.2, input_shape=(1, Nin)))
+        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
+        #model.add(Dropout(0.2, input_shape=(1, Nin)))
+        #model.add(Dense(Nin, activation='relu'))
+        model.add(LSTM(Nin * 20, activation='relu'))
+        model.add(Dropout(0.15))
         model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin, activation='sigmoid'))
-        model.add(Dense(Nin, activation='sigmoid'))
         model.add(Dense(1, activation='relu'))
         model.compile(loss='binary_crossentropy', optimizer='Adam', metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=30, batch_size=5, verbose=0)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > len(stock) * int(np.floor(.95)):
+            if i > int(np.floor(len(stock) * .8)):
                 #print("\n\ninput array:", arr)
-                arry = scaler.fit_transform(arr[-Nin:])
+                arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
+                arry = scaler.fit_transform(arry)
                 #arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 predict = model.predict(arry)
                 # invert predictions
-                arry = scaler.inverse_transform(arry)
-                arry = np.reshape(arry, (1, Nin))
+                # arry = scaler.inverse_transform(arry)
+                # arry = np.reshape(arry, (1, Nin))
                 #predict = scaler.inverse_transform(predict)
-                predict = predict[0][0]
+                #predict = predict[0][0]
                 #kar.append(predict)
-                if i < len(stock) - 1: print("arry", (arry[0][Nin - 1] - stock[i + 1]))
                 #if i > 100:
                 #plot(trainPredict)
-                print("predict:", predict)
+                #print("predict:", predict)
                 #print("predicted:", kar)
                 # calculate root mean squared error
                 if ((float(predict) > 0.5) and (stockBought == False and stopLoss == False)):
@@ -325,12 +388,12 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                     maxP = closeData
                 elif ((float(predict) < 0.5) and stockBought == True):
                     sell.append(closeData * (1 - tradeCost))
-                    max = 0
+                    maxP = 0
                     shit += 1
                     stockBought = False
-                elif (closeData < (max * (1 - bitchCunt)) and stockBought == True):
+                elif (closeData < (maxP * (1 - bitchCunt)) and stockBought == True):
                     sell.append(closeData * (1 - tradeCost))
-                    max = 0
+                    maxP = 0
                     shit += 1
                     stockBought = False
                     stopLoss = True
@@ -348,36 +411,52 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
         for i in range(bull - 1):
             perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
-            cuml[j] = cuml[j] + (cuml[j] * perc[i])
-            cumld.append(cuml[j])
+            cuml[int(np.floor(jj / 3))] += cuml[int(np.floor(jj / 3))] * perc[i]
+            cumld.append(cuml[int(np.floor(jj / 3))])
 
-        if cuml[j] > save_max and len(perc) <= max_len:
-            write_that_shit(log[j], tik, Nin, perc, cuml[j], bitchCunt)
+        print("len:", len(perc), "cuml:", cuml[int(np.floor(jj / 3))])
         # plot(perc)
+        # plot(cumld)
+        if cuml[int(np.floor(jj / 3))] > save_max and len(perc) <= max_len:
+            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], Nin, perc, cuml[int(np.floor(jj / 3))], bitchCunt)
+        jj += 3
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID"]
+ticker = ["BTC-XRP", "BTC-XMR", "BTC-MAID"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_output.txt")
-    fileCuml.append("../../cuml/" + tick + "_cuml.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mslp2_4.13.17_1dx0.8_1intervalPred_output.txt")
+
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
-        fileWrite = open(file, 'w')
-        dataset = CryptoQuote1(ticker[i]).close
-        # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
-        # dataset = np.zeros(len(tick))
-        # i = len(tick) - 1
-        # while i >= 0:
-        #     dataset[ik] = tick[i]['Close']
-        #     i -= 1
-        #     ik += 1
-        for i, close in enumerate(dataset):
-            fileWrite.write(str(close))
-            fileWrite.write('\n')
+        print("missing:", file)
 
-fucking_paul(fileTicker, 2000, fileOutput, fileCuml, save_max=1.00, save_min=0.999, max_len=100000, bitchCunt=0.50, tradeCost=0.0005)
+# for i, file in enumerate(fileTicker):
+#     if (os.path.isfile(file) == False):
+#         fileWrite = open(file, 'w')
+#         dataset = CryptoQuote1(ticker[i]).close
+#         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
+#         # dataset = np.zeros(len(tick))
+#         # i = len(tick) - 1
+#         # while i >= 0:
+#         #     dataset[ik] = tick[i]['Close']
+#         #     i -= 1
+#         #     ik += 1
+#         for i, close in enumerate(dataset):
+#             fileWrite.write(str(close))
+#             fileWrite.write('\n')
+
+j = 2
+while j < 120:
+    fucking_paul(fileTicker, int(np.floor(j)), fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
+    print("j:", j)
+    if j < 10:
+        j += 1
+    else:
+        j *= 1.2

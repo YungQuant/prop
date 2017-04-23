@@ -270,9 +270,9 @@ def create_orderbook_magnitude_training_set(buy_arr, sell_arr, lookback):
     lookback *= 10
     x, y = [], []
     k = 0
-    while k < (len(buy_arr) - lookback):
+    while k < (len(buy_arr) - lookback - 4):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        y.append((np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]) -
+        y.append((np.mean([float(sell_arr[k + lookback + 4]), float(buy_arr[k + lookback + 4])]) -
                  np.mean([float(sell_arr[k + lookback - 2]), float(buy_arr[k + lookback - 2])])) /
                  np.mean([float(sell_arr[k + lookback - 2]), float(buy_arr[k + lookback - 2])]))
         k += 2
@@ -298,7 +298,7 @@ def books2arrays(buy_tick, sell_tick):
     sf.close()
     return buy_arr, sell_arr
 
-def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, diff, err, errorMetric):
+def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, diff, err, errors):
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -312,23 +312,24 @@ def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, diff, 
     file.write(str(int(np.floor(numBatch))))
     file.write("\nnumEpoch:\t")
     file.write(str(numEpoch))
-    file.write("\navg % error:")
+    file.write("\nerrorCalc:")
     file.write(str(err))
     file.write("\nmeanPredict:")
     file.write(str(np.mean(predicts)))
     if len(predicts) > 10:
         desc = sp.describe(predicts)
-        file.write("\nDescribed Diff:\n")
+        file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
     file.write("\ndropout:\t")
     file.write(str(d))
     file.write("\nopt:\t")
     file.write(str(opt))
-    file.write("\nerrorMetric:\t")
-    file.write(str(errorMetric))
+    file.write("\navg % error:\t")
+    file.write(str(np.mean(errors)))
+    file.write("\n")
     file.write("\nmean inverse error:\t")
     file.write(str(np.mean(diff)))
-    file.write("\n\n")
+    file.write("\n")
     # file.write("\nerror variance:\t")
     # file.write(str(np.var(diff)))
     # file.write("\nerror kurtosis:\t")
@@ -350,9 +351,9 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         scaler = MinMaxScaler(feature_range=(-1, 1))
         cuml.append(1)
         buys, sells = books2arrays(tick[jj], tick[jj + 1])
-        trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
+        trainX, trainY = create_orderbook_magnitude_training_set(buys[:int(np.floor(len(buys) * 0.8))],
                                                        sells[:int(np.floor(len(sells) * 0.8))], Nin)
-        # print("training x[-1], y[-1]", trainX[-1], trainY[-1])
+        print("training x[-50:], y[-50:]", trainX[-50:], trainY[-50:])
         # dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
         # dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX = scaler.fit_transform(trainX)
@@ -364,6 +365,7 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         # model.add(Dense(Nin, activation='relu'))
         model.add(LSTM(Nin * 20, activation='relu'))
         model.add(Dense(Nin, activation='relu'))
+        model.add(Dense(1, activation='relu'))
         model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
@@ -384,13 +386,13 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
                 predict = predict[0][0]
                 predictArray.append(predict)
                 # kar.append(predict)
-                if i < len(stock) - 1:
-                    difference = abs(predict - stock[i + 1]) / closeData
+                if i < len(stock) - 5:
+                    difference = abs(predict - (stock[i + 5] - closeData)) / (stock[i + 5] - closeData)
                     errors.append(difference)
-                    #print("arry_diff:", difference)
+                    # print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if (stock[i + 1] > arry[0][-1] and (predict > closeData)) or \
-                            (stock[i + 1] < arry[0][-1] and predict < closeData):
+                    if (stock[i + 5] > arry[0][-1] and (predict > 0)) or \
+                            (stock[i + 5] < arry[0][-1] and predict < 0):
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         #correct_margin_array.append(predict - .5)
@@ -415,17 +417,15 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         #if errorCnt > 0: print("tengo", errorCnt, "problemas)")
         print("avg prediction:", np.mean(predictArray))
         print("mean inverse error (% correct):", np.mean(diff))
-        print("mean % error:", np.mean(errors))
         #print("mean correct margin:", np.mean(correct_margin_array))
-        #print("mean error margin:", np.mean(false_margin_array))
+        print("mean error %:", np.mean(errors))
         print("described:", sp.describe(predictArray))
         print("\n\n")
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(errors) < 0.05:
-            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray,
-                            numEpoch, numBatch, opt, diff, np.mean(errors), err)
+        if np.mean(errors) < 0.50 and np.mean(diff) > 0.5:
+            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray, numEpoch, numBatch, opt, diff, err, errors)
         jj += 3
 
 
@@ -440,25 +440,20 @@ for i, tick in enumerate(ticker):
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf1_no1dOutputDense_4.18.17_1dx0.8_1intervalPred_output.txt")
+    fileOutput.append("../../output/" + tick + "_mltf1.0.1_4.18.17_1dx0.8_5intervalPred_output.txt")
 
-for i, file in enumerate(fileTicker):
-    if (os.path.isfile(file) == False):
-        print("missing:", file)
 
-#opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam']
-opts = ['Adamax']
+opts = ['Adam', 'Adamax']
+#opts = ['adam']
 errs = ['mean_absolute_error']
 #errs = ['binary_crossentropy']
 #nins = np.arange(1, 21, step=4)
 nins = [1, 5, 10]
-#nins = [1]
-batchs = [10, 100]
-#batchs = [10, 100]
-#epochs = np.arange(100, 600, step=100)
-drops = [0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
-#drops = [0.1]
+#batchs = np.arange(5, 50, step=5)
+batchs = [10]
 epochs = [100]
+drops = [0.1, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
+#epochs = [1]
 
 #nins = [300]; batchs = [50]; epochs = [100];
 

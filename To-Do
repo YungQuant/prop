@@ -46,13 +46,14 @@
 
     -Train mltf2 and 3 on correlated cryptocurrency environment
 
+    -Make mlsp/tf2.1 to predict literal movement (ie; 0.014 or -0.03 as in price[t + 1]-price[t])
+
     -Improve binary accuracy of mlsp2/mltf2
         -1bp/ percent improvement in accuracy over 50%
 
-    -MLSP3
-        -fit Ridge Regression system to higher dimensionality and for binary classification
-
     -Website .onion Link
+
+    -Build short-only peak detection strategy using linear regression and rate-of-change
 
 2bp:
     -Options Chain Data Scraper/Source
