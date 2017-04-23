@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pandas as pd
 import math
 import keras
@@ -7,12 +7,12 @@ from keras.layers import Dense
 from keras.layers import LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
-import yahoo_finance
+#import yahoo_finance
 import numpy as np
-import urllib.request
-import urllib, time, datetime
+#import urllib.request
+#import urllib, time, datetime
 import scipy.stats as sp
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 import os.path
 import scipy
 import warnings
@@ -363,9 +363,9 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
         model.add(Dropout(drop))
         # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='relu'))
-        model.add(Dense(Nin, activation='relu'))
-        model.add(Dense(1, activation='relu'))
+        model.add(LSTM(Nin * 20, activation='tanh'))
+        model.add(Dense(Nin, activation='tanh'))
+        model.add(Dense(1, activation='tanh'))
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
@@ -439,7 +439,7 @@ for i, tick in enumerate(ticker):
     fileTicker.append("scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
     fileTicker.append("scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
     fileTicker.append("scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("output/" + tick + "_mltf2_4.18.17_1dx0.8_1intervalPred_output.txt")
+    fileOutput.append("output/" + tick + "_mltf2_tanhEdition_4.18.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -451,10 +451,10 @@ opts = ['Adam', 'Adamax', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
 #nins = np.arange(1, 21, step=4)
-nins = [10, 50, 100]
+nins = [50, 100]
 #batchs = np.arange(5, 50, step=5)
-batchs = [10]
-epochs = [100, 1000]
+batchs = [100]
+epochs = [1000]
 drops = [0.2, 0.4, 0.6]
 #epochs = [1]
 
