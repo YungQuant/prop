@@ -1,0 +1,13 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/BTC-XMR_buy_books.txt
+N in:	1
+numBatch:	10
+numEpoch:	100
+avg % error:0.00802861136492
+meanPredict:0.0172374
+Described Diff:
+DescribeResult(nobs=932, minmax=(0.017237367, 0.017237367), mean=0.017237369, variance=3.4731734e-18, skewness=-1.0, kurtosis=-2.0)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean inverse error:	0.443609022556
+

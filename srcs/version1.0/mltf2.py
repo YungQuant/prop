@@ -363,9 +363,9 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
         model.add(Dropout(drop))
         # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='relu'))
-        model.add(Dense(Nin, activation='relu'))
-        model.add(Dense(1, activation='relu'))
+        model.add(LSTM(Nin * 20, activation='tanh'))
+        model.add(Dense(Nin, activation='tanh'))
+        model.add(Dense(1, activation='tanh'))
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
@@ -439,7 +439,7 @@ for i, tick in enumerate(ticker):
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf2_4.18.17_1dx0.8_1intervalPred_output.txt")
+    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_4.18.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -451,11 +451,11 @@ opts = ['Adam', 'Adamax', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
 #nins = np.arange(1, 21, step=4)
-nins = [3, 30, 100]
+nins = [1, 5, 10]
 #batchs = np.arange(5, 50, step=5)
-batchs = [100]
-epochs = [10, 100, 100]
-drops = [0.2, 0.4, 0.6]
+batchs = [10]
+epochs = [100]
+drops = [0.05, 0.2, 0.3, 0.4, 0.6]
 #epochs = [1]
 
 #nins = [300]; batchs = [50]; epochs = [100];

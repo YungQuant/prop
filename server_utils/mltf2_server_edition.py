@@ -453,7 +453,7 @@ errs = ['binary_crossentropy']
 #nins = np.arange(1, 21, step=4)
 nins = [10, 50, 100]
 #batchs = np.arange(5, 50, step=5)
-batchs = [100]
+batchs = [10]
 epochs = [100, 1000]
 drops = [0.2, 0.4, 0.6]
 #epochs = [1]

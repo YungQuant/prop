@@ -1,0 +1,14 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/BTC-DASH_buy_books.txt
+N in:	1
+numBatch:	10
+numEpoch:	10
+errorCalc:34
+meanPredict:0.864087
+
+Described Diff:
+DescribeResult(nobs=1819, minmax=(-0.47861111, 0.93702364), mean=0.8640871, variance=0.041578867, skewness=-4.261903285980225, kurtosis=18.78868211876836)
+dropout:	0.2
+opt:	Adam
+errors:	34
+
+mean inverse error:	0.473597359736

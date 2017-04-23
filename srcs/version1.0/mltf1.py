@@ -326,7 +326,7 @@ def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, diff, 
     file.write(str(opt))
     file.write("\nerrorMetric:\t")
     file.write(str(errorMetric))
-    file.write("\nmean inverse error:\t")
+    file.write("\nmean directional inverse error:\t")
     file.write(str(np.mean(diff)))
     file.write("\n\n")
     # file.write("\nerror variance:\t")
@@ -364,6 +364,7 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         # model.add(Dense(Nin, activation='relu'))
         model.add(LSTM(Nin * 20, activation='relu'))
         model.add(Dense(Nin, activation='relu'))
+        model.add(Dense(1))
         model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
@@ -414,7 +415,7 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
               "dropout:", drop)
         #if errorCnt > 0: print("tengo", errorCnt, "problemas)")
         print("avg prediction:", np.mean(predictArray))
-        print("mean inverse error (% correct):", np.mean(diff))
+        print("mean directional inverse error (% correct):", np.mean(diff))
         print("mean % error:", np.mean(errors))
         #print("mean correct margin:", np.mean(correct_margin_array))
         #print("mean error margin:", np.mean(false_margin_array))
@@ -440,7 +441,7 @@ for i, tick in enumerate(ticker):
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf1_no1dOutputDense_4.18.17_1dx0.8_1intervalPred_output.txt")
+    fileOutput.append("../../output/" + tick + "_mltf1_tanhEdition_4.18.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
