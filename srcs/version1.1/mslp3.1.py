@@ -409,16 +409,16 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
         jj += 3
 
 
-ticker = ["BTC-XRP", "BTC-XMR", "BTC-MAID"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mslp3.1_4.13.17_1dx0.8_10intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mslp3.1_4.18.17_1dx0.8_10intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):

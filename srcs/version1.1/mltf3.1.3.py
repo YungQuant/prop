@@ -6,6 +6,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
+from sklearn import svm
 from sklearn.metrics import mean_squared_error
 import yahoo_finance
 import numpy as np
@@ -254,10 +255,10 @@ def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
     lookback *= 10
     x, y = [], []
     k = 2
-    while k < (len(buy_arr) - lookback - 6):
+    while k < (len(buy_arr) - lookback):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        if np.mean([float(sell_arr[k + lookback + 6]),
-                    float(buy_arr[k + lookback + 6])]) >= np.mean([float(sell_arr[(k + lookback) - 2]),
+        if np.mean([float(sell_arr[k + lookback]),
+                    float(buy_arr[k + lookback])]) >= np.mean([float(sell_arr[(k + lookback) - 2]),
                                                               float(buy_arr[(k + lookback) - 2])]):
             y.append(1)
         else:
@@ -298,7 +299,7 @@ def books2arrays(buy_tick, sell_tick):
     sf.close()
     return buy_arr, sell_arr
 
-def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, err, diff):
+def write_that_shit(log, tick, Nin, predicts, diff):
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -308,34 +309,22 @@ def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, err, d
     file.write(tick)
     file.write("\nN in:\t")
     file.write(str(int(np.floor(Nin))))
-    file.write("\nnumBatch:\t")
-    file.write(str(int(np.floor(numBatch))))
-    file.write("\nnumEpoch:\t")
-    file.write(str(numEpoch))
-    file.write("\nerrorCalc:")
-    file.write(str(err))
     file.write("\nmeanPredict:")
     file.write(str(np.mean(predicts)))
     if len(predicts) > 10:
         desc = sp.describe(predicts)
         file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
-    file.write("\ndropout:\t")
-    file.write(str(d))
-    file.write("\nopt:\t")
-    file.write(str(opt))
-    file.write("\nerrors:\t")
-    file.write(str(err))
     file.write("\nmean inverse error:\t")
     file.write(str(np.mean(diff)))
-    file.write("\n\n")
+    file.write("\n")
     # file.write("\nerror variance:\t")
     # file.write(str(np.var(diff)))
     # file.write("\nerror kurtosis:\t")
     # file.write(str(scipy.stats.kurtosis(diff, fisher=True)))
     file.close()
 
-def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
+def fucking_peter(tick, Nin, log):
     cuml, stock = [], []
     jj = 0
     while jj < len(tick) - 1:
@@ -356,17 +345,9 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         # dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
         # dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX = scaler.fit_transform(trainX)
-        trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+        model = svm.SVC()
+        model.fit(trainX, trainY)
 
-        model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
-        model.add(Dropout(drop))
-        # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='tanh'))
-        model.add(Dense(Nin, activation='tanh'))
-        model.add(Dense(1, activation='tanh'))
-        model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
-        model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
@@ -375,22 +356,22 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
                 arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
                 arry = scaler.fit_transform(arry)
                 # arry = arr[-Nin:]
-                arry = np.reshape(arry, (1, 1, len(arry)))
+                #arry = np.reshape(arry, (1, 1, len(arry)))
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 predict = model.predict(arry)
                 # invert predictions
-                arry = np.reshape(arry, (1, len(arry[0][0])))
-                arry = scaler.inverse_transform(arry)
+                #arry = np.reshape(arry, (1, len(arry[0][0])))
+                #arry = scaler.inverse_transform(arry)
                 #predict = scaler.inverse_transform(predict)
-                predict = predict[0][0]
                 predictArray.append(predict)
                 if predict > 1 or predict < 0: errorCnt += 1
                 # kar.append(predict)
-                if i < len(stock) - 3:
+                if i < len(stock) - 1:
                     # difference = arry[0][Nin - 1] - stock[i + 1]
                     # print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if stock[i + 3] > stock[i] and (predict > .5):
+                    if stock[i + 1] > stock[i] and (predict > .5) or \
+                                            stock[i + 1] < stock[i] and predict < 0.5:
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         correct_margin_array.append(predict - .5)
@@ -405,25 +386,20 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
                 # calculate root mean squared error
 
         # print("errors:", diff)
-        print("tik:", tick[jj], "\n",
-              "Nin:", Nin, "\n",
-              "numEpoch:", numEpoch, "\n",
-              "numBatch:", numBatch, "\n",
-              "opt:", opt, "\n",
-              "err:", err, "\n",
-              "dropout:", drop)
-        if errorCnt > 0: print("tengo", errorCnt, "problemas)")
-        print("avg prediction:", np.mean(predictArray))
-        print("mean inverse error (% correct):", np.mean(diff))
-        print("mean correct margin:", np.mean(correct_margin_array))
-        print("mean error margin:", np.mean(false_margin_array))
-        print("described:", sp.describe(predictArray))
-        print("\n\n")
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
         if np.mean(diff) > 0.4 and np.mean(predictArray) > 0 and errorCnt < 1000:
-            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray, numEpoch, numBatch, opt, errorCnt, diff)
+            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], Nin, predictArray, diff)
+            print("tik:", tick[jj], "\n",
+                  "Nin:", Nin, "\n")
+            if errorCnt > 0: print("tengo", errorCnt, "problemas)")
+            print("avg prediction:", np.mean(predictArray))
+            print("mean inverse error (% correct):", np.mean(diff))
+            print("mean correct margin:", np.mean(correct_margin_array))
+            print("mean error margin:", np.mean(false_margin_array))
+            print("described:", sp.describe(predictArray))
+            print("\n\n")
         jj += 3
 
 
@@ -435,38 +411,24 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_4.28.17_1dx0.8_3intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mltf3.1.3_scaled_4.18.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing:", file)
 
 
-#opts = ['Adam', 'Adamax', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
-opts = ['adam', 'Adamax']
-#errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
-errs = ['binary_crossentropy']
-#nins = np.arange(1, 21, step=4)
-nins = [5, 10]
-#batchs = np.arange(5, 50, step=5)
-epoch_scalars = [10, 20, 30]
-batchs = [10]
-drops = [0.2, 0.4]
 
-#nins = [300]; batchs = [50]; epochs = [100];
+nins = np.arange(1, 10, step=2)
 
-for j in range(len(batchs)):
-    for l in range(len(opts)):
-        for i in range(len(errs)):
-            for d in range(len(drops)):
-                for m in range(len(nins)):
-                    for k in range(len(epoch_scalars)):
-                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, nins[m] * epoch_scalars[k], batchs[j])
-                        # try:
-                        #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
-                        # except:
-                        #     print("NOT GOOD")
+
+for m in range(len(nins)):
+        fucking_peter(fileTicker, nins[m], fileOutput)
+        # try:
+        #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
+        # except:
+        #     print("NOT GOOD")
 #fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)

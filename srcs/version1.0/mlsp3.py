@@ -1,5 +1,5 @@
 import numpy as np
-from sklearn.linear_model import Ridge
+from sklearn.linear_model import Ridge, LinearRegression
 import quandl
 import urllib.request
 import urllib, time, datetime
@@ -304,10 +304,10 @@ class GoogleIntradayQuote(Quote):
 
 def create_dataset(dataset, look_back):
     dataX, dataY = [], []
-    for i in range(len(dataset) - look_back - 1):
+    for i in range(len(dataset) - look_back - 5):
         a = dataset[i:(i+look_back)]
         dataX.append(a)
-        dataY.append(dataset[i + look_back + 1])
+        dataY.append(dataset[i + look_back + 5])
     return np.array(dataX), np.array(dataY)
 
 
@@ -323,7 +323,7 @@ def write_that_shit(log, tick, a, lookback, perc, cuml, bitchCunt, avgError):
     file.write(str(a))
     file.write("\nLookback:\t")
     file.write(str(lookback))
-    file.write("\nAverage Error:\t")
+    file.write("\nAverage Percent Error:\t")
     file.write(str(avgError))
     # file.write("\nK1 in:\t")
     file.write("\nLen:\t")
@@ -333,49 +333,52 @@ def write_that_shit(log, tick, a, lookback, perc, cuml, bitchCunt, avgError):
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
     file.write("\n\n")
-    file.close()
     # file.write("\n\n\nPercent Diff:\n")
     # file.write(str(perc))
     if len(perc) > 4:
         desc = sp.describe(perc)
         file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
+    file.close()
 
 
 
 
-def fucking_paul(tik, log, a, lookback, save_max, max_len, bitchCunt, tradeCost):
-    cuml, stock = [], []
+def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost):
     jj = 0
-    while jj < len(tick) - 1:
-        with open(tick[jj + 2], 'r') as f:
+    while jj < len(tick):
+        with open(tick[jj], 'r') as f:
             stock1 = f.readlines()
         f.close()
+        stock = []
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; err =[];
         kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
-        Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0; X = []; Y = [];
+        Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; X = []; Y = [];
         avgError = 0
+        cuml = 1
+        scaler = MinMaxScaler(feature_range=(-1, 1))
         #WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
         #if lookback < 11: print(tik, "test length:", len(stock))
-        buys, sells = books2arrays(tick[jj], tick[jj + 1])
-        X, Y = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
-                                                       sells[:int(np.floor(len(sells) * 0.8))], lookback)
+        X, Y = create_dataset(stock[:int(np.floor(len(stock) * 0.8))], lookback)
+        X = scaler.fit_transform(X)
         stockBought = False
         stopLoss = False
         bull = 0; shit = 0; maxP = 0;
-        R = Ridge(alpha=a, fit_intercept=True, normalize=True)
+        #R = Ridge(alpha=a, fit_intercept=True, normalize=True)
+        R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
         R.fit(X, Y)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i >= int(np.floor(len(stock) * 0.9)) + lookback + 1:
+            if i >= int(np.floor(len(stock) * 0.8)) + lookback + 1:
                 arry = arr[-lookback:]
+                arry = scaler.fit_transform(arry)
                 p = R.predict(arry)
-                if i < len(stock) - 1:
-                    err.append(abs(p - stock[i + 1]))
-                #     print("predicted:", p, "actual:", stock[i + 1])
-                #     print("prediction error:", abs(p - stock[i + 1]))
+                if i < len(stock) - 6:
+                    err.append(abs(p - stock[i + 6]) / stock[i])
+                    # print("predicted:", p, "actual:", stock[i + 1])
+                    # print("prediction error:", abs(p - stock[i + 1]))
                 if stockBought == True and closeData > maxP:
                     maxP = closeData
                 if ((p > closeData) and (stockBought == False and stopLoss == False)):
@@ -410,20 +413,25 @@ def fucking_paul(tik, log, a, lookback, save_max, max_len, bitchCunt, tradeCost)
             perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
             cuml += cuml * perc[i]
+            cumld.append(cuml)
 
         if len(err) > 0:
             avgError = np.mean(err)
-            if cuml > save_max:
-                write_that_shit(log, tik, a, lookback, perc, cuml, bitchCunt, avgError)
-                print(tik)
+            if cuml > save_max or avgError < 0.05:
+                write_that_shit(log[jj], tick[jj], a, lookback, perc, cuml, bitchCunt, avgError)
+                print(tick[jj])
                 print("len:", len(perc), "cuml:", cuml)
+                print("Alpha:", a, "bitchCunt:", bitchCunt)
                 print("lookback:", lookback)
-                print("average error:", avgError)
+                print("average percent error:", avgError)
                 print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
+                # plot(perc)
+                # plot(cumld)
 
         else:
-            write_that_shit(log, tik, a, lookback, perc, cuml, bitchCunt, avgError)
-        jj +=3
+            write_that_shit(log[jj], tick[jj], a, lookback, perc, cuml, bitchCunt, avgError)
+
+        jj += 1
 
 def pillowcaseAssassination(fileTicker, a, lookback, fileOutput, save_max, max_len, bitchCunt, tradeCost):
     n_proc = 6
@@ -441,10 +449,8 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mlsp3_4.18.17_1dx0.8_1intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mlsp3_linearEdition_4.28.17_1dx0.8_5intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -454,12 +460,12 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    a1 = 0.001
+    a1 = 0.01
     a2 = 1.0
     j1 = 0.001
     j2 = 0.15
-    l1 = 3
-    l2 = 200
+    l1 = 20
+    l2 = 5000
     a = a1
     j = j1
     lookback = l1
@@ -467,16 +473,14 @@ def run():
         while(a < a2):
             print(lookback, "/", l2, "\t", a, "/", a2)
             while j <= j2:
-                try:
-                    fucking_paul(fileTicker, fileOutput, a, lookback, 1.00, 2000000, j, 0.0025)
-                except:
-                    print("NOT GOOD")
-                j += 0.01
+                fucking_paul(fileTicker, fileOutput, a, int(np.floor(lookback)), 1.00, 2000000, j, 0.0025)
+                # try:
+                #     fucking_paul(fileTicker, fileOutput, a, lookback, 1.00, 2000000, j, 0.0025)
+                # except:
+                #     print("NOT GOOD")
+                j *= 2
             j = j1
-            if a < 0.1:
-                a += 0.01
-            else:
-                a += 0.05
+            a += 1
         a = a1
         if lookback < 10:
             lookback += 2

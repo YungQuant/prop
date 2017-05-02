@@ -1,0 +1,56 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-ETH_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	50
+errorCalc:0
+meanPredict:0.728585
+
+Described Diff:
+DescribeResult(nobs=14503, minmax=(0.58890277, 0.82488978), mean=0.72858512, variance=0.0041639796, skewness=-0.3421037793159485, kurtosis=-1.295423597798309)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.438689655172
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-ETH_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	100
+errorCalc:3
+meanPredict:0.729298
+
+Described Diff:
+DescribeResult(nobs=14503, minmax=(-0.46758687, 0.77612907), mean=0.7292977, variance=0.002323145, skewness=-2.7959444522857666, kurtosis=50.05296315631997)
+dropout:	0.2
+opt:	adam
+errors:	3
+mean inverse error:	0.438482758621
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-ETH_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	150
+errorCalc:0
+meanPredict:0.718293
+
+Described Diff:
+DescribeResult(nobs=14503, minmax=(0.25138801, 0.79526192), mean=0.71829259, variance=0.0033346075, skewness=-0.6161888241767883, kurtosis=1.1691010583403756)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.438068965517
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-ETH_buy_books.txt
+N in:	10
+numBatch:	10
+numEpoch:	100
+errorCalc:0
+meanPredict:0.786054
+
+Described Diff:
+DescribeResult(nobs=14503, minmax=(0.50489366, 0.82610857), mean=0.78605372, variance=0.0013183167, skewness=-1.6899300813674927, kurtosis=5.409483126786549)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.438689655172
+

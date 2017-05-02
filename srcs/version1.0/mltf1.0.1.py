@@ -451,8 +451,9 @@ errs = ['mean_absolute_error']
 nins = [1, 5, 10]
 #batchs = np.arange(5, 50, step=5)
 batchs = [10]
-epochs = [100]
-drops = [0.1, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
+#epochs = [100]
+#drops = [0.1, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
+drops = [0.2]
 #epochs = [1]
 
 #nins = [300]; batchs = [50]; epochs = [100];
@@ -462,9 +463,9 @@ for i in range(len(errs)):
         for j in range(len(batchs)):
             for d in range(len(drops)):
                 for m in range(len(nins)):
-                    for k in range(len(epochs)):
-                        print(nins[m], drops[d], errs[i], opts[l], epochs[k], batchs[j])
-                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
+                    #for k in range(len(epochs)):
+                        print(nins[m], drops[d], errs[i], opts[l], nins[m] * 20, batchs[j])
+                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, nins[m] * 20, batchs[j])
                         # try:
                         #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
                         # except:

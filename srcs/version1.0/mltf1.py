@@ -244,9 +244,9 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     lookback *= 10
     x, y = [], []
     k = 0
-    while k < (len(buy_arr) - lookback):
+    while k < (len(buy_arr) - lookback - 6):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        y.append(np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]))
+        y.append(np.mean([float(sell_arr[k + lookback + 6]), float(buy_arr[k + lookback + 6])]))
         k += 2
     return np.array(x), np.array(y)
 
@@ -359,11 +359,11 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
+        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20), activation='tanh'))
         model.add(Dropout(drop))
         # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='relu'))
-        model.add(Dense(Nin, activation='relu'))
+        model.add(LSTM(Nin * 20, activation='tanh'))
+        model.add(Dense(Nin, activation='tanh'))
         model.add(Dense(1))
         model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
@@ -385,13 +385,13 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
                 predict = predict[0][0]
                 predictArray.append(predict)
                 # kar.append(predict)
-                if i < len(stock) - 1:
-                    difference = abs(predict - stock[i + 1]) / closeData
+                if i < len(stock) - 3:
+                    difference = abs(predict - stock[i + 3]) / closeData
                     errors.append(difference)
                     #print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if (stock[i + 1] > arry[0][-1] and (predict > closeData)) or \
-                            (stock[i + 1] < arry[0][-1] and predict < closeData):
+                    if (stock[i + 3] > arry[0][-1] and (predict > closeData)) or \
+                            (stock[i + 3] < arry[0][-1] and predict < closeData):
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         #correct_margin_array.append(predict - .5)
@@ -433,33 +433,34 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
     return cuml
 
 ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+#ticker = ["BTC-XMR"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf1_tanhEdition_4.18.17_1dx0.8_1intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mltf1_tanhEdition_4.28.17_1dx0.8_3intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing:", file)
 
-#opts = ['Adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Adamax', 'Nadam']
-opts = ['Adamax']
+#opts = ['Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
+opts = ['Adamax', 'adam']
 errs = ['mean_absolute_error']
 #errs = ['binary_crossentropy']
-#nins = np.arange(1, 21, step=4)
-nins = [1, 5, 10]
-#nins = [1]
-batchs = [10, 100]
+#nins = np.arange(1, 15, step=3)
+nins = [5, 10]
+#nins = [10]
+batchs = [10]
 #batchs = [10, 100]
-#epochs = np.arange(100, 600, step=100)
-drops = [0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
-#drops = [0.1]
-epochs = [100]
+epoch_scalars = np.arange(5, 16, step=5)
+#epoch_scalars = [20]
+#drops = [0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
+drops = [0.2]
 
 #nins = [300]; batchs = [50]; epochs = [100];
 
@@ -468,9 +469,9 @@ for i in range(len(errs)):
         for j in range(len(batchs)):
             for d in range(len(drops)):
                 for m in range(len(nins)):
-                    for k in range(len(epochs)):
-                        print(nins[m], drops[d], errs[i], opts[l], epochs[k], batchs[j])
-                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
+                    for k in range(len(epoch_scalars)):
+                        print(nins[m], drops[d], errs[i], opts[l], nins[m] * epoch_scalars[k], batchs[j])
+                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, nins[m] * epoch_scalars[k], batchs[j])
                         # try:
                         #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
                         # except:

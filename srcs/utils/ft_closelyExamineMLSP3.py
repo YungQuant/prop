@@ -256,7 +256,7 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
     with open(tik[0], 'r') as f:
         stock1 = f.readlines()
     f.close()
-    for i, stocks in enumerate(stock1[-28880:]):
+    for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; err =[];
     kar = []; dar = []; cumld = [1.0]; kar1 = []; dar1 = []; Kvl = np.zeros(2)
@@ -267,29 +267,29 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
     stockBought = False
     stopLoss = False
     bull = 0; shit = 0; maxP = 0;
-    X, Y = create_dataset(stock[:int(np.floor(len(stock) * 0.9))], look_back=lookback)
+    X, Y = create_dataset(stock[:int(np.floor(len(stock) * 0.5))], look_back=lookback)
     R = Ridge(alpha=0.001, fit_intercept=True, normalize=True)
     R.fit(X, Y)
     for i, closeData in enumerate(stock):
         arr.append(closeData)
-        if i >= int(np.floor(len(stock) * 0.9)) + lookback + 1:
+        if i >= int(np.floor(len(stock) * 0.5)) + lookback + 1:
             arry = arr[-lookback:]
             p = R.predict(arry)
             kar.append(p)
             kar1.append(closeData)
             if i < len(stock) - 1:
-                err.append(abs(p - stock[i + 1]))
-            #     print("predicted:", p, "actual:", stock[i + 1])
-            #     print("prediction error:", abs(p - stock[i + 1]))
+                err.append(abs(p - stock[i + 1]) / stock[i])
+                # print("predicted:", p, "actual:", stock[i + 1])
+                # print("prediction percent error:", abs(p - stock[i + 1]) / stock[i])
             if stockBought == True and closeData > maxP:
                 maxP = closeData
-            if ((p < closeData) and (stockBought == False and stopLoss == False)):
+            if ((p > closeData) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
                 bull += 1
                 stockBought = True
             if stockBought == True and closeData > maxP:
                 maxP = closeData
-            if ((p > closeData) and stockBought == True):
+            if ((p < closeData) and stockBought == True):
                 sell.append(closeData * (1-tradeCost))
                 maxP = 0
                 shit += 1
@@ -300,7 +300,7 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
                 shit += 1
                 stockBought = False
                 stopLoss = True
-            if ((p > closeData) and stopLoss == True):
+            if ((p < closeData) and stopLoss == True):
                 stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
@@ -323,12 +323,12 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
             print(tik)
             print("len:", len(perc), "cuml:", cuml)
             print("lookback:", lookback)
-            print("average error:", avgError)
-            print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
+            print("average percent error:", avgError)
+            #print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
 
-    # plot2(kar1, kar)
-    # plot(perc)
-    # plot(cumld)
+    plot2(kar1, kar)
+    plot(perc)
+    plot(cumld)
     return cuml
 
 
@@ -337,14 +337,15 @@ def fucking_paul(tik, lookback, save_max, bitchCunt, tradeCost):
 #ticker = ['BCHARTS/BITSTAMPUSD']
 #ticker = ["GBPJPY", "EURNZD"]
 #ticker = ["MNKD", "RICE", "FNBC", "RTRX", "PTLA", "EGLT", "OA"]
-ticker = ["BTC_ETH"]
+ticker = ["BTC-DASH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
+    #fileTicker.append("../../data/" + tick + ".txt")
     #fileOutput.append("../../output/" + tick + "_RidgeRegressionX0.666_1intervalPrediction_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_RidgeRegressionX0.9_output.txt")
@@ -353,9 +354,10 @@ for i, tick in enumerate(ticker):
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
-        fileWrite = open(file, 'w')
-        print("downloading", file, "data")
-        dataset = CryptoQuote1(ticker[i]).close
+        print("missing file", file)
+        #fileWrite = open(file, 'w')
+        #print("downloading", file, "data")
+        #dataset = CryptoQuote1(ticker[i]).close
         #dataset = GoogleIntradayQuote(ticker[i]).close
 
         # data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
@@ -371,11 +373,11 @@ for i, file in enumerate(fileTicker):
         #     dataset[ik] = tick[i]['Close']
         #     i -= 1
         #     ik += 1
-        for i, close in enumerate(dataset):
-            fileWrite.write(str(close))
-            fileWrite.write('\n')
+        # for i, close in enumerate(dataset):
+        #     fileWrite.write(str(close))
+        #     fileWrite.write('\n')
 
 #pillowcaseAssassination(fileTicker, 10, fileOutput, save_max=1.01, max_len=20000, bitchCunt=0.01, tradeCost=0.0025)
 
 
-fucking_paul(fileTicker, 30, save_max=1.01, bitchCunt=0.09, tradeCost=0.0025)
+fucking_paul(fileTicker, 3, save_max=1.0, bitchCunt=0.0026, tradeCost=0.0025)

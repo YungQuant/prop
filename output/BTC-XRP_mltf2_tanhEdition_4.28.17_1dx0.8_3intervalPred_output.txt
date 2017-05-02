@@ -1,0 +1,56 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-XRP_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	50
+errorCalc:0
+meanPredict:0.721705
+
+Described Diff:
+DescribeResult(nobs=12102, minmax=(0.71742111, 0.75917047), mean=0.7217055, variance=8.3015831e-05, skewness=2.9533703327178955, kurtosis=7.735729359633076)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.442350607488
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-XRP_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	100
+errorCalc:2
+meanPredict:0.727938
+
+Described Diff:
+DescribeResult(nobs=12102, minmax=(-0.28264681, 0.72906131), mean=0.72793847, variance=0.00020928938, skewness=-47.586429595947266, kurtosis=3020.223887436838)
+dropout:	0.2
+opt:	adam
+errors:	2
+mean inverse error:	0.442267956029
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-XRP_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	150
+errorCalc:0
+meanPredict:0.720522
+
+Described Diff:
+DescribeResult(nobs=12102, minmax=(0.60265136, 0.72082955), mean=0.72052199, variance=1.6925838e-05, skewness=-22.636850357055664, kurtosis=576.5624307024364)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.442350607488
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/BTC-XRP_buy_books.txt
+N in:	10
+numBatch:	10
+numEpoch:	100
+errorCalc:0
+meanPredict:0.73041
+
+Described Diff:
+DescribeResult(nobs=12102, minmax=(0.30574521, 0.86911631), mean=0.73040962, variance=0.0015209962, skewness=-4.86984395980835, kurtosis=35.16302144967887)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.438548640384
+

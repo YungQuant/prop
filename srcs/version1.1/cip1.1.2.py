@@ -200,7 +200,7 @@ def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
         desc = sp.describe(perc)
         file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
-    file.write("\n\n [BBbreak, static bitchcunt distance] Cumulative Diff:\t")
+    file.write("\n\n [BBbreak/cip1.1.2, static bitchcunt distance] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -269,14 +269,18 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
         perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
         cuml += cuml * perc[i]
-
-    print(tik, "cuml:", cuml)
+        cumld.append(cuml)
 
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
-    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
-    # plot(perc)
-    # plot2(s1ar, s2ar)
+        print(tik)
+        print("len:", len(perc), "cuml:", cuml)
+        print("bitchCunt:", bitchCunt)
+        print("Kin:", Kin, "Din:", Din)
+        print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
+        #DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+        # plot(perc)
+        # plot(cumld)
     return cuml
 
 def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
@@ -287,25 +291,28 @@ def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bit
 
 
 #ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-ticker = ['BCHARTS/BITSTAMPUSD']
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+#ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     # fileTicker.append("../../data/" + tick + ".txt")
-    # fileOutput.append("../../output/" + tick + "_output.txt")
-    fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
-    fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1.2_4.18.17data_output.txt")
+    # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
+    # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
-        fileWrite = open(file, 'w')
-        #dataset = CryptoQuote1(ticker[i]).close
-        data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
-        data = np.array(data)
-        for i in range(len(data)):
-            if float(data[i][-6:]) > 0:
-                dataset.append(float(data[i][-6:]))
+        print("missing file:", file)
+        # fileWrite = open(file, 'w')
+        # #dataset = CryptoQuote1(ticker[i]).close
+        # data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
+        # data = np.array(data)
+        # for i in range(len(data)):
+        #     if float(data[i][-6:]) > 0:
+        #         dataset.append(float(data[i][-6:]))
         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         # dataset = np.zeros(len(tick))
         # i = len(tick) - 1
@@ -314,15 +321,15 @@ for i, file in enumerate(fileTicker):
         #     dataset[ik] = tick[i]['Close']
         #     i -= 1
         #     ik += 1
-        for i, close in enumerate(dataset):
-            fileWrite.write(str(close))
-            fileWrite.write('\n')
+        # for i, close in enumerate(dataset):
+        #     fileWrite.write(str(close))
+        #     fileWrite.write('\n')
 
 #fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
 
 def run():
-    k1 = 2; k2 = 300
+    k1 = 61; k2 = 300
     l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30

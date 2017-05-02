@@ -198,7 +198,7 @@ def write_that_shit(log, tick, kin, din, perc, cuml, bitchCunt):
     # file.write(str(perc))
     # file.write("\n\nDescribed Diff:\n")
     # file.write(str(desc))
-    file.write("\n\n[rsi:sma] Cumulative Diff:\t")
+    file.write("\n\n[bbmomma:sma] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -215,7 +215,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
-    for i, stocks in enumerate(stock1[-88640:]):
+    for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
@@ -228,7 +228,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i >= int(Din) and i >= int(Kin):
-            Kv = rsiN(arr, int(np.floor(Kin)))
+            Kv = BBmomma(arr, int(np.floor(Kin)))
             kar.append(Kv)
             Dv = SMAn(kar, int(np.floor(Din)))
             #print(Kv, "\n", Dv)
@@ -270,10 +270,13 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i in range(bull):
         cuml += cuml * perc[i]
 
-    print(tik, "len:", len(perc), "cuml:", cuml)
-
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
+        print(tik)
+        print("len:", len(perc), "cuml:", cuml)
+        print("bitchCunt:", bitchCunt)
+        print("Kin:", Kin, "Din:", Din)
+        print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
 # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
     # plot(perc)
     # plot2(s1ar, s2ar)
@@ -288,15 +291,18 @@ def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bit
             for inc, file in enumerate(fileTicker))
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+#ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 #ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_output.txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1_4.28.17data_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
+    # fileTicker.append("../../data/" + tick + ".txt")
+    # fileOutput.append("../../output/" + tick + "_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_stochK<20:sma_output.txt")
 for i, file in enumerate(fileTicker):
@@ -324,8 +330,8 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3
-    k2 = 300
+    k1 = 1112
+    k2 = 3000
     l1 = 2
     l2 = 30
     j1 = 0.000
@@ -341,9 +347,9 @@ def run():
                     print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=20000, bitchCunt=j, tradeCost=0.0025)
                 if (j < 0.01):
-                    j += 0.0035
+                    j += 0.005
                 else:
-                    j *= 1.3
+                    j *= 1.5
             j = j1
             if (i < 10):
                 i += 1
@@ -352,11 +358,11 @@ def run():
         i = l1
         if (k < 10):
             k += 1
-        elif (k < 1000):
+        elif (k < 100):
             k *= 1.2
         elif (k < 2000):
             k *= 1.05
         else:
-            k *= 1.01
+            k *= 1.02
 
 run()

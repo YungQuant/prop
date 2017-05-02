@@ -6,6 +6,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
+from sklearn import svm
 from sklearn.metrics import mean_squared_error
 import yahoo_finance
 import numpy as np
@@ -244,9 +245,9 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     lookback *= 10
     x, y = [], []
     k = 0
-    while k < (len(buy_arr) - lookback):
+    while k < (len(buy_arr) - lookback - 20):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        y.append(np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]))
+        y.append(np.mean([float(sell_arr[k + lookback + 20]), float(buy_arr[k + lookback + 20])]))
         k += 2
     return np.array(x), np.array(y)
 
@@ -254,10 +255,10 @@ def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
     lookback *= 10
     x, y = [], []
     k = 2
-    while k < (len(buy_arr) - lookback - 6):
+    while k < (len(buy_arr) - lookback - 2):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        if np.mean([float(sell_arr[k + lookback + 6]),
-                    float(buy_arr[k + lookback + 6])]) >= np.mean([float(sell_arr[(k + lookback) - 2]),
+        if np.mean([float(sell_arr[k + lookback]),
+                    float(buy_arr[k + lookback])]) >= np.mean([float(sell_arr[(k + lookback) - 2]),
                                                               float(buy_arr[(k + lookback) - 2])]):
             y.append(1)
         else:
@@ -298,7 +299,7 @@ def books2arrays(buy_tick, sell_tick):
     sf.close()
     return buy_arr, sell_arr
 
-def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, err, diff):
+def write_that_shit(log, tick, Nin, predicts, diff, errorArry):
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -308,34 +309,22 @@ def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, err, d
     file.write(tick)
     file.write("\nN in:\t")
     file.write(str(int(np.floor(Nin))))
-    file.write("\nnumBatch:\t")
-    file.write(str(int(np.floor(numBatch))))
-    file.write("\nnumEpoch:\t")
-    file.write(str(numEpoch))
-    file.write("\nerrorCalc:")
-    file.write(str(err))
     file.write("\nmeanPredict:")
     file.write(str(np.mean(predicts)))
+    file.write("\nmean percent error:\t")
+    file.write(str(np.mean(errorArry)))
     if len(predicts) > 10:
         desc = sp.describe(predicts)
         file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
-    file.write("\ndropout:\t")
-    file.write(str(d))
-    file.write("\nopt:\t")
-    file.write(str(opt))
-    file.write("\nerrors:\t")
-    file.write(str(err))
     file.write("\nmean inverse error:\t")
     file.write(str(np.mean(diff)))
-    file.write("\n\n")
-    # file.write("\nerror variance:\t")
-    # file.write(str(np.var(diff)))
+    file.write("\n")
     # file.write("\nerror kurtosis:\t")
     # file.write(str(scipy.stats.kurtosis(diff, fisher=True)))
     file.close()
 
-def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
+def fucking_peter(tick, Nin, log):
     cuml, stock = [], []
     jj = 0
     while jj < len(tick) - 1:
@@ -347,83 +336,72 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         arr = []; predictArray = []; errorCnt = 0; correct_margin_array = []; false_margin_array = [];
         buy = [];sell = []; diff = []; perc = []; desc = []; kar = []; dar = []; cumld = [];
         shortDiff = []; stockBought = False; stopLoss = False; bull = 0; shit = 0; maxP = 0;
+        errorArry = []
         scaler = MinMaxScaler(feature_range=(-1, 1))
         cuml.append(1)
         buys, sells = books2arrays(tick[jj], tick[jj + 1])
-        trainX, trainY = create_binary_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
+        trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
                                                               sells[:int(np.floor(len(sells) * 0.8))], Nin)
         #print("training x[-2:], y[-2:]", trainX[-2:], trainY[-2:])
         # dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
         # dataset = stock[:int(np.floor(len(stock) * .95))]
-        trainX = scaler.fit_transform(trainX)
-        trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+        #trainX = scaler.fit_transform(trainX)
+        model = svm.SVR()
+        model.fit(trainX, trainY)
 
-        model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
-        model.add(Dropout(drop))
-        # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='tanh'))
-        model.add(Dense(Nin, activation='tanh'))
-        model.add(Dense(1, activation='tanh'))
-        model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
-        model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             if i > int(np.floor(len(stock) * .8)):
                 # print("\n\ninput array:", arr)
                 arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
-                arry = scaler.fit_transform(arry)
+                #arry = scaler.fit_transform(arry)
                 # arry = arr[-Nin:]
-                arry = np.reshape(arry, (1, 1, len(arry)))
+                #arry = np.reshape(arry, (1, 1, len(arry)))
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 predict = model.predict(arry)
                 # invert predictions
-                arry = np.reshape(arry, (1, len(arry[0][0])))
-                arry = scaler.inverse_transform(arry)
+                #arry = np.reshape(arry, (1, len(arry[0][0])))
+                #arry = scaler.inverse_transform(arry)
                 #predict = scaler.inverse_transform(predict)
-                predict = predict[0][0]
                 predictArray.append(predict)
                 if predict > 1 or predict < 0: errorCnt += 1
                 # kar.append(predict)
-                if i < len(stock) - 3:
-                    # difference = arry[0][Nin - 1] - stock[i + 1]
+                if i < len(stock) - 10:
+                    difference = abs(predict - stock[i + 10]) / closeData
+                    errorArry.append(difference)
                     # print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if stock[i + 3] > stock[i] and (predict > .5):
+                    if stock[i + 10] > stock[i] and (predict > closeData) or \
+                                            stock[i + 10] < stock[i] and (predict < closeData):
                         diff.append(1)
-                        #print("correct, margin:", predict - .5)
-                        correct_margin_array.append(predict - .5)
+                        # print("correct, margin:", predict - .5)
+                        #correct_margin_array.append(predict - .5)
                     else:
                         diff.append(0)
-                        #print("incorrect, margin:", predict - .5)
-                        false_margin_array.append(predict - .5)
-                # if i > 100:
-                # plot(trainPredict)
+                        # print("incorrect, margin:", predict - .5)
+                        #false_margin_array.append(predict - .5)
+                        # if i > 100:
+                        # plot(trainPredict)
 
-                # print("predicted:", kar)
-                # calculate root mean squared error
+                        # print("predicted:", kar)
+                        # calculate root mean squared error
 
         # print("errors:", diff)
-        print("tik:", tick[jj], "\n",
-              "Nin:", Nin, "\n",
-              "numEpoch:", numEpoch, "\n",
-              "numBatch:", numBatch, "\n",
-              "opt:", opt, "\n",
-              "err:", err, "\n",
-              "dropout:", drop)
-        if errorCnt > 0: print("tengo", errorCnt, "problemas)")
-        print("avg prediction:", np.mean(predictArray))
-        print("mean inverse error (% correct):", np.mean(diff))
-        print("mean correct margin:", np.mean(correct_margin_array))
-        print("mean error margin:", np.mean(false_margin_array))
-        print("described:", sp.describe(predictArray))
-        print("\n\n")
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(diff) > 0.4 and np.mean(predictArray) > 0 and errorCnt < 1000:
-            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray, numEpoch, numBatch, opt, errorCnt, diff)
+        if np.mean(errorArry) < 0.02 and errorCnt < 1000:
+            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], Nin, predictArray, diff, errorArry)
+            print("tik:", tick[jj], "\n",
+                  "Nin:", Nin)
+            if errorCnt > 0: print("tengo", errorCnt, "problemas)")
+            print("avg prediction:", np.mean(predictArray))
+            print("mean inverse directional error (% correct):", np.mean(diff))
+            print("mean percent error:", np.mean(errorArry))
+            print("described:", sp.describe(predictArray))
+            print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
+            print("\n\n")
         jj += 3
 
 
@@ -435,38 +413,24 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_4.28.17_1dx0.8_3intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mltf3.1.2_4.18.17_1dx0.8_10intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing:", file)
 
 
-#opts = ['Adam', 'Adamax', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
-opts = ['adam', 'Adamax']
-#errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
-errs = ['binary_crossentropy']
-#nins = np.arange(1, 21, step=4)
-nins = [5, 10]
-#batchs = np.arange(5, 50, step=5)
-epoch_scalars = [10, 20, 30]
-batchs = [10]
-drops = [0.2, 0.4]
 
-#nins = [300]; batchs = [50]; epochs = [100];
+nins = np.arange(30, 300, step=30)
 
-for j in range(len(batchs)):
-    for l in range(len(opts)):
-        for i in range(len(errs)):
-            for d in range(len(drops)):
-                for m in range(len(nins)):
-                    for k in range(len(epoch_scalars)):
-                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, nins[m] * epoch_scalars[k], batchs[j])
-                        # try:
-                        #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
-                        # except:
-                        #     print("NOT GOOD")
+
+for m in range(len(nins)):
+        fucking_peter(fileTicker, nins[m], fileOutput)
+        # try:
+        #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
+        # except:
+        #     print("NOT GOOD")
 #fucking_peter(fileTicker, 75, 'mean_absolute_error', 'sgd', fileOutput, fileCuml, 30, 10)
