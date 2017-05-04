@@ -39,6 +39,7 @@ Simple usage example:
   # Parse a json format string to proto object.
   message = json_format.Parse(json_string, my_proto_pb2.MyMessage())
 """
+from srcs.datatypes.orderbook import add
 
 __author__ = 'jieluo@google.com (Jie Luo)'
 
@@ -475,7 +476,7 @@ class _Parser(object):
           if field.cpp_type == descriptor.FieldDescriptor.CPPTYPE_MESSAGE:
             # Repeated message field.
             for item in value:
-              sub_message = getattr(message, field.name).add()
+              sub_message = add()
               # None is a null_value in Value.
               if (item is None and
                   sub_message.DESCRIPTOR.full_name != 'google.protobuf.Value'):

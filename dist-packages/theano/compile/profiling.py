@@ -883,7 +883,7 @@ class ProfileStats(object):
                 global mem_count, mem_bound, max_mem_count
 
                 for node in executable_nodes:
-                    new_exec_nodes = executable_nodes.copy()
+                    new_exec_nodes = executable_nodes
                     new_exec_nodes.remove(node)
 
                     # Check if cut path now

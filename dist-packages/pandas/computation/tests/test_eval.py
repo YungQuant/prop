@@ -921,7 +921,7 @@ class TestAlignment(object):
                 res = pd.eval('df + s', engine=engine, parser=parser)
 
             if r_idx_type == 'dt' or c_idx_type == 'dt':
-                expected = df.add(s) if engine == 'numexpr' else df + s
+                expected = add(s) if engine == 'numexpr' else df + s
             else:
                 expected = df + s
             assert_frame_equal(res, expected)
@@ -952,7 +952,7 @@ class TestAlignment(object):
                 res = pd.eval('s + df', engine=engine, parser=parser)
 
             if r_idx_type == 'dt' or c_idx_type == 'dt':
-                expected = df.add(s) if engine == 'numexpr' else s + df
+                expected = add(s) if engine == 'numexpr' else s + df
             else:
                 expected = s + df
             assert_frame_equal(res, expected)
@@ -1028,7 +1028,7 @@ class TestAlignment(object):
 
                 if r2 == 'dt' or c2 == 'dt':
                     if engine == 'numexpr':
-                        expected2 = df2.add(s)
+                        expected2 = add(s)
                     else:
                         expected2 = df2 + s
                 else:
@@ -1036,7 +1036,7 @@ class TestAlignment(object):
 
                 if r1 == 'dt' or c1 == 'dt':
                     if engine == 'numexpr':
-                        expected = expected2.add(df)
+                        expected = add(df)
                     else:
                         expected = expected2 + df
                 else:

@@ -359,12 +359,12 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20), activation='tanh'))
-        model.add(Dropout(drop))
+        add(Dense(Nin * 20, input_shape=(1, Nin * 20), activation='tanh'))
+        add(Dropout(drop))
         # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='tanh'))
-        model.add(Dense(Nin, activation='tanh'))
-        model.add(Dense(1))
+        add(LSTM(Nin * 20, activation='tanh'))
+        add(Dense(Nin, activation='tanh'))
+        add(Dense(1))
         model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 

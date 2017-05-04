@@ -677,7 +677,7 @@ class MergeFeature(object):
         else:
             self.nodes_seen.add(node)
             if not node.inputs:
-                self.noinput_nodes.add(node)
+                add(node)
 
     def get_merged_assert_input(self, node, candidate):
         new_inputs = []
