@@ -372,7 +372,8 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
             arr.append(closeData)
             if i > int(np.floor(len(stock) * .8)):
                 # print("\n\ninput array:", arr)
-                arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
+                new_i = i * 10
+                arry = sells[new_i - Nin * 10:new_i] + buys[new_i - Nin * 10:new_i]
                 arry = scaler.fit_transform(arry)
                 # arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))

@@ -146,11 +146,16 @@ def BBmomma(arr, Kin):
     else:
         return 0.5
 
-def  getNum(str):
+
+def getNum(str):
     tmp = ""
     for i, l in enumerate(str):
         if l.isnumeric() or l == ".":
             tmp += l
+
+    if str[-4:].find('e-') > 0 or str[-4:].find('e+') > 0:
+        tmp += str[-3:]
+
     return float(tmp)
 
 def CryptoQuote1(the_symbol):

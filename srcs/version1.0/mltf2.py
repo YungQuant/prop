@@ -200,11 +200,15 @@ class GoogleIntradayQuote(Quote):
             self.append(dt, open_, high, low, close, volume)
 
 
-def  getNum(str):
+def getNum(str):
     tmp = ""
     for i, l in enumerate(str):
         if l.isnumeric() or l == ".":
             tmp += l
+
+    if str[-4:].find('e-') > 0 or str[-4:].find('e+') > 0:
+        tmp += str[-3:]
+
     return float(tmp)
 
 def CryptoQuote1(the_symbol):
@@ -372,7 +376,8 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
             arr.append(closeData)
             if i > int(np.floor(len(stock) * .8)):
                 # print("\n\ninput array:", arr)
-                arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
+                new_i = i * 10
+                arry = sells[new_i - Nin * 10:new_i] + buys[new_i - Nin * 10:new_i]
                 arry = scaler.fit_transform(arry)
                 # arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))
@@ -422,7 +427,7 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(diff) > 0.4 and np.mean(predictArray) > 0 and errorCnt < 1000:
+        if np.mean(diff) > 0.4 and np.mean(predictArray) > 0 and errorCnt < 100:
             write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray, numEpoch, numBatch, opt, errorCnt, diff)
         jj += 3
 

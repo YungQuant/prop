@@ -266,11 +266,16 @@ def books2arrays(buy_tick, sell_tick):
     sf.close()
     return buy_arr, sell_arr
 
+
 def getNum(str):
     tmp = ""
     for i, l in enumerate(str):
         if l.isnumeric() or l == ".":
             tmp += l
+
+    if str[-4:].find('e-') > 0 or str[-4:].find('e+') > 0:
+        tmp += str[-3:]
+
     return float(tmp)
 
 def CryptoQuote1(the_symbol):
@@ -351,7 +356,8 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
             arr.append(closeData)
             if i > int(np.floor(len(stock) * .8) + Nin * 10):
                 #print("\n\ninput array:", arr)
-                arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
+                new_i = i * 10
+                arry = sells[new_i - Nin * 10:new_i] + buys[new_i - Nin * 10:new_i]
                 #arry = scaler.fit_transform(arry)
                 #arry = arr[-Nin:]
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
