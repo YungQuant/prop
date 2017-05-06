@@ -294,12 +294,12 @@ def fucking_peter(tick, Nin, err, opt, log, numEpoch, numBatch):
         #SCALES DATA, FORMATS INTO TRAINING SETS, RESHAPES INTO 3 DIMENSIONS, ADDS ADVANCED PARAMETRIC RELU ACTIVATION FUNCTION
 
         model = Sequential() #MAKES MODEL FRAMEWORK
-        model.add(Dense(Nin, input_shape=(1, Nin))) #ADDS LAYER OF "Nin" NODES/NEURONS/SYNAPSES
-        model.add(act) #ADDS PARAMETRIC RELU ACTIVATION
+        add(Dense(Nin, input_shape=(1, Nin))) #ADDS LAYER OF "Nin" NODES/NEURONS/SYNAPSES
+        add(act) #ADDS PARAMETRIC RELU ACTIVATION
         #model.add(Dropout(0.2, input_shape=(1, Nin))) #ADDS DROPOUT OPTIMIZATION TO AVOID OVERFITTING
-        model.add(LSTM(Nin)) #ADDS LSTM RNN LAYER
-        model.add(Dense(1)) #ADDS SINGLE NODE DENSE OUTPUT LAYER
-        model.add(act) #ADDS PARAMETRIC RELU ACTIVATION TO OUTPUT NODE
+        add(LSTM(Nin)) #ADDS LSTM RNN LAYER
+        add(Dense(1)) #ADDS SINGLE NODE DENSE OUTPUT LAYER
+        add(act) #ADDS PARAMETRIC RELU ACTIVATION TO OUTPUT NODE
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
         #COMPILES MODEL WITH "err" ERROR METRIC, "opt" OPTIMIZATION FUNCTION, AND BINARY_ACCURACY METRIC
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)

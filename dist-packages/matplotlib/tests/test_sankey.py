@@ -11,7 +11,7 @@ from matplotlib.testing.decorators import cleanup
 def test_sankey():
     # lets just create a sankey instance and check the code runs
     sankey = Sankey()
-    sankey.add()
+    add()
 
 
 if __name__ == '__main__':

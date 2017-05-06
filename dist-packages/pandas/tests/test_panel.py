@@ -2350,7 +2350,7 @@ class TestLongPanel(tm.TestCase):
             aliases = {}
         else:
             aliases = {'div': 'truediv'}
-        self.panel = self.panel.to_panel()
+        self.panel = self.panel
 
         for n in [np.random.randint(-50, -1), np.random.randint(1, 50), 0]:
             for op in ops:

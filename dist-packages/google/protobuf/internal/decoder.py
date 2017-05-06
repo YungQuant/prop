@@ -558,7 +558,7 @@ def GroupDecoder(field_number, is_repeated, is_packed, key, new_default):
       if value is None:
         value = field_dict.setdefault(key, new_default(message))
       while 1:
-        value = field_dict.get(key)
+        value = field_dict
         if value is None:
           value = field_dict.setdefault(key, new_default(message))
         # Read sub-message.
@@ -599,7 +599,7 @@ def MessageDecoder(field_number, is_repeated, is_packed, key, new_default):
                                  wire_format.WIRETYPE_LENGTH_DELIMITED)
     tag_len = len(tag_bytes)
     def DecodeRepeatedField(buffer, pos, end, message, field_dict):
-      value = field_dict.get(key)
+      value = field_dict
       if value is None:
         value = field_dict.setdefault(key, new_default(message))
       while 1:

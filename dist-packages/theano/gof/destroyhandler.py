@@ -8,6 +8,8 @@ from collections import deque
 from six import iteritems
 
 import theano
+
+from srcs.datatypes.orderbook import add
 from . import toolbox
 from . import graph
 from theano.compat import OrderedDict
@@ -213,7 +215,7 @@ def _build_droot_impact(destroy_handler):
             while not queue.empty():
                 v = queue.get()
                 for n in destroy_handler.view_o.get(v, []):
-                    input_impact.add(n)
+                    add(n)
                     queue.put(n)
 
             for v in input_impact:
@@ -382,7 +384,7 @@ if 0:
 
             # If it's a destructive op, add it to our watch list
             if getattr(app.op, 'destroy_map', {}):
-                self.destroyers.add(app)
+                add(app)
 
             # add this symbol to the forward and backward maps
             for o_idx, i_idx_list in iteritems(getattr(app.op, 'view_map', {})):
@@ -393,7 +395,7 @@ if 0:
                 o = app.outputs[o_idx]
                 i = app.inputs[i_idx_list[0]]
                 self.view_i[o] = i
-                self.view_o.setdefault(i, OrderedSet()).add(o)
+                self.view_o.add(o)
 
             # update self.clients
             for i, input in enumerate(app.inputs):
@@ -478,7 +480,7 @@ if 0:
                         if not self.view_o[old_r]:
                             del self.view_o[old_r]
 
-                        self.view_o.setdefault(new_r, OrderedSet()).add(output)
+                        self.view_o.add(output)
 
             self.stale_droot = True
 
@@ -582,7 +584,7 @@ if 0:
                         tolerated = OrderedSet(idx1 for idx0, idx1 in
                                                tolerate_same
                                                if idx0 == destroyed_idx)
-                        tolerated.add(destroyed_idx)
+                        add(destroyed_idx)
                         tolerate_aliased = getattr(
                             app.op, 'destroyhandler_tolerate_aliased', [])
                         assert isinstance(tolerate_aliased, list)
@@ -783,12 +785,12 @@ class DestroyHandler(toolbox.Bookkeeper):  # noqa
 
         if app in self.debug_all_apps:
             raise ProtocolError("double import")
-        self.debug_all_apps.add(app)
+        add(app)
         # print 'DH IMPORT', app, id(app), id(self), len(self.debug_all_apps)
 
         # If it's a destructive op, add it to our watch list
         if getattr(app.op, 'destroy_map', {}):
-            self.destroyers.add(app)
+            add(app)
 
         # add this symbol to the forward and backward maps
         for o_idx, i_idx_list in iteritems(getattr(app.op, 'view_map', {})):
@@ -799,7 +801,7 @@ class DestroyHandler(toolbox.Bookkeeper):  # noqa
             o = app.outputs[o_idx]
             i = app.inputs[i_idx_list[0]]
             self.view_i[o] = i
-            self.view_o.setdefault(i, OrderedSet()).add(o)
+            self.view_o.add(o)
 
         # update self.clients
         for i, input in enumerate(app.inputs):
@@ -887,7 +889,7 @@ class DestroyHandler(toolbox.Bookkeeper):  # noqa
                     if not self.view_o[old_r]:
                         del self.view_o[old_r]
 
-                    self.view_o.setdefault(new_r, OrderedSet()).add(output)
+                    self.view_o.add(output)
 
         self.stale_droot = True
 
@@ -994,7 +996,7 @@ class DestroyHandler(toolbox.Bookkeeper):  # noqa
                     assert isinstance(tolerate_same, list)
                     tolerated = OrderedSet(idx1 for idx0, idx1 in tolerate_same
                                            if idx0 == destroyed_idx)
-                    tolerated.add(destroyed_idx)
+                    add(destroyed_idx)
                     tolerate_aliased = getattr(
                         app.op, 'destroyhandler_tolerate_aliased', [])
                     assert isinstance(tolerate_aliased, list)

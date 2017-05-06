@@ -12,6 +12,9 @@ import logging
 import os
 import posixpath
 import re
+
+from srcs.datatypes.orderbook import add
+
 try:
     import threading
 except ImportError:  # pragma: no cover
@@ -20,12 +23,12 @@ import zlib
 
 from . import DistlibException
 from .compat import (urljoin, urlparse, urlunparse, url2pathname, pathname2url,
-                     queue, quote, unescape, string_types, build_opener,
+                     queue, quote, unescape, build_opener,
                      HTTPRedirectHandler as BaseRedirectHandler, text_type,
                      Request, HTTPError, URLError)
 from .database import Distribution, DistributionPath, make_dist
 from .metadata import Metadata
-from .util import (cached_property, parse_credentials, ensure_slash,
+from .util import (cached_property, ensure_slash,
                    split_filename, get_project_data, parse_requirement,
                    parse_name_and_version, ServerProxy, normalize_name)
 from .version import get_scheme, UnsupportedVersionError
@@ -329,7 +332,7 @@ class Locator(object):
         result['digests'][url] = digest
         if md.source_url != info['url']:
             md.source_url = self.prefer_url(md.source_url, url)
-            result['urls'].setdefault(version, set()).add(url)
+            result['urls'].add(url)
         dist.locator = self
         result[version] = dist
 
@@ -437,7 +440,7 @@ class PyPIRPCLocator(Locator):
                 for info in urls:
                     url = info['url']
                     digest = self._get_digest(info)
-                    result['urls'].setdefault(v, set()).add(url)
+                    result['urls'].add(url)
                     result['digests'][url] = digest
         return result
 
@@ -476,9 +479,9 @@ class PyPIJSONLocator(Locator):
             result[md.version] = dist
             for info in d['urls']:
                 url = info['url']
-                dist.download_urls.add(url)
+                add(url)
                 dist.digests[url] = self._get_digest(info)
-                result['urls'].setdefault(md.version, set()).add(url)
+                result['urls'].add(url)
                 result['digests'][url] = self._get_digest(info)
             # Now get other releases
             for version, infos in d['releases'].items():
@@ -492,9 +495,9 @@ class PyPIJSONLocator(Locator):
                 result[version] = odist
                 for info in infos:
                     url = info['url']
-                    odist.download_urls.add(url)
+                    add(url)
                     odist.digests[url] = self._get_digest(info)
-                    result['urls'].setdefault(version, set()).add(url)
+                    result['urls'].add(url)
                     result['digests'][url] = self._get_digest(info)
 #            for info in urls:
 #                md.source_url = info['url']
@@ -913,7 +916,7 @@ class JSONLocator(Locator):
                 md.dependencies = info.get('requirements', {})
                 dist.exports = info.get('exports', {})
                 result[dist.version] = dist
-                result['urls'].setdefault(dist.version, set()).add(info['url'])
+                result['urls'].add(info['url'])
         return result
 
 class DistPathLocator(Locator):

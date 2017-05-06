@@ -348,12 +348,12 @@ def fucking_paul(tick, Nin, log, save_max, max_len, bitchCunt, tradeCost):
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
+        add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
         #model.add(Dropout(0.2, input_shape=(1, Nin)))
         #model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='relu'))
-        model.add(Dense(Nin, activation='relu'))
-        model.add(Dense(1, activation='relu'))
+        add(LSTM(Nin * 20, activation='relu'))
+        add(Dense(Nin, activation='relu'))
+        add(Dense(1, activation='relu'))
         model.compile(loss='mean_squared_error', optimizer='Adam', metrics=['accuracy'])
         model.fit(trainX, trainY, nb_epoch=30, batch_size=50, verbose=0)
 

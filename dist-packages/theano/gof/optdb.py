@@ -113,8 +113,8 @@ multiple time in a DB. Tryed to register "%s" again under the new name "%s".
 
                 replacement = obj.query(sq)
                 replacement.name = obj.name
-                remove.add(obj)
-                add.add(replacement)
+                add(obj)
+                add(replacement)
         variables.difference_update(remove)
         variables.update(add)
         return variables
@@ -322,7 +322,7 @@ class SequenceDB(DB):
             Only optimizations with position less than the cutoff are returned.
 
         """
-        opts = super(SequenceDB, self).query(*tags, **kwtags)
+        opts = super(SequenceDB, self)
 
         position_cutoff = kwtags.pop('position_cutoff',
                                      config.optdb.position_cutoff)

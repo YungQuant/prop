@@ -253,9 +253,9 @@ def fucking_paul(tick, Nin, log, fcuml, save_min, save_max, max_len, bitchCunt, 
                 arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 # create and fit the LSTM network
                 model = Sequential()
-                model.add(Dropout(0.2, input_shape=(1, Nin)))
-                model.add(LSTM(4, input_dim=Nin))
-                model.add(Dense(1))
+                add(Dropout(0.2, input_shape=(1, Nin)))
+                add(LSTM(4, input_dim=Nin))
+                add(Dense(1))
                 model.compile(loss='mean_absolute_error', optimizer='Adam')
                 model.fit(trainX, trainY, nb_epoch=42, batch_size=10, verbose=0)
                 # make predictions

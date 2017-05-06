@@ -3774,7 +3774,7 @@ class BlockManager(PandasObject):
         for blkno, count in _fast_count_smallints(self._blknos[loc:]):
             blk = self.blocks[blkno]
             if count == len(blk.mgr_locs):
-                blk.mgr_locs = blk.mgr_locs.add(1)
+                blk.mgr_locs = blk.mgr_locs
             else:
                 new_mgr_locs = blk.mgr_locs.as_array.copy()
                 new_mgr_locs[new_mgr_locs >= loc] += 1
@@ -3976,7 +3976,7 @@ class BlockManager(PandasObject):
         offset = self.shape[0]
         for blk in other.blocks:
             blk = blk.copy(deep=False)
-            blk.mgr_locs = blk.mgr_locs.add(offset)
+            blk.mgr_locs = blk.mgr_locs
             new_blocks.append(blk)
 
         new_axes = list(self.axes)

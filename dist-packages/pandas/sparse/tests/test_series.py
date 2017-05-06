@@ -820,7 +820,7 @@ class TestSparseSeries(tm.TestCase, SharedWithSparse):
         # GH12723
         s = SparseSeries([0, 1, np.nan, 3, 4, 5], index=np.arange(6))
 
-        exp = s.fillna(0).add(2)
+        exp = s.add(2)
         res = s.add(2, fill_value=0)
         self.assert_series_equal(res, exp)
 

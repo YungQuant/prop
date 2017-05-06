@@ -467,7 +467,7 @@ class FieldMaskTest(unittest.TestCase):
         repeated_msg = getattr(msg, field_name)
         if field.cpp_type == descriptor.FieldDescriptor.CPPTYPE_MESSAGE:
           for item in repeated_src:
-            repeated_msg.add().CopyFrom(item)
+            add().CopyFrom(item)
         else:
           repeated_msg.extend(repeated_src)
       elif field.cpp_type == descriptor.FieldDescriptor.CPPTYPE_MESSAGE:

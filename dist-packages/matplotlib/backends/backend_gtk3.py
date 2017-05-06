@@ -388,7 +388,7 @@ class FigureManagerGTK3(FigureManagerBase):
         if _debug: print('FigureManagerGTK3.%s' % fn_name())
         FigureManagerBase.__init__(self, canvas, num)
 
-        self.window = Gtk.Window()
+        self.window = Gtk
         self.set_window_title("Figure %d" % num)
         try:
             self.window.set_icon_from_file(window_icon)
@@ -581,7 +581,7 @@ class NavigationToolbar2GTK3(NavigationToolbar2, Gtk.Toolbar):
         toolitem.set_draw(False)
         toolitem.set_expand(True)
 
-        toolitem = Gtk.ToolItem()
+        toolitem = Gtk
         self.insert(toolitem, -1)
         self.message = Gtk.Label()
         toolitem.add(self.message)
@@ -625,7 +625,7 @@ class NavigationToolbar2GTK3(NavigationToolbar2, Gtk.Toolbar):
         h = int (toolfig.bbox.height)
 
 
-        window = Gtk.Window()
+        window = Gtk
         try:
             window.set_icon_from_file(window_icon)
         except (SystemExit, KeyboardInterrupt):
@@ -886,7 +886,7 @@ class ConfigureSubplotsGTK3(backend_tools.ConfigureSubplotsBase, Gtk.Window):
     def init_window(self):
         if self.window:
             return
-        self.window = Gtk.Window(title="Subplot Configuration Tool")
+        self.window = Gtk
 
         try:
             self.window.window.set_icon_from_file(window_icon)

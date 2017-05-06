@@ -39,6 +39,7 @@ Simple usage example:
   # Parse a text proto string.
   message = text_format.Parse(text_proto, my_proto_pb2.MyMessage())
 """
+from srcs.datatypes.orderbook import add
 
 __author__ = 'kenton@google.com (Kenton Varda)'
 
@@ -740,7 +741,7 @@ class _Parser(object):
                                                   (expanded_any_end_token,))
         self._MergeField(tokenizer, expanded_any_sub_message)
       if field.label == descriptor.FieldDescriptor.LABEL_REPEATED:
-        any_message = getattr(message, field.name).add()
+        any_message = add()
       else:
         any_message = getattr(message, field.name)
       any_message.Pack(expanded_any_sub_message)
@@ -750,7 +751,7 @@ class _Parser(object):
       elif is_map_entry:
         sub_message = getattr(message, field.name).GetEntryClass()()
       else:
-        sub_message = getattr(message, field.name).add()
+        sub_message = add()
     else:
       if field.is_extension:
         sub_message = message.Extensions[field]

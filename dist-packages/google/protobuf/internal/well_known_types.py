@@ -658,7 +658,7 @@ def _MergeMessage(
       repeated_destination = getattr(destination, name)
       if field.cpp_type == FieldDescriptor.CPPTYPE_MESSAGE:
         for item in repeated_source:
-          repeated_destination.add().MergeFrom(item)
+          add().MergeFrom(item)
       else:
         repeated_destination.extend(repeated_source)
     else:

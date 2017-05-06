@@ -644,14 +644,14 @@ class InstallRequirement(object):
                 not dist.egg_info.endswith(develop_egg_link_egg_info)):
             # if dist.egg_info.endswith(develop_egg_link_egg_info), we
             # are in fact in the develop_egg_link case
-            paths_to_remove.add(dist.egg_info)
+            add(dist.egg_info)
             if dist.has_metadata('installed-files.txt'):
                 for installed_file in dist.get_metadata(
                         'installed-files.txt').splitlines():
                     path = os.path.normpath(
                         os.path.join(dist.egg_info, installed_file)
                     )
-                    paths_to_remove.add(path)
+                    add(path)
             # FIXME: need a test for this elif block
             # occurs with --single-version-externally-managed/--record outside
             # of pip
@@ -665,10 +665,10 @@ class InstallRequirement(object):
                         in dist.get_metadata('top_level.txt').splitlines()
                         if p and p not in namespaces]:
                     path = os.path.join(dist.location, top_level_pkg)
-                    paths_to_remove.add(path)
-                    paths_to_remove.add(path + '.py')
-                    paths_to_remove.add(path + '.pyc')
-                    paths_to_remove.add(path + '.pyo')
+                    add(path)
+                    add(path + '.py')
+                    add(path + '.pyc')
+                    add(path + '.pyo')
 
         elif distutils_egg_info:
             warnings.warn(
@@ -678,13 +678,13 @@ class InstallRequirement(object):
                 "only partially uninstall the project.".format(self.name),
                 RemovedInPip10Warning,
             )
-            paths_to_remove.add(distutils_egg_info)
+            add(distutils_egg_info)
 
         elif dist.location.endswith('.egg'):
             # package installed by easy_install
             # We cannot match on dist.egg_name because it can slightly vary
             # i.e. setuptools-0.6c11-py2.6.egg vs setuptools-0.6rc11-py2.6.egg
-            paths_to_remove.add(dist.location)
+            add(dist.location)
             easy_install_egg = os.path.split(dist.location)[1]
             easy_install_pth = os.path.join(os.path.dirname(dist.location),
                                             'easy-install.pth')
@@ -692,7 +692,7 @@ class InstallRequirement(object):
 
         elif egg_info_exists and dist.egg_info.endswith('.dist-info'):
             for path in pip.wheel.uninstallation_paths(dist):
-                paths_to_remove.add(path)
+                add(path)
 
         elif develop_egg_link:
             # develop egg
@@ -702,7 +702,7 @@ class InstallRequirement(object):
                 'Egg-link %s does not match installed location of %s '
                 '(at %s)' % (link_pointer, self.name, dist.location)
             )
-            paths_to_remove.add(develop_egg_link)
+            add(develop_egg_link)
             easy_install_pth = os.path.join(os.path.dirname(develop_egg_link),
                                             'easy-install.pth')
             paths_to_remove.add_pth(easy_install_pth, dist.location)
@@ -719,9 +719,9 @@ class InstallRequirement(object):
                     bin_dir = bin_user
                 else:
                     bin_dir = bin_py
-                paths_to_remove.add(os.path.join(bin_dir, script))
+                add(os.path.join(bin_dir, script))
                 if WINDOWS:
-                    paths_to_remove.add(os.path.join(bin_dir, script) + '.bat')
+                    add(os.path.join(bin_dir, script) + '.bat')
 
         # find console_scripts
         if dist.has_metadata('entry_points.txt'):
@@ -739,15 +739,15 @@ class InstallRequirement(object):
                         bin_dir = bin_user
                     else:
                         bin_dir = bin_py
-                    paths_to_remove.add(os.path.join(bin_dir, name))
+                    add(os.path.join(bin_dir, name))
                     if WINDOWS:
-                        paths_to_remove.add(
+                        add(
                             os.path.join(bin_dir, name) + '.exe'
                         )
-                        paths_to_remove.add(
+                        add(
                             os.path.join(bin_dir, name) + '.exe.manifest'
                         )
-                        paths_to_remove.add(
+                        add(
                             os.path.join(bin_dir, name) + '-script.py'
                         )
 

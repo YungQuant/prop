@@ -30,7 +30,7 @@ def test(shape=(3, 4)):
     u += theano.sandbox.cuda.CudaNdarray(numpy.asarray([[1]], dtype='float32'))
     u = numpy.asarray(u)
     v = numpy.asarray(B_cnd)
-    w = A_cmat.add(1).asarray()
+    w = add(1).asarray()
 
     assert abs(u - v).max() == 0
     assert abs(u - w.T.reshape(u.shape)).max() == 0

@@ -1652,7 +1652,7 @@ class _TestSQLAlchemy(SQLAlchemyMixIn, PandasSQLTest):
         with session.transaction:
             conn = session.connection()
             Temporary.__table__.create(conn)
-            session.add(Temporary(spam=test_data))
+            add(Temporary(spam=test_data))
             session.flush()
             df = sql.read_sql_query(
                 sql=sqlalchemy.select([Temporary.spam]),

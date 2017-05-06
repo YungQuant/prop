@@ -1064,7 +1064,7 @@ class RendererSVG(RendererBase):
                 writer.element('text', s, attrib=attrib)
 
             if rcParams['svg.fonttype'] == 'svgfont':
-                fontset = self._fonts.setdefault(font.fname, set())
+                fontset = self._fonts
                 for c in s:
                     fontset.add(ord(c))
         else:
@@ -1103,7 +1103,7 @@ class RendererSVG(RendererBase):
 
             if rcParams['svg.fonttype'] == 'svgfont':
                 for font, fontsize, thetext, new_x, new_y, metrics in svg_glyphs:
-                    fontset = self._fonts.setdefault(font.fname, set())
+                    fontset = self._fonts
                     fontset.add(thetext)
 
             for style, chars in six.iteritems(spans):
