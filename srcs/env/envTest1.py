@@ -121,7 +121,8 @@ for w in range(len(avg_diffs)):
     cuml += cuml * avg_diffs[w]
     cumld.append(cuml)
 
-plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
+print(cumld)
+#plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
 
 
