@@ -62,7 +62,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
     fileOutput = []
     fileCuml = []
     dataset = []
-    hist_val = []
+    hist_vals = [100000000, 10000000]
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
@@ -118,6 +118,10 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
+        hist_vals.append(cuml)
+        if hist_vals[-1] > hist_vals[-2]:
+            profit += (hist_vals[-1] - hist_vals[-2]) * perf_fee
+            cuml -= profit
         if max(allocs) - min(allocs) > np.mean(allocs) * rebal_tol:
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
@@ -127,17 +131,18 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml, profits
+    return cuml, profit
 
 ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 0.001; k2 = 100; k = k1; o1 = 0.001; o2 = 100; o = o1; results = []; profits = [];
-while o < o1:
+k1 = 0.001; k2 = 100; k = k1; o1 = 0.001; o2 = 1; o = o1; results = [0, 0, 0]; profits = [0, 0, 0];
+while o < o2:
     while k < k2:
         result, profit = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, perf_fee=o, plt_bool=False)
         profits.append(profit)
         results.append(result)
         k += 0.0025
-        if len(results) > 2 and results[-1] > max(results[:-1]):
-            print("rebal_tol:", k, "result:", results[-1])
+        if len(results) > 1 and results[-1] > max(results[:-1]) and profits[-1] > max(profits[:-1]):
+            print("rebal_tol:", k, "perf_fee:", o, "result:", results[-1], "profit:", profit)
+    o += 0.0025
     k = k1
     print(o, "/", o2)
