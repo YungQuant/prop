@@ -112,7 +112,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
 
-    for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 0.1)) for f in range(len(cumulative_diffs))])):
+    for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 1)) for f in range(len(cumulative_diffs))])):
         prices = [cumulative_prices[y][n] for y in range(len(cumulative_prices))]
         diffs = [cumulative_diffs[x][n] for x in range(len(cumulative_diffs))]
         for g in range(len(allocs)):
