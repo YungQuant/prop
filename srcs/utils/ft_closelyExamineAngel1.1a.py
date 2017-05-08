@@ -131,19 +131,11 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml, profit
+    return cuml, profit, cumld
 
 ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 0.001; k2 = 100; k = k1; o1 = 0.001; o2 = 1; o = o1; results = [0, 0, 0]; profits = [0, 0, 0];
-while o < o2:
-    while k < k2:
-        result, profit = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, perf_fee=o, plt_bool=False)
-        profits.append(profit)
-        results.append(result)
-        k += 0.01
-        #if len(results) > 1 and results[-1] > max(results[:-1]) and profits[-1] > max(profits[:-1]):
-        if len(results) > 1 and profits[-1] > max(profits[:-1]):
-            print("rebal_tol:", k, "perf_fee:", o, "result:", results[-1], "profit:", profit)
-    o += 0.01
-    k = k1
-    print(o, "/", o2)
+
+result, profit, cumld = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=4.5, perf_fee=0.2, plt_bool=False)
+print("result:", result, "profit:", profit)
+plot(cumld)
+
