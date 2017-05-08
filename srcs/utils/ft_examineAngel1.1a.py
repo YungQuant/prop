@@ -56,11 +56,13 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=False):
+def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2, plt_bool=False):
+    profit = 0
     fileTicker = []
     fileOutput = []
     fileCuml = []
     dataset = []
+    hist_val = []
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
@@ -125,12 +127,17 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml
+    return cuml, profits
 
 ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 0.001; k2 = 100; k = k1; results = [];
-while k < k2:
-    results.append(global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False))
-    k += 0.0025
-    if len(results) > 2 and results[-1] > max(results[:-1]):
-        print("rebal_tol:", k, "result:", results[-1])
+k1 = 0.001; k2 = 100; k = k1; o1 = 0.001; o2 = 100; o = o1; results = []; profits = [];
+while o < o1:
+    while k < k2:
+        result, profit = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, perf_fee=o, plt_bool=False)
+        profits.append(profit)
+        results.append(result)
+        k += 0.0025
+        if len(results) > 2 and results[-1] > max(results[:-1]):
+            print("rebal_tol:", k, "result:", results[-1])
+    k = k1
+    print(o, "/", o2)

@@ -56,7 +56,7 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=False):
+def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_mult=0.1, plt_bool=False):
     fileTicker = []
     fileOutput = []
     fileCuml = []
@@ -101,7 +101,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         f.close()
         for i, stocks in enumerate(stock1):
             stock.append(float(stocks))
-        for u in range(len(stock) - 1):
+        for u in range(len(stock) - 2):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
         cumulative_diffs.append(diffs)
         cumulative_prices.append(stock)
@@ -110,15 +110,24 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
 
-    for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 0.1)) for f in range(len(cumulative_diffs))])):
+    for n in range(min([len(cumulative_diffs[f]) for f in range(len(cumulative_diffs))])):
         prices = [cumulative_prices[y][n] for y in range(len(cumulative_prices))]
         diffs = [cumulative_diffs[x][n] for x in range(len(cumulative_diffs))]
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
-        cuml = sum(allocs)
+        cuml = sum(allocs); excess = [];
         if max(allocs) - min(allocs) > np.mean(allocs) * rebal_tol:
-            for m in range(len(allocs)):
-                allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
+            for h in range(len(allocs)):
+                if allocs[h] < np.mean(allocs):
+                    allocs[h] -= allocs[h] * perf_mult
+                    excess.append((allocs[h] * perf_mult) * 1 - tradeCost)
+            for w in range(len(allocs)):
+                if allocs[w] > np.mean(allocs):
+                    for s in range(len(excess)):
+                        if excess[s] > 0:
+                            allocs[w] += excess[s]
+                            excess[s] = 0
+                            break
         #print(allocs)
         cumld.append(sum(allocs))
 
@@ -128,9 +137,14 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     return cuml
 
 ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 0.001; k2 = 100; k = k1; results = [];
-while k < k2:
-    results.append(global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False))
-    k += 0.0025
-    if len(results) > 2 and results[-1] > max(results[:-1]):
-        print("rebal_tol:", k, "result:", results[-1])
+k1 = 0.001; k2 = 1; k = k1; o1 = 0.001; o2 = 100; o = o1; results = [0, 0, 0, 0];
+while o < o2:
+    while k < k2:
+        result = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=o, perf_mult=k, plt_bool=False)
+        results.append(result)
+        k += 0.005
+        if len(results) > 1 and result > max(results[:-1]):
+            print("perf_mult:", k, "rebal_tol:", o, "result:", result)
+    k = k1
+    o += 0.005
+    print(o, "/", o2)
