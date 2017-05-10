@@ -19,19 +19,19 @@ getcontext().prec = 8
 class CryptoCommander:
 
     def __init__(self, poloapicreds=['',''], bittrexapicreds=['','']):
-        print 'Initializing Crypto Commander, Intelligent and Responsive Crypto-Currency Platform...'
-        print 'Disclaimer!! You have launched this via command line, great caution is advised and the developers are NOT responsible for proper usage or lost coins!'
-        print "Notice - :: :: Bitcoin & Crypto-Currencies are largely untested and come with no assurances! Trade with care. :: ::"
-        if poloapicreds == ['','']: print "No poloniex credentials found, skipping initialization. This may cause instability!"
+        print("Initializing Crypto Commander, Intelligent and Responsive Crypto-Currency Platform...")
+        print("Disclaimer!! You have launched this via command line, great caution is advised and the developers are NOT responsible for proper usage or lost coins!")
+        print("Notice - :: :: Bitcoin & Crypto-Currencies are largely untested and come with no assurances! Trade with care. :: ::")
+        if poloapicreds == ['','']: print("No poloniex credentials found, skipping initialization. This may cause instability!")
         else:
             try:
                 self.poloniexBot = poloniex(poloapicreds[0], poloapicreds[1])
                 self.btcBalance, self.btsBalance, self.clamBalance, self.dashBalance, self.dogeBalance, self.ethBalance, self.fctBalance, self.ltcBalance, self.maidBalance, self.strBalance, self.xmrBalance, self.xrpBalance, = Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0), Decimal(0.0)
-            except AttributeError: print "An error occurred trying to initialize Poloniex functionality."
-        if bittrexapicreds == ['','']: print "No bittrex credentials detected, skipping initialization. This may cause instability!"
+            except AttributeError: print("An error occurred trying to initialize Poloniex functionality.")
+        if bittrexapicreds == ['','']: print("No bittrex credentials detected, skipping initialization. This may cause instability!")
         else:
             try: self.bittrexBot = Bittrex(bittrexapicreds[0],bittrexapicreds[1])
-            except AttributeError: print "An error occurred trying to initialized Bittrex functionality."
+            except AttributeError: print("An error occurred trying to initialized Bittrex functionality.")
 
     def convert_coinpair_poloniex(self, coinpair):
         return coinpair.replace('-','_')
@@ -116,13 +116,13 @@ class CryptoCommander:
                 for i in self.poloniexBot.returnOrderBook(coinPair.replace('-','_'))['bids']: return i
             elif market == 'bittrex':
                 for i in self.bittrexBot.get_orderbook(coinPair, 'buy')['result']: return i
-            else: print 'Not a valid market: ' + str(market)
+            else: print('Not a valid market: ' + str(market))
         else:
             if market == 'poloniex':
                 for i in self.poloniexBot.returnOrderBook(coinPair.replace('-','_'))['asks']: return i
             elif market == 'bittrex':
                 for i in self.bittrexBot.get_orderbook(coinPair, 'sell')['results']: return i
-            else: print 'Not a valid market: ' + str(market)
+            else: print('Not a valid market: ' + str(market))
 
     def getWalletAddress(self, market, coin):
         if market == "poloniex" or market == "Poloniex": return self.poloniexBot.api_query('returnDepositAddresses')[coin]
@@ -144,46 +144,42 @@ class CryptoCommander:
         try:
             arbOpportunitiesList = []
             for coinpair in self.doMarketComparison(market1, market2):
-                print "Scanning Coin Pair : " + str(coinpair)
+                print("Scanning Coin Pair : " + str(coinpair))
                 differenceBetweenMarket1and2 = format(self.getCoinPairPriceDifferencePercent(float(self.getTopOrder(market1,coinpair,False,1)), float(self.getTopOrder(market2,coinpair,True,1))))
                 differenceBetweenMarket2and1 = format(self.getCoinPairPriceDifferencePercent(float(self.getTopOrder(market2,coinpair,False,1)), float(self.getTopOrder(market1,coinpair,True,1))))
                 if float(differenceBetweenMarket2and1) < (-.525 - minPercent):
                     if (float(self.getTopOrder(market1,coinpair,True)[0]) * float(self.getTopOrder(market1,coinpair, True)[1])) >= float(self.getCurrentBalance(market1, "BTC")):
-                        print "Arb Op: " + str(differenceBetweenMarket2and1) + " for coin pair "
-                        print "Info: Bittrex: Buy:: "
-                        print self.getTopOrder('poloniex',coinpair,True)
-                        print "- Sell:: "
-                        print self.getTopOrder('poloniex', coinpair, False)
-                        print "Info: Poloniex: Buy:: "
-                        print self.getTopOrder('bittrex', coinpair, True)
-                        print "- Sell:: "
-                        print self.getTopOrder('bittrex', coinpair, False)
+                        print("Arb Op: " + str(differenceBetweenMarket2and1) + " for coin pair ")
+                        print("Info: Bittrex: Buy:: ")
+                        print(self.getTopOrder('bittrex', coinpair, True))
+                        print("- Sell:: ")
+                        print(self.getTopOrder('bittrex', coinpair, False))
                         arbOpportunity = (coinpair,"Market2to1",differenceBetweenMarket2and1, 1)
                         arbOpportunitiesList.append(arbOpportunity)
                     else:
                         continue
                 elif float(differenceBetweenMarket1and2) < (-.525 - minPercent):
                     if float(self.getTopOrder('bittrex',coinpair,True,3)[0]) * float(self.getTopOrder('bittrex',coinpair,True)[1]) >= float(self.getCurrentBalance(market2, "BTC")):
-                        print "Arb Op: "
-                        print str(differenceBetweenMarket1and2)
-                        print "Info: Bittrex: Buy:: "
-                        print self.getTopOrder('poloniex',coinpair,True)
-                        print "- Sell:: "
-                        print self.getTopOrder('poloniex', coinpair, False)
-                        print "Info: Poloniex: Buy:: "
-                        print self.getTopOrder('bittrex', coinpair, True)
-                        print "- Sell:: "
-                        print self.getTopOrder('bittrex', coinpair, False)
+                        print("Arb Op: ")
+                        print(str(differenceBetweenMarket1and2))
+                        print("Info: Bittrex: Buy:: ")
+                        print(self.getTopOrder('poloniex',coinpair,True))
+                        print("- Sell:: ")
+                        print(self.getTopOrder('poloniex', coinpair, False))
+                        print("Info: Poloniex: Buy:: ")
+                        print(self.getTopOrder('bittrex', coinpair, True))
+                        print("- Sell:: ")
+                        print(self.getTopOrder('bittrex', coinpair, False))
                         arbOpportunity = (coinpair,"Market1to2",differenceBetweenMarket1and2, 1)
                         arbOpportunitiesList.append(arbOpportunity)
                     else:
                         continue
                 else:
-                    print differenceBetweenMarket1and2 + " or " + differenceBetweenMarket2and1 + " is more than -.7"
+                    print(differenceBetweenMarket1and2 + " or " + differenceBetweenMarket2and1 + " is more than -.7")
                     continue
             return arbOpportunitiesList
         except AttributeError:
-            print "Attribute Error"
+            print("Attribute Error")
 
     def selectBestOpportunity(self, market1, market2, minPercent=0.45):
         opportunitiesList = []
@@ -194,7 +190,7 @@ class CryptoCommander:
             for opportunity in opportunitiesList:
                 if bestOpportunity[2] < opportunity[2]: bestOpportunity = opportunity
         else:
-            print "No Opportunities Found"
+            print("No Opportunities Found")
             bestOpportunity = ("", "", 0.0, 0)
         return bestOpportunity
 
@@ -212,28 +208,28 @@ class CryptoCommander:
                 try:
                     if float(self.getTopOrder(market1, bestArbitrageOpportunity[0], False, 0)[0]) * float(self.getTopOrder(market1, bestArbitrageOpportunity[0], False, 0)[1]) < float(self.getBalance('poloniex', 'BTC')):
                         self.poloniexBot.buy(bestArbitrageOpportunity[0].replace("-","_"),fullTopBuyOrder[0],coinAvailable)
-                        print "Successfully Bought on Poloniex, Attempting to Send to Bittrex Now..."
+                        print("Successfully Bought on Poloniex, Attempting to Send to Bittrex Now...")
                         time.sleep(3)
                         self.poloniexBot.withdraw(coinName,(self.getCurrentBalance('poloniex',coinName)),self.getWalletAddress('bittrex',coinName))
                         tempCounter = 0
-                        print self.getCurrentBalance('bittrex',coinName)
+                        print(self.getCurrentBalance('bittrex',coinName))
                         while float(self.getCurrentBalance('bittrex',coinName)) < 0.0005:
                             time.sleep(5)
                             tempCounter = tempCounter + 1
                             if tempCounter > 15:
-                                print "Still Awaiting Deposit..."
+                                print("Still Awaiting Deposit...")
                                 tempCounter = 0
-                        print "Deposit Confirmed & Active! Preparing to Dump in 5 Seconds"
+                        print("Deposit Confirmed & Active! Preparing to Dump in 5 Seconds")
                         time.sleep(5)
                         while float(self.getCurrentBalance(market2,coinName)) > 0.00050055 or self.getCurrentBalance(market2,coinName) == None:
                             time.sleep(3)
                             self.bittrexBot.sell_limit(bestArbitrageOpportunity[0],self.getCurrentBalance('bittrex',coinName),self.getTopOrder(market2,bestArbitrageOpportunity[0],True,1))
-                        print "Finished Selling All the Coins that Could be Sold. Cycle Complete."
+                        print("Finished Selling All the Coins that Could be Sold. Cycle Complete.")
                     else:
-                        print "The order didnt stay high enough, starting over"
+                        print("The order didnt stay high enough, starting over")
                         self.activateArbitrage(market1, market2, minPercent)
                 except MemoryError:
-                    print "Error"
+                    print("Error")
         if bestArbitrageOpportunity[1] == 'Market2to1':
             fullTopBuyOrder = self.getTopOrder(market2, bestArbitrageOpportunity[0],False,0)
             btcBuyOrderAvailable = (float(fullTopBuyOrder[0]) * float(fullTopBuyOrder[1]))
@@ -244,37 +240,37 @@ class CryptoCommander:
             if market2 == "bittrex" or market2 == "Bittrex":
                 try:
                     if float(self.getTopOrder(market1, bestArbitrageOpportunity[0], False, 0)[0]) * float(self.getTopOrder(market1, bestArbitrageOpportunity[0], False, 0)[1]) < float(self.getCurrentBalance('bittrex', 'BTC')):
-                        print "Buying " + str(bestArbitrageOpportunity[0]) + " " + str(coinAvailable)
+                        print("Buying " + str(bestArbitrageOpportunity[0]) + " " + str(coinAvailable))
                         buy = self.bittrexBot.buy_limit(bestArbitrageOpportunity[0],coinAvailable, fullTopBuyOrder[0])
-                        print buy
+                        print(buy)
                         time.sleep(5)
                         if buy['success'] == True:
-                            print "Successfully Bought on Bittrex, Attempting to Send to Poloniex Now..."
+                            print("Successfully Bought on Bittrex, Attempting to Send to Poloniex Now...")
                             time.sleep(5)
                             self.bittrexBot.withdraw(coinName,self.getCurrentBalance(market2,coinName),self.getWalletAddress(market1,coinName))
                             tempCounter = 0
-                            print self.getCurrentBalance(market1,coinName)
+                            print(self.getCurrentBalance(market1,coinName))
                             while float(self.getCurrentBalance(market1,coinName)) < 0.00050055 or self.getCurrentBalance(market1, coinName) == None:
                                 time.sleep(5)
                                 tempCounter = tempCounter + 1
                                 if tempCounter > 15:
-                                    print "Still Awaiting Deposit..."
+                                    print("Still Awaiting Deposit...")
                                     tempCounter = 0
-                            print "Deposit Confirmed and Active! Preparing to Dump in 5 Seconds"
+                            print("Deposit Confirmed and Active! Preparing to Dump in 5 Seconds")
                             time.sleep(5)
                             while float(self.getCurrentBalance(market1,coinName)) > 0.00010055:
                                 time.sleep(5)
                                 self.poloniexBot.sell(str(bestArbitrageOpportunity[0]).replace("-","_"),float(self.getTopOrder(market1,bestArbitrageOpportunity[0].replace("-","_"),True,1)),self.getCurrentBalance(market1,coinName))
-                                print "Attempting to Sell Maximum Amount of Coins that Could be Sold."
-                            print "Finished Selling all coins. Cycle Complete"
+                                print("Attempting to Sell Maximum Amount of Coins that Could be Sold.")
+                            print("Finished Selling all coins. Cycle Complete")
                         else:
-                            print "Failed to Buy"
+                            print("Failed to Buy")
                             return "Failed to Buy"
                     else:
-                        print "The order didn't stay high enough, starting over"
+                        print("The order didn't stay high enough, starting over")
                         self.activateArbitrage(market1, market2, minPercent)
                 except AttributeError:
-                    print "Attribute Error, sorry"
+                    print("Attribute Error, sorry")
 
     def getLendingBalances(self):
         #Only works with Poloniex
@@ -289,13 +285,13 @@ class CryptoCommander:
     def getPrimeLendingRate(self, coin, minWeight=Decimal('25.0')):
         #Only works with Poloniex
         accumulatedWeight, bestRate = Decimal('0.0'), Decimal('0.0')
-        print accumulatedWeight
+        print(accumulatedWeight)
         for offer in self.getCurrentLoanOffers(coin)['offers']:
             if accumulatedWeight < minWeight:
-                print 'Accumulated weight is less than 25: ' + str(accumulatedWeight)
+                print('Accumulated weight is less than 25: ' + str(accumulatedWeight))
                 accumulatedWeight = accumulatedWeight + Decimal(str(offer['amount']))
             else:
-                print 'Best rate is: ' + str(offer['rate'])
+                print('Best rate is: ' + str(offer['rate']))
                 bestRate = Decimal(str(offer['rate'])) - Decimal('0.000001')
                 break
         if bestRate < Decimal('0.000001'): bestRate = Decimal('0.000001')
@@ -328,51 +324,51 @@ class CryptoCommander:
         for openLoanCoin in openLoansDict:
             for data in openLoansDict[openLoanCoin]:
                 if (datetime.datetime.utcnow() - datetime.datetime.strptime(str(data['date']), '%Y-%m-%d %X') > datetime.timedelta(minutes=2)):
-                    print 'Cancelling Loan Orders that are stagnant.'
+                    print('Cancelling Loan Orders that are stagnant.')
                     self.cancelLoanOffer(openLoanCoin, data['id'])
 
     def placeAllLoans(self):
         balances = self.getLendingBalances()
         for coin in balances:
             try:
-                print balances[coin]
+                print(balances[coin])
                 if type(balances[coin]) != Decimal and balances[coin] > Decimal('0.0'): balances[coin] = Decimal(str(balances[coin]))
                 if type(balances[coin]) == Decimal and balances[coin] >= Decimal('0.01'):
                     #print "Print currency available is: " + str(balances[coin]) + str(coin) + ", Lending Now."
                     while Decimal(str(balances[coin])) >= Decimal('0.01'):
                         if Decimal(str(balances[coin])) <= Decimal('0.02') and Decimal(str(balances[coin])) >= Decimal('0.01'):
-                            print 'lending between 0.01 and 0.02'
-                            print self.createLoanOffer(coin, float(balances[coin]), 2, 0, self.getPrimeLendingRate(coin))
+                            print('lending between 0.01 and 0.02')
+                            print(self.createLoanOffer(coin, float(balances[coin]), 2, 0, self.getPrimeLendingRate(coin)))
                         else:
                             primeRate = self.getPrimeLendingRate(coin)
-                            print "Prime Rate is: " + str(primeRate)
+                            print("Prime Rate is: " + str(primeRate))
                             if primeRate <= Decimal('0.000025') or Decimal(balances[coin]) > Decimal('0.1'):
                                 if Decimal(balances[coin]) >= Decimal('10.0'):
                                     if Decimal(balances[coin]) < Decimal('20.0') and Decimal(balances[coin]) > Decimal('10.0'):
-                                        print 'lending between 10 and 20'
-                                        print self.createLoanOffer(coin, float(balances[coin]), 2, 0, primeRate)
+                                        print('lending between 10 and 20')
+                                        print(self.createLoanOffer(coin, float(balances[coin]), 2, 0, primeRate))
                                     else:
-                                        print 'lending 10'
-                                        print self.createLoanOffer(coin, 10.0, 2, 0, primeRate)
+                                        print('lending 10')
+                                        print(self.createLoanOffer(coin, 10.0, 2, 0, primeRate))
                                 else:
                                     if Decimal(balances[coin]) > Decimal('0.1'):
                                         if Decimal(balances[coin]) < Decimal('0.2') and Decimal(balances[coin]) > Decimal('0.1'):
-                                            print 'lending between 0.1 and 0.2'
-                                            print self.createLoanOffer(coin,float(balances[coin]),2,0,primeRate)
+                                            print('lending between 0.1 and 0.2')
+                                            print(self.createLoanOffer(coin,float(balances[coin]),2,0,primeRate))
                                         else:
-                                            print 'lending 0.1'
-                                            print self.createLoanOffer(coin, 0.1, 2, 0, primeRate)
+                                            print('lending 0.1')
+                                            print(self.createLoanOffer(coin, 0.1, 2, 0, primeRate))
                                     else:
-                                        print 'lending 0.01'
-                                        print self.createLoanOffer(coin, 0.01, 2, 0, primeRate)
+                                        print('lending 0.01')
+                                        print(self.createLoanOffer(coin, 0.01, 2, 0, primeRate))
                             else:
-                                print 'lending 0.01'
-                                print self.createLoanOffer(coin, 0.01, 2, 0, primeRate)
+                                print('lending 0.01')
+                                print(self.createLoanOffer(coin, 0.01, 2, 0, primeRate))
                         time.sleep(.2)
                         balances = self.getLendingBalances()
-                else: 'No coins available to lend, sorry!'
+                else: print('No coins available to lend, sorry!')
             except KeyError:
-                print 'All loans for ' + str(coin) + ' actively being lent.'
+                print('All loans for ' + str(coin) + ' actively being lent.')
 
     def startLendingAutomation(self):
         while True:
@@ -382,10 +378,10 @@ class CryptoCommander:
                         self.placeAllLoans()
                         time.sleep(150)
                         self.checkLendingStagnation()
-                print 'All Done.'
+                print('All Done.')
             except TypeError:
-                print "All done"
+                print("NOT done")
 
-cryptoCommander = CryptoCommander(['APIKEYPOLO', 'APISECRETPOLO'], ['APIKEYBITTREX','APISECRETBITTREX'])
+cryptoCommander = CryptoCommander(['5KYHFIZJ-7A8E5PWD-0HEOZPRD-A3CX00UV', '4400527912f201360f2b3b492fd693dc8ca4c6f4f8224fa7e448762123af4285a021f6e077391af4870ec7825889d986069873c36cd905d045c05f7143c21d40'], ['ab7ca920bab3412d875bbf3c9ce39f91','f7763a3666d24f20b65422b3726d0cbf'])
 #cryptoCommander.checkLendingStagnation()
 cryptoCommander.startLendingAutomation()
