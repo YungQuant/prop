@@ -107,7 +107,7 @@ class Bittrex(object):
         return self.api_query('getorderhistory', {'market':market, 'count': count})
 
 
-b = Bittrex()
+b = Bittrex('4c7632fcade64c4dbea18d79c3206739', '974c25d27f0545c390b77fe1068c6cd9')
 
 def my_buy(ticker, amount, type):
     if type == 'ask':
