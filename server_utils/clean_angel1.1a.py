@@ -107,7 +107,7 @@ class Bittrex(object):
         return self.api_query('getorderhistory', {'market':market, 'count': count})
 
 
-b = Bittrex()
+b = Bittrex('4c7632fcade64c4dbea18d79c3206739', '974c25d27f0545c390b77fe1068c6cd9')
 
 def my_buy(ticker, amount, type):
     if type == 'ask':
@@ -168,7 +168,8 @@ def my_sell(ticker, amount, type):
 
 def rebalence(cryptos):
     pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
-
+    for i in range(len(cryptos) - 1):
+        pairs.append("BTC-" + cryptos[i])
     bals = b.get_balances()
     print("bals:", bals)
 
@@ -199,19 +200,19 @@ def rebalence(cryptos):
 
     for i in range(len(btc_vals) -1):
         if btc_vals[i] > goal_val:
-            my_sell(pairs[i], btc_vals[i] - goal_val, 'auto')
+            my_sell(pairs[i], btc_vals[i] - goal_val, 'bid')
 
     for i in range(len(btc_vals) - 1):
         if btc_vals[i] < goal_val:
-            my_buy(pairs[i], goal_val - btc_vals[i], 'auto')
+            my_buy(pairs[i], goal_val - btc_vals[i], 'ask')
 
 
 
 
-time_cnt = 0; hist_vals = [10000000000, 1000000000]; profits = 0;
+time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
-    cryptos = ['XMR', 'MAID', 'XRP', 'LTC', 'ETH']
-    REBAL_TOL = 4.52
+    cryptos = ['XMR', 'XEM', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+    REBAL_TOL = 2
     PERF_FEE = 0.2
     vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
     for i in range(len(cryptos)):
@@ -241,16 +242,21 @@ while(1):
         btc_vals.append(vals[-1])
         #print(vals)
         if max(btc_vals) - min(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
-            for i in range(20):
-                print("REBALANCED")
-            #rebalence(pairs)
-
-        hist_vals.append(tot_btc_val)
-        if tot_btc_val > hist_vals[-2]:
-            profits += (tot_btc_val - hist_vals[-2]) * PERF_FEE
+            print("NEEDS REBALANCING")
+            for i in range(len(cryptos)):
+                if b.get_open_orders(cryptos[i])['result'] != []:
+                    print("EXISTING ORDERS:", b.get_open_orders(cryptos[i]))
+                    break
+                if i == len(pairs) - 1:
+                    rebalence(cryptos)
+        if (time_cnt > 10 and time_cnt % 8640 == 0) or time_cnt == 0:
+            hist_vals.append(tot_btc_val)
+            if len(hist_vals) > 1 and tot_btc_val > hist_vals[-1]:
+                profits += (tot_btc_val - hist_vals[-1]) * PERF_FEE
         print("BTC vals:", btc_vals)
         print("Variance:", max(btc_vals) - min(btc_vals), "Tolerance:", np.mean(btc_vals) * REBAL_TOL)
         print("TOT_BTC_VAL:", tot_btc_val)
+        print("PROFITS:", profits)
         print("\n")
         if time_cnt > 40 and time_cnt % 60 == 0:
             print("runtime:", time_cnt / 60, "minutes")
