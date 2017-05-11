@@ -10,7 +10,7 @@ from poloniex import poloniex
 from bittrex import Bittrex
 from decimal import *
 import time
-import urllib2
+import urllib
 import json
 import datetime
 import threading
@@ -279,7 +279,7 @@ class CryptoCommander:
 
     def getCurrentLoanOffers(self, coin):
         #Only works with Poloniex
-        ret = urllib2.urlopen(urllib2.Request('http://poloniex.com/public?command=' + 'returnLoanOrders' + '&currency=' + str(coin)))
+        ret = urllib2.request.urlopen('http://poloniex.com/public?command=' + 'returnLoanOrders' + '&currency=' + str(coin))
         return json.loads(ret.read())
 
     def getPrimeLendingRate(self, coin, minWeight=Decimal('25.0')):
