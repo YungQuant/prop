@@ -289,7 +289,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     return cuml
 
 def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 1; verbOS = 0; inc = 0
+    n_proc = 8; verbOS = 0; inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
             (fileTicker[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
@@ -334,7 +334,7 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 1; k2 = 300
+    k1 = 281; k2 = 320
     l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30
@@ -366,13 +366,6 @@ def run():
             j = j1
             i *= 1.3
         i = l1
-        if (k < 10):
-            k += 1
-        elif (k < 1000):
-            k *= 1.2
-        elif (k < 10000):
-            k *= 1.05
-        else:
-            k *= 1.01
+        k += 1
 
 run()

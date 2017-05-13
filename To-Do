@@ -9,17 +9,15 @@
   
 5-10bp:
 
-    -B2B Crypto Mining Operation Consulting & Systems Proposal
-       -10bp
+    -Scrape Blockchain for transactions to exchange accounts,
+        watch for volume orders and general trend (or watch for whales/movers?)
+            buy fast&hard in direction of spotted whale
 
     -C/C++ Arbitrage Bot
        -10bp
 
-    -Lending/Margin Bot Vehicle
-       -10bp
-
     -Configure Angel1.1 for default cold storage
-       -10bp
+       -5bp
 
     -Website with encrypted communications portal and other auxillary functions for investors
        -10bp
@@ -30,18 +28,16 @@
     -Build overarching ML framework
        -8bp
 
-    -Intrisic Value -and/or- Sentiment Analysis -or- Arbitrage strategy and Implementation for Cryptocurrencies
+    -Intrisic Value -and/or- Sentiment Analysis Implementation for Cryptocurrencies
        -8bp
 
     -Kelly Criterion based Risk Management Strategy
        -requires probabilistic models built on decent sample size of environments and trades
        -8bp
 
-    -Unencrypted Client Database
-       -7bp
-
-    -Straddle/Strangle Crypto strategy
+    -Unencrypted Client Portal
        -5bp
+
 
 
 4bp:
@@ -50,15 +46,15 @@
        -For position entry EOD find avg volume/period and put hidden limit @ trip price for [-n:]
        
     -Purpose built market manipulation algorithm for illiquid cryptocurrencies
+
+    -Pitchdeck
   
 3bp:
-    -Add dimensionality to Machine Learning systems inputs w/OHLV Data, financials, sentiment analysis, news, etc..
+    -Add dimensionality to Machine Learning systems inputs w/financials, sentiment analysis, news, etc..
         -1bp/ dimension added (ie; adding volume data = +1 dimension)
         -Sources: Intrino?
 
-    -Train mltf2 and 3 on correlated cryptocurrency environment, 
-
-    -Make mlsp/tf2.1 to predict literal movement (ie; 0.014 or -0.03 as in price[t + 1]-price[t])
+    -Train mltf2 and 3 on correlated cryptocurrency environment
 
     -Improve binary accuracy of mlsp2/mltf2
         -1bp/ percent improvement in accuracy over 50%
@@ -69,8 +65,6 @@
 
 2bp:
     -Options Chain Data Scraper/Source
-    
-    -Volume Weighted Average Price function
 
     -Create diagrams that describe current frameworks for new employees
 
