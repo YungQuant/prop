@@ -130,7 +130,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
 k1 = 0.001; k2 = 100; k = k1; results = [];
 while k < k2:
-    results.append(global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False))
+    results.append(global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True))
     k += 0.0025
     if len(results) > 2 and results[-1] > max(results[:-1]):
         print("rebal_tol:", k, "result:", results[-1])
