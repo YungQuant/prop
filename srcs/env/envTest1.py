@@ -58,7 +58,7 @@ def CryptoQuote1(the_symbol):
 
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
@@ -103,7 +103,7 @@ for y in range(len(fileTicker)):
     with open(fileTicker[y], 'r') as f:
         stock1 = f.readlines()
     f.close()
-    for i, stocks in enumerate(stock1):
+    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.75)):]):
         stock.append(float(stocks))
 
     for u in range(len(stock) - 1):
@@ -115,7 +115,7 @@ avg_diffs = []
 for n in range(min([len(cumulative_diffs[f]) for f in range(len(cumulative_diffs))])):
     avg_diffs.append(np.mean([cumulative_diffs[i][n] for i in range(len(cumulative_diffs))]))
 
-cuml = 100
+cuml = 1
 cumld = []
 for w in range(len(avg_diffs)):
     cuml += cuml * avg_diffs[w]
@@ -123,6 +123,7 @@ for w in range(len(avg_diffs)):
 
 print(cumld)
 plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
+print("result:", cumld[-1])
 
 
 

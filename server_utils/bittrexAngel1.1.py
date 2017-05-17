@@ -122,7 +122,7 @@ def my_buy(ticker, amount, type):
         b.buy_limit(ticker, amount, price)
         print("BUY ticker, price, amount", ticker, price, amount)
 
-    if type == 'auto':
+    if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
@@ -149,7 +149,7 @@ def my_sell(ticker, amount, type):
         b.sell_limit(ticker, amount, price)
         print("SELL ticker, price, amount", ticker, price, amount)
 
-    if type == 'auto':
+    if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
@@ -197,15 +197,15 @@ for i in range(len(vals) -1):
     tot_btc_val += vals[i] * price
 
 btc_vals.append(vals[-1])
-goal_val = tot_btc_val/len(btc_vals) * 0.99
+goal_val = tot_btc_val/len(btc_vals)
 print("CRYPTOS, BTC_VALS", cryptos, btc_vals)
 print("tot_btc_val:", tot_btc_val)
 print("goal_val:", goal_val)
 
 for i in range(len(btc_vals) -1):
     if btc_vals[i] > goal_val:
-        my_sell(pairs[i], btc_vals[i] - goal_val, 'bid')
+        my_sell(pairs[i], btc_vals[i] - goal_val, 'mid')
 
 for i in range(len(btc_vals) - 1):
     if btc_vals[i] < goal_val:
-        my_buy(pairs[i], goal_val - btc_vals[i], 'ask')
+        my_buy(pairs[i], goal_val - btc_vals[i], 'mid')

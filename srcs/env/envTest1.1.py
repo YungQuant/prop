@@ -12,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
+def plot(a, xLabel = 'X', yLabel = 'Y'):
     y = np.arange(len(a))
     plt.plot(y, a, 'g')
     plt.ylabel(yLabel)
@@ -22,8 +22,22 @@ def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
 def plot2(a, b):
     y = np.arange(len(a))
     plt.plot(y, a, 'g', y, b, 'r')
-    plt.ylabel('Price')
-    plt.xlabel('Time Periods')
+    plt.ylabel('Y')
+    plt.xlabel('X')
+    plt.show()
+
+def plot3(a, b, c):
+    y = np.arange(len(a))
+    plt.plot(y, a, 'g', y, b, 'r', y, c, 'b')
+    plt.ylabel('Y')
+    plt.xlabel('X')
+    plt.show()
+
+def plot4(a, b, c, d):
+    y = np.arange(len(a))
+    plt.plot(y, a, 'g', y, b, 'r', y, c, 'b', y, d, 'y')
+    plt.ylabel('Y')
+    plt.xlabel('X')
     plt.show()
 
 def getNum(str):
@@ -61,6 +75,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     fileOutput = []
     fileCuml = []
     dataset = []
+    rebalsss = 0
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
@@ -99,14 +114,14 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.9)):]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
         cumulative_diffs.append(diffs)
         cumulative_prices.append(stock)
 
-    avg_diffs = []; allocs = []; cumld = [];
+    avg_diffs = []; allocs = []; cumld = []; dd = 0; mdd = 0;
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
 
@@ -117,20 +132,37 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
         if max(allocs) - min(allocs) > np.mean(allocs) * rebal_tol:
+            rebalsss += 1
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
         #print(allocs)
         cumld.append(sum(allocs))
 
+    for i in range(len(cumld)):
+        if i > 1:
+            peak = max(cumld[:i])
+            trough = min(cumld[i:])
+            dd = (peak - trough) / peak
+            if dd > mdd:
+                mdd = dd
+
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml
+    return cuml, rebalsss, mdd
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 0.001; k2 = 100; k = k1; results = [];
+k1 = 0.001; k2 = 20; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
 while k < k2:
-    results.append(global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True))
+    result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False)
+    results.append(result)
+    drawdowns.append(mdd)
+    tols.append(k)
+    rebals.append(rebalsss)
     k += 0.0025
-    if len(results) > 2 and results[-1] > max(results[:-1]):
-        print("rebal_tol:", k, "result:", results[-1])
+    if rebalsss > 5 and len(results) > 2 and results[-1] > np.mean(results[:-1]):
+        print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
+
+
+
+plot4(results, drawdowns, tols, rebals)

@@ -1,4 +1,5 @@
 import numpy as np
+import quandl
 import urllib.request
 import urllib, time, datetime
 import scipy.stats as sp
@@ -137,7 +138,7 @@ def twap(arr, ll):
     return (high + low + close) / 3
 
 def BBmomma(arr, Kin):
-    lb, mb, ub = BBn(arr, Kin, 2.5, 2.5)
+    lb, mb, ub = BBn(arr, Kin, 3, 3)
     srange = ub - lb
     pos = arr[-1] - lb
     if srange > 0:
@@ -145,11 +146,32 @@ def BBmomma(arr, Kin):
     else:
         return 0.5
 
-def  getNum(str):
+def rate_of_change_strategy(prices, lookback):
+    operating_array = prices[-(lookback * 10)]
+    min_delta = 0
+    max_delta = 0
+    for i, price in enumerate(operating_array[-lookback:]):
+        delta = operating_array[i] - operating_array[i + lookback]
+        min_delta = min(min_delta, delta)
+        max_delta = max(max_delta, delta)
+    return (min_delta, max_delta)
+
+# Scale an input delta to a ratio of the max/min from price history
+def scale_roc(delta, extreme_deltas):
+    if delta > 0:
+        return delta / extreme_deltas[1]
+    return delta / extreme_deltas[0]
+
+
+def getNum(str):
     tmp = ""
     for i, l in enumerate(str):
         if l.isnumeric() or l == ".":
             tmp += l
+
+    if str[-4:].find('e-') > 0 or str[-4:].find('e+') > 0:
+        tmp += str[-3:]
+
     return float(tmp)
 
 def CryptoQuote1(the_symbol):
@@ -157,6 +179,7 @@ def CryptoQuote1(the_symbol):
         open, high, low, close, volume = [], [], [], [], []
     the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
+    print(the_symbol, "data samples:", response[1:10])
     for i, curr in enumerate(response):
         if curr.find('open') > 0:
             ohlcvObj.open.append(getNum(curr))
@@ -170,8 +193,7 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
-    # desc = sp.describe(perc)
+def write_that_shit(log, tick, kin, din,  perc, cuml, bitchCunt):
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -182,11 +204,11 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     file.write("\nK in:\t")
     file.write(str(int(np.floor(kin))))
     file.write("\nD in:\t")
-    file.write(str(int(np.floor(din))))
-    file.write("\nK1 in:\t")
-    file.write(str(int(np.floor(kin1))))
-    file.write("\nD1 in:\t")
-    file.write(str(int(np.floor(din1))))
+    file.write(str(din))
+    # file.write("\nK1 in:\t")
+    # file.write(str(int(np.floor(kin1))))
+    # file.write("\nD1 in:\t")
+    # file.write(str(int(np.floor(din1))))
     # file.write("\nK2 in:\t")
     # file.write(str(int(np.floor(kin2))))
     # file.write("\nD2 in:\t")
@@ -199,10 +221,11 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
         desc = sp.describe(perc)
         file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
-    file.write("\n\n [sma,sma],[ema,sma] Cumulative Diff:\t")
+    file.write("\n\n [BBbreak/cip1.1.2, static bitchcunt distance] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
+    file.write("\n\n")
     file.close()
     # print("Described diff")
     # print(desc)
@@ -211,58 +234,52 @@ def write_that_shit(log, tick, kin, din, kin1, din1,  perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     stock = []
     with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
     #REMOVE INT(NP.FLOOR(LEN(STOCK1)/2)) FOR REAL RUNS
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
-    for i, stocks in enumerate(stock1[int(np.floor(len(stock1)/2)):]):
+    #28880 = 100 day lookback
+    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .9)):]):
+    #for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
-    print("test length:", len(stock))
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
-    # WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
     stockBought = False
     stopLoss = False
     bull = 0; shit = 0; maxP = 0;
 
     for i, closeData in enumerate(stock):
         arr.append(closeData)
-        if i > max([Kin, Din, Kin1, Din1]):
-                Kv = SMAn(arr, int(np.floor(Kin)))
-                kar.append(Kv)
-                Dv = SMAn(arr, int(np.floor(Din)))
-                #dar.append(Dv)
-                Kv1 = EMAn(arr, int(np.floor(Kin1)))
-                #kar1.append(Kv1)
-                Dv1 = SMAn(arr, int(np.floor(Din1)))
-                #dar1.append(Dv1)
-                # Kv2 = SMAn(arr, Kin2)
-                # kar2.append(Kv2)
-                # Dv2 = SMAn(arr, Din2)
-                # dar2.append(Dv2)
-                if stockBought == True and closeData > maxP:
-                    maxP = closeData
-                if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
-                    buy.append(closeData * (1+tradeCost))
-                    bull += 1
-                    stockBought = True
-                if ((Kv1 < Dv1) and stockBought == True):
-                    sell.append(closeData * (1-tradeCost))
-                    maxP = 0
-                    shit += 1
-                    stockBought = False
-                if (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
-                    sell.append(closeData * (1-tradeCost))
-                    maxP = 0
-                    shit += 1
-                    stockBought = False
-                    stopLoss = True
-                if ((Kv > Dv) and stopLoss == True):
-                    stopLoss = False
+        if i > max([Kin, Din]):
+            min_delta, max_delta = rate_of_change_strategy(arr, Kin)
+            ref_min_delta, ref_max_delta = rate_of_change_strategy(arr, Kin * 10)
+            if max_delta > abs(min_delta):
+
+            if ((closeData > ub) and (stockBought == False and stopLoss == False)):
+                buy.append(closeData * (1+tradeCost))
+                bull += 1
+                stockBought = True
+            elif (closeData < lb) and stockBought == True:
+                sell.append(closeData * (1 - tradeCost))
+                maxP = 0
+                shit += 1
+                stockBought = False
+            if stockBought == True and closeData > maxP:
+                maxP = closeData
+            #DYNAMIC BITCHCUNT DISTANCE IN DEVELOPMENT
+            #WILL BE BASED ON ANALYSIS OF VARIANCE, AND CORRELATION WITH ENVIRONMENTAL VOLITILITY
+            if (closeData < (maxP * (1-bitchCunt)) and stockBought == True):
+                sell.append(closeData * (1-tradeCost))
+                maxP = 0
+                shit += 1
+                stockBought = False
+                stopLoss = True
+            elif ((closeData < ub) and stopLoss == True):
+                stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
         shit += 1
@@ -276,35 +293,50 @@ def fucking_paul(tik, log, Kin, Din, Kin1, Din1, save_max, max_len, bitchCunt, t
         perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
         cuml += cuml * perc[i]
-
-    print("cuml:", cuml)
+        cumld.append(cuml)
 
     if cuml > save_max and len(perc) <= max_len:
-        write_that_shit(log, tik, Kin, Din, Kin1, Din1, perc, cuml, bitchCunt)
-    # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
-    # plot(perc)
-    # plot2(s1ar, s2ar)
+        write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
+        print(tik)
+        print("len:", len(perc), "cuml:", cuml)
+        print("bitchCunt:", bitchCunt)
+        print("Kin:", Kin, "Din:", Din)
+        print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
+        #DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
+        # plot(perc)
+        # plot(cumld)
     return cuml
 
-def pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max, max_len, bitchCunt, tradeCost):
-    n_proc = 8; verbOS = 10; inc = 0
+def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+    n_proc = 1; verbOS = 0; inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
-            (fileTicker[inc], fileOutput[inc], k, i, d, s, save_max, max_len, bitchCunt, tradeCost)
+            (fileTicker[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_FCT", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC-SJCX", "BTC-XEM", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+#ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH", "BTC-XEM"]
+#ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_output.txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1.2_output.txt")
+    # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
+    #fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
+    #fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
+        print("missing file:", file)
         fileWrite = open(file, 'w')
         dataset = CryptoQuote1(ticker[i]).close
+        # data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
+        # data = np.array(data)
+        # for i in range(len(data)):
+        #     if float(data[i][-6:]) > 0:
+        #         dataset.append(float(data[i][-6:]))
         # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
         # dataset = np.zeros(len(tick))
         # i = len(tick) - 1
@@ -321,40 +353,37 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 7; k2 = 300
-    l1 = 2; l2 = 30
+    k1 = 1; k2 = 300
+    l1 = 1; l2 = 5
     d1 = 2; d2 = 300
     s1 = 2; s2 = 30
-    j1 = 0.001; j2 = 0.1
+    j1 = 0.001; j2 = 0.2
     k = k1; i = l1; j = j1; d = d1; s = s1
     returns = []
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                while (d < d2):
+                #while (d < d2):
                     #while (s < s2):
-                    if i > k and i >= d:
-                        print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2, int(np.floor(d)), "/", d2)
-                        pillowcaseAssassination(fileTicker, k, i, d, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0005)
+                if i > 0:
+                    print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
                     #     if (s < 10):
                     #         s += 1
                     #     else:
                     #         s *= 1.3
                     # s = s1
-                    if (d < 10):
-                        d += 1
-                    else:
-                        d *= 1.3
-                d = d1
+                #     if (d < 10):
+                #         d += 1
+                #     else:
+                #         d *= 1.3
+                # d = d1
                 if (j < 0.01):
                     j += 0.0035
                 else:
                     j *= 1.3
             j = j1
-            if (i < 10):
-                i += 1
-            else:
-                i *= 1.3
+            i *= 1.3
         i = l1
         if (k < 10):
             k += 1
@@ -366,5 +395,3 @@ def run():
             k *= 1.01
 
 run()
-
-

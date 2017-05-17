@@ -12,7 +12,7 @@ from sklearn.preprocessing import MinMaxScaler
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
+def plot(a, xLabel = 'X', yLabel = 'Y'):
     y = np.arange(len(a))
     plt.plot(y, a, 'g')
     plt.ylabel(yLabel)
@@ -22,8 +22,22 @@ def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
 def plot2(a, b):
     y = np.arange(len(a))
     plt.plot(y, a, 'g', y, b, 'r')
-    plt.ylabel('Price')
-    plt.xlabel('Time Periods')
+    plt.ylabel('Y')
+    plt.xlabel('X')
+    plt.show()
+
+def plot3(a, b, c):
+    y = np.arange(len(a))
+    plt.plot(y, a, 'g', y, b, 'r', y, c, 'b')
+    plt.ylabel('Y')
+    plt.xlabel('X')
+    plt.show()
+
+def plot4(a, b, c, d):
+    y = np.arange(len(a))
+    plt.plot(y, a, 'g', y, b, 'r', y, c, 'b', y, d, 'y')
+    plt.ylabel('Y')
+    plt.xlabel('X')
     plt.show()
 
 def getNum(str):
@@ -56,13 +70,12 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2, plt_bool=False):
-    profit = 0
+def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=False):
     fileTicker = []
     fileOutput = []
     fileCuml = []
     dataset = []
-    hist_vals = [100000000, 10000000]
+    rebalsss = 0
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
@@ -101,14 +114,14 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
         cumulative_diffs.append(diffs)
         cumulative_prices.append(stock)
 
-    avg_diffs = []; allocs = []; cumld = [];
+    avg_diffs = []; allocs = []; cumld = []; dd = 0; mdd = 0;
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
 
@@ -118,25 +131,40 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        hist_vals.append(cuml)
-        if hist_vals[-1] > hist_vals[-2]:
-            profit += (hist_vals[-1] - hist_vals[-2]) * perf_fee
-            cuml -= profit
-        if max(allocs) - min(allocs) > np.mean(allocs) * rebal_tol:
-            print("Rebalancing Portfolio")
+        sorted_allocs = sorted(allocs)
+        top_half, bottom_half = sorted_allocs[4:], sorted_allocs[:4]
+        if np.mean(top_half) - np.mean(bottom_half) > np.mean(allocs) * rebal_tol:
+            rebalsss += 1
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
         #print(allocs)
         cumld.append(sum(allocs))
 
+    for i in range(len(cumld)):
+        if i > 1:
+            peak = max(cumld[:i])
+            trough = min(cumld[i:])
+            dd = (peak - trough) / peak
+            if dd > mdd:
+                mdd = dd
+
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml, profit, cumld
+    return cuml, rebalsss, mdd
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
+k1 = 0.001; k2 = 5; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
+while k < k2:
+    result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False)
+    results.append(result)
+    drawdowns.append(mdd)
+    tols.append(k)
+    rebals.append(rebalsss)
+    k += 0.0025
+    if rebalsss > 5 and len(results) > 2 and results[-1] > np.mean(results[:-1]):
+        print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
 
-result, profit, cumld = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=4.5, perf_fee=0, plt_bool=False)
-print("result:", result, "profit:", profit)
-plot(cumld)
 
+
+plot4(results, drawdowns, tols, rebals)

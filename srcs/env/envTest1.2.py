@@ -56,13 +56,58 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2, plt_bool=False):
-    profit = 0
+def duz_i_buy(cumulative_prices, n, allocs, bitchCunts, tradeCost):
+    cuml = sum(allocs)
+    len_buys = 0
+    for i in range(len(allocs)):
+        op_arr = cumulative_prices[i][:n]
+        lb, mb, ub = BBn(op_arr, lookback, stddev, stddev)
+        #print("curr price 111:", cumulative_prices[i][n], "upper, middle, lower", ub, mb, lb)
+        if allocs[i] > 0:
+            len_buys += 1
+        if allocs[i] < bitchCunts[i] and allocs[i] > 0:
+            len_buys -= 1
+        elif cumulative_prices[i][n] > ub and allocs[i] == 0:
+            len_buys += 1
+
+        #print("Len buys post fuckery:", len_buys)
+
+    #print("len buys:", len_buys, "cuml:", cuml)
+
+    if len_buys < 1:
+        res = []
+        for i in range(len(allocs) - 1):
+            #print("LIQUIDATING TO BITCOIN")
+            res.append(0)
+        res.append(cuml)
+        return res
+    else:
+        for i in range(len(allocs)):
+            op_arr = cumulative_prices[i][:n]
+            lb, mb, ub = BBn(op_arr, lookback, stddev, stddev)
+            #print("curr price:", cumulative_prices[i][n], "upper, middle, lower", ub, mb, lb)
+            if (allocs[i] < bitchCunts[i] and allocs[i] > 0) or (allocs[i] == 0):
+                #print("started:", allocs[i])
+                allocs[i] = 0
+                #print("alloced:", allocs[i])
+            elif cumulative_prices[i][n] > ub and allocs[i] == 0:
+                #print("started:", allocs[i])
+                allocs[i] = cuml * (1 - tradeCost) / len_buys
+                #print("alloced:", allocs[i])
+            elif allocs[i] > 0:
+                #print("started:", allocs[i])
+                allocs[i] = cuml * (1 - tradeCost) / len_buys
+                #print("alloced:", allocs[i])
+
+    # if sum(allocs) != cuml * (1 - tradeCost):
+    #     print("ALLOCATION CALCULATION ERROR sum(allocs)/cuml * (1 - tradeCost):", sum(allocs), "/", cuml * (1 - tradeCost))
+    return allocs
+
+def global_warming(ticker, cuml=1, bitchCunt=0.1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=False):
     fileTicker = []
     fileOutput = []
     fileCuml = []
     dataset = []
-    hist_vals = [100000000, 10000000]
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
@@ -101,14 +146,14 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
         cumulative_diffs.append(diffs)
         cumulative_prices.append(stock)
 
-    avg_diffs = []; allocs = []; cumld = [];
+    avg_diffs = []; allocs = []; cumld = []; bitchCunts = [];
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
 
@@ -118,25 +163,25 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        hist_vals.append(cuml)
-        if hist_vals[-1] > hist_vals[-2]:
-            profit += (hist_vals[-1] - hist_vals[-2]) * perf_fee
-            cuml -= profit
         if max(allocs) - min(allocs) > np.mean(allocs) * rebal_tol:
-            print("Rebalancing Portfolio")
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
+        allocs = duz_i_buy(cumulative_prices, n, allocs, bitchCunts, tradeCost)
         #print(allocs)
         cumld.append(sum(allocs))
 
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml, profit, cumld
+    return cuml
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-
-result, profit, cumld = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=4.5, perf_fee=0, plt_bool=False)
-print("result:", result, "profit:", profit)
-plot(cumld)
-
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
+j1 = 0.001; j2 = 0.4; j = j1; k1 = 0.001; k2 = 100; k = k1; results = [];
+while j < j2:
+    while k < k2:
+        results.append(global_warming(ticker, 1, bitchCunt=j, tradeCost=0.005, rebal_tol=k, plt_bool=True))
+        k += 0.0025
+        if len(results) > 2 and results[-1] > max(results[:-1]):
+            print("rebal_tol:", k, "bitchCunt:", j, "result:", results[-1])
+    k = k1
+    j *= 1.2

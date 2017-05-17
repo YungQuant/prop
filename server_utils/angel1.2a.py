@@ -226,7 +226,7 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     cryptos = ['XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-    REBAL_TOL = 2.4
+    REBAL_TOL = 1.15
     PERF_FEE = 0.2
     vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
     for i in range(len(cryptos)):
@@ -269,7 +269,7 @@ while(1):
                 profits += (tot_btc_val - hist_vals[-1]) * PERF_FEE
         print("Variance:", max(btc_vals) - min(btc_vals), "Tolerance:", np.mean(btc_vals) * REBAL_TOL)
         print("TOT_BTC_VAL:", tot_btc_val)
-        print("COMMISSION PROFITS:", profits)
+        #print("COMMISSION PROFITS:", profits)
         print("runtime:", time_cnt / 60, "minutes")
         print("CRYPTOS:", cryptos)
         print("HOLDINGS:", vals)

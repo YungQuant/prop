@@ -226,7 +226,7 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     cryptos = ['XMR', 'XEM', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-    REBAL_TOL = 4.5
+    REBAL_TOL = 1.15
     PERF_FEE = 0.2
     vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
     for i in range(len(cryptos)):
@@ -261,8 +261,8 @@ while(1):
                 if b.get_open_orders(cryptos[i])['result'] != []:
                     print("EXISTING ORDERS:", b.get_open_orders(cryptos[i]))
                     break
-                if i == len(pairs) - 1:
-                    rebalence(cryptos)
+                # if i == len(pairs) - 1:
+                #     rebalence(cryptos)
         if (time_cnt > 10 and time_cnt % 8640 == 0) or time_cnt == 0:
             hist_vals.append(tot_btc_val)
             if len(hist_vals) > 1 and tot_btc_val > hist_vals[-1]:
@@ -270,7 +270,7 @@ while(1):
         print("BTC vals:", btc_vals)
         print("Variance:", max(btc_vals) - min(btc_vals), "Tolerance:", np.mean(btc_vals) * REBAL_TOL)
         print("TOT_BTC_VAL:", tot_btc_val)
-        print("PROFITS:", profits)
+        #print("PROFITS:", profits)
         print("\n")
         if time_cnt > 40 and time_cnt % 60 == 0:
             print("runtime:", time_cnt / 60, "minutes")
