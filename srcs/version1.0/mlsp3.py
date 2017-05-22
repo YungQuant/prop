@@ -367,7 +367,7 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
         #WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
         #if lookback < 11: print(tik, "test length:", len(stock))
         X, Y = create_dataset(stock[:int(np.floor(len(stock) * 0.8))], lookback)
-        X = scaler.fit_transform(X)
+        #X = scaler.fit_transform(X)
         stockBought = False
         stopLoss = False
         bull = 0; shit = 0; maxP = 0;
@@ -378,7 +378,7 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
             arr.append(closeData)
             if i >= int(np.floor(len(stock) * 0.8)) + lookback + 1:
                 arry = arr[-lookback:]
-                arry = scaler.fit_transform(arry)
+                #arry = scaler.fit_transform(arry)
                 p = R.predict(arry)
                 if i < len(stock) - 6:
                     err.append(abs(p - stock[i + 6]) / stock[i])
@@ -422,7 +422,7 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
 
         if len(err) > 0:
             avgError = np.mean(err)
-            if cuml > save_max or avgError < 0.05:
+            if cuml > save_max or avgError < 0.005:
                 write_that_shit(log[jj], tick[jj], a, lookback, perc, cuml, bitchCunt, avgError)
                 print(tick[jj])
                 print("len:", len(perc), "cuml:", cuml)
@@ -448,14 +448,14 @@ def pillowcaseAssassination(fileTicker, a, lookback, fileOutput, save_max, max_l
 
 
 
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-SJCX", "BTC-XEM", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mlsp3_linearEdition_4.28.17_1dx0.8_5intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mlsp3_linearEdition_unscaled_5.17.17_1dx0.8_5intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -478,7 +478,7 @@ def run():
         while(a < a2):
             print(lookback, "/", l2, "\t", a, "/", a2)
             while j <= j2:
-                fucking_paul(fileTicker, fileOutput, a, int(np.floor(lookback)), 1.00, 2000000, j, 0.0025)
+                fucking_paul(fileTicker, fileOutput, a, int(np.floor(lookback)), 1.00, 2000000, j, 0.005)
                 # try:
                 #     fucking_paul(fileTicker, fileOutput, a, lookback, 1.00, 2000000, j, 0.0025)
                 # except:

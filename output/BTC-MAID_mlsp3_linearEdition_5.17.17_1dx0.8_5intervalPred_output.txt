@@ -1,0 +1,668 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.7756745442475603
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.043862972286311641, -0.0067350984020015129), mean=-0.02276200961375837, variance=0.00014196463638578897, skewness=-0.5470966695444873, kurtosis=-0.58025310818087)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.7754480699584256
+bitchCunt:	0.002
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.043862972286311641, -0.0067350984020015129), mean=-0.022787955300680826, variance=0.00014195686390416969, skewness=-0.5402909583859203, kurtosis=-0.5849554052647696)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.7707754015166255
+bitchCunt:	0.004
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.043862972286311641, -0.0067350984020015129), mean=-0.023323272545505903, variance=0.00014510149130495317, skewness=-0.3951055685373915, kurtosis=-0.7689457662768748)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.8236021673094813
+bitchCunt:	0.008
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.041958553708126053, 0.00082896545440743884), mean=-0.01741342689898941, variance=0.00016025220661003572, skewness=-0.37462498027329627, kurtosis=-0.635105732610227)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.8236021673094813
+bitchCunt:	0.016
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.041958553708126053, 0.00082896545440743884), mean=-0.01741342689898941, variance=0.00016025220661003572, skewness=-0.37462498027329627, kurtosis=-0.635105732610227)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.8236021673094813
+bitchCunt:	0.032
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.041958553708126053, 0.00082896545440743884), mean=-0.01741342689898941, variance=0.00016025220661003572, skewness=-0.37462498027329627, kurtosis=-0.635105732610227)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.8236021673094813
+bitchCunt:	0.064
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.041958553708126053, 0.00082896545440743884), mean=-0.01741342689898941, variance=0.00016025220661003572, skewness=-0.37462498027329627, kurtosis=-0.635105732610227)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	20
+Average Percent Error:	0.0255263710269
+Len:	11
+Cumulative Diff:	0.8236021673094813
+bitchCunt:	0.128
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.041958553708126053, 0.00082896545440743884), mean=-0.01741342689898941, variance=0.00016025220661003572, skewness=-0.37462498027329627, kurtosis=-0.635105732610227)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.7549886249724928
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.046698743793156694, 0.0024054265411378173), mean=-0.021304825197253737, variance=0.00017461479512095618, skewness=-0.3062767381275693, kurtosis=-0.1232070149585045)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.7547681806812343
+bitchCunt:	0.002
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.046698743793156694, 0.0024054265411378173), mean=-0.02132677955686272, variance=0.00017467910000692167, skewness=-0.30098075081978043, kurtosis=-0.12741551109391214)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.7425467676419183
+bitchCunt:	0.004
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.046698743793156694, 0.0024054265411378173), mean=-0.022563748491080185, variance=0.00015589002799584425, skewness=-0.1861693245519395, kurtosis=0.29797583231907687)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.793628022255805
+bitchCunt:	0.008
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.041958553708126053, 0.0024054265411378173), mean=-0.017561433924770161, variance=0.00013063275364609008, skewness=-0.18754313056888525, kurtosis=0.14386972354257654)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.793628022255805
+bitchCunt:	0.016
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.041958553708126053, 0.0024054265411378173), mean=-0.017561433924770161, variance=0.00013063275364609008, skewness=-0.18754313056888525, kurtosis=0.14386972354257654)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.793628022255805
+bitchCunt:	0.032
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.041958553708126053, 0.0024054265411378173), mean=-0.017561433924770161, variance=0.00013063275364609008, skewness=-0.18754313056888525, kurtosis=0.14386972354257654)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.793628022255805
+bitchCunt:	0.064
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.041958553708126053, 0.0024054265411378173), mean=-0.017561433924770161, variance=0.00013063275364609008, skewness=-0.18754313056888525, kurtosis=0.14386972354257654)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	24
+Average Percent Error:	0.0243304522436
+Len:	13
+Cumulative Diff:	0.793628022255805
+bitchCunt:	0.128
+
+
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.041958553708126053, 0.0024054265411378173), mean=-0.017561433924770161, variance=0.00013063275364609008, skewness=-0.18754313056888525, kurtosis=0.14386972354257654)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	28
+Average Percent Error:	0.0224047443427
+Len:	11
+Cumulative Diff:	0.7951263171277773
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.046698743793156694, 0.0078040777332346808), mean=-0.020517474436959088, variance=0.00023290922168489565, skewness=-0.030197039820357208, kurtosis=-0.17405153465732592)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	28
+Average Percent Error:	0.0224047443427
+Len:	11
+Cumulative Diff:	0.7951263171277773
+bitchCunt:	0.002
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.046698743793156694, 0.0078040777332346808), mean=-0.020517474436959088, variance=0.00023290922168489565, skewness=-0.030197039820357208, kurtosis=-0.17405153465732592)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	28
+Average Percent Error:	0.0224047443427
+Len:	11
+Cumulative Diff:	0.7810190599722678
+bitchCunt:	0.004
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.046698743793156694, 0.0078040777332346808), mean=-0.022122911709948852, variance=0.00020518725812747993, skewness=0.17475540079696772, kurtosis=0.474251295623517)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	28
+Average Percent Error:	0.0224047443427
+Len:	11
+Cumulative Diff:	0.8347137406078091
+bitchCunt:	0.008
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.041958553708126053, 0.0078040777332346808), mean=-0.01620730609827772, variance=0.00017909950184504398, skewness=-0.009100636800497159, kurtosis=-0.076902342662728)Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-MAID_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+

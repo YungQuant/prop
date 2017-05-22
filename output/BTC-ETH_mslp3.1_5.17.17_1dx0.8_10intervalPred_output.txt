@@ -1,0 +1,10 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/books/BTC-ETH_buy_books.txt
+ Nin:	1
+Alpha:	0.001
+Len:	174
+
+Described Diff:
+DescribeResult(nobs=174, minmax=(-0.045074990260018322, 266.46644425927144), mean=1.5212374060009024, variance=408.10250722340879, skewness=13.076913881553253, kurtosis=169.0057116228278)
+
+Cumulative Diff:	44.77543902842705
+bitchCunt:	0.5

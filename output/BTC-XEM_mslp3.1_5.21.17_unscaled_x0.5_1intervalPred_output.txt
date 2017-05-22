@@ -1,0 +1,532 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.001
+Len:	12
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.018869045376794798, 0.021379658502417239), mean=0.0014378225054687132, variance=0.00015458989501046223, skewness=-0.05408439936582205, kurtosis=-1.0532666404890645)
+
+Cumulative Diff:	1.0165282987876383
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.001
+Len:	12
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.018869045376794798, 0.021379658502417239), mean=0.0014378225054687132, variance=0.00015458989501046223, skewness=-0.05408439936582205, kurtosis=-1.0532666404890645)
+
+Cumulative Diff:	1.0165282987876383
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.001
+Len:	12
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.018869045376794798, 0.021379658502417239), mean=0.0014378225054687132, variance=0.00015458989501046223, skewness=-0.05408439936582205, kurtosis=-1.0532666404890645)
+
+Cumulative Diff:	1.0165282987876383
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.01
+Len:	13
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0021605921424706939, variance=0.00018764589230667122, skewness=-0.4333032268872467, kurtosis=-0.6708880642947892)
+
+Cumulative Diff:	1.027297833098498
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.01
+Len:	13
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0021605921424706939, variance=0.00018764589230667122, skewness=-0.4333032268872467, kurtosis=-0.6708880642947892)
+
+Cumulative Diff:	1.027297833098498
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.01
+Len:	18
+
+Described Diff:
+DescribeResult(nobs=18, minmax=(-0.024300176714397943, 0.018836718863382798), mean=0.00033037698371227018, variance=0.00011210619736658564, skewness=-0.5673222549887963, kurtosis=0.4295046122631003)
+
+Cumulative Diff:	1.0050021200656694
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.02
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0012126120706015893, variance=0.00016675267557822194, skewness=-0.31604315903118924, kurtosis=-0.47820931797810795)
+
+Cumulative Diff:	1.0160087607069863
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.02
+Len:	19
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.001953512032339174, variance=0.00011225782191866538, skewness=-0.6957890515160741, kurtosis=0.45082712778419554)
+
+Cumulative Diff:	1.0367275292440121
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.02
+Len:	19
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.024300176714397943, 0.016425872278450545), mean=0.00020099069145033949, variance=8.3102537509820864e-05, skewness=-0.8103803888267148, kurtosis=1.1465767281460293)
+
+Cumulative Diff:	1.0030718188470373
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.02
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.024300176714397943, 0.018836718863382798), mean=0.00099982205987341789, variance=0.00011799259791511253, skewness=-0.7426286808215153, kurtosis=0.4645786208577203)
+
+Cumulative Diff:	1.0161706875264658
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.04
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0022979737988849101, variance=0.00013843014972153629, skewness=-0.6649633621653006, kurtosis=0.3144203669697312)
+
+Cumulative Diff:	1.034026528395426
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.04
+Len:	18
+
+Described Diff:
+DescribeResult(nobs=18, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.002290565947989751, variance=0.00011696115879175362, skewness=-0.7834393146319716, kurtosis=0.467474452140475)
+
+Cumulative Diff:	1.041006252672689
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.04
+Len:	19
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.024300176714397943, 0.016425872278450545), mean=0.00089069942178916415, variance=9.230432726122218e-05, skewness=-0.7959133320542168, kurtosis=0.8782147397417792)
+
+Cumulative Diff:	1.0162122576708894
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.04
+Len:	18
+
+Described Diff:
+DescribeResult(nobs=18, minmax=(-0.024300176714397943, 0.018836718863382798), mean=0.0018940802846324359, variance=9.9137259371946118e-05, skewness=-0.8191245019710943, kurtosis=1.1502012390932128)
+
+Cumulative Diff:	1.0337749703667267
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.04
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.0008911213677599845, variance=0.00012852695641303398, skewness=-0.7560626549141971, kurtosis=0.3948350349245642)
+
+Cumulative Diff:	1.0133724604114625
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.08
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0022979737988849101, variance=0.00013843014972153629, skewness=-0.6649633621653006, kurtosis=0.3144203669697312)
+
+Cumulative Diff:	1.034026528395426
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.08
+Len:	18
+
+Described Diff:
+DescribeResult(nobs=18, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0031134449701088972, variance=0.00013722017815198106, skewness=-0.5648694716207733, kurtosis=0.10468085698660756)
+
+Cumulative Diff:	1.0563194161585538
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.08
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.0017658967746533227, variance=0.00010877391511689444, skewness=-0.8494717137636452, kurtosis=1.085354287920513)
+
+Cumulative Diff:	1.0295496778168456
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.08
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.0013871220858343999, variance=0.00013898331009053823, skewness=-0.8490415863676402, kurtosis=0.4626414261531804)
+
+Cumulative Diff:	1.0186715473440109
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.16
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0034305372241844483, variance=0.000142925783587406, skewness=-0.6599467519772901, kurtosis=0.2771759635441371)
+
+Cumulative Diff:	1.0551937466273635
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.16
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0032778546214879954, variance=0.00014060866837727312, skewness=-0.6059940809976564, kurtosis=0.17098250753730992)
+
+Cumulative Diff:	1.0560224627095465
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.16
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.0015129989251215625, variance=0.0001145321203563559, skewness=-0.6483099508715203, kurtosis=0.5944235087753555)
+
+Cumulative Diff:	1.0250934517590529
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.16
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.001630022129798102, variance=0.00012904256612385101, skewness=-0.9166190460612714, kurtosis=0.5900658058257702)
+
+Cumulative Diff:	1.0254051106382245
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.16
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.018836718863382798), mean=0.0012551035092655683, variance=0.0001412074027407513, skewness=-0.8092234857587378, kurtosis=0.3284091214623861)
+
+Cumulative Diff:	1.0167782317754197
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.32
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0037522895045162138, variance=0.00013649132427933118, skewness=-0.6311629631483646, kurtosis=0.6025360618135513)
+
+Cumulative Diff:	1.060672537061648
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.32
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.004328638256910709, variance=0.00013741376656485537, skewness=-0.7423858263475677, kurtosis=0.6992708317159444)
+
+Cumulative Diff:	1.070452062359704
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.32
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0045193658080106974, variance=0.00012862154756918153, skewness=-0.7574313128200232, kurtosis=1.057405394723399)
+
+Cumulative Diff:	1.078563974996829
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.32
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.016425872278450545), mean=0.0010106879627594478, variance=9.8788405052313119e-05, skewness=-1.2013397793915677, kurtosis=1.521946879425946)
+
+Cumulative Diff:	1.0145621015036794
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.64
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0042855787984989986, variance=0.00013710608713199244, skewness=-0.9597649879051497, kurtosis=1.0571970503772743)
+
+Cumulative Diff:	1.0607537323172342
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.64
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0017823269344697207, variance=0.0001520387936385971, skewness=-0.5089251779725351, kurtosis=-0.22099370290140863)
+
+Cumulative Diff:	1.02597782126639
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.64
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0045193658080106974, variance=0.00012862154756918153, skewness=-0.7574313128200232, kurtosis=1.057405394723399)
+
+Cumulative Diff:	1.078563974996829
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.64
+Len:	13
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.025358864987410339, 0.016425872278450545), mean=8.5227250290658834e-05, variance=0.00014515670776138416, skewness=-0.6289799115938941, kurtosis=-0.4253279462419677)
+
+Cumulative Diff:	1.0002327638328192
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.32
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0037522895045162138, variance=0.00013649132427933118, skewness=-0.6311629631483646, kurtosis=0.6025360618135513)
+
+Cumulative Diff:	1.060672537061648
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.32
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.004328638256910709, variance=0.00013741376656485537, skewness=-0.7423858263475677, kurtosis=0.6992708317159444)
+
+Cumulative Diff:	1.070452062359704
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.32
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0045193658080106974, variance=0.00012862154756918153, skewness=-0.7574313128200232, kurtosis=1.057405394723399)
+
+Cumulative Diff:	1.078563974996829
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.32
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.016425872278450545), mean=0.0010106879627594478, variance=9.8788405052313119e-05, skewness=-1.2013397793915677, kurtosis=1.521946879425946)
+
+Cumulative Diff:	1.0145621015036794
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.384
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.004886632968442179, variance=0.00014382774557820875, skewness=-0.7896752976479348, kurtosis=0.5812011415884912)
+
+Cumulative Diff:	1.0799564466109672
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.384
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0046460894118176589, variance=0.00013307374918098853, skewness=-0.8361209373962858, kurtosis=1.0115018317729563)
+
+Cumulative Diff:	1.0759134842233398
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.384
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0045193658080106974, variance=0.00012862154756918153, skewness=-0.7574313128200232, kurtosis=1.057405394723399)
+
+Cumulative Diff:	1.078563974996829
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.4608
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0036824910398092683, variance=0.00013788890766480339, skewness=-0.7833898826087846, kurtosis=0.5738586635187692)
+
+Cumulative Diff:	1.0556660323213476
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.4608
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0046460894118176589, variance=0.00013307374918098853, skewness=-0.8361209373962858, kurtosis=1.0115018317729563)
+
+Cumulative Diff:	1.0759134842233398
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.4608
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0045193658080106974, variance=0.00012862154756918153, skewness=-0.7574313128200232, kurtosis=1.057405394723399)
+
+Cumulative Diff:	1.078563974996829
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.55296
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0040211056050433484, variance=0.00013370005705245168, skewness=-0.8870080661425608, kurtosis=0.8848932225727224)
+
+Cumulative Diff:	1.0610520161989525
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.55296
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0030628547544061554, variance=0.000134080371424441, skewness=-0.7929983293744827, kurtosis=0.6088652029477624)
+
+Cumulative Diff:	1.0459588811562215
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.55296
+Len:	17
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0045193658080106974, variance=0.00012862154756918153, skewness=-0.7574313128200232, kurtosis=1.057405394723399)
+
+Cumulative Diff:	1.078563974996829
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.663552
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0042855787984989986, variance=0.00013710608713199244, skewness=-0.9597649879051497, kurtosis=1.0571970503772743)
+
+Cumulative Diff:	1.0607537323172342
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.663552
+Len:	15
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0017823269344697207, variance=0.0001520387936385971, skewness=-0.5089251779725351, kurtosis=-0.22099370290140863)
+
+Cumulative Diff:	1.02597782126639
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.663552
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0030271630914494793, variance=0.00012899342966454273, skewness=-0.7262470849220556, kurtosis=0.7251262029271452)
+
+Cumulative Diff:	1.0485355793802005
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.663552
+Len:	13
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.025358864987410339, 0.016425872278450545), mean=8.5227250290658834e-05, variance=0.00014515670776138416, skewness=-0.6289799115938941, kurtosis=-0.4253279462419677)
+
+Cumulative Diff:	1.0002327638328192
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.7962624
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0018893654738678836, variance=0.00016151492299375383, skewness=-0.5240893094953273, kurtosis=-0.3503946757371357)
+
+Cumulative Diff:	1.029413379590636
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.7962624
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0017644513160669879, variance=0.00015315482736075574, skewness=-0.6184838615161289, kurtosis=-0.1328940219981325)
+
+Cumulative Diff:	1.027425175212382
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.7962624
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0030271630914494793, variance=0.00012899342966454273, skewness=-0.7262470849220556, kurtosis=0.7251262029271452)
+
+Cumulative Diff:	1.0485355793802005
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.7962624
+Len:	13
+
+Described Diff:
+DescribeResult(nobs=13, minmax=(-0.025358864987410339, 0.016425872278450545), mean=8.5227250290658834e-05, variance=0.00014515670776138416, skewness=-0.6289799115938941, kurtosis=-0.4253279462419677)
+
+Cumulative Diff:	1.0002327638328192
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.7962624
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.016425872278450545), mean=0.00018601937812889649, variance=0.00014711015778490891, skewness=-0.7445983983166552, kurtosis=-0.3619099845887548)
+
+Cumulative Diff:	1.0016437990497957
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	1
+Alpha:	0.95551488
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0018893654738678836, variance=0.00016151492299375383, skewness=-0.5240893094953273, kurtosis=-0.3503946757371357)
+
+Cumulative Diff:	1.029413379590636
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	2
+Alpha:	0.95551488
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.021379658502417239), mean=0.0017644513160669879, variance=0.00015315482736075574, skewness=-0.6184838615161289, kurtosis=-0.1328940219981325)
+
+Cumulative Diff:	1.027425175212382
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	4
+Alpha:	0.95551488
+Len:	16
+
+Described Diff:
+DescribeResult(nobs=16, minmax=(-0.025358864987410339, 0.02235147273563165), mean=0.0016076864630153924, variance=0.00015958854447728168, skewness=-0.5277473298228572, kurtosis=-0.27596977245290377)
+
+Cumulative Diff:	1.0248065696470683
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	8
+Alpha:	0.95551488
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.016425872278450545), mean=0.00018601937812889649, variance=0.00014711015778490891, skewness=-0.7445983983166552, kurtosis=-0.3619099845887548)
+
+Cumulative Diff:	1.0016437990497957
+bitchCunt:	0.5Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-XEM_buy_books.txt
+ Nin:	16
+Alpha:	0.95551488
+Len:	14
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.025358864987410339, 0.016425872278450545), mean=0.00032643334191564082, variance=0.00014422997611150164, skewness=-0.7790391448017068, kurtosis=-0.24530923660196668)
+
+Cumulative Diff:	1.003633217724578
+bitchCunt:	0.5

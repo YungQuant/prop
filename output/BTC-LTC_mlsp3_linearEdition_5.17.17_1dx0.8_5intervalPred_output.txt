@@ -1,0 +1,448 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	369
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	443
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	532
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	638
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	766
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	920
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.002
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.004
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.008
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.016
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.032
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.064
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/BTC-LTC_prices.txt
+Alpha::	0.01
+Lookback:	1104
+Average Percent Error:	0
+Len:	0
+Cumulative Diff:	1
+bitchCunt:	0.128
+

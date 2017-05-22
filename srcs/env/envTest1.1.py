@@ -114,7 +114,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.9)):]):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.75)):]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])

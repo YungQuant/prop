@@ -210,12 +210,12 @@ def createBinaryTrainingSet(dataset, look_back):
     return np.array(X), np.array(Y)
 
 def create_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 10
+    lookback *= 200
     x, y = [], []
     k = 0
-    while k < (len(buy_arr) - lookback - 10):
+    while k < (len(buy_arr) - lookback):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        y.append(np.mean([float(sell_arr[k + lookback + 10]), float(buy_arr[k + lookback + 10])]))
+        y.append(np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]))
         k += 2
     return np.array(x), np.array(y)
 
@@ -351,13 +351,13 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
                                                               sells[:int(np.floor(len(sells) * 0.8))], Nin)
         #trainX = scaler.fit_transform(trainX)
         R.fit(trainX, trainY)
-
+        #print(len(buys), len(stock))
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > int(np.floor(len(stock) * .8) + Nin * 10):
+            if i > int(np.floor(len(stock) * .8) + Nin) and i * 200 < len(buys):
                 #print("\n\ninput array:", arr)
-                new_i = i * 10
-                arry = sells[new_i - Nin * 10:new_i] + buys[new_i - Nin * 10:new_i]
+                new_i = i * 200
+                arry = sells[new_i - Nin * 200:new_i] + buys[new_i - Nin * 200:new_i]
                 #arry = scaler.fit_transform(arry)
                 #arry = arr[-Nin:]
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
@@ -413,18 +413,19 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
         if cuml[int(np.floor(jj / 3))] > save_max and len(perc) <= max_len:
             write_that_shit(log[int(np.floor(jj / 3))], tick[jj], Nin, a, perc, cuml[int(np.floor(jj / 3))], bitchCunt)
         jj += 3
+        stock = []
 
 
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-XEM", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mslp3.1_4.18.17_1dx0.8_10intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mslp3.1_5.21.17_unscaled_x0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -446,11 +447,12 @@ for i, file in enumerate(fileTicker):
 #             fileWrite.write('\n')
 
 j = 1
-a = 0.001
+a = 0.01
 while a < 0.99:
-    while j < 120:
+    while j < 30:
         fucking_paul(fileTicker, int(np.floor(j)), a, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
         print("j:", j)
-        j *= 1.2
+        j *= 2
     j = 1
-    a *= 1.3
+    a *= 1.2
+#fucking_paul(fileTicker, 1, 0.2, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)

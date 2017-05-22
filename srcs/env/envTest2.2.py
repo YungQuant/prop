@@ -93,7 +93,7 @@ def get_the_shit(prices, alloc, lookback, n, len_buys):
     R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
     R.fit(X, Y)
     predict = R.predict(prices[-lookback:])
-    predicts.append(predict)
+    #predicts.append(predict)
     if alloc > 0:
         len_buys += 1
     if predict < prices[n] and alloc > 0:
@@ -101,17 +101,21 @@ def get_the_shit(prices, alloc, lookback, n, len_buys):
     elif predict > prices[n] and alloc == 0:
         len_buys += 1
 
-    return len_buys, predicts
+    return len_buys, predict
 
 def duz_i_buy(cumulative_prices, n, allocs, tradeCost, lookback):
     cuml = sum(allocs)
     len_buys, indx = 0, 0
     predicts = []
     indx = 0
-    print(allocs)
-    len_buys, predicts = Parallel(n_jobs=9, verbose=8)(delayed(get_the_shit)
-        (cumulative_prices[indx], allocs[indx], lookback, n, len_buys)
-        for indx in range)
+    while indx < len(allocs):
+        updated_len_buys, predict = get_the_shit(cumulative_prices[indx], allocs[indx], lookback, n, len_buys)
+        predicts.append(predict)
+        len_buys = updated_len_buys
+        indx += 1
+    # len_buys, predicts = Parallel(n_jobs=8, verbose=8)(delayed(get_the_shit)
+    #     (cumulative_prices[indx], allocs[indx], lookback, n, len_buys)
+    #     for indx in range(len(allocs)))
 
     #print("Len buys post fuckery:", len_buys)
     #print("len buys:", len_buys, "cuml:", cuml)
@@ -129,7 +133,7 @@ def duz_i_buy(cumulative_prices, n, allocs, tradeCost, lookback):
                 #print("started:", allocs[i])
                 allocs[i] = 0
                 #print("alloced:", allocs[i])
-            elif predicts[i] > cumulative_prices[i][n] and allocs[i] == 0:
+            if predicts[i] > cumulative_prices[i][n] and allocs[i] == 0:
                 #print("started:", allocs[i])
                 allocs[i] = cuml * (1 - tradeCost) / len_buys
                 #print("alloced:", allocs[i])
@@ -213,13 +217,12 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, lookback=10, plt_bool=False
     return cuml
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 1; k2 = 100; k = k1; results = [];
+k1 = 80; k2 = 200; k = k1; results = [];
 while k < k2:
     results.append(global_warming(ticker, 1, tradeCost=0.005, lookback=int(np.floor(k)), plt_bool=False))
-    k *= 1.2
+    k += 1
     if results[-1] > 1:
-        global_warming(ticker, 1, tradeCost=0.005, lookback=int(np.floor(k)), plt_bool=False)
+        #global_warming(ticker, 1, tradeCost=0.005, lookback=int(np.floor(k)), plt_bool=True)
         for i in range(5):
             print("$$$$$$$$$$$$$$$$$")
-    print("lookback:", k, "result:", results[-1])
-    k = k1
+        print("lookback:", k, "result:", results[-1])

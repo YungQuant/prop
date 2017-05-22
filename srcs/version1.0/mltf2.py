@@ -255,14 +255,14 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     return np.array(x), np.array(y)
 
 def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 10
+    lookback *= 200
     x, y = [], []
     k = 2
-    while k < (len(buy_arr) - lookback - 6):
+    while k < (len(buy_arr) - lookback - 2):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        if np.mean([float(sell_arr[k + lookback + 6]),
-                    float(buy_arr[k + lookback + 6])]) >= np.mean([float(sell_arr[(k + lookback) - 2]),
-                                                              float(buy_arr[(k + lookback) - 2])]):
+        if np.mean([float(sell_arr[k + lookback + 2]),
+                    float(buy_arr[k + lookback + 2])]) >= np.mean([float(sell_arr[(k + lookback)]),
+                                                              float(buy_arr[(k + lookback)])]):
             y.append(1)
         else:
             y.append(0)
@@ -363,21 +363,21 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
-        add(Dropout(drop))
+        model.add(Dense(Nin * 400, input_shape=(1, Nin * 400)))
+        model.add(Dropout(drop))
         # model.add(Dense(Nin, activation='relu'))
-        add(LSTM(Nin * 20, activation='tanh'))
-        add(Dense(Nin, activation='tanh'))
-        add(Dense(1, activation='tanh'))
+        model.add(LSTM(Nin * 400, activation='tanh'))
+        model.add(Dense(Nin, activation='tanh'))
+        model.add(Dense(1, activation='tanh'))
         model.compile(loss=err, optimizer=opt, metrics=['binary_accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > int(np.floor(len(stock) * .8)):
+            if i > int(np.floor(len(stock) * .8)) + Nin:
                 # print("\n\ninput array:", arr)
-                new_i = i * 10
-                arry = sells[new_i - Nin * 10:new_i] + buys[new_i - Nin * 10:new_i]
+                new_i = i * 200
+                arry = sells[new_i - Nin * 200:new_i] + buys[new_i - Nin * 200:new_i]
                 arry = scaler.fit_transform(arry)
                 # arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))
@@ -391,11 +391,11 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
                 predictArray.append(predict)
                 if predict > 1 or predict < 0: errorCnt += 1
                 # kar.append(predict)
-                if i < len(stock) - 3:
+                if i < len(stock) - 1:
                     # difference = arry[0][Nin - 1] - stock[i + 1]
                     # print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if stock[i + 3] > stock[i] and (predict > .5):
+                    if stock[i + 1] > stock[i] and (predict > .5):
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         correct_margin_array.append(predict - .5)
@@ -440,10 +440,10 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_4.28.17_1dx0.8_3intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_5.21.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -455,7 +455,7 @@ opts = ['adam', 'Adamax']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
 #nins = np.arange(1, 21, step=4)
-nins = [5, 10]
+nins = [1, 5, 10]
 #batchs = np.arange(5, 50, step=5)
 epoch_scalars = [10, 20, 30]
 batchs = [10]
