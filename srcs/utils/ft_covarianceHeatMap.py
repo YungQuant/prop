@@ -17,7 +17,7 @@ def  getNum(str):
 def CryptoQuote1(the_symbol):
     class ohlcvObj():
         open, high, low, close, volume = [], [], [], [], []
-    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=86400".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     print(the_url)
     for i, curr in enumerate(response):
@@ -33,7 +33,7 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC", "BTC_SJCX", "BTC_XEM"]
 fileTicker = []
 for i, tick in enumerate(ticker):
     fileTicker.append("../../data/" + tick + ".txt")
@@ -55,7 +55,7 @@ for i, file in enumerate(fileTicker):
             fileWrite.write('\n')
         fileWrite.close()
 
-stock = []; size = 10000;
+stock = []; size = 100;
 tickers = np.zeros((len(ticker), size), dtype=object)
 for i, tik in enumerate(fileTicker):
     with open(tik, 'r') as f:

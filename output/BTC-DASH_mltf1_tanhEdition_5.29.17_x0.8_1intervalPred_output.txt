@@ -1,0 +1,65 @@
+Tick:	../../../../../Desktop/comp/HD_6x100_outputs/books/BTC-DASH_buy_books.txt
+N in:	5
+numBatch:	10
+numEpoch:	25
+avg % error:0.0181191238842
+meanPredict:0.0506129
+Described Diff:
+DescribeResult(nobs=507, minmax=(0.050612871, 0.050612871), mean=0.050612874, variance=1.3905214e-17, skewness=-1.0, kurtosis=-2.0)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.835010060362
+
+Tick:	../../../../../Desktop/comp/HD_6x100_outputs/books/BTC-DASH_buy_books.txt
+N in:	10
+numBatch:	5
+numEpoch:	5
+avg % error:0.00710254419879
+meanPredict:0.0509141
+Described Diff:
+DescribeResult(nobs=727, minmax=(0.050863586, 0.050955731), mean=0.050914135, variance=3.0762176e-10, skewness=-0.3220561146736145, kurtosis=-0.49564363424712843)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.832635983264
+
+Tick:	../../../../../Desktop/comp/HD_6x100_outputs/books/BTC-DASH_buy_books.txt
+N in:	10
+numBatch:	5
+numEpoch:	10
+avg % error:0.024796893482
+meanPredict:0.0527789
+Described Diff:
+DescribeResult(nobs=921, minmax=(0.052778866, 0.052778866), mean=0.052778855, variance=1.2503585e-16, skewness=1.0, kurtosis=-2.0)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.165751920966
+
+Tick:	../../../../../Desktop/comp/HD_6x100_outputs/books/BTC-DASH_buy_books.txt
+N in:	10
+numBatch:	5
+numEpoch:	15
+avg % error:0.0485660190392
+meanPredict:0.0499083
+Described Diff:
+DescribeResult(nobs=1483, minmax=(0.049713507, 0.050047878), mean=0.049908329, variance=4.0578731e-09, skewness=-0.2652425467967987, kurtosis=-0.42957325873652596)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.839103869654
+
+Tick:	../../../../../Desktop/comp/HD_6x100_outputs/books/BTC-DASH_buy_books.txt
+N in:	10
+numBatch:	5
+numEpoch:	5
+avg % error:0.0401680830149
+meanPredict:0.0504787
+Described Diff:
+DescribeResult(nobs=2076, minmax=(0.050473623, 0.050491326), mean=0.050478656, variance=1.0070029e-11, skewness=0.8044339418411255, kurtosis=-0.27896103261258753)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.84559535334
+

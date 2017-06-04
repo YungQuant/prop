@@ -1,0 +1,28 @@
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-MAID_buy_books.txt
+N in:	1
+numBatch:	10
+numEpoch:	20
+errorCalc:0
+meanPredict:0.61393
+
+Described Diff:
+DescribeResult(nobs=91, minmax=(0.60835284, 0.64592642), mean=0.61393017, variance=0.00011282041, skewness=2.2211685180664062, kurtosis=3.564829072903552)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.566666666667
+
+Tick:	../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/BTC-MAID_buy_books.txt
+N in:	1
+numBatch:	10
+numEpoch:	30
+errorCalc:0
+meanPredict:0.698398
+
+Described Diff:
+DescribeResult(nobs=91, minmax=(0.69769627, 0.6999408), mean=0.69839811, variance=1.0203855e-06, skewness=0.8074889779090881, kurtosis=-1.2816018465684966)
+dropout:	0.2
+opt:	adam
+errors:	0
+mean inverse error:	0.566666666667
+

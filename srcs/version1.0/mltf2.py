@@ -340,9 +340,10 @@ def write_that_shit(log, tick, d, Nin, predicts, numEpoch, numBatch, opt, err, d
     file.close()
 
 def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
-    cuml, stock = [], []
+    cuml = []
     jj = 0
     while jj < len(tick) - 1:
+        stock = []
         with open(tick[jj + 2], 'r') as f:
             stock1 = f.readlines()
         f.close()
@@ -427,7 +428,7 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
         # print("error variance", np.var(diff))
 
-        if np.mean(diff) > 0.4 and np.mean(predictArray) > 0 and errorCnt < 100:
+        if np.mean(diff) > 0.4 and np.mean(predictArray) > 0 and errorCnt < 100 and min(predictArray) < 0.5 and max(predictArray) > 0.5:
             write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray, numEpoch, numBatch, opt, errorCnt, diff)
         jj += 3
 
@@ -454,10 +455,11 @@ for i, file in enumerate(fileTicker):
 opts = ['adam', 'Adamax']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
-#nins = np.arange(1, 21, step=4)
-nins = [1, 5, 10]
+nins = np.arange(2, 10, step=2)
+#nins = [1, 5, 10]
 #batchs = np.arange(5, 50, step=5)
-epoch_scalars = [10, 20, 30]
+#epoch_scalars = [10, 20, 30]
+epoch_scalars = [10]
 batchs = [10]
 drops = [0.2, 0.4]
 

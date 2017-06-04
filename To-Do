@@ -35,11 +35,6 @@
        -requires probabilistic models built on decent sample size of environments and trades
        -8bp
 
-    -Unencrypted Client Portal
-       -5bp
-
-
-
 4bp:
     -Position entry system
        -must account for slippage and market impact
@@ -55,9 +50,6 @@
         -Sources: Intrino?
 
     -Train mltf2 and 3 on correlated cryptocurrency environment
-
-    -Improve binary accuracy of mlsp2/mltf2
-        -1bp/ percent improvement in accuracy over 50%
 
     -Website .onion Link
 

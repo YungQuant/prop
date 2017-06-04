@@ -1,0 +1,13 @@
+Tick:	../../../../../Desktop/comp/HD_6x100_outputs/books/BTC-LTC_buy_books.txt
+N in:	10
+numBatch:	5
+numEpoch:	5
+avg % error:0.0216488594585
+meanPredict:0.010939
+Described Diff:
+DescribeResult(nobs=7937, minmax=(0.010937711, 0.010939036), mean=0.010939022, variance=4.4490787e-15, skewness=-7.01083517074585, kurtosis=70.38557801103927)
+dropout:	0.2
+opt:	Adamax
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.923047811278
+

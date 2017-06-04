@@ -203,22 +203,22 @@ def rebalence(cryptos):
         if btc_vals[i] > goal_val:
             sells.append(pairs[i])
             sell_vals.append(btc_vals[i])
-            my_sell(pairs[i], btc_vals[i] - goal_val, 'bid')
+            #my_sell(pairs[i], btc_vals[i] - goal_val, 'bid')
 
     for i in range(len(btc_vals) - 1):
         if btc_vals[i] < goal_val:
             buys.append(pairs[i])
             buy_vals.append(btc_vals[i])
-            my_buy(pairs[i], goal_val - btc_vals[i], 'ask')
+            #my_buy(pairs[i], goal_val - btc_vals[i], 'ask')
 
-    # indx = 0
-    # Parallel(n_jobs=4, verbose=10)(delayed(my_sell)
-    # (sells[indx], sell_vals[indx], 'auto1')
-    #     for indx in enumerate(sells))
-    # indx = 0
-    # Parallel(n_jobs=4, verbose=10)(delayed(my_buy)
-    # (buys[indx], buy_vals[indx], 'auto1')
-    #     for indx in enumerate(buys))
+    indx = 0
+    Parallel(n_jobs=4, verbose=10)(delayed(my_sell)
+    (sells[indx], sell_vals[indx], 'auto1')
+        for indx in enumerate(sells))
+    indx = 0
+    Parallel(n_jobs=4, verbose=10)(delayed(my_buy)
+    (buys[indx], buy_vals[indx], 'auto1')
+        for indx in enumerate(buys))
 
 
 
@@ -226,65 +226,19 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     cryptos = ['XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-    REBAL_TOL = 1.15
-    PERF_FEE = 0.2
-    vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
+    pairs = [];
     for i in range(len(cryptos)):
         pairs.append('BTC-' + cryptos[i])
-    pairs.append('BTC')
-    cryptos.append("BTC")
-    #try:
-    bals = b.get_balances()
-    #print("bals:", bals)
-    for k in range(len(cryptos)):
-        for i in range(len(bals['result'])):
-            if cryptos[k] in bals['result'][i]['Currency']:
-                #print("found:", bals['result'][i])
-                vals.append(float(bals['result'][i]['Available']))
 
-    tot_btc_val += vals[-1]
+    for i in range(len(pairs)):
+        top_bid = b.get_orderbook(pairs[i], 'buy', 1)['result'][0]['Rate']
+        low_ask = b.get_orderbook(pairs[i], 'sell', 1)['result'][0]['Rate']
+        if low_ask < top_bid / 8:
+            low_ask_size = b.get_orderbook(pairs[i], 'sell', 1)['result'][0]['Quantity']
+            b.buy_limit(pairs[i], low_ask_size, low_ask)
+            for k in range(100): print("SENT BUY @", low_ask, "FOR", low_ask_size)
+        # else:
+        #     print("NO NOOBS FOUND", pairs[i], ":", (low_ask + top_bid) / 2)
+    print("SCANNED:", pairs)
 
-    for i in range(len(pairs) - 1):
-        tick = b.get_ticker(pairs[i])
-        tick = tick['result']
-        #print(pairs[i], "ticker response ['result']:", tick)
-        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-        #print(tick['Bid'])
-        #price = float(tick['Bid'])
-        btc_vals.append(vals[i] * price)
-        tot_btc_val += vals[i] * price
-
-    btc_vals.append(vals[-1])
-    #print(vals)
-    if max(btc_vals) - min(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
-        print("NEEDS REBALANCING")
-        # for i in range(len(cryptos)):
-        #     if b.get_open_orders(cryptos[i])['result'] != []:
-        #         print("EXISTING ORDERS:", b.get_open_orders(cryptos[i]))
-        #         break
-        #     if i == len(pairs) - 1:
-        rebalence(cryptos)
-    if (time_cnt > 10 and time_cnt % 8640 == 0) or time_cnt == 0:
-        hist_vals.append(tot_btc_val)
-        if len(hist_vals) > 1 and tot_btc_val > hist_vals[-2]:
-            profits += (tot_btc_val - hist_vals[-2]) * PERF_FEE
-    print("Variance:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
-    print("TOT_BTC_VAL:", tot_btc_val)
-    #print("COMMISSION PROFITS:", profits)
-    print("runtime:", time_cnt / 60, "minutes")
-    print("CRYPTOS:", cryptos)
-    print("HOLDINGS:", vals)
-    print("BTC VALS:", btc_vals)
-    print("\n")
-
-    file = open("hist_btc_val.txt", 'a')
-    file.write(str(tot_btc_val))
-    file.close()
-
-    # except:
-    #     for i in range(10):
-    #         print("DUUUUUUDE WTF")
-
-    time.sleep(10)
-    time_cnt += 10
 

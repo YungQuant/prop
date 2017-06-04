@@ -155,7 +155,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, lookback=10, plt_bool=False
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
-            fileOutput.append("../../output/" + tick + "envTest1_output.txt")
+            fileOutput.append("../../output/" + tick + "envTest2.2_output.txt")
         elif len(tick) > 9:
             fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
             fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_envTest1_output.txt")

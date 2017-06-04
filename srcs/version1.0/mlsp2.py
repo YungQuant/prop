@@ -212,9 +212,9 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     lookback *= 10
     x, y = [], []
     k = 0
-    while k < (len(buy_arr) - lookback):
+    while k < (len(buy_arr) - lookback - 10):
         x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        y.append(np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]))
+        y.append(np.mean([float(sell_arr[k + lookback + 10]), float(buy_arr[k + lookback + 10])]))
         k += 2
     return np.array(x), np.array(y)
 
@@ -428,10 +428,10 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.13.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mslp2_4.13.17_1dx0.8_1intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mslp2_5.29.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -454,7 +454,7 @@ for i, file in enumerate(fileTicker):
 
 j = 2
 while j < 120:
-    fucking_paul(fileTicker, int(np.floor(j)), fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
+    fucking_paul(fileTicker, int(np.floor(j)) * 10, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
     print("j:", j)
     if j < 10:
         j += 1
