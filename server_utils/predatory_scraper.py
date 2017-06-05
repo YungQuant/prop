@@ -225,20 +225,23 @@ def rebalence(cryptos):
 
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
-    cryptos = ['XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-    pairs = [];
-    for i in range(len(cryptos)):
-        pairs.append('BTC-' + cryptos[i])
+    try:
+        cryptos = ['XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+        pairs = [];
+        for i in range(len(cryptos)):
+            pairs.append('BTC-' + cryptos[i])
 
-    for i in range(len(pairs)):
-        top_bid = b.get_orderbook(pairs[i], 'buy', 1)['result'][0]['Rate']
-        low_ask = b.get_orderbook(pairs[i], 'sell', 1)['result'][0]['Rate']
-        if low_ask < top_bid / 8:
-            low_ask_size = b.get_orderbook(pairs[i], 'sell', 1)['result'][0]['Quantity']
-            b.buy_limit(pairs[i], low_ask_size, low_ask)
-            for k in range(100): print("SENT BUY @", low_ask, "FOR", low_ask_size)
-        # else:
-        #     print("NO NOOBS FOUND", pairs[i], ":", (low_ask + top_bid) / 2)
-    print("SCANNED:", pairs)
+        for i in range(len(pairs)):
+            top_bid = b.get_orderbook(pairs[i], 'buy', 1)['result'][0]['Rate']
+            low_ask = b.get_orderbook(pairs[i], 'sell', 1)['result'][0]['Rate']
+            if low_ask < top_bid / 8:
+                low_ask_size = b.get_orderbook(pairs[i], 'sell', 1)['result'][0]['Quantity']
+                b.buy_limit(pairs[i], low_ask_size, low_ask)
+                for k in range(100): print("SENT BUY @", low_ask, "FOR", low_ask_size)
+            # else:
+            #     print("NO NOOBS FOUND", pairs[i], ":", (low_ask + top_bid) / 2)
+        print("SCANNED:", pairs)
+    except:
+        print("Failed")
 
 

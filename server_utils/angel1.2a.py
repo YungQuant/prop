@@ -225,65 +225,65 @@ def rebalence(cryptos):
 
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
-    cryptos = ['XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-    REBAL_TOL = 1.15
-    PERF_FEE = 0.2
-    vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
-    for i in range(len(cryptos)):
-        pairs.append('BTC-' + cryptos[i])
-    pairs.append('BTC')
-    cryptos.append("BTC")
-    #try:
-    bals = b.get_balances()
-    #print("bals:", bals)
-    for k in range(len(cryptos)):
-        for i in range(len(bals['result'])):
-            if cryptos[k] in bals['result'][i]['Currency']:
-                #print("found:", bals['result'][i])
-                vals.append(float(bals['result'][i]['Available']))
+    try:
+        cryptos = ['XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+        REBAL_TOL = 1.15
+        PERF_FEE = 0.2
+        vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
+        for i in range(len(cryptos)):
+            pairs.append('BTC-' + cryptos[i])
+        pairs.append('BTC')
+        cryptos.append("BTC")
+        bals = b.get_balances()
+        #print("bals:", bals)
+        for k in range(len(cryptos)):
+            for i in range(len(bals['result'])):
+                if cryptos[k] in bals['result'][i]['Currency']:
+                    #print("found:", bals['result'][i])
+                    vals.append(float(bals['result'][i]['Available']))
 
-    tot_btc_val += vals[-1]
+        tot_btc_val += vals[-1]
 
-    for i in range(len(pairs) - 1):
-        tick = b.get_ticker(pairs[i])
-        tick = tick['result']
-        #print(pairs[i], "ticker response ['result']:", tick)
-        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-        #print(tick['Bid'])
-        #price = float(tick['Bid'])
-        btc_vals.append(vals[i] * price)
-        tot_btc_val += vals[i] * price
+        for i in range(len(pairs) - 1):
+            tick = b.get_ticker(pairs[i])
+            tick = tick['result']
+            #print(pairs[i], "ticker response ['result']:", tick)
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            #print(tick['Bid'])
+            #price = float(tick['Bid'])
+            btc_vals.append(vals[i] * price)
+            tot_btc_val += vals[i] * price
 
-    btc_vals.append(vals[-1])
-    #print(vals)
-    if max(btc_vals) - min(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
-        print("NEEDS REBALANCING")
-        # for i in range(len(cryptos)):
-        #     if b.get_open_orders(cryptos[i])['result'] != []:
-        #         print("EXISTING ORDERS:", b.get_open_orders(cryptos[i]))
-        #         break
-        #     if i == len(pairs) - 1:
-        rebalence(cryptos)
-    if (time_cnt > 10 and time_cnt % 8640 == 0) or time_cnt == 0:
-        hist_vals.append(tot_btc_val)
-        if len(hist_vals) > 1 and tot_btc_val > hist_vals[-2]:
-            profits += (tot_btc_val - hist_vals[-2]) * PERF_FEE
-    print("Variance:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
-    print("TOT_BTC_VAL:", tot_btc_val)
-    #print("COMMISSION PROFITS:", profits)
-    print("runtime:", time_cnt / 60, "minutes")
-    print("CRYPTOS:", cryptos)
-    print("HOLDINGS:", vals)
-    print("BTC VALS:", btc_vals)
-    print("\n")
+        btc_vals.append(vals[-1])
+        #print(vals)
+        if max(btc_vals) - min(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
+            print("NEEDS REBALANCING")
+            # for i in range(len(cryptos)):
+            #     if b.get_open_orders(cryptos[i])['result'] != []:
+            #         print("EXISTING ORDERS:", b.get_open_orders(cryptos[i]))
+            #         break
+            #     if i == len(pairs) - 1:
+            rebalence(cryptos)
+        if (time_cnt > 10 and time_cnt % 8640 == 0) or time_cnt == 0:
+            hist_vals.append(tot_btc_val)
+            if len(hist_vals) > 1 and tot_btc_val > hist_vals[-2]:
+                profits += (tot_btc_val - hist_vals[-2]) * PERF_FEE
+        print("Variance:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
+        print("TOT_BTC_VAL:", tot_btc_val)
+        #print("COMMISSION PROFITS:", profits)
+        print("runtime:", time_cnt / 60, "minutes")
+        print("CRYPTOS:", cryptos)
+        print("HOLDINGS:", vals)
+        print("BTC VALS:", btc_vals)
+        print("\n")
 
-    file = open("hist_btc_val.txt", 'a')
-    file.write(str(tot_btc_val))
-    file.close()
+        file = open("hist_btc_val.txt", 'a')
+        file.write(str(tot_btc_val))
+        file.close()
 
-    # except:
-    #     for i in range(10):
-    #         print("DUUUUUUDE WTF")
+    except:
+        for i in range(10):
+            print("DUUUUUUDE WTF")
 
     time.sleep(10)
     time_cnt += 10

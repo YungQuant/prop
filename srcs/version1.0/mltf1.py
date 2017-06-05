@@ -440,9 +440,9 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/prices/" + tick + "_prices.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
     fileOutput.append("../../output/" + tick + "_mltf1_tanhEdition_5.29.17_x0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
