@@ -349,20 +349,19 @@ def fucking_paul(tick, Nin, log, save_max, max_len, bitchCunt, tradeCost):
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20)))
+        model.add(Dense(Nin * 200, input_shape=(1, Nin * 200)))
         #model.add(Dropout(0.2, input_shape=(1, Nin)))
         #model.add(Dense(Nin, activation='relu'))
         model.add(LSTM(Nin * 20, activation='relu'))
         model.add(Dense(Nin, activation='relu'))
-        model.add(Dense(1, activation='relu'))
         model.compile(loss='mean_squared_error', optimizer='Adam', metrics=['accuracy'])
-        model.fit(trainX, trainY, nb_epoch=30, batch_size=50, verbose=0)
+        model.fit(trainX, trainY, nb_epoch=30, batch_size=5, verbose=0)
 
         for i, closeData in enumerate(stock):
             arr.append(closeData)
             if i > int(np.floor(len(stock) * .8)):
                 #print("\n\ninput array:", arr)
-                arry = sells[i - Nin * 10:i] + buys[i - Nin * 10:i]
+                arry = sells[i - Nin * 100:i] + buys[i - Nin * 100:i]
                 arry = scaler.fit_transform(arry)
                 #arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))
@@ -427,10 +426,10 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mslp1_6.3.17_0.8_1intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mslp1_6.6.17_0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):

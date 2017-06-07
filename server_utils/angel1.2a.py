@@ -279,6 +279,7 @@ while(1):
 
         file = open("hist_btc_val.txt", 'a')
         file.write(str(tot_btc_val))
+        file.write("\n")
         file.close()
 
     except:

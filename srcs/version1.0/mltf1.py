@@ -359,12 +359,11 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
 
         model = Sequential()
-        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20), activation='tanh'))
+        model.add(Dense(Nin * 200, input_shape=(1, Nin * 200), activation='tanh'))
         model.add(Dropout(drop))
         # model.add(Dense(Nin, activation='relu'))
-        model.add(LSTM(Nin * 20, activation='tanh'))
-        model.add(Dense(Nin, activation='tanh'))
-        model.add(Dense(1))
+        model.add(LSTM(Nin * 200, activation='tanh'))
+        model.add(Dense(Nin * 20, activation='tanh'))
         model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
         model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=numBatch, verbose=0)
 
@@ -450,7 +449,7 @@ for i, file in enumerate(fileTicker):
         print("missing:", file)
 
 #opts = ['Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
-opts = ['Adamax', 'adam']
+opts = ['adam']
 errs = ['mean_absolute_error']
 #errs = ['binary_crossentropy']
 #nins = np.arange(1, 15, step=3)
@@ -472,7 +471,7 @@ for i in range(len(errs)):
                 for m in range(len(nins)):
                     for k in range(len(epoch_scalars)):
                         print(nins[m], drops[d], errs[i], opts[l], nins[m] * epoch_scalars[k], batchs[j])
-                        fucking_peter(fileTicker, nins[m] * 10, drops[d], errs[i], opts[l], fileOutput, nins[m] * epoch_scalars[k], batchs[j])
+                        fucking_peter(fileTicker, nins[m], drops[d], errs[i], opts[l], fileOutput, nins[m] * epoch_scalars[k], batchs[j])
                         # try:
                         #     fucking_peter(fileTicker, nins[m], errs[i], opts[l], fileOutput, epochs[k], batchs[j])
                         # except:
