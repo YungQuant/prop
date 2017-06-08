@@ -151,10 +151,10 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
     return cuml, rebalsss, mdd
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 0.001; k2 = 20; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+k1 = 0.001; k2 = 1; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
 while k < k2:
-    result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True)
+    result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False)
     results.append(result)
     drawdowns.append(mdd)
     tols.append(k)

@@ -352,12 +352,11 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
         buys, sells = books2arrays(tick[jj], tick[jj + 1])
         trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
                                                        sells[:int(np.floor(len(sells) * 0.8))], Nin)
-        # print("training x[-1], y[-1]", trainX[-1], trainY[-1])
         # dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
         # dataset = stock[:int(np.floor(len(stock) * .95))]
         trainX = scaler.fit_transform(trainX)
         trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-
+        # print("training x[-1], y[-1]", trainX[-1], trainY[-1])
         model = Sequential()
         model.add(Dense(Nin * 200, input_shape=(1, Nin * 200), activation='tanh'))
         model.add(Dropout(drop))
@@ -371,8 +370,8 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
             arr.append(closeData)
             if i > int(np.floor(len(stock) * .8)):
                 # print("\n\ninput array:", arr)
-                new_i = i * 10
-                arry = sells[new_i - Nin * 10:new_i] + buys[new_i - Nin * 10:new_i]
+                new_i = i * 100
+                arry = sells[new_i - Nin * 100:new_i] + buys[new_i - Nin * 100:new_i]
                 arry = scaler.fit_transform(arry)
                 # arry = arr[-Nin:]
                 arry = np.reshape(arry, (1, 1, len(arry)))
@@ -390,8 +389,8 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
                     errors.append(difference)
                     #print("arry_diff:", difference)
                     # print("predict:", predict)
-                    if (stock[i + 10] > arry[0][-1] and (predict > closeData)) or \
-                            (stock[i + 10] < arry[0][-1] and predict < closeData):
+                    if (stock[i + 1] > arry[0][-1] and (predict > closeData)) or \
+                            (stock[i + 1] < arry[0][-1] and predict < closeData):
                         diff.append(1)
                         #print("correct, margin:", predict - .5)
                         #correct_margin_array.append(predict - .5)

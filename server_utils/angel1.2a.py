@@ -264,10 +264,7 @@ while(1):
             #         break
             #     if i == len(pairs) - 1:
             rebalence(cryptos)
-        if (time_cnt > 10 and time_cnt % 8640 == 0) or time_cnt == 0:
-            hist_vals.append(tot_btc_val)
-            if len(hist_vals) > 1 and tot_btc_val > hist_vals[-2]:
-                profits += (tot_btc_val - hist_vals[-2]) * PERF_FEE
+
         print("Variance:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
         #print("COMMISSION PROFITS:", profits)
@@ -276,11 +273,12 @@ while(1):
         print("HOLDINGS:", vals)
         print("BTC VALS:", btc_vals)
         print("\n")
-
-        file = open("hist_btc_val.txt", 'a')
-        file.write(str(tot_btc_val))
-        file.write("\n")
-        file.close()
+        
+        if time_cnt % 60 == 0:
+            file = open("hist_btc_val.txt", 'a')
+            file.write(str(tot_btc_val))
+            file.write("\n")
+            file.close()
 
     except:
         for i in range(10):

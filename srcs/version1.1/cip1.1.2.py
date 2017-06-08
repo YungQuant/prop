@@ -259,7 +259,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
                 shit += 1
                 stockBought = False
                 stopLoss = True
-            elif ((closeData < ub) and stopLoss == True):
+            elif ((closeData < lb) and stopLoss == True):
                 stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
@@ -303,11 +303,11 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    # fileTicker.append("../../data/" + tick + ".txt")
-    # fileOutput.append("../../output/" + tick + "_cip1.1.2_output.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1.2_6,7,17_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     #fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/prices/" + tick + "_prices.txt")
+    #fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/prices/" + tick + "_prices.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing file:", file)
@@ -348,7 +348,7 @@ def run():
                     #while (s < s2):
                 if i > 0:
                     print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
-                    pillowcaseAssassination(fileTicker, k * 10, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
                     #     if (s < 10):
                     #         s += 1
                     #     else:
