@@ -222,7 +222,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     f.close()
     for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
-    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
+    arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; cumld = [];
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
     #WHO THE FUCK INTIALIZED CUML = 0.0 ??? THE STRATEGY STARTS WITH 1.0 (IE; 100% OF ITS INTIAL STARTING CAPITAL)
@@ -233,13 +233,13 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i >= int(Din) and i >= int(Kin):
-            Kv = BBmomma(arr, int(np.floor(Kin)))
+            Kv = SMAn(arr, int(np.floor(Kin)))
             kar.append(Kv)
-            Dv = SMAn(kar, int(np.floor(Din)))
+            Dv = SMAn(arr, int(np.floor(Din)))
             #print(Kv, "\n", Dv)
             # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-            #dar.append(Dv)
+            dar.append(Dv)
             if stockBought == True and closeData > maxP:
                 maxP = closeData
             if ((Kv > Dv) and (stockBought == False and stopLoss == False)):
@@ -261,6 +261,7 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
                 stopLoss = True
             elif ((Kv < Dv) and stopLoss == True):
                 stopLoss = False
+    #plot2(kar, dar)
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
         shit += 1
@@ -270,10 +271,11 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
             shortDiff.append(sell[i] - buy[i + 1])
     for i in range(bull):
         perc.append(diff[i] / buy[i])
-    for i in range(bull - 1):
-        perc[i] += shortDiff[i] / sell[i]
+    # for i in range(bull - 1):
+    #     perc[i] += shortDiff[i] / sell[i]
     for i in range(bull):
         cuml += cuml * perc[i]
+        cumld.append(cuml)
 
     if cuml > save_max and len(perc) <= max_len:
         write_that_shit(log, tik, Kin, Din, perc, cuml, bitchCunt)
@@ -304,8 +306,8 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileOutput.append("../../output/" + tick + "_cip1.1_4.28.17data_output.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.28.17/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1_6,10,17.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
     # fileTicker.append("../../data/" + tick + ".txt")
     # fileOutput.append("../../output/" + tick + "_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
@@ -335,10 +337,10 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 1112
-    k2 = 3000
+    k1 = 2
+    k2 = 20
     l1 = 2
-    l2 = 30
+    l2 = 40
     j1 = 0.000
     j2 = 0.15
     k = k1
@@ -348,13 +350,13 @@ def run():
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                if i > 0:
-                    print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
-                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1.01, max_len=20000, bitchCunt=j, tradeCost=0.0025)
+                if i - k < 1000:
+                    if i % 10 == 0: print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
+                    pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1, max_len=20000, bitchCunt=j, tradeCost=0.0025)
                 if (j < 0.01):
                     j += 0.005
                 else:
-                    j *= 1.5
+                    j *= 1.2
             j = j1
             if (i < 10):
                 i += 1

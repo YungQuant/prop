@@ -169,47 +169,18 @@ cryptos = ['XMR', 'MAID', 'DASH', 'SJCX', 'XRP', 'LTC', 'ETH', 'XEM']
 
 pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
 
-ext_val = 0
+deposit_val = 0
 
 for i in range(len(cryptos)):
     pairs.append('BTC-' + cryptos[i])
 
 cryptos.append('BTC')
 
-bals = b.get_balances()
-print("bals:", bals)
+for i in range(len(pairs)):
+    my_buy(pairs[i], deposit_val / len(cryptos), 'mid')
 
-for k in range(len(cryptos)):
-    for i in range(len(bals['result'])):
-        if cryptos[k] in bals['result'][i]['Currency']:
-            #print("found:", bals['result'][i])
-            vals.append(float(bals['result'][i]['Available']))
-
-for i in range(len(vals) -1):
-    tick = b.get_ticker(pairs[i])
-    tick = tick['result']
-    #print(pairs[i], "ticker response ['result']:", tick)
-    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    #price = float(tick['Bid'])
-    btc_vals.append(vals[i] * price)
-    tot_btc_val += vals[i] * price
-
-tot_crypto_val = tot_btc_val
-tot_btc_val += vals[-1]
-btc_vals.append(vals[-1])
-goal_val = tot_crypto_val - ext_val
-print("CRYPTOS:", cryptos, "\n", "BTC_VALS:", btc_vals)
-print("tot_btc_val:", tot_btc_val)
-print("tot_crypto_val:", tot_crypto_val)
-print("Extracting", ext_val)
-print("Goal Val:", goal_val)
-# for i in range(len(btc_vals) -1):
-#     my_sell(pairs[i], ext_val/len(btc_vals - 1), 'mid')
-
-while(1):
+while 1:
     bals = b.get_balances()
-    print("CRYPTOS:", cryptos, "\n", "BALS:", bals)
-    print("Extracting", ext_val)
-    print("Goal Val:", goal_val)
+    print("bals:", bals)
     print("sleeping for 20 seconds")
     time.sleep(20)

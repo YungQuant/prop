@@ -1,0 +1,13 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/books/BTC-ETH_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	60
+avg % error:0.0429329513151
+meanPredict:0.114571
+Described Diff:
+DescribeResult(nobs=337, minmax=(0.098517925, 0.13729492), mean=0.11457082, variance=2.740231e-05, skewness=0.5663015842437744, kurtosis=1.5519946893649763)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.541666666667
+
