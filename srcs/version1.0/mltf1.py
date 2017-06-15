@@ -446,9 +446,9 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileTicker.append("../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
     fileOutput.append("../../output/" + tick + "_mltf1_tanhXlargeBatchEdition_6.11.17_x0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
@@ -460,7 +460,7 @@ opts = ['adam']
 errs = ['mean_absolute_error']
 #errs = ['binary_crossentropy']
 #nins = np.arange(1, 15, step=3)
-nins = [1, 2, 3]
+nins = [1, 5, 10]
 #nins = [10]
 batchs = [1000]
 #batchs = [10, 100]
