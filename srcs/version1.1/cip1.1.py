@@ -5,6 +5,7 @@ import urllib, time, datetime
 import scipy.stats as sp
 from matplotlib import pyplot as plt
 import os.path
+import talib as T
 from multiprocessing import Pool
 
 
@@ -233,9 +234,9 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i >= int(Din) and i >= int(Kin):
-            Kv = SMAn(arr, int(np.floor(Kin)))
+            Kv = T.SMA(np.array(arr), int(np.floor(Kin)))[-1]
             kar.append(Kv)
-            Dv = SMAn(arr, int(np.floor(Din)))
+            Dv = T.SMA(np.array(arr), int(np.floor(Din)))[-1]
             #print(Kv, "\n", Dv)
             # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -338,9 +339,9 @@ for i, file in enumerate(fileTicker):
 
 def run():
     k1 = 2
-    k2 = 20
+    k2 = 60
     l1 = 2
-    l2 = 40
+    l2 = 60
     j1 = 0.000
     j2 = 0.15
     k = k1

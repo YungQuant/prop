@@ -4254,4 +4254,158 @@ K1 in:
 Len:	35
 
 [bbmomma:sma] Cumulative Diff:	1.005644145659984
-bitchCunt:	0.0144
+bitchCunt:	0.0144Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	51
+K1 in:	
+Len:	71
+
+[bbmomma:sma] Cumulative Diff:	1.002660774479671
+bitchCunt:	0.035831808Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	7
+D in:	51
+K1 in:	
+Len:	69
+
+[bbmomma:sma] Cumulative Diff:	1.0176707564215088
+bitchCunt:	0.012Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	7
+D in:	51
+K1 in:	
+Len:	69
+
+[bbmomma:sma] Cumulative Diff:	1.015756296855922
+bitchCunt:	0.020736Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	7
+D in:	51
+K1 in:	
+Len:	69
+
+[bbmomma:sma] Cumulative Diff:	1.0163132103260542
+bitchCunt:	0.0248832Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	7
+D in:	51
+K1 in:	
+Len:	69
+
+[bbmomma:sma] Cumulative Diff:	1.0163132103260542
+bitchCunt:	0.02985984Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	7
+D in:	51
+K1 in:	
+Len:	69
+
+[bbmomma:sma] Cumulative Diff:	1.0168975281718986
+bitchCunt:	0.035831808Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0183497905823022
+bitchCunt:	0.012Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0261651236257245
+bitchCunt:	0.0144Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0125612520722116
+bitchCunt:	0.01728Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0063545010484118
+bitchCunt:	0.020736Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0092429785061878
+bitchCunt:	0.0248832Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0092357415288566
+bitchCunt:	0.02985984Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	12
+D in:	51
+K1 in:	
+Len:	60
+
+[bbmomma:sma] Cumulative Diff:	1.0142918640884155
+bitchCunt:	0.035831808Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	17
+D in:	51
+K1 in:	
+Len:	55
+
+[bbmomma:sma] Cumulative Diff:	1.0595711636798963
+bitchCunt:	0.012Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	20
+D in:	42
+K1 in:	
+Len:	61
+
+[bbmomma:sma] Cumulative Diff:	1.0698734373955077
+bitchCunt:	0.012Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	20
+D in:	42
+K1 in:	
+Len:	61
+
+[bbmomma:sma] Cumulative Diff:	1.0216990313485919
+bitchCunt:	0.0144Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	20
+D in:	42
+K1 in:	
+Len:	61
+
+[bbmomma:sma] Cumulative Diff:	1.0088104532256787
+bitchCunt:	0.01728Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	20
+D in:	42
+K1 in:	
+Len:	61
+
+[bbmomma:sma] Cumulative Diff:	1.0113473758558658
+bitchCunt:	0.035831808Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	20
+D in:	51
+K1 in:	
+Len:	55
+
+[bbmomma:sma] Cumulative Diff:	1.0368154628687254
+bitchCunt:	0.012Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	24
+D in:	51
+K1 in:	
+Len:	53
+
+[bbmomma:sma] Cumulative Diff:	1.0502830404151342
+bitchCunt:	0.012Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	29
+D in:	51
+K1 in:	
+Len:	52
+
+[bbmomma:sma] Cumulative Diff:	1.0030317036846856
+bitchCunt:	0.01Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+K in:	29
+D in:	51
+K1 in:	
+Len:	52
+
+[bbmomma:sma] Cumulative Diff:	1.05959764917888
+bitchCunt:	0.012

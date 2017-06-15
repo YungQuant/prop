@@ -18,6 +18,9 @@ import scipy
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+import tensorflow as tf
+sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
+
 def plot(a):
     y = np.arange(len(a))
     plt.plot(y, a, 'g')
@@ -251,7 +254,7 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     return np.array(x), np.array(y)
 
 def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 10
+    lookback *= 100
     x, y = [], []
     k = 2
     while k < (len(buy_arr) - lookback - 2):
