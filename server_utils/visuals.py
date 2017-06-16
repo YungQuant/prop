@@ -41,10 +41,10 @@ with open("hist_btc_val.txt") as file:
 
 file.close()
 
-bb = []
-for i in range(len(vals)):
-    if i > 10:
-        bb.append(BBmomma(vals, 10, 1.25))
-        print(bb[-1])
+# bb = []
+# for i in range(len(vals)):
+#     if i > 10:
+#         bb.append(BBmomma(vals, 10, 1.25))
+#         print(bb[-1])
 plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
 plot(bb)

@@ -300,7 +300,7 @@ def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bit
 
 
 #ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH", "BTC-SJCX"]
 #ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
@@ -308,8 +308,8 @@ fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     fileOutput.append("../../output/" + tick + "_cip1.1_6,10,17.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
-    # fileTicker.append("../../data/" + tick + ".txt")
+    #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
     # fileOutput.append("../../output/" + tick + "_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_stochK<20:sma_output.txt")

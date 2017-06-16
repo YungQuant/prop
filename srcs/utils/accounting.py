@@ -36,7 +36,7 @@ for i in range(len(vals)):
 
 
 plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
-plot(adj_vals)
+plot(adj_vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
 
 t1 = 1200; t2 = 1600; t = t1; returns = [];
 while t < t2:

@@ -283,8 +283,8 @@ def create_orderbook_magnitude_training_set(buy_arr, sell_arr, lookback):
 
 def books2arrays(buy_tick, sell_tick):
     buy_arr, sell_arr = [], []
-    with open(buy_tick, 'r') as bf:
-        with open(sell_tick, 'r') as sf:
+    with open(buy_tick, 'r', encoding='utf-8') as bf:
+        with open(sell_tick, 'r', encoding='utf-8') as sf:
             buy_file = bf.readlines()
             sell_file = sf.readlines()
             if len(buy_file) != len(sell_file): print(buy_tick, "SCRAPER DATA LENGTH DISCREPANCY!!!!")

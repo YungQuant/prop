@@ -371,8 +371,8 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
         stockBought = False
         stopLoss = False
         bull = 0; shit = 0; maxP = 0;
-        #R = Ridge(alpha=a, fit_intercept=True, normalize=True)
-        R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
+        R = Ridge(alpha=a, fit_intercept=True, normalize=True)
+        #R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
         R.fit(X, Y)
         for i, closeData in enumerate(stock):
             arr.append(closeData)
@@ -448,14 +448,14 @@ def pillowcaseAssassination(fileTicker, a, lookback, fileOutput, save_max, max_l
 
 
 
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-SJCX", "BTC-XEM", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,17,17.txt/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mlsp3_linearEdition_unscaled_5.17.17_1dx0.8_5intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mlsp3_ridgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -469,8 +469,8 @@ def run():
     a2 = 1.0
     j1 = 0.001
     j2 = 0.15
-    l1 = 20
-    l2 = 5000
+    l1 = 2
+    l2 = 1000
     a = a1
     j = j1
     lookback = l1
@@ -483,12 +483,12 @@ def run():
                 #     fucking_paul(fileTicker, fileOutput, a, lookback, 1.00, 2000000, j, 0.0025)
                 # except:
                 #     print("NOT GOOD")
-                j *= 2
+                j *= 1.3
             j = j1
-            a += 1
+            a += 0.1
         a = a1
         if lookback < 10:
-            lookback += 2
+            lookback += 1
         else:
             lookback *= 1.2
 

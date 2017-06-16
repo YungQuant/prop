@@ -40,7 +40,7 @@ def getNum(str):
 def CryptoQuote1(the_symbol):
     class ohlcvObj():
         open, high, low, close, volume = [], [], [], [], []
-    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=86400".format(the_symbol)
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     print(the_symbol, response[0:10])
     for i, curr in enumerate(response):
@@ -101,7 +101,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1):
+        for i, stocks in enumerate(stock1[-1300:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -130,13 +130,13 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, perf_fee=0.2
         cumld.append(sum(allocs))
 
     if plt_bool == True:
-        plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
+        plot(cumld, xLabel="Minutes", yLabel="Percent Gains (starts at 100%)")
 
     return cuml, profit, cumld
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
+ticker = ["BTC_XMR", "BTC_DASH", "BTC_MAID", "BTC_LTC", "BTC_XRP", "BTC_ETH", "BTC_SJCX"]
 
-result, profit, cumld = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=4.5, perf_fee=0, plt_bool=False)
+result, profit, cumld = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=99, perf_fee=0, plt_bool=False)
 print("result:", result, "profit:", profit)
 plot(cumld)
 

@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import math
-from keras.models import Sequential
-from keras.layers import LSTM, Dropout, Dense
-from keras.metrics import binary_accuracy
+# from keras.models import Sequential
+# from keras.layers import LSTM, Dropout, Dense
+# from keras.metrics import binary_accuracy
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import Ridge
@@ -210,7 +210,7 @@ def createBinaryTrainingSet(dataset, look_back):
     return np.array(X), np.array(Y)
 
 def create_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 200
+    lookback *= 100
     x, y = [], []
     k = 0
     while k < (len(buy_arr) - lookback):
@@ -249,19 +249,23 @@ def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
 
 def books2arrays(buy_tick, sell_tick):
     buy_arr, sell_arr = [], []
-    with open(buy_tick, 'r') as bf:
-        with open(sell_tick, 'r') as sf:
+    with open(buy_tick, 'r', errors='replace') as bf:
+        with open(sell_tick, 'r', errors='replace') as sf:
             buy_file = bf.readlines()
             sell_file = sf.readlines()
-            for i in range(len(buy_file)):
+            if len(buy_file) != len(sell_file): print(buy_tick, "SCRAPER DATA LENGTH DISCREPANCY!!!!")
+            for i in range(min([len(buy_file), len(sell_file)])):
                 bObj = buy_file[i].split("\t")
                 sObj = sell_file[i].split("\t")
-                bp, bv = bObj[0], bObj[1]
-                sp, sv = sObj[0], sObj[1]
-                buy_arr.append(float(bp))
-                buy_arr.append(float(bv))
-                sell_arr.append(float(sp))
-                sell_arr.append(float(sv))
+                if len(bObj) + len(sObj) == 4 and len(bObj[0]) + len(bObj[1]) + len(sObj[0]) + len(sObj[1]) < 50:
+                    bp, bv = bObj[0], bObj[1]
+                    sp, sv = sObj[0], sObj[1]
+                    buy_arr.append(float(bp))
+                    buy_arr.append(float(bv))
+                    sell_arr.append(float(sp))
+                    sell_arr.append(float(sv))
+                else:
+                    break
     bf.close()
     sf.close()
     return buy_arr, sell_arr
@@ -331,16 +335,18 @@ def write_that_shit(log, tick, kin, a, perc, cuml, bitchCunt):
     # print(cuml[j])
 
 def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
-    cuml, stock = [], []
+    cuml = []
     jj = 0
     while jj < len(tick) - 1:
         with open(tick[jj + 2], 'r') as f:
             stock1 = f.readlines()
         f.close()
+        stock = []
         for i, stocks in enumerate(stock1):
-            stock.append(float(stocks))
+            if len(stocks) < 15:
+                stock.append(float(stocks))
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
-        kar = []; dar = []; cumld = []; shortDiff = []
+        kar = []; dar = []; cumld = []; shortDiff = []; errorArr = [];
         stockBought = False; stopLoss = False
         bull = 0; shit = 0; maxP = 0;
         scaler = MinMaxScaler(feature_range=(-1, 1))
@@ -354,14 +360,16 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
         #print(len(buys), len(stock))
         for i, closeData in enumerate(stock):
             arr.append(closeData)
-            if i > int(np.floor(len(stock) * .8) + Nin) and i * 200 < len(buys):
+            if i > int(np.floor(len(stock) * .8) + Nin) and i * 100 < len(buys):
                 #print("\n\ninput array:", arr)
-                new_i = i * 200
-                arry = sells[new_i - Nin * 200:new_i] + buys[new_i - Nin * 200:new_i]
+                new_i = i * 100
+                arry = sells[new_i - Nin * 100:new_i] + buys[new_i - Nin * 100:new_i]
                 #arry = scaler.fit_transform(arry)
                 #arry = arr[-Nin:]
                 # arry = np.reshape(arry, (1, 1, arry.shape[0]))
                 predict = R.predict(arry)
+                if i < len(stock) - 1:
+                    errorArr.append(abs(predict - stock[i + 1]) / closeData)
                 # invert predictions
                 # arry = scaler.inverse_transform(arry)
                 # arry = np.reshape(arry, (1, Nin))
@@ -370,7 +378,7 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
                 #kar.append(predict)
                 #if i > 100:
                 #plot(trainPredict)
-                #print("predict:", predict)
+                #print("predict:", predict, "Y[t]:", closeData)
                 #print("predicted:", kar)
                 # calculate root mean squared error
                 if ((float(predict) > closeData) and (stockBought == False and stopLoss == False)):
@@ -407,7 +415,7 @@ def fucking_paul(tick, Nin, a, log, save_max, max_len, bitchCunt, tradeCost):
             cuml[int(np.floor(jj / 3))] += cuml[int(np.floor(jj / 3))] * perc[i]
             cumld.append(cuml[int(np.floor(jj / 3))])
 
-        print("len:", len(perc), "cuml:", cuml[int(np.floor(jj / 3))], "alpha:", a)
+        print("len:", len(perc), "cuml:", cuml[int(np.floor(jj / 3))], "alpha:", a, "mean % error:", np.mean(errorArr))
         # plot(perc)
         # plot(cumld)
         if cuml[int(np.floor(jj / 3))] > save_max and len(perc) <= max_len:
@@ -422,10 +430,10 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mslp3.1_5.21.17_unscaled_x0.8_1intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mslp3.1_6.14.17_unscaled_x0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -448,11 +456,15 @@ for i, file in enumerate(fileTicker):
 
 j = 1
 a = 0.01
-while a < 0.99:
-    while j < 30:
-        fucking_paul(fileTicker, int(np.floor(j)), a, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
-        print("j:", j)
-        j *= 2
-    j = 1
-    a *= 1.2
+k = 0
+while k < 0.3:
+    while a < 0.99:
+        while j < 3:
+            fucking_paul(fileTicker, int(np.floor(j)), a, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
+            print("j:", j)
+            j += 1
+        j = 1
+        a *= 1.2
+    a = 0.01
+    k += 0.01
 #fucking_paul(fileTicker, 1, 0.2, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
