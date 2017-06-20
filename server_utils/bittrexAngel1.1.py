@@ -165,7 +165,7 @@ def my_sell(ticker, amount, type):
 
         print("SELL ticker, price, amount", ticker, price, amount)
 
-cryptos = ['XMR', 'MAID', 'DASH', 'SJCX', 'XRP', 'LTC', 'ETH', 'XEM']
+cryptos = ['ANS', 'XMR', 'MAID', 'DASH', 'SJCX', 'XRP', 'LTC', 'ETH', 'XEM']
 
 pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
 
