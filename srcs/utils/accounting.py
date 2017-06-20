@@ -40,7 +40,7 @@ plot(adj_vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdin
 
 t1 = 1200; t2 = 1600; t = t1; returns = [];
 while t < t2:
-    returns.append(check_commissions(adj_vals, t))
+    returns.append(check_commissions(adj_vals[:], t))
     print(returns[-1])
     t += 1
 

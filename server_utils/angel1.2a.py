@@ -166,6 +166,49 @@ def my_sell(ticker, amount, type):
 
         print("SELL ticker, price, amount", ticker, price, amount)
 
+def clear_orders(ticker):
+    UUIDs = []
+    orders = b.get_open_orders(ticker)['result']
+    if orders != []:
+        for i in range(len(orders)):
+            UUIDs.append(orders[i]['OrderUuid'])
+            b.cancel(UUIDs[i])
+            print("CANCELED:", orders[i])
+    else:
+        print("No Orders (", orders,")")
+
+def auto_ask(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    start_bal = bal
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal - (amount / price)
+    if goal_bal < 0: goal_bal = 0
+    time_cnt = 0
+    while bal > goal_bal + (start_bal * 0.01):
+        clear_orders('BTC-' + ticker)
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        time_cnt += 1
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal)
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        time.sleep(10)
+
+def auto_bid(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal + (amount / price)
+    time_cnt = 0
+    while bal < goal_bal * 0.99:
+        clear_orders('BTC-' + ticker)
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        time_cnt += 1
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal)
+        my_buy('BTC-' + ticker, amount, type='bid')
+        time.sleep(10)
+
 
 def rebalence(cryptos):
     pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
@@ -203,13 +246,13 @@ def rebalence(cryptos):
         if btc_vals[i] > goal_val:
             sells.append(pairs[i])
             sell_vals.append(btc_vals[i])
-            my_sell(pairs[i], btc_vals[i] - goal_val, 'bid')
+            auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
 
     for i in range(len(btc_vals) - 1):
         if btc_vals[i] < goal_val:
             buys.append(pairs[i])
             buy_vals.append(btc_vals[i])
-            my_buy(pairs[i], goal_val - btc_vals[i], 'ask')
+            auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
 
     # indx = 0
     # Parallel(n_jobs=4, verbose=10)(delayed(my_sell)

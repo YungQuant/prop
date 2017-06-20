@@ -306,18 +306,19 @@ def auto_sell(ticker, amount, time_limit=10):
 
 def auto_ask(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
+    start_bal = bal
     tick = b.get_ticker('BTC-' + ticker)['result']
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
     goal_bal = bal - (amount / price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
-    while bal > goal_bal:
+    while bal > goal_bal + (start_bal * 0.01):
         clear_orders('BTC-' + ticker)
         bal = float(b.get_balance(ticker)['result']['Balance'])
         time_cnt += 1
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal)
-        my_sell('BTC-' + ticker, amount, type='ask')
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
         time.sleep(10)
 
 def auto_bid(ticker, amount):
@@ -326,7 +327,7 @@ def auto_bid(ticker, amount):
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
     goal_bal = bal + (amount / price)
     time_cnt = 0
-    while bal < goal_bal:
+    while bal < goal_bal * 0.99:
         clear_orders('BTC-' + ticker)
         bal = float(b.get_balance(ticker)['result']['Balance'])
         time_cnt += 1
@@ -339,6 +340,6 @@ def auto_bid(ticker, amount):
 # ticker = "XRP"
 # print(b.get_balance(ticker)['result']['Balance'])
 # print(b.get_open_orders("BTC_XRP"))
-auto_bid("XRP", 0.005)
+auto_ask("MEME", 5)
 
 
