@@ -212,7 +212,7 @@ def auto_buy(ticker, amount, time_limit=10):
     time_cnt = 0;
     executed = 0;
     stddev = 1.25;
-    adj_time_limit = time_limit * 60
+    adj_time_limit = time_limit * 6
     adj_stddev_increment = stddev / adj_time_limit
     while 1:
         time_cnt += 1
@@ -233,7 +233,7 @@ def auto_buy(ticker, amount, time_limit=10):
             print("BBmomma pos:", pos)
             if pos < 0:
                 print("Buying", adj_amount_intervals, "at the ask.")
-                my_buy(ticker, adj_amount_intervals, 'ask')
+                #my_buy(ticker, adj_amount_intervals, 'ask')
                 executed += adj_amount_intervals
             elif pos > 1 and time_cnt % 10 == 0:
                 print("MARKET OVERBOUGHT\n RECONFIGURE FOR AGGRESSIVE EXECUTION IF NECESSARY")
@@ -251,7 +251,7 @@ def auto_buy(ticker, amount, time_limit=10):
             for i in range(20): print("EXECUTED", executed, "/", amount)
             break
 
-        time.sleep(1)
+        time.sleep(10)
 
 
 def auto_sell(ticker, amount, time_limit=10):
@@ -263,7 +263,7 @@ def auto_sell(ticker, amount, time_limit=10):
     time_cnt = 0;
     executed = 0;
     stddev = 1.25;
-    adj_time_limit = time_limit * 60
+    adj_time_limit = time_limit * 6
     adj_stddev_increment = stddev / adj_time_limit
     while 1:
         time_cnt += 1
@@ -277,14 +277,14 @@ def auto_sell(ticker, amount, time_limit=10):
             sell_price_book.append(float(sell_book[i]['Rate']))
             sell_vol_book.append(float(sell_book[i]['Quantity']))
         hist_price.append(np.mean([buy_price_book[0], sell_price_book[0]]))
-        if time_cnt > adj_time_limit and time_cnt < adj_time_limit * 2 and executed < amount:
+        if time_cnt > adj_time_limit + 2 and time_cnt < adj_time_limit * 2 and executed < amount:
             stddev -= adj_stddev_increment * (time_cnt - adj_time_limit)
             adj_amount_intervals = (amount - executed) / ((adj_time_limit - (time_cnt - adj_time_limit)) / 3)
             pos = BBmomma(hist_price, adj_time_limit, stddev)
             print("BBmomma pos:", pos)
             if pos > 1:
                 print("Selling", adj_amount_intervals, "at the bid.")
-                my_sell(ticker, adj_amount_intervals, 'bid')
+                #my_sell(ticker, adj_amount_intervals, 'bid')
                 executed += adj_amount_intervals
             elif pos < 0.1 and time_cnt % 10 == 0:
                 print("MARKET OVERSOLD\n RECONFIGURE FOR AGGRESSIVE EXECUTION IF NECESSARY")
@@ -302,10 +302,43 @@ def auto_sell(ticker, amount, time_limit=10):
             for i in range(20): print("EXECUTED", executed, "/", amount)
             break
 
-        time.sleep(1)
+        time.sleep(10)
 
-# ticker = "BTC-ETH"
-# #print(b.get_open_orders(ticker))
-# auto_buy("BTC-DOGE", 0.0514, time_limit=30)
+def auto_ask(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal - (amount / price)
+    if goal_bal < 0: goal_bal = 0
+    time_cnt = 0
+    while bal > goal_bal:
+        clear_orders('BTC-' + ticker)
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        time_cnt += 1
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal)
+        my_sell('BTC-' + ticker, amount, type='ask')
+        time.sleep(10)
+
+def auto_bid(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal + (amount / price)
+    time_cnt = 0
+    while bal < goal_bal:
+        clear_orders('BTC-' + ticker)
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        time_cnt += 1
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal)
+        my_buy('BTC-' + ticker, amount, type='bid')
+        time.sleep(10)
+
+#
+# ticker = "XRP"
+# print(b.get_balance(ticker)['result']['Balance'])
+# print(b.get_open_orders("BTC_XRP"))
+auto_bid("XRP", 0.005)
 
 

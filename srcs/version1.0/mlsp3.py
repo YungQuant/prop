@@ -386,13 +386,13 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
                     # print("prediction error:", abs(p - stock[i + 1]))
                 if stockBought == True and closeData > maxP:
                     maxP = closeData
-                if ((p > closeData) and (stockBought == False and stopLoss == False)):
+                if ((p < closeData) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1+tradeCost))
                     bull += 1
                     stockBought = True
                 if stockBought == True and closeData > maxP:
                     maxP = closeData
-                if ((p < closeData) and stockBought == True):
+                if ((p > closeData) and stockBought == True):
                     sell.append(closeData * (1-tradeCost))
                     maxP = 0
                     shit += 1
@@ -422,14 +422,16 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
 
         if len(err) > 0:
             avgError = np.mean(err)
-            if cuml > save_max or avgError < 0.005:
-                write_that_shit(log[jj], tick[jj], a, lookback, perc, cuml, bitchCunt, avgError)
+            if cuml > save_max or avgError < 0.002:
+                if cuml > save_max:
+                    write_that_shit(log[jj], tick[jj], a, lookback, perc, cuml, bitchCunt, avgError)
+                    print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
                 print(tick[jj])
                 print("len:", len(perc), "cuml:", cuml)
                 print("Alpha:", a, "bitchCunt:", bitchCunt)
                 print("lookback:", lookback)
                 print("average percent error:", avgError)
-                print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
+                print("\n")
                 # plot(perc)
                 # plot(cumld)
 
@@ -455,7 +457,7 @@ fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mlsp3_ridgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt")
+    fileOutput.append("../../output/" + tick + "_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -468,9 +470,9 @@ def run():
     a1 = 0.01
     a2 = 1.0
     j1 = 0.001
-    j2 = 0.15
+    j2 = 0.5
     l1 = 2
-    l2 = 1000
+    l2 = 200
     a = a1
     j = j1
     lookback = l1
@@ -485,7 +487,7 @@ def run():
                 #     print("NOT GOOD")
                 j *= 1.3
             j = j1
-            a += 0.1
+            a += 0.01
         a = a1
         if lookback < 10:
             lookback += 1

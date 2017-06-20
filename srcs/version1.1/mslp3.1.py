@@ -460,7 +460,7 @@ k = 0
 while k < 0.3:
     while a < 0.99:
         while j < 3:
-            fucking_paul(fileTicker, int(np.floor(j)), a, fileOutput, save_max=1.00, max_len=100000, bitchCunt=0.50, tradeCost=0.0025)
+            fucking_paul(fileTicker, int(np.floor(j)), a, fileOutput, save_max=1.00, max_len=100000, bitchCunt=k, tradeCost=0.0025)
             print("j:", j)
             j += 1
         j = 1

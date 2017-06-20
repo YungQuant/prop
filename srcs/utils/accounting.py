@@ -46,5 +46,6 @@ while t < t2:
 
 plot(returns)
 print("MEAN RETURNS:", np.mean(returns))
+print("Profits last taken @ 6/17/17 ( 12169 )")
 
 

@@ -74,8 +74,8 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def write_that_shit(results, v, k, l):
-    log = "../../output/envTest2.1_output.txt"
+def write_that_shit(results, k, l):
+    log = "../../output/PAMRtest1_output.txt"
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -83,69 +83,129 @@ def write_that_shit(results, v, k, l):
     file = open(log, th)
     file.write("\n\n Cumulative Diff:\t")
     file.write(str(results))
-    file.write("\nstddev:\t")
+    file.write("\nepsilon:\t")
     file.write(str(l))
-    file.write("\nlookback:\t")
+    file.write("\nC:\t")
     file.write(str(k))
-    file.write("\nbitchCunt:\t")
-    file.write(str(v))
     file.write("\n\n")
     file.close()
 
 
-def duz_i_buy(cumulative_prices, n, allocs, bitchCunts, tradeCost, lookback, stddev):
+def simplex_proj(y):
+    """ Projection of y onto simplex. """
+    m = len(y)
+    bget = False
+    s = sorted(y, reverse=True)
+    tmpsum = 0
+
+    for ii in range(m - 1):
+        tmpsum = tmpsum + s[ii]
+        tmax = (tmpsum - 1) / (ii + 1);
+        if tmax >= s[ii + 1]:
+            bget = True
+            break
+
+    if not bget:
+        tmax = (tmpsum + s[m - 1] - 1) / m
+
+    return np.maximum(y - tmax, 0)
+# def simplex_proj(y):
+#     """ Projection of y onto simplex. """
+#     m = len(y)
+#     bget = False
+#
+#     s = sorted(y, reverse=True)
+#     tmpsum = 0.
+#
+#     for ii in range(m - 1):
+#         tmpsum = tmpsum + s[ii]
+#         tmax = (tmpsum - 1) / (ii + 1);
+#         if tmax >= s[ii + 1]:
+#             bget = True
+#             break
+#
+#     if not bget:
+#         tmax = (tmpsum + s[m - 1] - 1) / m
+#
+#     return np.maximum(y - tmax, 0.)
+
+def simplex_proj1(a, y):
+    l = y / a
+    idx = np.argsort(l)
+    d = len(l)
+
+    evalpL = lambda k: np.sum(a[idx[k:]] * (y[idx[k:]] - l[idx[k]] * a[idx[k:]])) - 1
+
+    def bisectsearch():
+        idxL, idxH = 0, d - 1
+        L = evalpL(idxL)
+        H = evalpL(idxH)
+
+        if L < 0:
+            return idxL
+
+        while (idxH - idxL) > 1:
+            iMid = int((idxL + idxH) / 2)
+            M = evalpL(iMid)
+
+            if M > 0:
+                idxL, L = iMid, M
+            else:
+                idxH, H = iMid, M
+
+        return idxH
+
+    k = bisectsearch()
+    lam = (np.sum(a[idx[k:]] * y[idx[k:]]) - 1) / np.sum(a[idx[k:]])
+
+    x = np.maximum(0, y - lam * a)
+
+    return x
+
+def duz_i_buy(allocs, C, epsilon, diffs):
+    var = 2
     cuml = sum(allocs)
-    len_buys = 0
-    for i in range(len(allocs)):
-        op_arr = cumulative_prices[i][:n]
-        lb, mb, ub = BBn(op_arr, lookback, stddev, stddev)
-        #print("curr price 111:", cumulative_prices[i][n], "upper, middle, lower", ub, mb, lb)
-        if allocs[i] > 0:
-            len_buys += 1
-        if allocs[i] < bitchCunts[i] and allocs[i] > 0:
-            len_buys -= 1
-        elif cumulative_prices[i][n] > ub and allocs[i] == 0:
-            len_buys += 1
+    mean_diff = np.mean(diffs)
+    le = max([0, np.dot(allocs, diffs) - epsilon])
+    if var == 0:
+        lam = le / np.linalg.norm(diffs - mean_diff) ** 2
+    elif var == 1:
+        lam = min(C, le / np.linalg.norm(diffs - mean_diff) ** 2)
+    elif var == 2:
+        lam = le / (np.linalg.norm(diffs - mean_diff) ** 2 + 0.5 / C)
 
-        #print("Len buys post fuckery:", len_buys)
-
-    #print("len buys:", len_buys, "cuml:", cuml)
-
-    if len_buys < 1:
-        res = []
-        for i in range(len(allocs) - 1):
-            #print("LIQUIDATING TO BITCOIN")
-            res.append(0)
-        res.append(cuml)
-        return res
-    else:
-        for i in range(len(allocs)):
-            op_arr = cumulative_prices[i][:n]
-            lb, mb, ub = BBn(op_arr, lookback, stddev, stddev)
-            #print("curr price:", cumulative_prices[i][n], "upper, middle, lower", ub, mb, lb)
-            if (allocs[i] < bitchCunts[i] and allocs[i] > 0) or (allocs[i] == 0):
-                #print("started:", allocs[i])
-                allocs[i] = 0
-                #print("alloced:", allocs[i])
-            elif cumulative_prices[i][n] > ub and allocs[i] == 0:
-                #print("started:", allocs[i])
-                allocs[i] = cuml * (1 - tradeCost) / len_buys
-                #print("alloced:", allocs[i])
-            elif allocs[i] > 0:
-                #print("started:", allocs[i])
-                allocs[i] = cuml * (1 - tradeCost) / len_buys
-                #print("alloced:", allocs[i])
-
-    # if sum(allocs) != cuml * (1 - tradeCost):
-    #     print("ALLOCATION CALCULATION ERROR sum(allocs)/cuml * (1 - tradeCost):", sum(allocs), "/", cuml * (1 - tradeCost))
-    return allocs
+    lam = min([100000, lam])
+    allocs = allocs - lam * (diffs - mean_diff)
+    # print("lamda:", lam, "le:", le)
+    # print("mid-calc cuml:", sum(allocs), "mid-calc allocs:", allocs)
+    # x_mean = np.mean(x)
+    # le = max(0., np.dot(b, x) - eps)
+    #
+    # if self.variant == 0:
+    #     lam = le / np.linalg.norm(x - x_mean) ** 2
+    # elif self.variant == 1:
+    #     lam = min(C, le / np.linalg.norm(x - x_mean) ** 2)
+    # elif self.variant == 2:
+    #     lam = le / (np.linalg.norm(x - x_mean) ** 2 + 0.5 / C)
+    #
+    # # limit lambda to avoid numerical problems
+    # lam = min(100000, lam)
+    #
+    # # update portfolio
+    # b = b - lam * (x - x_mean)
+    #
+    # # project it onto simplex
+    # return tools.simplex_proj(b)
+    # return simplex_proj1(allocs,
+    return simplex_proj1(allocs, allocs * (np.ones(len(diffs)) - diffs))
 
 
-def global_warming(ticker, cuml=1, bitchCunt=0.1, tradeCost=0.0025, lookback=10, stddev=3, plt_bool=False):
+def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False):
     fileTicker = []
     fileOutput = []
     fileCuml = []
     dataset = []
+    profits = 0
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
@@ -197,41 +257,44 @@ def global_warming(ticker, cuml=1, bitchCunt=0.1, tradeCost=0.0025, lookback=10,
         bitchCunts.append(0)
 
     for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 1)) for f in range(len(cumulative_diffs))])):
-        if n > lookback:
+        if n > 2:
             diffs = [cumulative_diffs[x][n] for x in range(len(cumulative_diffs))]
             for g in range(len(allocs)):
                 allocs[g] += allocs[g] * diffs[g]
-                if allocs[g] > 0 and (allocs[g] * (1 - bitchCunt)) > bitchCunts[g]:
-                    bitchCunts[g] = allocs[g] * (1 - bitchCunt)
-                elif allocs[g] == 0:
-                    bitchCunts[g] = 0
-            cuml = sum(allocs)
-            allocs = duz_i_buy(cumulative_prices, n, allocs, bitchCunts, tradeCost, lookback, stddev)
-            #print(allocs)
-            cumld.append(sum(allocs))
+
+            pre_cuml = sum(allocs)
+            # print("allocs IN:", allocs)
+            # print("cuml IN:", cuml)
+            allocs = duz_i_buy(allocs, C, epsilon, diffs)
+            #allocs *= 0.995
+            post_cuml = sum(allocs)
+            profits += pre_cuml - post_cuml
+            # for i in range(len(allocs)):
+            #     allocs[i] += profits / len(allocs)
+            # print("cuml OUT:", post_cuml)
+            # print("allocs OUT:", allocs)
+            # print("\n")
+            cumld.append(sum(allocs) + profits)
 
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
 
-    return cuml
+    return cumld[-1]
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-v1 = 0.001; v2 = 0.4; v = v1; k1 = 10; k2 = 300; k = k1; l1 = 1; l2 = 10; l = l1; results = [];
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+k1 = 400; k2 = 600; k = k1; l1 = 0.1; l2 = 0.9; l = l1; results = [];
 while k < k2:
     while l < l2:
-        while v < v2:
-            results.append(global_warming(ticker, 1, bitchCunt=v, tradeCost=0.005, lookback=int(np.floor(k)), stddev=l, plt_bool=False))
-            v *= 1.2
-            if results[-1] > max(results) or len(results) % 10 == 0:
-                if results[-1] > 4.85:
-                    global_warming(ticker, 1, bitchCunt=v, tradeCost=0.005, lookback=int(np.floor(k)), stddev=l,plt_bool=True)
-                    write_that_shit(results[-1], v, int(np.floor(k)), l)
-                    for i in range(5):
-                        print("$$$$$$$$$$$$$$$$$")
-                print("lookback:", k, "stddev:", l, "bitchCunt:", v, "result:", results[-1])
-        v = v1
-        l *= 1.2
+        results.append(global_warming(ticker, 1, C=int(np.floor(k)), epsilon=l, plt_bool=False))
+        if results[-1] > np.mean(results) or len(results) % 10 == 0:
+            if results[-1] > np.mean(results):
+                #global_warming(ticker, 1, C=int(np.floor(k)), epsilon=l,plt_bool=True)
+                write_that_shit(results[-1], int(np.floor(k)), l)
+                for i in range(5):
+                    print("$$$$$$$$$$$$$$$$$")
+            print("C:", k, "epsilon:", l, "result:", results[-1])
+        l += 0.1
     l = l1
-    k *= 1.1
+    k += 1
 
 plot(results)

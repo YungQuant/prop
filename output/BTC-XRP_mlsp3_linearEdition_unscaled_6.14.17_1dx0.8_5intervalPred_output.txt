@@ -1,8 +1,0 @@
-Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
-Alpha::	0.01
-Lookback:	1324
-Average Percent Error:	0
-Len:	0
-Cumulative Diff:	1
-bitchCunt:	0.001
-

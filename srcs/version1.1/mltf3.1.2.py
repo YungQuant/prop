@@ -421,7 +421,7 @@ for i, tick in enumerate(ticker):
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_buy_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/books/" + tick + "_sell_books.txt")
     fileTicker.append("../../../../../Desktop/comp/scraperOutputs/outputs4.18.17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf3.1.2_4.18.17_1dx0.8_10intervalPred_output.txt")
+    fileOutput.append("../../output/" + tick + "_mltf3.1.2_6.18.17_1dx0.8_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -429,7 +429,7 @@ for i, file in enumerate(fileTicker):
 
 
 
-nins = np.arange(30, 300, step=30)
+nins = np.arange(1, 10, step=1)
 
 
 for m in range(len(nins)):

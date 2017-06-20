@@ -4,8 +4,16 @@ import tensorflow as tf
 from tensorflow.python.framework import dtypes
 from tensorflow.contrib import learn
 import os.path
+from matplotlib import pyplot as plt
 import logging
 logging.basicConfig(level=logging.INFO)
+
+def plot2(a, b):
+    y = np.arange(len(a))
+    plt.plot(y, a, 'g', y, b, 'r')
+    plt.ylabel('Predicted')
+    plt.xlabel('Test Y')
+    plt.show()
 
 def x_sin(x):
     return x * np.sin(x)
@@ -180,8 +188,8 @@ def books2arrays(buy_tick, sell_tick):
 
 LOG_DIR = './ops_logs'
 TIMESTEPS = 1
-RNN_LAYERS = [{'steps': TIMESTEPS}]
-DENSE_LAYERS = [10, 10]
+RNN_LAYERS = TIMESTEPS
+DENSE_LAYERS = 2
 TRAINING_STEPS = 100000
 BATCH_SIZE = 100
 PRINT_STEPS = TRAINING_STEPS / 100
@@ -203,9 +211,11 @@ dataset = []
 buys, sells = books2arrays("../../../../../Desktop/comp/HD_60x100_outputs/books/" + ticker[0] + "_buy_books.txt",
                            "../../../../../Desktop/comp/HD_60x100_outputs/books/" + ticker[0] + "_sell_books.txt")
 #("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + ticker[0] + "_prices.txt")
-for i, file in enumerate(fileTicker):
-    if (os.path.isfile(file) == False):
-        print("missing:", file)
+# for i, file in enumerate(fileTicker):
+#     if (os.path.isfile(file) == False):
+#         print("missing:", file)
+
+params = {TIMESTEPS, RNN_LAYERS, DENSE_LAYERS}
 
 trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
                                                            sells[:int(np.floor(len(sells) * 0.8))], TIMESTEPS)
@@ -213,28 +223,18 @@ trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.
 
 
 
-regressor = learn.TensorFlowEstimator(model_fn=lstm_model(TIMESTEPS, RNN_LAYERS, DENSE_LAYERS),
-                                      n_classes=0,
-                                      verbose=1,
-                                      steps=TRAINING_STEPS,
-                                      optimizer='Adagrad',
-                                      learning_rate=0.03,
-                                      batch_size=BATCH_SIZE)
+regressor = learn.Estimator(model_fn=lstm_model, params=params)
+
+#lstm_model(time_steps, rnn_layers, dense_layers=None)
 
 
-
-
-validation_monitor = learn.monitors.ValidationMonitor(X['val'], y['val'],
+validation_monitor = learn.monitors.ValidationMonitor(trainX, trainY,
                                                       every_n_steps=PRINT_STEPS,
                                                       early_stopping_rounds=1000)
 
-regressor.fit(X['train'], y['train'], monitors=[validation_monitor], logdir=LOG_DIR)
+regressor.fit(trainX, trainY, monitors=[validation_monitor], logdir=LOG_DIR)
 
-
-predicted = regressor.predict(X['test'])
-mse = mean_absolute_error(y['test'], predicted)
-print ("Error: %f" % mse)
-
-plot_predicted, = plt.plot(predicted, label='predicted')
-plot_test, = plt.plot(y['test'], label='test')
-plt.legend(handles=[plot_predicted, plot_test])
+testX, testY = create_orderbook_training_set(buys[int(np.floor(len(buys) * 0.8)):],
+                                                           sells[int(np.floor(len(sells) * 0.8)):], TIMESTEPS)
+predicted = regressor.predict(testX)
+plot2(predicted, testY)
