@@ -131,7 +131,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.75)):]):
+        for i, stocks in enumerate(stock1[-60:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -148,7 +148,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        if sp.kurtosis(allocs) > rebal_tol:
+        if np.var(allocs) > np.mean(allocs) * rebal_tol:
         #STILL NEEDS NP.VAR AND SP.KURTOSIS TESTING
             rebalsss += 1
             for m in range(len(allocs)):
@@ -178,8 +178,9 @@ while k < k2:
     tols.append(k)
     rebals.append(rebalsss)
     k += 0.0025
-    if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results[:-1]):
-        write_that_shit("../../output/envTest1.3_kurtEdition_output_6,20,17.txt", k, rebalsss, results[-1], mdd)
+    if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results):
+        #global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True)
+        #write_that_shit("../../output/envTest1.3_noMultVarEdition_output_6,20,17.txt", k, rebalsss, results[-1], mdd)
         print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
 
 
