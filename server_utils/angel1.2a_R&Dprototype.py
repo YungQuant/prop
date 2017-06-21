@@ -369,7 +369,7 @@ while(1):
         #     if i == len(pairs) - 1:
         rebalence(cryptos)
 
-    print("Variance:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
+    print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
     print("TOT_BTC_VAL:", tot_btc_val)
     #print("COMMISSION PROFITS:", profits)
     print("runtime:", time_cnt / 60, "minutes")

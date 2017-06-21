@@ -270,8 +270,7 @@ time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
         cryptos = ['ANS', 'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-        REBAL_TOL = 1.15
-        PERF_FEE = 0.2
+        REBAL_TOL = 0.216
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
@@ -299,16 +298,11 @@ while(1):
 
         btc_vals.append(vals[-1])
         #print(vals)
-        if max(btc_vals) - min(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
+        if np.var(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
             print("NEEDS REBALANCING")
-            # for i in range(len(cryptos)):
-            #     if b.get_open_orders(cryptos[i])['result'] != []:
-            #         print("EXISTING ORDERS:", b.get_open_orders(cryptos[i]))
-            #         break
-            #     if i == len(pairs) - 1:
             rebalence(cryptos)
 
-        print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals))
+        print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
         #print("COMMISSION PROFITS:", profits)
         print("runtime:", time_cnt / 60, "minutes")
