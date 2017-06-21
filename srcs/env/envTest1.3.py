@@ -70,6 +70,23 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
+def write_that_shit(log, k, rebalsss, result, mdd):
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
+    file.write("K:\t")
+    file.write(str(k))
+    file.write("\nRebals:\t")
+    file.write(str(rebalsss))
+    file.write("\nResults:\t")
+    file.write(str(result))
+    file.write("\nMax Drawdown:\t")
+    file.write(str(mdd))
+    file.write("\n\n")
+    file.close()
+
 def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=False):
     fileTicker = []
     fileOutput = []
@@ -131,7 +148,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        if np.var(allocs) > np.mean(allocs) * rebal_tol:
+        if sp.kurtosis(allocs) > rebal_tol:
         #STILL NEEDS NP.VAR AND SP.KURTOSIS TESTING
             rebalsss += 1
             for m in range(len(allocs)):
@@ -162,6 +179,7 @@ while k < k2:
     rebals.append(rebalsss)
     k += 0.0025
     if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results[:-1]):
+        write_that_shit("../../output/envTest1.3_kurtEdition_output_6,20,17.txt", k, rebalsss, results[-1], mdd)
         print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
 
 
