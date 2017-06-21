@@ -131,7 +131,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
+        for i, stocks in enumerate(stock1[-60:]):
+        #for i, stocks in enumerate(stock1[-150:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -151,10 +152,12 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         if np.var(allocs) > np.mean(allocs) * rebal_tol:
         #STILL NEEDS NP.VAR AND SP.KURTOSIS TESTING
             rebalsss += 1
+            cumld.append(0)
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
         #print(allocs)
-        cumld.append(sum(allocs))
+        else:
+            cumld.append(sum(allocs))
 
     for i in range(len(cumld)):
         if i > 1:
@@ -171,5 +174,5 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
 
-result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=2.7, plt_bool=True)
+result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=0.226, plt_bool=True)
 result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=215, plt_bool=True)
