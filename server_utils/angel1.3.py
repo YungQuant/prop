@@ -244,24 +244,24 @@ def rebalence(cryptos):
     buys = []; sells = []; buy_vals = []; sell_vals = [];
     for i in range(len(btc_vals) -1):
         if btc_vals[i] > goal_val:
-            sells.append(pairs[i])
+            sells.append(cryptos[i])
             sell_vals.append(btc_vals[i])
-            auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
+            #auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
 
     for i in range(len(btc_vals) - 1):
         if btc_vals[i] < goal_val:
-            buys.append(pairs[i])
+            buys.append(cryptos[i])
             buy_vals.append(btc_vals[i])
-            auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
+            #auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
 
-    # indx = 0
-    # Parallel(n_jobs=4, verbose=10)(delayed(my_sell)
-    # (sells[indx], sell_vals[indx], 'auto1')
-    #     for indx in enumerate(sells))
-    # indx = 0
-    # Parallel(n_jobs=4, verbose=10)(delayed(my_buy)
-    # (buys[indx], buy_vals[indx], 'auto1')
-    #     for indx in enumerate(buys))
+    indx = 0
+    Parallel(n_jobs=8, verbose=10)(delayed(auto_ask)
+    (sells[indx], sell_vals[indx])
+        for indx in range(len(sells)))
+    indx = 0
+    Parallel(n_jobs=8, verbose=10)(delayed(auto_bid)
+    (buys[indx], buy_vals[indx])
+        for indx in range(len(buys)))
 
 
 
@@ -269,7 +269,7 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
-        cryptos = ['ANS', 'GNT', 'BNT' ,'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+        cryptos = ['ANS', 'GNT', 'BNT','QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
         REBAL_TOL = 0.053
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
