@@ -269,8 +269,8 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
-        cryptos = ['ANS', 'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
-        REBAL_TOL = 0.216
+        cryptos = ['ANS', 'GNT', 'BNT' ,'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+        REBAL_TOL = 0.053
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
