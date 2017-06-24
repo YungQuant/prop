@@ -356,7 +356,7 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
             stock1 = f.readlines()
         f.close()
         stock = []
-        for i, stocks in enumerate(stock1):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.5)):]):
             stock.append(float(stocks))
         arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []; err =[];
         kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
@@ -380,19 +380,19 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
                 arry = arr[-lookback:]
                 #arry = scaler.fit_transform(arry)
                 p = R.predict(arry)
-                if i < len(stock) - 6:
-                    err.append(abs(p - stock[i + 6]) / stock[i])
+                if i < len(stock) - 10:
+                    err.append(abs(p - stock[i + 10]) / stock[i])
                     # print("predicted:", p, "actual:", stock[i + 1])
                     # print("prediction error:", abs(p - stock[i + 1]))
                 if stockBought == True and closeData > maxP:
                     maxP = closeData
-                if ((p < closeData) and (stockBought == False and stopLoss == False)):
+                if ((p > (closeData * 1.005)) and (stockBought == False and stopLoss == False)):
                     buy.append(closeData * (1+tradeCost))
                     bull += 1
                     stockBought = True
                 if stockBought == True and closeData > maxP:
                     maxP = closeData
-                if ((p > closeData) and stockBought == True):
+                if ((p < (closeData * 0.995)) and stockBought == True):
                     sell.append(closeData * (1-tradeCost))
                     maxP = 0
                     shit += 1
@@ -414,8 +414,8 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
                 shortDiff.append(sell[i] - buy[i + 1])
         for i in range(bull):
             perc.append(diff[i] / buy[i])
-        for i in range(bull - 1):
-            perc[i] += shortDiff[i] / sell[i]
+        # for i in range(bull - 1):
+        #     perc[i] += shortDiff[i] / sell[i]
         for i in range(bull):
             cuml += cuml * perc[i]
             cumld.append(cuml)
@@ -428,6 +428,7 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
                     print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$")
                 print(tick[jj])
                 print("len:", len(perc), "cuml:", cuml)
+                print("B&H ROI %:", (stock[-1] - stock[int(np.floor(len(stock) * 0.8))]) / int(np.floor(len(stock) * 0.8)))
                 print("Alpha:", a, "bitchCunt:", bitchCunt)
                 print("lookback:", lookback)
                 print("average percent error:", avgError)
@@ -450,14 +451,15 @@ def pillowcaseAssassination(fileTicker, a, lookback, fileOutput, save_max, max_l
 
 
 
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt")
+    #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_mlsp3_desensitizedRidgeEdition_unscaled_6.23.17_10intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
@@ -471,7 +473,7 @@ def run():
     a2 = 1.0
     j1 = 0.001
     j2 = 0.5
-    l1 = 2
+    l1 = 3
     l2 = 200
     a = a1
     j = j1
@@ -487,7 +489,7 @@ def run():
                 #     print("NOT GOOD")
                 j *= 1.3
             j = j1
-            a += 0.01
+            a += 0.1
         a = a1
         if lookback < 10:
             lookback += 1

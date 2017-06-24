@@ -234,9 +234,12 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i >= int(Din) and i >= int(Kin):
-            Kv = T.SMA(np.array(arr), int(np.floor(Kin)))[-1]
+            Kv = BBmomma(arr, Kin)
             kar.append(Kv)
-            Dv = T.SMA(np.array(arr), int(np.floor(Din)))[-1]
+            Dv = SMAn(kar, Din)
+            # Kv = T.SMA(np.array(arr), int(np.floor(Kin)))[-1]
+            # kar.append(Kv)
+            # Dv = T.SMA(np.array(arr), int(np.floor(Din)))[-1]
             #print(Kv, "\n", Dv)
             # ONLY BUY W/STOCH IF STOCHK < 20!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -300,23 +303,23 @@ def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bit
 
 
 #ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH", "BTC-SJCX"]
+ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 #ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileOutput.append("../../output/" + tick + "_cip1.1_6,10,17.txt")
-    #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
-    fileTicker.append("../../data/" + tick + ".txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1_6,23,17.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
+    #fileTicker.append("../../data/" + tick + ".txt")
     # fileOutput.append("../../output/" + tick + "_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     # fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_stochK<20:sma_output.txt")
-for i, file in enumerate(fileTicker):
-    if (os.path.isfile(file) == False):
-        fileWrite = open(file, 'w')
-        dataset = CryptoQuote1(ticker[i]).close
+# for i, file in enumerate(fileTicker):
+#     if (os.path.isfile(file) == False):
+        # fileWrite = open(file, 'w')
+        # dataset = CryptoQuote1(ticker[i]).close
         # data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
         # data = np.array(data)
         # for i in range(len(data)):
@@ -330,9 +333,9 @@ for i, file in enumerate(fileTicker):
         #     dataset[ik] = tick[i]['Close']
         #     i -= 1
         #     ik += 1
-        for i, close in enumerate(dataset):
-            fileWrite.write(str(close))
-            fileWrite.write('\n')
+        # for i, close in enumerate(dataset):
+        #     fileWrite.write(str(close))
+        #     fileWrite.write('\n')
 
 #fucking_paul(fileTicker, 10, 30, 15, 40, fileOutput, fileCuml, save_max=1.02, save_min=0.98, max_len=100000, bitchCunt=0.05, tradeCost=0.00)
 
@@ -341,7 +344,7 @@ def run():
     k1 = 2
     k2 = 60
     l1 = 2
-    l2 = 60
+    l2 = 30
     j1 = 0.000
     j2 = 0.15
     k = k1
@@ -355,7 +358,7 @@ def run():
                     if i % 10 == 0: print(int(np.floor(i)), "/", l2, int(np.floor(k)), "/", k2)
                     pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max=1, max_len=20000, bitchCunt=j, tradeCost=0.0025)
                 if (j < 0.01):
-                    j += 0.005
+                    j += 0.0025
                 else:
                     j *= 1.2
             j = j1

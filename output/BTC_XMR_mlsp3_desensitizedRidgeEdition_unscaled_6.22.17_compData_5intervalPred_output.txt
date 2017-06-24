@@ -1,0 +1,4782 @@
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.08
+Lookback:	2
+Average Percent Error:	0.0155244919541
+Len:	7
+Cumulative Diff:	1.0046822447474801
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.00086468730435455138, variance=0.00045644193369504432, skewness=-0.6269393395218236, kurtosis=-0.7015248574548196)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09
+Lookback:	2
+Average Percent Error:	0.0170561416022
+Len:	6
+Cumulative Diff:	1.0198348299095623
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0034851154563435159, variance=0.0004900505133562681, skewness=-0.9985689551681041, kurtosis=-0.18310950890683264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.09999999999999999
+Lookback:	2
+Average Percent Error:	0.0186032472831
+Len:	5
+Cumulative Diff:	1.077007992011713
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.015057513289862883, variance=0.00027884082626006713, skewness=0.3403501896598848, kurtosis=-1.2689631901625913)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.10999999999999999
+Lookback:	2
+Average Percent Error:	0.0201589725247
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.11999999999999998
+Lookback:	2
+Average Percent Error:	0.0217201208155
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.0232813889796
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.0248389320403
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.0263897575942
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.0279329720003
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	3
+Average Percent Error:	0.0248547206926
+Len:	7
+Cumulative Diff:	1.0088229327262277
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=7, minmax=(-0.036474114992284798, 0.023813261014877688), mean=0.0014447095165388568, variance=0.00043751822259122108, skewness=-0.7126817228622793, kurtosis=-0.4616763189607562)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	3
+Average Percent Error:	0.0350268868285
+Len:	4
+Cumulative Diff:	1.0758285543392505
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	3
+Average Percent Error:	0.0447259779243
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.003712930000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.004826809000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.006274851700000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.008157307210000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.010604499373000004
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.013785849184900006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.01792160394037001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.02329808512248101
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.030287510659225317
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.03937376385699291
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.05118589301409079
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.06654166091831802
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	3
+Average Percent Error:	0.0626421319275
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.003712930000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.004826809000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.006274851700000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.008157307210000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.010604499373000004
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.013785849184900006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.01792160394037001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.02329808512248101
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.030287510659225317
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.03937376385699291
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.05118589301409079
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.06654166091831802
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	3
+Average Percent Error:	0.0708995250493
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.003712930000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.004826809000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.006274851700000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.008157307210000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.010604499373000004
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.013785849184900006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.01792160394037001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.02329808512248101
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.030287510659225317
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.03937376385699291
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.05118589301409079
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.06654166091831802
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	3
+Average Percent Error:	0.0787281662651
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.21000000000000002
+Lookback:	4
+Average Percent Error:	0.0194417848797
+Len:	25
+Cumulative Diff:	1.0285363241884375
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=25, minmax=(-0.036474114992284798, 0.048519740808948039), mean=0.0012900440218146035, variance=0.00034247911994332776, skewness=0.15966974265814832, kurtosis=0.46085196572295883)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	4
+Average Percent Error:	0.0271947805608
+Len:	9
+Cumulative Diff:	1.047486912077834
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.036474114992284798, 0.034324771528344608), mean=0.0053782027358903368, variance=0.00047085093087754305, skewness=-0.6291922317235549, kurtosis=-0.37020882156443147)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	4
+Average Percent Error:	0.0347869620872
+Len:	6
+Cumulative Diff:	1.0653787546824538
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0107977261222891, 0.038450720025846041), mean=0.010748306721170886, variance=0.00033448822851800321, skewness=0.375560862710382, kurtosis=-1.1339111691533168)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	4
+Average Percent Error:	0.0421153432124
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	4
+Average Percent Error:	0.0491631889304
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	4
+Average Percent Error:	0.0559311687912
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.003712930000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.004826809000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.006274851700000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.008157307210000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.010604499373000004
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.013785849184900006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.01792160394037001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.02329808512248101
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.030287510659225317
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.03937376385699291
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.05118589301409079
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.06654166091831802
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	4
+Average Percent Error:	0.062428807697
+Len:	2
+Cumulative Diff:	1.1265997565418777
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.003712930000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.004826809000000001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.006274851700000002
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.008157307210000003
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.010604499373000004
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.013785849184900006
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.01792160394037001
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.02329808512248101
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.030287510659225317
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.03937376385699291
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.05118589301409079
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.06654166091831802
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	4
+Average Percent Error:	0.0686705014269
+Len:	1
+Cumulative Diff:	1.0848851416982384
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.31000000000000005
+Lookback:	5
+Average Percent Error:	0.022423337311
+Len:	24
+Cumulative Diff:	1.0314881624574115
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=24, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0014918787486776668, variance=0.00041442771517278366, skewness=-0.3247136670774678, kurtosis=0.8220218466443399)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.41000000000000003
+Lookback:	5
+Average Percent Error:	0.0285994300004
+Len:	11
+Cumulative Diff:	1.0572999950441901
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=11, minmax=(-0.039506833057635353, 0.034324771528344608), mean=0.0053261662131766545, variance=0.00054186796691339117, skewness=-0.8004474487552741, kurtosis=-0.6386513243412031)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0013000000000000002
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0016900000000000003
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0021970000000000006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0028561000000000007
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.003712930000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.004826809000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.006274851700000002
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.008157307210000003
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.010604499373000004
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	5
+Average Percent Error:	0.0346527577564
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0013000000000000002
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0016900000000000003
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0021970000000000006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.0028561000000000007
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.003712930000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.004826809000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.006274851700000002
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.008157307210000003
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.010604499373000004
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.0165976693038385
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.038450720025846041), mean=0.0037306240174862001, variance=0.0022649644550522302, skewness=-1.4778346731613001, kurtosis=0.6307936118417499)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	5
+Average Percent Error:	0.0405394323939
+Len:	6
+Cumulative Diff:	1.1139760452717162
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.018268722996276503, variance=0.00028494386767944399, skewness=-0.05017696342403519, kurtosis=-1.5401701526385347)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	5
+Average Percent Error:	0.0462453987634
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	5
+Average Percent Error:	0.0517721328737
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	5
+Average Percent Error:	0.0571225074657
+Len:	2
+Cumulative Diff:	1.0362345971224134
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.51
+Lookback:	6
+Average Percent Error:	0.0295380374831
+Len:	12
+Cumulative Diff:	1.0336297195717945
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=12, minmax=(-0.04617821896526348, 0.048519740808948039), mean=0.0030885593224953302, variance=0.00071203260097226558, skewness=-0.5051538123708887, kurtosis=-0.26600522575255425)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.0060855129268411
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.0019449057664958243, variance=0.002145844649212289, skewness=-1.516758744146856, kurtosis=0.7450268227869619)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	6
+Average Percent Error:	0.0345693407027
+Len:	6
+Cumulative Diff:	1.1283632440699294
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.020391095868616815, variance=0.00014515208985142847, skewness=0.315319356806239, kurtosis=-1.585723550342248)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	6
+Average Percent Error:	0.0394883801619
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	6
+Average Percent Error:	0.04428136156
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.08650415919381343
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.11245540695195747
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.14619202903754472
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.19004963774880815
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.2470645290734506
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.3211838877954858
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	6
+Average Percent Error:	0.0489484764565
+Len:	3
+Cumulative Diff:	1.0508054498852764
+bitchCunt:	0.41753905413413156
+
+Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.61
+Lookback:	7
+Average Percent Error:	0.0302126623441
+Len:	14
+Cumulative Diff:	1.0152011919073514
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=14, minmax=(-0.047347581081569778, 0.048519740808948039), mean=0.0013980847443669428, variance=0.00068359896193454417, skewness=-0.5043840414441968, kurtosis=-0.03590075849129404)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.011127310527526
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0020090539839997851, variance=0.0016959666876290639, skewness=-1.2618318614507835, kurtosis=0.7902277526853303)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.011127310527526
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0020090539839997851, variance=0.0016959666876290639, skewness=-1.2618318614507835, kurtosis=0.7902277526853303)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.011127310527526
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0020090539839997851, variance=0.0016959666876290639, skewness=-1.2618318614507835, kurtosis=0.7902277526853303)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.0563449191655174
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0068066445074055383, variance=0.0015092985119077138, skewness=-1.7877353729270682, kurtosis=2.5099175370671967)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.0563449191655174
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0068066445074055383, variance=0.0015092985119077138, skewness=-1.7877353729270682, kurtosis=2.5099175370671967)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.0563449191655174
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0068066445074055383, variance=0.0015092985119077138, skewness=-1.7877353729270682, kurtosis=2.5099175370671967)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.0563449191655174
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0068066445074055383, variance=0.0015092985119077138, skewness=-1.7877353729270682, kurtosis=2.5099175370671967)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	7
+Average Percent Error:	0.0345136246341
+Len:	9
+Cumulative Diff:	1.184731083522782
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=9, minmax=(0.0048339436282767876, 0.048519740808948039), mean=0.019104104575486201, variance=0.00020941030906557203, skewness=1.019163073746843, kurtosis=-0.13898699407655535)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.0013000000000000002
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.0016900000000000003
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.0021970000000000006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.0028561000000000007
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.003712930000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.004826809000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.006274851700000002
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.008157307210000003
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.010604499373000004
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.0122312802316646
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(-0.089362660382299064, 0.035182174460437116), mean=0.002972047540817284, variance=0.0021692759789273203, skewness=-1.560587976394082, kurtosis=0.8132458225792458)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	7
+Average Percent Error:	0.0387372039498
+Len:	6
+Cumulative Diff:	1.1352559563138378
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=6, minmax=(0.0085816824966077742, 0.035182174460437116), mean=0.021418237642938275, variance=0.00012311097373214749, skewness=0.318412374969022, kurtosis=-1.489833586751452)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	7
+Average Percent Error:	0.0428693651845
+Len:	5
+Cumulative Diff:	1.0880656538551403
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=5, minmax=(-0.0021340665095572484, 0.038450720025846041), mean=0.017159815392556267, variance=0.00034695726404739084, skewness=0.1449590703937568, kurtosis=-1.7084024244628264)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.71
+Lookback:	8
+Average Percent Error:	0.0307216896347
+Len:	19
+Cumulative Diff:	1.0711863292968913
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=19, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0038428987847125597, variance=0.00045794945818436537, skewness=-0.26821127815243023, kurtosis=0.5404292185300439)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0153456018929683
+bitchCunt:	0.001
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0015374699115506595, variance=0.0010863489482153875, skewness=-1.330288740623649, kurtosis=1.9913879026320735)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0153456018929683
+bitchCunt:	0.0013000000000000002
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0015374699115506595, variance=0.0010863489482153875, skewness=-1.330288740623649, kurtosis=1.9913879026320735)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0153456018929683
+bitchCunt:	0.0016900000000000003
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0015374699115506595, variance=0.0010863489482153875, skewness=-1.330288740623649, kurtosis=1.9913879026320735)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0153456018929683
+bitchCunt:	0.0021970000000000006
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0015374699115506595, variance=0.0010863489482153875, skewness=-1.330288740623649, kurtosis=1.9913879026320735)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0153456018929683
+bitchCunt:	0.0028561000000000007
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0015374699115506595, variance=0.0010863489482153875, skewness=-1.330288740623649, kurtosis=1.9913879026320735)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.000491275957812
+bitchCunt:	0.003712930000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00052783448015789622, variance=0.0010288489342274631, skewness=-1.4167131490047118, kurtosis=2.2897169932238564)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.000491275957812
+bitchCunt:	0.004826809000000001
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00052783448015789622, variance=0.0010288489342274631, skewness=-1.4167131490047118, kurtosis=2.2897169932238564)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.000491275957812
+bitchCunt:	0.006274851700000002
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00052783448015789622, variance=0.0010288489342274631, skewness=-1.4167131490047118, kurtosis=2.2897169932238564)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.000491275957812
+bitchCunt:	0.008157307210000003
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00052783448015789622, variance=0.0010288489342274631, skewness=-1.4167131490047118, kurtosis=2.2897169932238564)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.000491275957812
+bitchCunt:	0.010604499373000004
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00052783448015789622, variance=0.0010288489342274631, skewness=-1.4167131490047118, kurtosis=2.2897169932238564)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.032107476913685
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0025881509096914641, variance=0.00099296302701415407, skewness=-1.6690733801302626, kurtosis=3.083611898674267)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0392175925878921
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0030566154056170607, variance=0.0010137716278690392, skewness=-1.6422230248797363, kurtosis=2.9549044976675454)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0392175925878921
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0030566154056170607, variance=0.0010137716278690392, skewness=-1.6422230248797363, kurtosis=2.9549044976675454)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0856913985093632
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0059351697196605132, variance=0.00090656101859300502, skewness=-2.0961570512228347, kurtosis=5.03287901993323)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0856913985093632
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0059351697196605132, variance=0.00090656101859300502, skewness=-2.0961570512228347, kurtosis=5.03287901993323)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0856913985093632
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0059351697196605132, variance=0.00090656101859300502, skewness=-2.0961570512228347, kurtosis=5.03287901993323)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.0856913985093632
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0059351697196605132, variance=0.00090656101859300502, skewness=-2.0961570512228347, kurtosis=5.03287901993323)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	8
+Average Percent Error:	0.0344773136074
+Len:	15
+Cumulative Diff:	1.2176442784838364
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=15, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.01331364576050891, variance=0.00021643374283329141, skewness=0.5140519844341486, kurtosis=0.521679986415597)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.0187444079000743
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0025916554486380135, variance=0.0015783102302317125, skewness=-1.272928175996234, kurtosis=0.9320472423415005)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.0187444079000743
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0025916554486380135, variance=0.0015783102302317125, skewness=-1.272928175996234, kurtosis=0.9320472423415005)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.0187444079000743
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0025916554486380135, variance=0.0015783102302317125, skewness=-1.272928175996234, kurtosis=0.9320472423415005)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.064302653097244
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0069094869197031923, variance=0.0014090944838755313, skewness=-1.7612393265931652, kurtosis=2.581627226097746)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.064302653097244
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0069094869197031923, variance=0.0014090944838755313, skewness=-1.7612393265931652, kurtosis=2.581627226097746)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.064302653097244
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0069094869197031923, variance=0.0014090944838755313, skewness=-1.7612393265931652, kurtosis=2.581627226097746)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.064302653097244
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0069094869197031923, variance=0.0014090944838755313, skewness=-1.7612393265931652, kurtosis=2.581627226097746)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	8
+Average Percent Error:	0.0381739767493
+Len:	10
+Cumulative Diff:	1.1936559853917363
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=10, minmax=(-0.011144248756218837, 0.048519740808948039), mean=0.017977200980975785, variance=0.00026623165506693821, skewness=0.18181841059047718, kurtosis=-0.03811006536077377)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.8099999999999999
+Lookback:	9
+Average Percent Error:	0.0311186791352
+Len:	20
+Cumulative Diff:	1.056760865810296
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0029778426614371399, variance=0.00044955934499330984, skewness=-0.1922923882597622, kurtosis=0.5159367626934817)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0002461222846637
+bitchCunt:	0.013785849184900006
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00046746581990268131, variance=0.00093379587299191342, skewness=-1.464728597297761, kurtosis=2.6162870177402855)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0071367473321517
+bitchCunt:	0.01792160394037001
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.00088081684571938393, variance=0.00095389035190919036, skewness=-1.4353249988094052, kurtosis=2.486034302904418)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0004225023499371
+bitchCunt:	0.02329808512248101
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0005008531034749968, variance=0.00098216063886705815, skewness=-1.3867114494073722, kurtosis=2.182752369734623)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0496703164641077
+bitchCunt:	0.030287510659225317
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0032849946623221514, variance=0.00088300553699656654, skewness=-1.771331393168386, kurtosis=3.8471639279779994)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0496703164641077
+bitchCunt:	0.03937376385699291
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0032849946623221514, variance=0.00088300553699656654, skewness=-1.771331393168386, kurtosis=3.8471639279779994)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0496703164641077
+bitchCunt:	0.05118589301409079
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0032849946623221514, variance=0.00088300553699656654, skewness=-1.771331393168386, kurtosis=3.8471639279779994)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.0496703164641077
+bitchCunt:	0.06654166091831802
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.089362660382299064, 0.048519740808948039), mean=0.0032849946623221514, variance=0.00088300553699656654, skewness=-1.771331393168386, kurtosis=3.8471639279779994)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	9
+Average Percent Error:	0.0344520338632
+Len:	17
+Cumulative Diff:	1.1772452622279992
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=17, minmax=(-0.033399749105205642, 0.048519740808948039), mean=0.0097954146983648543, variance=0.00032181301767196416, skewness=-0.28554726140399644, kurtosis=0.9427886242501651)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.08650415919381343
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.11245540695195747
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.14619202903754472
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.19004963774880815
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.2470645290734506
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.3211838877954858
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)Tick:	../../data/BTC_XMR.txt
+Alpha::	0.9099999999999999
+Lookback:	10
+Average Percent Error:	0.0314393167901
+Len:	21
+Cumulative Diff:	1.073817446657428
+bitchCunt:	0.41753905413413156
+
+
+
+Described Diff:
+DescribeResult(nobs=21, minmax=(-0.048468617194156932, 0.048519740808948039), mean=0.0035834376806661485, variance=0.00039015049524312409, skewness=-0.41868298012103244, kurtosis=1.4338208591048192)

@@ -13,7 +13,7 @@ def SMAn(a, n):                         #GETS SIMPLE MOVING AVERAGE OF "N" PERIO
 
 def BBn(a, n, stddevD, stddevU): #GETS BOLLINGER BANDS OF "N" PERIODS AND STDDEV"UP" OR STDDEV"DOWN" LENGTHS
     cpy = a[-int(np.floor(n)):] #RETURNS IN FORMAT: LOWER BAND, MIDDLE BAND, LOWER BAND
-    midb = SMAn(a, n) #CALLS SMAn
+    midb = SMAn(cpy, n) #CALLS SMAn
     std = np.std(cpy)
     ub = midb + (std * stddevU)
     lb = midb - (std * stddevD)
@@ -33,18 +33,20 @@ def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
     plt.xlabel(xLabel)
     plt.show()
 
-vals = []
-with open("hist_btc_val.txt") as file:
+vals = []; tick = "BTC-XRP"
+#with open("hist_btc_val.txt") as file:
+#with open("../data/BTC_XRP.txt") as file:
+with open("../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt") as file:
     lines = file.readlines()
     for i in range(len(lines)):
         vals.append(float(lines[i]))
 
 file.close()
 
-# bb = []
-# for i in range(len(vals)):
-#     if i > 10:
-#         bb.append(BBmomma(vals, 10, 1.25))
-#         print(bb[-1])
-plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
+bb = []
+for i in range(len(vals)):
+    if i > 10:
+        bb.append(BBmomma(vals[:i], 10, 1.25))
+        print(bb[-1])
+plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Y")
 plot(bb)

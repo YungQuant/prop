@@ -1,0 +1,4152 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00521907319871
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00539085978481
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00556309888483
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00573553200405
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00590799311317
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.00608033925346
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00625287764976
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00642523891866
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00659694150029
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00676739358917
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.0069363879063
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00710410137942
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00727071886961
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.00743629875257
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.00760048634199
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.00776329912406
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.00792475429345
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.00808511009458
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.00824419441135
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0084019685896
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.00855897339964
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.00871502968192
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.00886988443055
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.00902362834468
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.00917626376851
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.00932767246862
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.00947786917413
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.00962686837929
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.00977468434823
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.00992133111941
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0100668225101
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0102111721209
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.0103543933395
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0104965475207
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0106377943824
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.0107780652303
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0109174004769
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.0110556674085
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0111930034067
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0113294087882
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0114648139027
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0115993991083
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.05118589301409079
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.06654166091831802
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.08650415919381343
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.11245540695195747
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.14619202903754472
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.19004963774880815
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.2470645290734506
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.3211838877954858
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0117329718252
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.41753905413413156
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6700000000000004
+Lookback:	2
+Average Percent Error:	0.0118655434356
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6700000000000004
+Lookback:	2
+Average Percent Error:	0.0118655434356
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XMR_prices.txt
+Alpha::	0.6700000000000004
+Lookback:	2
+Average Percent Error:	0.0118655434356
+Len:	1
+Cumulative Diff:	1.0034624734856952
+bitchCunt:	0.03937376385699291
+

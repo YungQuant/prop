@@ -115,20 +115,20 @@ def my_buy(ticker, amount, type):
         price = b.get_ticker(ticker)['result']['Ask']
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'bid':
         price = b.get_ticker(ticker)['result']['Bid']
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
-    if type == 'auto':
+    if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'auto1':
         tick = b.get_ticker(ticker)['result']
@@ -142,20 +142,20 @@ def my_sell(ticker, amount, type):
         price = b.get_ticker(ticker)['result']['Ask']
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'bid':
         price = b.get_ticker(ticker)['result']['Bid']
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
-    if type == 'auto':
+    if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'auto1':
         while b.get_open_orders(ticker).result != []:
@@ -175,7 +175,23 @@ def clear_orders(ticker):
             b.cancel(UUIDs[i])
             print("CANCELED:", orders[i])
     else:
-        print("No Orders (", orders,")")
+        print("No Orders (", orders,")\n")
+
+def liquidate(ticker):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    amount = bal
+    goal_bal = 0
+    time_cnt = 0
+    while bal > goal_bal:
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        clear_orders('BTC-' + ticker)
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        time_cnt += 1
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        time.sleep(10)
 
 def auto_ask(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
@@ -186,12 +202,14 @@ def auto_ask(ticker, amount):
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
     while bal > goal_bal + (start_bal * 0.01):
-        clear_orders('BTC-' + ticker)
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         bal = float(b.get_balance(ticker)['result']['Balance'])
+        clear_orders('BTC-' + ticker)
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
         time_cnt += 1
         print("Time Count (10 seconds / cnt):", time_cnt)
-        print("Balance:", bal, "Goal Balance:", goal_bal)
-        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
         time.sleep(10)
 
 def auto_bid(ticker, amount):
@@ -201,12 +219,14 @@ def auto_bid(ticker, amount):
     goal_bal = bal + (amount / price)
     time_cnt = 0
     while bal < goal_bal * 0.99:
-        clear_orders('BTC-' + ticker)
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = float(tick['Bid'])
         bal = float(b.get_balance(ticker)['result']['Balance'])
+        clear_orders('BTC-' + ticker)
+        my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
         time_cnt += 1
         print("Time Count (10 seconds / cnt):", time_cnt)
-        print("Balance:", bal, "Goal Balance:", goal_bal)
-        my_buy('BTC-' + ticker, amount, type='bid')
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
         time.sleep(10)
 
 
@@ -269,7 +289,7 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
-        cryptos = ['ANS', 'GNT', 'BNT','QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+        cryptos = ['ANS', 'GNT', 'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
         REBAL_TOL = 0.053
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
