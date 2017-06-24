@@ -300,7 +300,7 @@ while(1):
         #print(vals)
         if np.var(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
             print("NEEDS REBALANCING")
-            rebalence(cryptos)
+            #rebalence(cryptos)
 
         print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
