@@ -96,10 +96,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
-            fileOutput.append("../../output/" + tick + "envTest1_output.txt")
         elif len(tick) > 9:
             fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
-            fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_envTest1_output.txt")
 
     for i, file in enumerate(fileTicker):
         if (os.path.isfile(file) == False):
@@ -131,7 +129,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[-60:]):
+        for i, stocks in enumerate(stock1[int(len(stock1) * 0.8):]):
         #for i, stocks in enumerate(stock1[-150:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
@@ -174,5 +172,5 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
 
-result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=0.226, plt_bool=True)
+result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=0.053, plt_bool=True)
 result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=215, plt_bool=True)

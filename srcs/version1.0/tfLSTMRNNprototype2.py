@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import tensorflow as tf
+from tensorflow.contrib import rnn
 from tensorflow.python.framework import dtypes
 from tensorflow.contrib import learn
 import os.path
@@ -129,7 +130,7 @@ def lstm_model(time_steps, rnn_layers, dense_layers=None):
     return _lstm_model
 
 def create_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 100
+    lookback *= 200
     x, y = [], []
     k = 0
     while k < (len(buy_arr) - lookback - 2):
@@ -139,7 +140,7 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     return np.array(x), np.array(y)
 
 def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 100
+    lookback *= 200
     x, y = [], []
     k = 2
     while k < (len(buy_arr) - lookback - 2):
@@ -150,6 +151,26 @@ def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
             y.append(0)
         else:
             y.append(1)
+
+        k += 2
+    return np.array(x), np.array(y)
+
+def create_trinary_orderbook_training_set(buy_arr, sell_arr, lookback):
+    lookback *= 200
+    x, y = [], []
+    k = 0
+    while k < (len(buy_arr) - lookback - 2):
+        x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
+        if np.mean([float(sell_arr[k]),
+                    float(buy_arr[k])]) > np.mean([float(sell_arr[k + 2]),
+                                                              float(buy_arr[k + 2])]) * 0.995:
+            y.append(0)
+        elif np.mean([float(sell_arr[k]),
+                        float(buy_arr[k])]) < np.mean([float(sell_arr[k + 2]),
+                                                        float(buy_arr[k + 2])]) * 1.005:
+            y.append(1)
+        else:
+            y.append(2)
 
         k += 2
     return np.array(x), np.array(y)
@@ -186,21 +207,6 @@ def books2arrays(buy_tick, sell_tick):
     sf.close()
     return buy_arr, sell_arr
 
-LOG_DIR = './ops_logs'
-TIMESTEPS = 1
-RNN_LAYERS = TIMESTEPS
-DENSE_LAYERS = 2
-TRAINING_STEPS = 100000
-BATCH_SIZE = 100
-PRINT_STEPS = TRAINING_STEPS / 100
-
-# dateparse = lambda dates: pd.datetime.strptime(dates, '%d/%m/%Y %H:%M')
-# rawdata = pd.read_csv("./input/ElectricityPrice/RealMarketPriceDataPT.csv",
-#                    parse_dates={'timeline': ['date', '(UTC)']},
-#                    index_col='timeline', date_parser=dateparse)
-#
-#
-# X, y = load_csvdata(rawdata, TIMESTEPS, seperate=False)
 
 ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
 #ticker = ["BTC-DASH"]
@@ -215,27 +221,8 @@ buys, sells = books2arrays("../../../../../Desktop/comp/HD_60x100_outputs/books/
 #     if (os.path.isfile(file) == False):
 #         print("missing:", file)
 
-params = {TIMESTEPS, RNN_LAYERS, DENSE_LAYERS}
-
-trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
-                                                           sells[:int(np.floor(len(sells) * 0.8))], TIMESTEPS)
-
-
-
-
-import tensorflow as tf
-from tensorflow.contrib import rnn
-
-# Import MNIST data
-from tensorflow.examples.tutorials.mnist import input_data
-mnist = input_data.read_data_sets("/tmp/data/", one_hot=True)
-
-'''
-To classify images using a recurrent neural network, we consider every image
-row as a sequence of pixels. Because MNIST image shape is 28*28px, we will then
-handle 28 sequences of 28 steps for every sample.
-'''
-
+trainX, trainY = create_trinary_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
+                                                           sells[:int(np.floor(len(sells) * 0.8))], 1)
 # Parameters
 learning_rate = 0.001
 training_iters = 100000
@@ -243,10 +230,10 @@ batch_size = 128
 display_step = 10
 
 # Network Parameters
-n_input = 28 # MNIST data input (img shape: 28*28)
-n_steps = 28 # timesteps
-n_hidden = 128 # hidden layer num of features
-n_classes = 10 # MNIST total classes (0-9 digits)
+n_input = 400
+n_steps = 1
+n_hidden = 400
+n_classes = 3
 
 # tf Graph input
 x = tf.placeholder("float", [None, n_steps, n_input])

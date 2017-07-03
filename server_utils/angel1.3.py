@@ -265,13 +265,13 @@ def rebalence(cryptos):
     for i in range(len(btc_vals) -1):
         if btc_vals[i] > goal_val:
             sells.append(cryptos[i])
-            sell_vals.append(btc_vals[i])
+            sell_vals.append(btc_vals[i] - goal_val)
             #auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
 
     for i in range(len(btc_vals) - 1):
         if btc_vals[i] < goal_val:
             buys.append(cryptos[i])
-            buy_vals.append(btc_vals[i])
+            buy_vals.append(goal_val - btc_vals[i])
             #auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
 
     indx = 0

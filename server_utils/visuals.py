@@ -36,7 +36,7 @@ def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
 vals = []; tick = "BTC-XRP"
 #with open("hist_btc_val.txt") as file:
 #with open("../data/BTC_XRP.txt") as file:
-with open("../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt") as file:
+with open("../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt") as file:
     lines = file.readlines()
     for i in range(len(lines)):
         vals.append(float(lines[i]))
@@ -49,4 +49,4 @@ for i in range(len(vals)):
         bb.append(BBmomma(vals[:i], 10, 1.25))
         print(bb[-1])
 plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Y")
-plot(bb)
+#plot(bb)

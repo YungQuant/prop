@@ -243,14 +243,16 @@ def createBinaryTrainingSet(dataset, look_back):
     return np.array(X), np.array(Y)
 
 
-def create_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 200
+def create_nerfed_orderbook_training_set(prices, buy_arr, sell_arr, lookback):
+    lookback *= 100
     x, y = [], []
     k = 0
-    while k < (len(buy_arr) - lookback):
-        x.append(sell_arr[k:k + lookback] + buy_arr[k:k + lookback])
-        y.append(np.mean([float(sell_arr[k + lookback]), float(buy_arr[k + lookback])]))
-        k += 2
+    while k < (len(prices) - lookback):
+        sells = sell_arr[k:k + lookback]
+        buys = buy_arr[k:k + lookback]
+        x.append(sells[:int(np.floor(lookback / 10))] + buys[:int(np.floor(lookback / 10))])
+        y.append(prices[k + lookback])
+        k += 1
     return np.array(x), np.array(y)
 
 def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
@@ -281,7 +283,7 @@ def create_orderbook_magnitude_training_set(buy_arr, sell_arr, lookback):
         k += 2
     return np.array(x), np.array(y)
 
-def books2arrays(buy_tick, sell_tick):
+def nerfed_books2arrays(buy_tick, sell_tick):
     buy_arr, sell_arr = [], []
     with open(buy_tick, 'r', encoding='utf-8') as bf:
         with open(sell_tick, 'r', encoding='utf-8') as sf:
@@ -293,10 +295,8 @@ def books2arrays(buy_tick, sell_tick):
                 sObj = sell_file[i].split("\t")
                 bp, bv = bObj[0], bObj[1]
                 sp, sv = sObj[0], sObj[1]
-                buy_arr.append(float(bp))
-                buy_arr.append(float(bv))
-                sell_arr.append(float(sp))
-                sell_arr.append(float(sv))
+                buy_arr.append(float(bp) * float(bv))
+                sell_arr.append(float(sp) * float(sv))
     bf.close()
     sf.close()
     return buy_arr, sell_arr
@@ -343,106 +343,107 @@ def fucking_peter(tick, Nin, drop, err, opt, log, numEpoch, numBatch):
     cuml = []
     jj = 0
     while jj < len(tick) - 1:
-        try:
-            with open(tick[jj + 2], 'r') as f:
-                stock1 = f.readlines()
-            f.close()
-            stock = []
-            for i, stocks in enumerate(stock1):
-                stock.append(float(stocks))
-            #plot(stock)
-            arr = []; predictArray = []; errorCnt = 0; correct_margin_array = []; false_margin_array = [];
-            buy = [];sell = []; diff = []; perc = []; desc = []; kar = []; dar = []; cumld = []; errors = [];
-            shortDiff = []; stockBought = False; stopLoss = False; bull = 0; shit = 0; maxP = 0;
-            scaler = MinMaxScaler(feature_range=(-1, 1))
-            cuml.append(1)
-            buys, sells = books2arrays(tick[jj], tick[jj + 1])
-            trainX, trainY = create_orderbook_training_set(buys[:int(np.floor(len(buys) * 0.8))],
-                                                           sells[:int(np.floor(len(sells) * 0.8))], Nin)
-            # dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
-            # dataset = stock[:int(np.floor(len(stock) * .95))]
-            trainX = scaler.fit_transform(trainX)
-            trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
-            #print("training x[-1], y[-1]", trainX[-1], trainY[-1])
-            #print("trainX shape", trainX.shape)
-            model = Sequential()
-            model.add(Dense(Nin * 400, input_shape=(1, Nin * 400), activation='tanh'))
-            # model.add(Dense(Nin, activation='relu'))
-            model.add(LSTM(Nin * 400, activation='tanh'))
-            model.add(Dropout(drop))
-            model.add(Dense(1, activation='linear'))
-            model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
-            model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=len(trainX), verbose=0)
+        #try:
+        with open(tick[jj + 2], 'r') as f:
+            stock1 = f.readlines()
+        f.close()
+        stock = []
+        for i, stocks in enumerate(stock1):
+            stock.append(float(stocks))
+        #plot(stock)
+        arr = []; predictArray = []; errorCnt = 0; correct_margin_array = []; false_margin_array = [];
+        buy = [];sell = []; diff = []; perc = []; desc = []; kar = []; dar = []; cumld = []; errors = [];
+        shortDiff = []; stockBought = False; stopLoss = False; bull = 0; shit = 0; maxP = 0;
+        scaler = MinMaxScaler(feature_range=(-1, 1))
+        cuml.append(1)
+        buys, sells = nerfed_books2arrays(tick[jj], tick[jj + 1])
+        trainX, trainY = create_nerfed_orderbook_training_set(stock[:int(np.floor(len(stock) * 0.8))], buys[:int(np.floor(len(buys) * 0.8))],
+                                                       sells[:int(np.floor(len(sells) * 0.8))], Nin)
+        #print("unscaled training x[-1], y[-1]", trainX[-1], trainY[-1])
+        # dataset = scaler1.fit_transform(stock[:len(stock) - Nin * .9])
+        # dataset = stock[:int(np.floor(len(stock) * .95))]
+        trainX = scaler.fit_transform(trainX)
+        trainX = np.reshape(trainX, (trainX.shape[0], 1, trainX.shape[1]))
+        #print("scaled training x[-1], y[-1]", trainX[-1], trainY[-1])
+        #print("trainX shape", trainX.shape)
+        model = Sequential()
+        model.add(Dense(Nin * 20, input_shape=(1, Nin * 20), activation='tanh'))
+        # model.add(Dense(Nin, activation='relu'))
+        model.add(LSTM(Nin * 20, activation='tanh'))
+        model.add(Dropout(drop))
+        model.add(Dense(1, activation='linear'))
+        model.compile(loss=err, optimizer=opt, metrics=['accuracy'])
+        model.fit(trainX, trainY, nb_epoch=numEpoch, batch_size=len(trainX), verbose=0)
 
-            for i, closeData in enumerate(stock):
-                arr.append(closeData)
-                if i > int(np.floor(len(stock) * .8)) and i * 100 < len(buys):
-                    # print("\n\ninput array:", arr)
-                    new_i = i * 200
-                    arry = sells[new_i - Nin * 200:new_i] + buys[new_i - Nin * 200:new_i]
-                    arry = scaler.fit_transform(arry)
-                    # arry = arr[-Nin:]
-                    arry = np.reshape(arry, (1, 1, len(arry)))
-                    # arry = np.reshape(arry, (1, 1, arry.shape[0]))
-                    predict = model.predict(arry)
-                    # invert predictions
-                    arry = np.reshape(arry, (1, len(arry[0][0])))
-                    arry = scaler.inverse_transform(arry)
-                    #predict = scaler.inverse_transform(predict)
-                    predict = predict[0][0]
-                    predictArray.append(predict)
-                    # kar.append(predict)
-                    if i < len(stock) - 1:
-                        difference = abs(predict - stock[i + 1]) / closeData
-                        errors.append(difference)
-                        #print("arry_diff:", difference)
-                        # print("predict:", predict)
-                        if (stock[i + 1] > closeData and (predict > closeData)) or \
-                                (stock[i + 1] < closeData and predict < closeData):
-                            diff.append(1)
-                            #print("correct, margin:", predict - .5)
-                            #correct_margin_array.append(predict - .5)
-                        else:
-                            diff.append(0)
-                            #print("incorrect, margin:", predict - .5)
-                            #false_margin_array.append(predict - .5)
-                    # if i > 100:
-                    # plot(trainPredict)
+        for i, closeData in enumerate(stock):
+            arr.append(closeData)
+            if i > int(np.floor(len(stock) * .8)) and i * 20 < len(buys):
+                new_i = i * 100
+                arry = sells[new_i - Nin * 100:new_i - Nin * 90] + buys[new_i - Nin * 100:new_i - Nin * 90]
+                #print("\n\ninput array:", arry)
+                arry = scaler.fit_transform(arry)
+                # arry = arr[-Nin:]
+                arry = np.reshape(arry, (1, 1, len(arry)))
+                # arry = np.reshape(arry, (1, 1, arry.shape[0]))
+                predict = model.predict(arry)
+                # invert predictions
+                #arry = np.reshape(arry, (1, len(arry[0][0])))
+                #arry = scaler.inverse_transform(arry)
+                #predict = scaler.inverse_transform(predict)
+                predict = predict[0][0]
+                predictArray.append(predict)
+                # kar.append(predict)
+                if i < len(stock) - 1:
+                    difference = abs(predict - stock[i + 1]) / closeData
+                    errors.append(difference)
+                    #print("arry_diff:", difference)
+                    # print("predict:", predict)
+                    if (stock[i + 1] > closeData and (predict > closeData)) or \
+                            (stock[i + 1] < closeData and predict < closeData):
+                        diff.append(1)
+                        #print("correct, margin:", predict - .5)
+                        #correct_margin_array.append(predict - .5)
+                    else:
+                        diff.append(0)
+                        #print("incorrect, margin:", predict - .5)
+                        #false_margin_array.append(predict - .5)
+                # if i > 100:
+                # plot(trainPredict)
 
-                    # print("predicted:", kar)
-                    # calculate root mean squared error
+                # print("predicted:", kar)
+                # calculate root mean squared error
 
-            # print("errors:", diff)
-            print("tik:", tick[jj], "\n",
-                  "Nin:", Nin, "\n",
-                  "numEpoch:", numEpoch, "\n",
-                  "numBatch:", numBatch, "\n",
-                  "opt:", opt, "\n",
-                  "err:", err, "\n",
-                  "dropout:", drop)
-            #if errorCnt > 0: print("tengo", errorCnt, "problemas)")
-            print("avg prediction:", np.mean(predictArray))
-            print("mean directional inverse error (% correct):", np.mean(diff))
-            print("mean % error:", np.mean(errors))
-            #print("mean correct margin:", np.mean(correct_margin_array))
-            #print("mean error margin:", np.mean(false_margin_array))
-            print("described:", sp.describe(predictArray))
-            print("\n\n")
-            # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
-            # print("error variance", np.var(diff))
+        # print("errors:", diff)
+        print("tik:", tick[jj], "\n",
+              "Nin:", Nin, "\n",
+              "numEpoch:", numEpoch, "\n",
+              "numBatch:", numBatch, "\n",
+              "opt:", opt, "\n",
+              "err:", err, "\n",
+              "dropout:", drop)
+        #if errorCnt > 0: print("tengo", errorCnt, "problemas)")
+        print("avg prediction:", np.mean(predictArray))
+        print("mean directional inverse error (% correct):", np.mean(diff))
+        print("mean % error:", np.mean(errors))
+        #print("mean correct margin:", np.mean(correct_margin_array))
+        #print("mean error margin:", np.mean(false_margin_array))
+        print("described:", sp.describe(predictArray))
+        print("\n\n")
+        # print("error kurtosis", scipy.stats.kurtosis(diff, fisher=True))
+        # print("error variance", np.var(diff))
 
-            if np.mean(errors) < 0.05:
-                write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray,
-                                numEpoch, numBatch, opt, diff, np.mean(errors), err)
-        except:
-            print("FAILED ON:", tick[jj + 2][-19:])
+        if np.mean(errors) < 0.03:
+            write_that_shit(log[int(np.floor(jj / 3))], tick[jj], drop, Nin, predictArray,
+                            numEpoch, numBatch, opt, diff, np.mean(errors), err)
+        # except:
+        #     print("FAILED ON:", tick[jj + 2][-19:])
 
         jj += 3
 
 
     return cuml
 
-ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH"]
+ticker = ["BTC-LTC"]
 #ticker = ["BTC-DASH"]
 fileTicker = []
 fileOutput = []
@@ -452,25 +453,26 @@ for i, tick in enumerate(ticker):
     fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/books/" + tick + "_buy_books.txt")
     fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/books/" + tick + "_sell_books.txt")
     fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf1_tanhXlargeBatchEdition_6.23.17_x0.8_1intervalPred_output.txt")
+    fileOutput.append("../../output/" + tick + "_mltf1_nerfedTanhEdition_6.26.17_x0.8_1intervalPred_outputs.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing:", file)
 
 opts = ['adam', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
-#opts = ['adam']
+#opts = ['Nadam']
 errs = ['mean_absolute_error']
 #errs = ['binary_crossentropy']
 #nins = np.arange(1, 15, step=3)
-nins = [1]
+nins = [5, 10, 20]
 #nins = [10]
-batchs = [1000]
-#batchs = [10, 100]
-epochs = [10, 20, 40, 60, 80, 100, 200]
-#epochs = [20, 40, 80, 160, 320]
+batchs = [10, 100, 1000]
+#batchs = [10]
+#epochs = [400, 800, 2000, 4000, 6000]
+epochs = [100, 200, 400, 800]
 #drops = [0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65]
-drops = [0.2, 0.4, 0.6, 0.05]
+drops = [0.4, 0.5, 0.6, 0.7, 0.8]
+#drops = [0.6]
 
 #nins = [300]; batchs = [50]; epochs = [100];
 

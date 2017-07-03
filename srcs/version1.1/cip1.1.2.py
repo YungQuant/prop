@@ -295,19 +295,19 @@ def pillowcaseAssassination(fileTicker, k, i, fileOutput, save_max, max_len, bit
             for inc, file in enumerate(fileTicker))
 
 
-ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-#ticker = ["BTC-XMR", "BTC-DASH", "BTC-MAID", "BTC-LTC", "BTC-XRP", "BTC-ETH", "BTC-XEM"]
+#ticker = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
+ticker = ["BTC-LTC"]
 #ticker = ['BCHARTS/BITSTAMPUSD']
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../data/" + tick + ".txt")
+    #fileTicker.append("../../data/" + tick + ".txt")
     fileOutput.append("../../output/" + tick + "_cip1.1.2_6,7,17_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     #fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
-    #fileTicker.append("../../../../../Desktop/comp/HD_6x100_outputs/prices/" + tick + "_prices.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing file:", file)

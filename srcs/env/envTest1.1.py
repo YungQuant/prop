@@ -131,7 +131,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.75)):]):
+        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.75)):]):
+        for i, stocks in enumerate(stock1[-90:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -148,7 +149,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        if max(allocs) - min(allocs) > np.mean(allocs) * rebal_tol:
+        if max(allocs) - min(allocs) > rebal_tol:
             rebalsss += 1
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
@@ -169,7 +170,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     return cuml, rebalsss, mdd
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
-k1 = 0.001; k2 = 20; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
+k1 = 0.001; k2 = 5; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
 while k < k2:
     result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False)
     results.append(result)
@@ -178,7 +179,7 @@ while k < k2:
     rebals.append(rebalsss)
     k += 0.0025
     if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results[:-1]):
-        write_that_shit("../../output/envTest1.1_output_6,20,17.txt", k, rebalsss, results[-1], mdd)
+        write_that_shit("../../output/envTest1.1_noMult_[-90:]_output_6,23,17.txt", k, rebalsss, results[-1], mdd)
         print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
 
 

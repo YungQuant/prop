@@ -55,10 +55,18 @@ def getNum(str):
 
     return float(tmp)
 
+def sparsenPriceData(data, divisor=10):
+    sparse_data = []
+    for i in range(len(data)):
+        if i % divisor == 0:
+            sparse_data.append(data[i])
+
+    return sparse_data
+
 def CryptoQuote1(the_symbol):
     class ohlcvObj():
         open, high, low, close, volume = [], [], [], [], []
-    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=86400".format(the_symbol)
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     print(the_symbol, response[0:10])
     for i, curr in enumerate(response):
@@ -75,7 +83,7 @@ def CryptoQuote1(the_symbol):
     return ohlcvObj
 
 def write_that_shit(results, k, l):
-    log = "../../output/PAMRtest1_v2_output.txt"
+    log = "../../output/PAMRtest2_v2_w/tC_poloDataX0.5:_output.txt"
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -87,7 +95,7 @@ def write_that_shit(results, k, l):
     file.write(str(l))
     file.write("\nC:\t")
     file.write(str(k))
-    file.write("\n\n")
+    file.write("\n")
     file.close()
 
 
@@ -201,7 +209,7 @@ def duz_i_buy(allocs, C, epsilon, diffs):
     #return simplex_proj1(allocs, allocs * (np.ones(len(diffs)) - diffs))
 
 
-def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False):
+def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost=0.005):
     fileTicker = []
     fileOutput = []
     fileCuml = []
@@ -210,6 +218,7 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False):
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
+            #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
             fileOutput.append("../../output/" + tick + "envTest1_output.txt")
         elif len(tick) > 9:
             fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
@@ -245,7 +254,7 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False):
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.5)):]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -268,14 +277,14 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False):
             # print("cuml IN:", cuml)
             allocs = duz_i_buy(allocs, C, epsilon, diffs)
             post_cuml = sum(allocs)
-            profits += pre_cuml - post_cuml
-            allocs *= 0.995
-            # for i in range(len(allocs)):
-            #     allocs[i] += profits / len(allocs)
+            profits = pre_cuml - post_cuml
+            for i in range(len(allocs)):
+                allocs[i] += profits / len(allocs)
+                allocs[i] *= 1 - tradeCost
             # print("cuml OUT:", post_cuml)
             # print("allocs OUT:", allocs)
             # print("\n")
-            cumld.append(sum(allocs) + profits)
+            cumld.append(sum(allocs))
 
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
@@ -283,19 +292,6 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False):
     return cumld[-1]
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
-k1 = 400; k2 = 600; k = k1; l1 = 0.1; l2 = 0.9; l = l1; results = [];
-while k < k2:
-    while l < l2:
-        results.append(global_warming(ticker, 1, C=int(np.floor(k)), epsilon=l, plt_bool=False))
-        if results[-1] > np.mean(results) or len(results) % 10 == 0:
-            if results[-1] > np.mean(results):
-                #global_warming(ticker, 1, C=int(np.floor(k)), epsilon=l,plt_bool=True)
-                write_that_shit(results[-1], int(np.floor(k)), l)
-                for i in range(5):
-                    print("$$$$$$$$$$$$$$$$$")
-            print("C:", k, "epsilon:", l, "result:", results[-1])
-        l += 0.1
-    l = l1
-    k += 1
+#ticker = ["BTC-ETH", "BTC-XMR", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC"]
 
-plot(results)
+global_warming(ticker, 1, plt_bool=True, C=420, epsilon=0.1)

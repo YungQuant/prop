@@ -361,6 +361,5 @@ def auto_bid(ticker, amount):
 # ticker = "XRP"
 # print(b.get_balance(ticker)['result']['Balance'])
 # print(b.get_open_orders("BTC_XRP"))
-liquidate("BNT")
 
 

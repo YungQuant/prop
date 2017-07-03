@@ -25,20 +25,24 @@ vals = []; adj_vals = []; basis = 0;
 with open("../../server_utils/hist_btc_val.txt") as file:
     lines = file.readlines()
     for i in range(len(lines)):
-        vals.append(float(lines[i]))
+        try:
+            vals.append(float(lines[i]))
+        except:
+            i += 1
 
 file.close()
 
-for i in range(len(vals)):
-    if vals[i] - vals[i - 1] > 0.5:
+for i in range(len(vals)):          #VVVVVVVVVVVVVVVVVVVVVVVV  <- REBALENCES TRIP DEPOSIT FILTER
+    if vals[i] - vals[i - 1] > 0.7 and i < 17500 or i > 19500:
         basis += vals[i] - vals[i - 1]
     adj_vals.append(vals[i] - basis)
 
+print("Basis Accumulated:", basis)
 
 plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
 plot(adj_vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
 
-t1 = 1200; t2 = 1600; t = t1; returns = [];
+t1 = 1000; t2 = 1400; t = t1; returns = [];
 while t < t2:
     returns.append(check_commissions(adj_vals[:], t))
     print(returns[-1])
