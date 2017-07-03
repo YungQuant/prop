@@ -188,6 +188,7 @@ def liquidate(ticker):
         clear_orders('BTC-' + ticker)
         bal = float(b.get_balance(ticker)['result']['Balance'])
         time_cnt += 1
+        print(ticker)
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
         my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
@@ -201,13 +202,14 @@ def auto_ask(ticker, amount):
     goal_bal = bal - (amount / price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
-    while bal > goal_bal + (start_bal * 0.01):
+    while bal > goal_bal + (start_bal * 0.001):
         tick = b.get_ticker('BTC-' + ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         bal = float(b.get_balance(ticker)['result']['Balance'])
         clear_orders('BTC-' + ticker)
         my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
         time_cnt += 1
+        print(ticker)
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
         time.sleep(10)
@@ -218,13 +220,14 @@ def auto_bid(ticker, amount):
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
     goal_bal = bal + (amount / price)
     time_cnt = 0
-    while bal < goal_bal * 0.99:
+    while bal < goal_bal * 0.999:
         tick = b.get_ticker('BTC-' + ticker)['result']
         price = float(tick['Bid'])
         bal = float(b.get_balance(ticker)['result']['Balance'])
         clear_orders('BTC-' + ticker)
         my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
         time_cnt += 1
+        print(ticker)
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
         time.sleep(10)

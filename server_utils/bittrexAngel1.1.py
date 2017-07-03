@@ -5,6 +5,7 @@ import numpy as np
 import time
 import hmac
 import hashlib
+from joblib import Parallel, delayed
 try:
     from urllib import urlencode
     from urlparse import urljoin
@@ -165,47 +166,157 @@ def my_sell(ticker, amount, type):
 
         print("SELL ticker, price, amount", ticker, price, amount)
 
-cryptos = ['ANS', 'XMR', 'MAID', 'DASH', 'SJCX', 'XRP', 'LTC', 'ETH', 'XEM']
+def clear_orders(ticker):
+    UUIDs = []
+    orders = b.get_open_orders(ticker)['result']
+    if orders != []:
+        for i in range(len(orders)):
+            UUIDs.append(orders[i]['OrderUuid'])
+            b.cancel(UUIDs[i])
+            print("CANCELED:", orders[i])
+    else:
+        print("No Orders (", orders, ")\n")
 
-pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
-
-for i in range(len(cryptos)):
-    pairs.append('BTC-' + cryptos[i])
-
-cryptos.append('BTC')
-
-bals = b.get_balances()
-print("bals:", bals)
-
-for k in range(len(cryptos)):
-    for i in range(len(bals['result'])):
-        if cryptos[k] in bals['result'][i]['Currency']:
-            print("found:", bals['result'][i])
-            vals.append(float(bals['result'][i]['Available']))
-
-
-tot_btc_val += vals[-1]
-print(cryptos, vals)
-
-for i in range(len(vals) -1):
-    tick = b.get_ticker(pairs[i])
-    tick = tick['result']
-    #print(pairs[i], "ticker response ['result']:", tick)
+def auto_ask(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    start_bal = bal
+    tick = b.get_ticker('BTC-' + ticker)['result']
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    #price = float(tick['Bid'])
-    btc_vals.append(vals[i] * price)
-    tot_btc_val += vals[i] * price
+    goal_bal = bal - (amount / price)
+    if goal_bal < 0: goal_bal = 0
+    time_cnt = 0
+    while bal > goal_bal + (start_bal * 0.001):
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        clear_orders('BTC-' + ticker)
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        time_cnt += 1
+        print(ticker)
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
+        time.sleep(10)
 
-btc_vals.append(vals[-1])
-goal_val = tot_btc_val/len(btc_vals)
-print("CRYPTOS, BTC_VALS", cryptos, btc_vals)
-print("tot_btc_val:", tot_btc_val)
-print("goal_val:", goal_val)
+def auto_bid(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal + (amount / price)
+    time_cnt = 0
+    while bal < goal_bal * 0.999:
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = float(tick['Bid'])
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        clear_orders('BTC-' + ticker)
+        my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+        time_cnt += 1
+        print(ticker)
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
+        time.sleep(10)
 
-for i in range(len(btc_vals) -1):
-    if btc_vals[i] > goal_val:
-        my_sell(pairs[i], btc_vals[i] - goal_val, 'mid')
+def rebalence(cryptos):
+    pairs = [];
+    vals = [];
+    btc_vals = [];
+    tot_btc_val = 0.0;
+    for i in range(len(cryptos)):
+        pairs.append("BTC-" + cryptos[i])
+    cryptos.append("BTC")
+    bals = b.get_balances()
+    print("bals:", bals)
 
-for i in range(len(btc_vals) - 1):
-    if btc_vals[i] < goal_val:
-        my_buy(pairs[i], goal_val - btc_vals[i], 'mid')
+    for k in range(len(cryptos)):
+        for i in range(len(bals['result'])):
+            if cryptos[k] in bals['result'][i]['Currency']:
+                print("found:", bals['result'][i])
+                vals.append(float(bals['result'][i]['Available']))
+
+    tot_btc_val += vals[-1]
+    print("CRYPTOS, VALS", cryptos, vals)
+
+    for i in range(len(vals) - 1):
+        tick = b.get_ticker(pairs[i])
+        tick = tick['result']
+        print(pairs[i], "ticker response ['result']:", tick)
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        # price = float(tick['Bid'])
+        btc_vals.append(vals[i] * price)
+        tot_btc_val += vals[i] * price
+
+    btc_vals.append(vals[-1])
+    goal_val = tot_btc_val / len(btc_vals) * 0.99
+    print("CRYPTOS, BTC_VALS", cryptos, btc_vals)
+    print("tot_btc_val:", tot_btc_val)
+    print("goal_val:", goal_val)
+    buys = [];
+    sells = [];
+    buy_vals = [];
+    sell_vals = [];
+    for i in range(len(btc_vals) - 1):
+        if btc_vals[i] > goal_val:
+            sells.append(cryptos[i])
+            sell_vals.append(btc_vals[i] - goal_val)
+            # auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
+
+    for i in range(len(btc_vals) - 1):
+        if btc_vals[i] < goal_val:
+            buys.append(cryptos[i])
+            buy_vals.append(goal_val - btc_vals[i])
+            # auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
+
+    indx = 0
+    Parallel(n_jobs=8, verbose=10)(delayed(auto_ask)
+                                   (sells[indx], sell_vals[indx])
+                                   for indx in range(len(sells)))
+    indx = 0
+    Parallel(n_jobs=8, verbose=10)(delayed(auto_bid)
+                                   (buys[indx], buy_vals[indx])
+                                   for indx in range(len(buys)))
+
+cryptos = ['ANS', 'GNT', 'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'SJCX', 'XRP', 'LTC', 'ETH']
+rebalence(cryptos)
+
+
+# pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
+#
+# for i in range(len(cryptos)):
+#     pairs.append('BTC-' + cryptos[i])
+#
+# cryptos.append('BTC')
+#
+# bals = b.get_balances()
+# print("bals:", bals)
+#
+# for k in range(len(cryptos)):
+#     for i in range(len(bals['result'])):
+#         if cryptos[k] in bals['result'][i]['Currency']:
+#             print("found:", bals['result'][i])
+#             vals.append(float(bals['result'][i]['Available']))
+#
+#
+# tot_btc_val += vals[-1]
+# print(cryptos, vals)
+#
+# for i in range(len(vals) -1):
+#     tick = b.get_ticker(pairs[i])
+#     tick = tick['result']
+#     #print(pairs[i], "ticker response ['result']:", tick)
+#     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+#     #price = float(tick['Bid'])
+#     btc_vals.append(vals[i] * price)
+#     tot_btc_val += vals[i] * price
+#
+# btc_vals.append(vals[-1])
+# goal_val = tot_btc_val/len(btc_vals)
+# print("CRYPTOS, BTC_VALS", cryptos, btc_vals)
+# print("tot_btc_val:", tot_btc_val)
+# print("goal_val:", goal_val)
+#
+# for i in range(len(btc_vals) -1):
+#     if btc_vals[i] > goal_val:
+#         my_sell(pairs[i], btc_vals[i] - goal_val, 'mid')
+#
+# for i in range(len(btc_vals) - 1):
+#     if btc_vals[i] < goal_val:
+#         my_buy(pairs[i], goal_val - btc_vals[i], 'mid')
