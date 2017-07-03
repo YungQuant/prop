@@ -255,7 +255,7 @@ def create_orderbook_training_set(buy_arr, sell_arr, lookback):
     return np.array(x), np.array(y)
 
 def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
-    lookback *= 200
+    lookback *= 100
     x, y = [], []
     k = 2
     while k < (len(buy_arr) - lookback - 2):
@@ -441,27 +441,27 @@ fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_buy_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/books/" + tick + "_sell_books.txt")
-    fileTicker.append("../../../../../Desktop/comp/scraperOutputs/HD_60x100_outputs_5,21,17/prices/" + tick + "_prices.txt")
-    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_5.21.17_1dx0.8_1intervalPred_output.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_buy_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/books/" + tick + "_sell_books.txt")
+    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileOutput.append("../../output/" + tick + "_mltf2_tanhEdition_6.23.17_0.8:_1intervalPred_output.txt")
 
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing:", file)
 
 
-#opts = ['Adam', 'Adamax', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
-opts = ['adam', 'Adamax']
+opts = ['Adam', 'Adamax', 'Adadelta', 'RMSprop', 'Adagrad', 'Nadam']
+#opts = ['adam', 'Adamax']
 #errs = ['mean_absolute_error', 'mean_squared_error', 'mean_absolute_percentage_error']
 errs = ['binary_crossentropy']
-nins = np.arange(2, 10, step=2)
+nins = np.arange(1, 5, step=2)
 #nins = [1, 5, 10]
 #batchs = np.arange(5, 50, step=5)
 #epoch_scalars = [10, 20, 30]
-epoch_scalars = [10]
+epoch_scalars = [10, 20]
 batchs = [10]
-drops = [0.2, 0.4]
+drops = [0.2, 0.4, 0.6]
 
 #nins = [300]; batchs = [50]; epochs = [100];
 

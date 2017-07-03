@@ -218,7 +218,7 @@ def write_that_shit(log, tick, kin, din, fin, perc, cuml, bitchCunt):
     # print(cuml[j])
 
 
-def fucking_paul(tik, log, Kin, Din, Fin, save_max, max_len, bitchCunt, tradeCost):
+def fucking_paul(tik, log, Kin, Din, Fin, buff, save_max, max_len, bitchCunt, tradeCost):
     stock = []
     with open(tik, 'r') as f:
         stock1 = f.readlines()
@@ -226,7 +226,7 @@ def fucking_paul(tik, log, Kin, Din, Fin, save_max, max_len, bitchCunt, tradeCos
     #REMOVE INT(NP.FLOOR(LEN(STOCK1)/2)) FOR REAL RUNS
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
     #28880 = 100 day lookback
-    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .7)):]):
+    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .8)):]):
     #for i, stocks in enumerate(stock1):
         stock.append(float(stocks))
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
@@ -239,12 +239,12 @@ def fucking_paul(tik, log, Kin, Din, Fin, save_max, max_len, bitchCunt, tradeCos
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i > max([Kin, Din]):
-            pos = BBmomma(arr, Kin)
-            if ((pos < Din) and (stockBought == False and stopLoss == False)):
+            roc = ((closeData - stock[i - Kin]) / stock[i - Kin]) / Kin
+            if ((roc > Din) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
                 bull += 1
                 stockBought = True
-            elif (pos > Fin) and stockBought == True:
+            elif (roc < Fin) and stockBought == True:
                 sell.append(closeData * (1 - tradeCost))
                 maxP = 0
                 shit += 1
@@ -259,7 +259,7 @@ def fucking_paul(tik, log, Kin, Din, Fin, save_max, max_len, bitchCunt, tradeCos
                 shit += 1
                 stockBought = False
                 stopLoss = True
-            elif ((pos > Fin) and stopLoss == True):
+            elif ((roc < Fin) and stopLoss == True):
                 stopLoss = False
     if stockBought == True:
         sell.append(stock[len(stock) - 1])
@@ -288,10 +288,10 @@ def fucking_paul(tik, log, Kin, Din, Fin, save_max, max_len, bitchCunt, tradeCos
         # plot(cumld)
     return cuml
 
-def pillowcaseAssassination(fileTicker, k, i, d, fileOutput, save_max, max_len, bitchCunt, tradeCost):
+def pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max, max_len, bitchCunt, tradeCost):
     n_proc = 8; verbOS = 0; inc = 0
     Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(fucking_paul)
-            (fileTicker[inc], fileOutput[inc], k, i, d, save_max, max_len, bitchCunt, tradeCost)
+            (fileTicker[inc], fileOutput[inc], k, i, d, s, save_max, max_len, bitchCunt, tradeCost)
             for inc, file in enumerate(fileTicker))
 
 
@@ -305,7 +305,7 @@ fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     #fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_cip1.2_7,3,17_output.txt")
+    fileOutput.append("../../output/" + tick + "_cip1.1.2_6,27,17_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     #fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
     fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
@@ -335,31 +335,31 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 4; k2 = 300
-    l1 = 0.01; l2 = 1.01
-    d1 = 0.01; d2 = 1.01
-    s1 = 2; s2 = 30
+    k1 = 2; k2 = 100
+    l1 = 0.0001; l2 = 0.03
+    d1 = -0.0001; d2 = -0.03
+    s1 = 0.0001; s2 = 0.05
     j1 = 0.01; j2 = 0.3
     k = k1; i = l1; j = j1; d = d1; s = s1
     returns = []
     while (k < k2):
         while (i < l2):
             while (j < j2):
-                while (d < d2):
-                    #while (s < s2):
-                    if i > 0:
-                        if d == d1: print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
-                        if i < d and d - i > 0.2: pillowcaseAssassination(fileTicker, k, i, d, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
-                        #     if (s < 10):
-                        #         s += 1
-                        #     else:
-                        #         s *= 1.3
-                        # s = s1
-                    d += 0.01
+                while (d > d2):
+                    while (s < s2):
+                        if i > 0:
+                            if d == d1:
+                                print("RATE-OF-CHANGE -or- CONSISTENT UNILATERAL PRESSURE MODEL")
+                                print("To-Do: implement dynamic i,d and buff values based on avg % change slope")
+                                print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
+                            pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
+                        s += 1
+                    s = s1
+                    d -= 0.0005
                 d = d1
                 j += 0.01
             j = j1
-            i += 0.01
+            i += 0.0005
         i = l1
         if (k < 10):
             k += 1
