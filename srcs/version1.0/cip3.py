@@ -177,7 +177,7 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def write_that_shit(log, tick, kin, din, fin, perc, cuml, bitchCunt):
+def write_that_shit(log, tick, kin, din, fin, buff, perc, cuml, bitchCunt):
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -186,13 +186,13 @@ def write_that_shit(log, tick, kin, din, fin, perc, cuml, bitchCunt):
     file.write("Tick:\t")
     file.write(tick)
     file.write("\nK in:\t")
-    file.write(str(int(np.floor(kin))))
+    file.write(str(kin))
     file.write("\nD in:\t")
     file.write(str(din))
     file.write("\nF in:\t")
-    file.write(str(int(np.floor(fin))))
-    # file.write("\nD1 in:\t")
-    # file.write(str(int(np.floor(din1))))
+    file.write(str(fin))
+    file.write("\nBuff:\t")
+    file.write(str(buff))
     # file.write("\nK2 in:\t")
     # file.write(str(int(np.floor(kin2))))
     # file.write("\nD2 in:\t")
@@ -205,7 +205,7 @@ def write_that_shit(log, tick, kin, din, fin, perc, cuml, bitchCunt):
         desc = sp.describe(perc)
         file.write("\n\nDescribed Diff:\n")
         file.write(str(desc))
-    file.write("\n\n [BBbreak/cip1.1.2, static bitchcunt distance] Cumulative Diff:\t")
+    file.write("\n\n [cip1.3, no buff] Cumulative Diff:\t")
     file.write(str(cuml))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
@@ -238,7 +238,7 @@ def fucking_paul(tik, log, Kin, Din, Fin, buff, save_max, max_len, bitchCunt, tr
 
     for i, closeData in enumerate(stock):
         arr.append(closeData)
-        if i > max([Kin, Din]):
+        if i > Kin:
             roc = ((closeData - stock[i - Kin]) / stock[i - Kin]) / Kin
             if ((roc > Din) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
@@ -277,11 +277,11 @@ def fucking_paul(tik, log, Kin, Din, Fin, buff, save_max, max_len, bitchCunt, tr
         cumld.append(cuml)
 
     if cuml > save_max and len(perc) <= max_len and len(perc) > 1:
-        write_that_shit(log, tik, Kin, Din, Fin, perc, cuml, bitchCunt)
+        write_that_shit(log, tik, Kin, Din, Fin, buff, perc, cuml, bitchCunt)
         print(tik)
         print("len:", len(perc), "cuml:", cuml)
         print("bitchCunt:", bitchCunt)
-        print("Kin:", Kin, "Din:", Din)
+        print("Kin:", Kin, "Din:", Din, "Fin:", Fin, "Buff:", buff)
         print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
         #DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
         # plot(perc)
@@ -305,7 +305,7 @@ fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     #fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_cip1.1.2_6,27,17_output.txt")
+    fileOutput.append("../../output/" + tick + "_cip3_7,5,17_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     #fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
     fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
@@ -335,9 +335,9 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 2; k2 = 100
+    k1 = 3; k2 = 100
     l1 = 0.0001; l2 = 0.03
-    d1 = -0.0001; d2 = -0.03
+    d1 = 0.005; d2 = -0.03
     s1 = 0.0001; s2 = 0.05
     j1 = 0.01; j2 = 0.3
     k = k1; i = l1; j = j1; d = d1; s = s1
@@ -352,14 +352,14 @@ def run():
                                 print("RATE-OF-CHANGE -or- CONSISTENT UNILATERAL PRESSURE MODEL")
                                 print("To-Do: implement dynamic i,d and buff values based on avg % change slope")
                                 print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
-                            pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
+                            if i > d: pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
                         s += 1
                     s = s1
-                    d -= 0.0005
+                    d -= 0.002
                 d = d1
-                j += 0.01
+                j += 0.02
             j = j1
-            i += 0.0005
+            i += 0.002
         i = l1
         if (k < 10):
             k += 1
