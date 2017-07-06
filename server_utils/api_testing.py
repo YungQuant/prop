@@ -351,7 +351,7 @@ def auto_bid(ticker, amount):
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         bal = float(b.get_balance(ticker)['result']['Balance'])
         clear_orders('BTC-' + ticker)
-        my_buy('BTC-' + ticker, amount, type='bid')
+        my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
         time_cnt += 1
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal)
@@ -361,6 +361,7 @@ def auto_bid(ticker, amount):
 # ticker = "XRP"
 # print(b.get_balance(ticker)['result']['Balance'])
 # print(b.get_open_orders("BTC_XRP"))
-auto_bid("QRL", 0.13)
+#auto_bid("DOGE", 0.078)
+my_sell("BTC-DOGE", 0.1, "bid")
 
 
