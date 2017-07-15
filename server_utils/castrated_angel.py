@@ -292,7 +292,7 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
-        cryptos = ['ANS', 'GNT', 'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+        cryptos = ['ANS', 'GNT', 'QRL', 'XMR', 'XEM', 'DASH', 'MAID', 'XRP', 'LTC', 'ETH']
         REBAL_TOL = 0.053
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
@@ -320,10 +320,10 @@ while(1):
             tot_btc_val += vals[i] * price
 
         btc_vals.append(vals[-1])
-        #print(vals)
+        print("Hyper-Reticulent Zeta:", np.mean(btc_vals) * REBAL_TOL)
         if np.var(btc_vals) > np.mean(btc_vals) * REBAL_TOL:
             for i in range(20): print("NEEDS REBALANCING")
-            rebalence(cryptos)
+            #rebalence(cryptos)
 
         print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
@@ -334,11 +334,11 @@ while(1):
         print("BTC VALS:", btc_vals)
         print("\n")
 
-        if time_cnt % 60 == 0:
-            file = open("hist_btc_val.txt", 'a')
-            file.write(str(tot_btc_val))
-            file.write("\n")
-            file.close()
+        #if time_cnt % 60 == 0:
+            #file = open("hist_btc_val.txt", 'a')
+            #file.write(str(tot_btc_val))
+            #file.write("\n")
+            #file.close()
 
     except:
         for i in range(10):
