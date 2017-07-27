@@ -177,7 +177,7 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
-def write_that_shit(log, tick, kin, din, fin, buff, perc, cuml, bitchCunt):
+def write_that_shit(log, tick, kin, din, fin, buff, perc, cuml, bitchCunt, bah):
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -207,6 +207,8 @@ def write_that_shit(log, tick, kin, din, fin, buff, perc, cuml, bitchCunt):
         file.write(str(desc))
     file.write("\n\n [cip1.3, no buff] Cumulative Diff:\t")
     file.write(str(cuml))
+    file.write("\nBAH:")
+    file.write(str(bah))
     file.write("\nbitchCunt:\t")
     file.write(str(bitchCunt))
     file.write("\n\n")
@@ -219,16 +221,19 @@ def write_that_shit(log, tick, kin, din, fin, buff, perc, cuml, bitchCunt):
 
 
 def fucking_paul(tik, log, Kin, Din, Fin, buff, save_max, max_len, bitchCunt, tradeCost):
-    stock = []
+    stock = []; k = 69;
     with open(tik, 'r') as f:
         stock1 = f.readlines()
     f.close()
     #REMOVE INT(NP.FLOOR(LEN(STOCK1)/2)) FOR REAL RUNS
     #ARRAY SHORTENED FOR QUICK PROTOTYPING/RESEARCHING PURPOSES
     #28880 = 100 day lookback
-    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * .8)):]):
+    for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
     #for i, stocks in enumerate(stock1):
-        stock.append(float(stocks))
+        try:
+            stock.append(float(stocks))
+        except:
+            k += 1
     arr = []; buy = []; sell = [];  diff = []; perc = []; desc = []
     kar = []; dar = []; cumld = []; kar1 = []; dar1 = []; Kvl = np.zeros(2)
     Dvl = Kvl; s1ar = []; s2ar = []; shortDiff = []; cuml = 1.0
@@ -239,12 +244,12 @@ def fucking_paul(tik, log, Kin, Din, Fin, buff, save_max, max_len, bitchCunt, tr
     for i, closeData in enumerate(stock):
         arr.append(closeData)
         if i > Kin:
-            roc = ((closeData - stock[i - Kin]) / stock[i - Kin]) / Kin
-            if ((roc > Din) and (stockBought == False and stopLoss == False)):
+            roc = ((closeData - stock[i - int(Kin)]) / stock[i - int(Kin)]) / Kin
+            if ((roc > Din - buff) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
                 bull += 1
                 stockBought = True
-            elif (roc < Fin) and stockBought == True:
+            elif (roc < Fin + buff) and stockBought == True:
                 sell.append(closeData * (1 - tradeCost))
                 maxP = 0
                 shit += 1
@@ -276,10 +281,11 @@ def fucking_paul(tik, log, Kin, Din, Fin, buff, save_max, max_len, bitchCunt, tr
         cuml += cuml * perc[i]
         cumld.append(cuml)
 
-    if cuml > save_max and len(perc) <= max_len and len(perc) > 1:
-        write_that_shit(log, tik, Kin, Din, Fin, buff, perc, cuml, bitchCunt)
+    if cuml > 1 + ((stock[-1] - stock[0]) / stock[0]) and len(perc) <= max_len and len(perc) > 1:
+        write_that_shit(log, tik, Kin, Din, Fin, buff, perc, cuml, bitchCunt, 1 + ((stock[-1] - stock[0]) / stock[0]))
         print(tik)
         print("len:", len(perc), "cuml:", cuml)
+        print("BAH:", 1 + (stock[-1] - stock[0]) / stock[0])
         print("bitchCunt:", bitchCunt)
         print("Kin:", Kin, "Din:", Din, "Fin:", Fin, "Buff:", buff)
         print("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n")
@@ -305,10 +311,11 @@ fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
     #fileTicker.append("../../data/" + tick + ".txt")
-    fileOutput.append("../../output/" + tick + "_cip3_7,5,17_output.txt")
+    fileOutput.append("../../output/" + tick + "_cip3_cluster_compData_7,17,17_output.txt")
     # fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
     #fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_cip1.1.2L.S.50.50_output.txt")
-    fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
+    #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs/prices/" + tick + "_prices.txt")
+    fileTicker.append("../../../../../Desktop/cluster_comp_prices_0/" + tick + "_prices.txt")
 for i, file in enumerate(fileTicker):
     if (os.path.isfile(file) == False):
         print("missing file:", file)
@@ -335,25 +342,25 @@ for i, file in enumerate(fileTicker):
 
 
 def run():
-    k1 = 3; k2 = 100
-    l1 = 0.0001; l2 = 0.03
-    d1 = 0.005; d2 = -0.03
-    s1 = 0.0001; s2 = 0.05
+    k1 = 1; k2 = 50
+    l1 = 0.0001; l2 = 0.1
+    d1 = 0.02; d2 = -0.1
+    s1 = 0.0001; s2 = 0.02
     j1 = 0.01; j2 = 0.3
     k = k1; i = l1; j = j1; d = d1; s = s1
     returns = []
     while (k < k2):
-        while (i < l2):
+        while (i < (k / 100) + 0.01):
             while (j < j2):
-                while (d > d2):
+                while (d > (k / 100) * -1):
                     while (s < s2):
                         if i > 0:
                             if d == d1:
                                 print("RATE-OF-CHANGE -or- CONSISTENT UNILATERAL PRESSURE MODEL")
                                 print("To-Do: implement dynamic i,d and buff values based on avg % change slope")
-                                print(i, "/", l2, int(np.floor(k)), "/", k2, j, "/", j2)
-                            if i > d: pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.005)
-                        s += 1
+                                print(i, "/", k / 100, int(np.floor(k)), "/", k2, j, "/", j2)
+                            pillowcaseAssassination(fileTicker, k, i, d, s, fileOutput, save_max=1.01, max_len=3000000, bitchCunt=j, tradeCost=0.0025)
+                        s += 0.002
                     s = s1
                     d -= 0.002
                 d = d1

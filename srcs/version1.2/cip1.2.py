@@ -276,7 +276,7 @@ def fucking_paul(tik, log, Kin, Din, Fin, save_max, max_len, bitchCunt, tradeCos
         cuml += cuml * perc[i]
         cumld.append(cuml)
 
-    if cuml > save_max and len(perc) <= max_len and len(perc) > 1:
+    if cuml > 1 + ((stock[-1] - stock[0]) / stock[0]) and len(perc) <= max_len and len(perc) > 1:
         write_that_shit(log, tik, Kin, Din, Fin, perc, cuml, bitchCunt)
         print(tik)
         print("len:", len(perc), "cuml:", cuml)

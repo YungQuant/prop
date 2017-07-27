@@ -58,7 +58,7 @@ def getNum(str):
 def CryptoQuote1(the_symbol):
     class ohlcvObj():
         open, high, low, close, volume = [], [], [], [], []
-    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=86400".format(the_symbol)
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     print(the_symbol, response[0:10])
     for i, curr in enumerate(response):
@@ -84,7 +84,7 @@ def sparsenPriceData(data, divisor=10):
     return sparse_data
 
 def write_that_shit(results, k, l):
-    log = "../../output/PAMRtest2_v2_tC_dailyPoloDataX0.5:_output.txt"
+    log = "../../output/unboundedPAMRtest2_v2_tC_cluster_compData7,17,17_output.txt"
     if os.path.isfile(log):
         th = 'a'
     else:
@@ -219,7 +219,8 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
-            #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt")
+            #fileTicker.append("../../../../../Desktop/comp/HD_60x100_outputs2/prices/" + tick + "_prices.txt")
+            #fileTicker.append("../../../../../Desktop/cluster_comp_prices_0/" + tick + "_prices.txt")
             fileOutput.append("../../output/" + tick + "envTest1_output.txt")
         elif len(tick) > 9:
             fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
@@ -227,15 +228,16 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
 
     for i, file in enumerate(fileTicker):
         if (os.path.isfile(file) == False):
-            fileWrite = open(file, 'w')
-            if len(ticker[i]) < 9:
-                dataset = CryptoQuote1(ticker[i]).close
-            elif len(ticker[i]) > 9:
-                data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
-                data = np.array(data)
-                for i in range(len(data)):
-                    if float(data[i][-6:]) > 0:
-                        dataset.append(float(data[i][-6:]))
+            print("missing:", file)
+            # fileWrite = open(file, 'w')
+            # if len(ticker[i]) < 9:
+            #     dataset = CryptoQuote1(ticker[i]).close
+            # elif len(ticker[i]) > 9:
+            #     data = quandl.get(ticker[i], column_index=4, exclude_column_names=True)
+            #     data = np.array(data)
+            #     for i in range(len(data)):
+            #         if float(data[i][-6:]) > 0:
+            #             dataset.append(float(data[i][-6:]))
 
             # tick = yahoo_finance.Share(ticker[i]).get_historical('2015-01-02', '2017-01-01')
             # dataset = np.zeros(len(tick))
@@ -245,9 +247,9 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
             #     dataset[ik] = tick[i]['Close']
             #     i -= 1
             #     ik += 1
-            for l, close in enumerate(dataset):
-                fileWrite.write(str(close))
-                fileWrite.write('\n')
+            # for l, close in enumerate(dataset):
+            #     fileWrite.write(str(close))
+            #     fileWrite.write('\n')
 
     cumulative_prices = []; cumulative_diffs = [];
     for y in range(len(fileTicker)):
@@ -255,14 +257,18 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.1)):]):
-            stock.append(float(stocks))
+        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.)):]):
+        for i, stocks in enumerate(stock1[-120:]):
+            try:
+                stock.append(float(stocks))
+            except:
+                print("ur", fileTicker[y][-16:], "data is fucked bro")
+        #plot(stock)
         #stock = sparsenPriceData(stock, 100)
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
         cumulative_diffs.append(diffs)
         cumulative_prices.append(stock)
-
     avg_diffs = []; allocs = []; cumld = []; bitchCunts = [];
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
@@ -292,17 +298,18 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
 
     return cumld[-1]
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
-#ticker = ["BTC-ETH", "BTC-XMR", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC"]
-k1 = 400; k2 = 600; k = k1; l1 = 0.1; l2 = 0.9; l = l1; results = [];
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+#ticker = ["BTC-ETH", "BTC-XEM", "BTC-XMR", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC"]
+#k1 = 400; k2 = 600; k = k1; l1 = 0.1; l2 = 0.9; l = l1; results = [];
+k1 = 1; k2 = 1200; k = k1; l1 = 0.01; l2 = 2; l = l1; results = [];
 while k < k2:
     while l < l2:
         results.append(global_warming(ticker, 1, C=int(np.floor(k)), epsilon=l, plt_bool=False))
         if results[-1] > np.mean(results) or len(results) % 10 == 0:
             if results[-1] > np.mean(results) and results[-1] > 1:
                 #global_warming(ticker, 1, C=int(np.floor(k)), epsilon=l,plt_bool=True)
-                write_that_shit(results[-1], int(np.floor(k)), l)
-                for i in range(5):
+                #write_that_shit(results[-1], int(np.floor(k)), l)
+                for i in range(2):
                     print("$$$$$$$$$$$$$$$$$")
             print("C:", k, "epsilon:", l, "result:", results[-1])
         l += 0.1

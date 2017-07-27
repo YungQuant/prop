@@ -1,0 +1,4830 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9984639614800768
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0061247391932078
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0028684838236361
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9882214482778577
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9958036396624951
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9932677138230084
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9791693907005845
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9866821296025874
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9819544871692701
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9658377204969244
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9732481713185206
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9684247590771393
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9583162840136878
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9656690261395229
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.959711486617379
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9468583647781149
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9541231952960151
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9519886135750657
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9434707710951133
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9389831119921949
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0023306695058067
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.004482205839693
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9920484905674863
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9941779558600982
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9829613774799156
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.985071336980105
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9695780782959802
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9716593100964817
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9620275138722904
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9640925381335105
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9505252220504493
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9525655562572487
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9399129678584774
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9419305225064216
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9926865981739698
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.983810026798145
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9740577342966795
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.964510165492764
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9511366209690624
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9405175407396678
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019024088597246
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0070513908324263
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.002969868787112
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.991624623134871
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.996720785458724
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.993368128196889
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825413926511557
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9875908743905517
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820537578327944
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691638116803106
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9741445432873104
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685226619531514
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616164733472681
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9665584176345897
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598085086253367
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950119096050221
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9550019529574622
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520848548393727
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395113761012639
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9443397177600081
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390780384656552
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9964083347023087
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9968270663477018
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9861869086752131
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9866013448582044
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9771534873759304
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9775641273448272
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9638492642703332
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9642543132590689
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9563433128389751
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9567452075190969
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9449089830432886
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	2
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9453060725491033
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019024088597246
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0070513908324263
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.002969868787112
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.991624623134871
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.996720785458724
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.993368128196889
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825413926511557
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9875908743905517
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820537578327944
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691638116803106
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9741445432873104
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685226619531514
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616164733472681
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9665584176345897
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598085086253367
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950119096050221
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9550019529574622
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520848548393727
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395113761012639
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9443397177600081
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	3
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390780384656552
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019024088597246
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0070513908324263
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.002969868787112
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.991624623134871
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.996720785458724
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.993368128196889
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825413926511557
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9875908743905517
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820537578327944
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691638116803106
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9741445432873104
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685226619531514
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616164733472681
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9665584176345897
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598085086253367
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950119096050221
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9550019529574622
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520848548393727
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395113761012639
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9443397177600081
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	4
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390780384656552
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019024088597246
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0070513908324263
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.002969868787112
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.991624623134871
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.996720785458724
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.993368128196889
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825413926511557
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9875908743905517
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820537578327944
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691638116803106
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9741445432873104
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685226619531514
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616164733472681
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9665584176345897
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598085086253367
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950119096050221
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9550019529574622
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520848548393727
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395113761012639
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9443397177600081
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390780384656552
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9724649768751503
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9776815921911354
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.981487689560114
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9870039359012877
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9583563039362921
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9634972357869687
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9672481137041117
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9726843294865213
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9488892801455826
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9539794278318133
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9576932530887592
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9630757677748936
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.940560735120808
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9456062058093377
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9492874342591389
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9546227057981033
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9378558647533994
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9415069212607835
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9467984640532582
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	5
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019024088597246
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0070503969892117
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.002969868787112
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.991624623134871
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9967198018106218
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.993368128196889
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825413926511557
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9875898997526155
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820537578327944
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691638116803106
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9741435819193472
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685226619531514
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616164733472681
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.966557463753255
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598085086253367
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950119096050221
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.955001010481021
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520848548393727
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395113761012639
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9443387858059596
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390780384656552
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9724649768751503
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9776815921911354
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.981487689560114
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9870039359012877
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9583563039362921
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9634972357869687
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9672481137041117
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9726843294865213
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9488892801455826
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9539794278318133
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9576932530887592
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9630757677748936
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.940560735120808
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9456062058093377
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9492874342591389
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9546227057981033
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9378558647533994
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9415069212607835
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9467984640532582
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.08
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.09
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.09999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.10999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.11999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.12999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.13999999999999999
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.16
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.17
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.18000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.19000000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.20000000000000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.21000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.22000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.23000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.24000000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.25000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.26000000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.2700000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.2800000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9697170872759343
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9749189620271579
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9787143045251412
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	6
+D in:	0.0021
+F in:	0.025
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9842149636356092
+BAH:0.9376499238843161
+bitchCunt:	0.2900000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019024088597246
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.006121267149053
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.002969868787112
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.991624623134871
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9958002032355076
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.993368128196889
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825413926511557
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.986678724653094
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820537578327944
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691638116803106
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9732448127283846
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685226619531514
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616164733472681
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9656656937043215
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598085086253367
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950119096050221
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9541199027044166
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520848548393727
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395113761012639
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9434675152640533
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	7
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390780384656552
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019019071558388
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0061217553422424
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0029693665486945
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9916241265775994
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9958006864206793
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9933676307665552
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825409006423231
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9866792034123145
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820532660681456
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691633263703184
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.973245284969162
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685221769642159
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616159918166151
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.965666162267536
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598080280000244
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950118620276894
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9541203656653475
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520843780816897
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395109056397659
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9434679730562007
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	8
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390775682211517
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019019071558388
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0061242353749849
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0029693665486945
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9916241265775994
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9958031410125757
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9933676307665552
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825409006423231
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9866816355202755
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820532660681456
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691633263703184
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9732476839632802
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685221769642159
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616159918166151
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9656685425795489
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598080280000244
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950118620276894
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9541227175176304
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520843780816897
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395109056397659
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9434702986509435
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	9
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390775682211517
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0019019071558388
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0061242353749849
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0029693665486945
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9916241265775994
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9958031410125757
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9933676307665552
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9825409006423231
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9866816355202755
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9820532660681456
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9691633263703184
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9732476839632802
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9685221769642159
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9616159918166151
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9656685425795489
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9598080280000244
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.950118620276894
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9541227175176304
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9520843780816897
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9395109056397659
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9434702986509435
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	10
+D in:	0.0001
+F in:	0.02
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9390775682211517
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0009978934236368
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.005215916608996
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9907293864626175
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9949041400260072
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9816543563007195
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9857908693364495
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9682888525824876
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9723690458148116
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9607483279709845
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9647967468031324
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9492613304825374
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9532613451951014
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9386631871613542
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	12.0
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9426185432242405
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0009978934236368
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0047158976542343
+BAH:0.9376499238843161
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9907293864626175
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9944092504008389
+BAH:0.9376499238843161
+bitchCunt:	0.02
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9816543563007195
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9853005128747632
+BAH:0.9376499238843161
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9682888525824876
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9718853656960457
+BAH:0.9376499238843161
+bitchCunt:	0.04
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9607483279709845
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9643168333308892
+BAH:0.9376499238843161
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9492613304825374
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9527871697134327
+BAH:0.9376499238843161
+bitchCunt:	0.060000000000000005
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.01
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9386631871613542
+BAH:0.9376499238843161
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-XMR_prices.txt
+K in:	14.399999999999999
+D in:	0.0001
+F in:	0.015
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9421496617322802
+BAH:0.9376499238843161
+bitchCunt:	0.07
+

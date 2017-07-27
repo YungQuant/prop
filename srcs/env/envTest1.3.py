@@ -70,6 +70,12 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
+def squash(allocs, cuml):
+    new_allocs = []
+    for i in range(len(allocs)):
+        new_allocs.append(allocs[i] / cuml)
+    return new_allocs
+
 def write_that_shit(log, k, rebalsss, result, mdd):
     if os.path.isfile(log):
         th = 'a'
@@ -96,11 +102,13 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
+            #fileTicker.append("../../../../../Desktop/cluster_comp_prices_0/" + tick + "_prices.txt")
         elif len(tick) > 9:
             fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
 
     for i, file in enumerate(fileTicker):
         if (os.path.isfile(file) == False):
+            print("missing", file)
             fileWrite = open(file, 'w')
             if len(ticker[i]) < 9:
                 dataset = CryptoQuote1(ticker[i]).close
@@ -125,17 +133,21 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
     cumulative_diffs = []; cumulative_prices = [];
     for y in range(len(fileTicker)):
-        stock = []; diffs = [];
+        stock = []; diffs = []; k = 69;
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.1)):]):
-            stock.append(float(stocks))
+        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.1)):]):
+        for i, stocks in enumerate(stock1[-120:]):
+            try:
+                stock.append(float(stocks))
+            except:
+                #print("ur", fileTicker[y], "data is fucked bro")
+                k += 1
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
         cumulative_diffs.append(diffs)
         cumulative_prices.append(stock)
-
     avg_diffs = []; allocs = []; cumld = []; dd = 0; mdd = 0;
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
@@ -143,10 +155,11 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 1)) for f in range(len(cumulative_diffs))])):
         prices = [cumulative_prices[y][n] for y in range(len(cumulative_prices))]
         diffs = [cumulative_diffs[x][n] for x in range(len(cumulative_diffs))]
-        for g in range(len(allocs)):
+        #VVVVVV NORMALLY FOR G IN RANGE(LEN(ALLOCS)) WITHOUT -1, -1 ADDED IN DEBUGGING 7,17,2017
+        for g in range(len(allocs) - 1):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        if np.var(allocs) > np.mean(allocs) * rebal_tol:
+        if np.var(allocs, cuml) > np.mean(allocs, cuml) * rebal_tol:
         #STILL NEEDS NP.VAR AND SP.KURTOSIS TESTING
             rebalsss += 1
             for m in range(len(allocs)):
@@ -167,18 +180,19 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
     return cuml, rebalsss, mdd
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
-k1 = 0.001; k2 = 5; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_GNT", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+#ticker = ["BTC-ETH", "BTC-XEM", "BTC-XMR", "BTC-STORJ", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC", "BTC-QRL", "BTC-GNT"]
+k1 = 0.001; k2 = 1; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
 while k < k2:
     result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=False)
     results.append(result)
     drawdowns.append(mdd)
     tols.append(k)
     rebals.append(rebalsss)
-    k += 0.001
+    k += 0.0001
     if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results):
         #global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True)
-        write_that_shit("../../output/envTest1.3_varEdition_dailyPoloDataX0.5:_output_6,30,17.txt", k, rebalsss, results[-1], mdd)
+        write_that_shit("../../output/envTest1.3_varEdition_poloData_output_7,26,17.txt", k, rebalsss, results[-1], mdd)
 
     print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
 
