@@ -70,6 +70,12 @@ def CryptoQuote1(the_symbol):
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
 
+def squash(allocs, cuml):
+    new_allocs = []
+    for i in range(len(allocs)):
+        new_allocs.append(allocs[i] / cuml)
+    return new_allocs
+
 def write_that_shit(log, k, rebalsss, result, mdd):
     if os.path.isfile(log):
         th = 'a'
@@ -129,8 +135,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(len(stock1) * 0.8):]):
-        #for i, stocks in enumerate(stock1[-150:]):
+        #for i, stocks in enumerate(stock1[int(len(stock1) * 0.8):]):
+        for i, stocks in enumerate(stock1[-150:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -147,7 +153,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         for g in range(len(allocs)):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
-        if np.var(allocs) > np.mean(allocs) * rebal_tol:
+        if np.var(allocs, cuml) > np.mean(allocs, cuml) * rebal_tol:
         #STILL NEEDS NP.VAR AND SP.KURTOSIS TESTING
             rebalsss += 1
             cumld.append(0)

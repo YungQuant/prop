@@ -6005,3 +6005,753 @@ Len:	3
  [cip1.3, no buff] Cumulative Diff:	1.0361205749234663
 bitchCunt:	0.29
 
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.09000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.11000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.13
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.16999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.18999999999999997
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.20999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.22999999999999995
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.24999999999999994
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.26999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	7
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	3
+
+ [cip1.3, no buff] Cumulative Diff:	1.0244854803230072
+bitchCunt:	0.29
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0177852382057127
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0437687911493703
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.09000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.11000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.13
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.16999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.18999999999999997
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.20999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.22999999999999995
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.24999999999999994
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.26999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.29
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0177852382057127
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0437687911493703
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.09000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.11000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.13
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.16999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.18999999999999997
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.20999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.22999999999999995
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.24999999999999994
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.26999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.29
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0177852382057127
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0437687911493703
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.09000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.11000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.13
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.16999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.18999999999999997
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.20999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.22999999999999995
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.24999999999999994
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.26999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0177852382057127
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0437687911493703
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0177852382057127
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0437687911493703
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.07
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.09000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.11000000000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.13
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.15
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.16999999999999998
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.18999999999999997
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.20999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.22999999999999995
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.24999999999999994
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.26999999999999996
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-MAID_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.003
+Buff:	0.0001
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0322220889432265
+bitchCunt:	0.29
+

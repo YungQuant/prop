@@ -33,7 +33,7 @@ with open("../../server_utils/hist_btc_val.txt") as file:
 file.close()
 
 for i in range(len(vals)):          #VVVVVVVVVVVVVVVVVVVVVVVV  <- REBALENCES TRIP DEPOSIT FILTER
-    if vals[i] - vals[i - 1] > 0.7 and i < 17500 or i > 19500:
+    if vals[i] - vals[i - 1] > 0.4 and i < 17500 or i > 19500:
         basis += vals[i] - vals[i - 1]
     adj_vals.append(vals[i] - basis)
 
@@ -50,6 +50,6 @@ while t < t2:
 
 plot(returns)
 print("MEAN RETURNS:", np.mean(returns))
-print("Profits last taken @ 6/17/17 ( 12169 )")
+print("Profits last taken @ 7/12/17 ( 39000 )")
 
 

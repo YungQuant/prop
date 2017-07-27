@@ -618,3 +618,1178 @@ C:	590
  Cumulative Diff:	18.8721929377
 epsilon:	0.8999999999999999
 C:	590
+
+
+ Cumulative Diff:	16.325251152
+epsilon:	0.2
+C:	400
+
+
+ Cumulative Diff:	19.0899854247
+epsilon:	0.30000000000000004
+C:	400
+
+
+ Cumulative Diff:	20.2429640105
+epsilon:	0.4
+C:	400
+
+
+ Cumulative Diff:	20.4618401883
+epsilon:	0.5
+C:	400
+
+
+ Cumulative Diff:	21.6259816156
+epsilon:	0.6
+C:	400
+
+
+ Cumulative Diff:	21.8474999796
+epsilon:	0.7
+C:	400
+
+
+ Cumulative Diff:	20.828150351
+epsilon:	0.7999999999999999
+C:	400
+
+
+ Cumulative Diff:	20.9533214013
+epsilon:	0.8999999999999999
+C:	400
+
+
+ Cumulative Diff:	19.0898809543
+epsilon:	0.30000000000000004
+C:	410
+
+
+ Cumulative Diff:	20.2422076698
+epsilon:	0.4
+C:	410
+
+
+ Cumulative Diff:	20.4616633882
+epsilon:	0.5
+C:	410
+
+
+ Cumulative Diff:	21.6264678858
+epsilon:	0.6
+C:	410
+
+
+ Cumulative Diff:	21.8480685788
+epsilon:	0.7
+C:	410
+
+
+ Cumulative Diff:	20.8280582651
+epsilon:	0.7999999999999999
+C:	410
+
+
+ Cumulative Diff:	20.953048063
+epsilon:	0.8999999999999999
+C:	410
+
+
+ Cumulative Diff:	19.0897823862
+epsilon:	0.30000000000000004
+C:	420
+
+
+ Cumulative Diff:	20.2414836109
+epsilon:	0.4
+C:	420
+
+
+ Cumulative Diff:	20.461523643
+epsilon:	0.5
+C:	420
+
+
+ Cumulative Diff:	21.6269309688
+epsilon:	0.6
+C:	420
+
+
+ Cumulative Diff:	21.8486108641
+epsilon:	0.7
+C:	420
+
+
+ Cumulative Diff:	20.8279716144
+epsilon:	0.7999999999999999
+C:	420
+
+
+ Cumulative Diff:	20.9527872859
+epsilon:	0.8999999999999999
+C:	420
+
+
+ Cumulative Diff:	19.0896892527
+epsilon:	0.30000000000000004
+C:	430
+
+
+ Cumulative Diff:	20.2407898117
+epsilon:	0.4
+C:	430
+
+
+ Cumulative Diff:	20.4614087304
+epsilon:	0.5
+C:	430
+
+
+ Cumulative Diff:	21.6273724833
+epsilon:	0.6
+C:	430
+
+
+ Cumulative Diff:	21.8491280264
+epsilon:	0.7
+C:	430
+
+
+ Cumulative Diff:	20.827893647
+epsilon:	0.7999999999999999
+C:	430
+
+
+ Cumulative Diff:	20.9525382234
+epsilon:	0.8999999999999999
+C:	430
+
+
+ Cumulative Diff:	19.0896011333
+epsilon:	0.30000000000000004
+C:	440
+
+
+ Cumulative Diff:	20.2401244154
+epsilon:	0.4
+C:	440
+
+
+ Cumulative Diff:	20.4612813801
+epsilon:	0.5
+C:	440
+
+
+ Cumulative Diff:	21.6278326883
+epsilon:	0.6
+C:	440
+
+
+ Cumulative Diff:	21.8496217715
+epsilon:	0.7
+C:	440
+
+
+ Cumulative Diff:	20.8278188075
+epsilon:	0.7999999999999999
+C:	440
+
+
+ Cumulative Diff:	20.9523001033
+epsilon:	0.8999999999999999
+C:	440
+
+
+ Cumulative Diff:	19.0895176483
+epsilon:	0.30000000000000004
+C:	450
+
+
+ Cumulative Diff:	20.239485714
+epsilon:	0.4
+C:	450
+
+
+ Cumulative Diff:	20.4611522504
+epsilon:	0.5
+C:	450
+
+
+ Cumulative Diff:	21.6282786125
+epsilon:	0.6
+C:	450
+
+
+ Cumulative Diff:	21.8500936544
+epsilon:	0.7
+C:	450
+
+
+ Cumulative Diff:	20.8277469131
+epsilon:	0.7999999999999999
+C:	450
+
+
+ Cumulative Diff:	20.9520722199
+epsilon:	0.8999999999999999
+C:	450
+
+
+ Cumulative Diff:	19.0894384548
+epsilon:	0.30000000000000004
+C:	460
+
+
+ Cumulative Diff:	20.2388721336
+epsilon:	0.4
+C:	460
+
+
+ Cumulative Diff:	20.4610273357
+epsilon:	0.5
+C:	460
+
+
+ Cumulative Diff:	21.6287051906
+epsilon:	0.6
+C:	460
+
+
+ Cumulative Diff:	21.8505450954
+epsilon:	0.7
+C:	460
+
+
+ Cumulative Diff:	20.827677795
+epsilon:	0.7999999999999999
+C:	460
+
+
+ Cumulative Diff:	20.951853927
+epsilon:	0.8999999999999999
+C:	460
+
+
+ Cumulative Diff:	19.089363242
+epsilon:	0.30000000000000004
+C:	470
+
+
+ Cumulative Diff:	20.2382822215
+epsilon:	0.4
+C:	470
+
+
+ Cumulative Diff:	20.4609064467
+epsilon:	0.5
+C:	470
+
+
+ Cumulative Diff:	21.6291136543
+epsilon:	0.6
+C:	470
+
+
+ Cumulative Diff:	21.8509774422
+epsilon:	0.7
+C:	470
+
+
+ Cumulative Diff:	20.827611297
+epsilon:	0.7999999999999999
+C:	470
+
+
+ Cumulative Diff:	20.9516446313
+epsilon:	0.8999999999999999
+C:	470
+
+
+ Cumulative Diff:	19.0892917275
+epsilon:	0.30000000000000004
+C:	480
+
+
+ Cumulative Diff:	20.2377146351
+epsilon:	0.4
+C:	480
+
+
+ Cumulative Diff:	20.4607894041
+epsilon:	0.5
+C:	480
+
+
+ Cumulative Diff:	21.6295051329
+epsilon:	0.6
+C:	480
+
+
+ Cumulative Diff:	21.8513919354
+epsilon:	0.7
+C:	480
+
+
+ Cumulative Diff:	20.8275472739
+epsilon:	0.7999999999999999
+C:	480
+
+
+ Cumulative Diff:	20.9514437879
+epsilon:	0.8999999999999999
+C:	480
+
+
+ Cumulative Diff:	19.0892236546
+epsilon:	0.30000000000000004
+C:	490
+
+
+ Cumulative Diff:	20.237168131
+epsilon:	0.4
+C:	490
+
+
+ Cumulative Diff:	20.4606760378
+epsilon:	0.5
+C:	490
+
+
+ Cumulative Diff:	21.6298806639
+epsilon:	0.6
+C:	490
+
+
+ Cumulative Diff:	21.8517895678
+epsilon:	0.7
+C:	490
+
+
+ Cumulative Diff:	20.8274855914
+epsilon:	0.7999999999999999
+C:	490
+
+
+ Cumulative Diff:	20.9512508948
+epsilon:	0.8999999999999999
+C:	490
+
+
+ Cumulative Diff:	19.0891587892
+epsilon:	0.30000000000000004
+C:	500
+
+
+ Cumulative Diff:	20.2366415567
+epsilon:	0.4
+C:	500
+
+
+ Cumulative Diff:	20.4605661868
+epsilon:	0.5
+C:	500
+
+
+ Cumulative Diff:	21.6302412018
+epsilon:	0.6
+C:	500
+
+
+ Cumulative Diff:	21.8521713474
+epsilon:	0.7
+C:	500
+
+
+ Cumulative Diff:	5.5566912021
+epsilon:	0.2
+C:	400
+
+
+ Cumulative Diff:	6.46194459827
+epsilon:	0.30000000000000004
+C:	400
+
+
+ Cumulative Diff:	6.15761877439
+epsilon:	0.4
+C:	400
+
+
+ Cumulative Diff:	6.37180662217
+epsilon:	0.5
+C:	400
+
+
+ Cumulative Diff:	6.3035630775
+epsilon:	0.6
+C:	400
+
+
+ Cumulative Diff:	6.17801613428
+epsilon:	0.7
+C:	400
+
+
+ Cumulative Diff:	6.06715188399
+epsilon:	0.7999999999999999
+C:	400
+
+
+ Cumulative Diff:	6.4618845724
+epsilon:	0.30000000000000004
+C:	410
+
+
+ Cumulative Diff:	6.15741423756
+epsilon:	0.4
+C:	410
+
+
+ Cumulative Diff:	6.37173568968
+epsilon:	0.5
+C:	410
+
+
+ Cumulative Diff:	6.30360147748
+epsilon:	0.6
+C:	410
+
+
+ Cumulative Diff:	6.17799448464
+epsilon:	0.7
+C:	410
+
+
+ Cumulative Diff:	6.06722394059
+epsilon:	0.7999999999999999
+C:	410
+
+
+ Cumulative Diff:	6.46182742856
+epsilon:	0.30000000000000004
+C:	420
+
+
+ Cumulative Diff:	6.15721734975
+epsilon:	0.4
+C:	420
+
+
+ Cumulative Diff:	6.37166809219
+epsilon:	0.5
+C:	420
+
+
+ Cumulative Diff:	6.30363804954
+epsilon:	0.6
+C:	420
+
+
+ Cumulative Diff:	6.17797384505
+epsilon:	0.7
+C:	420
+
+
+ Cumulative Diff:	6.06729258883
+epsilon:	0.7999999999999999
+C:	420
+
+
+ Cumulative Diff:	6.46177296497
+epsilon:	0.30000000000000004
+C:	430
+
+
+ Cumulative Diff:	6.15702926461
+epsilon:	0.4
+C:	430
+
+
+ Cumulative Diff:	6.3716035999
+epsilon:	0.5
+C:	430
+
+
+ Cumulative Diff:	6.30367292116
+epsilon:	0.6
+C:	430
+
+
+ Cumulative Diff:	6.17795414645
+epsilon:	0.7
+C:	430
+
+
+ Cumulative Diff:	6.06735806495
+epsilon:	0.7999999999999999
+C:	430
+
+
+ Cumulative Diff:	6.46172099818
+epsilon:	0.30000000000000004
+C:	440
+
+
+ Cumulative Diff:	6.15684940444
+epsilon:	0.4
+C:	440
+
+
+ Cumulative Diff:	6.37154200365
+epsilon:	0.5
+C:	440
+
+
+ Cumulative Diff:	6.30370620824
+epsilon:	0.6
+C:	440
+
+
+ Cumulative Diff:	6.17793532594
+epsilon:	0.7
+C:	440
+
+
+ Cumulative Diff:	6.06742058386
+epsilon:	0.7999999999999999
+C:	440
+
+
+ Cumulative Diff:	6.46167136105
+epsilon:	0.30000000000000004
+C:	450
+
+
+ Cumulative Diff:	6.15667724101
+epsilon:	0.4
+C:	450
+
+
+ Cumulative Diff:	6.37148311266
+epsilon:	0.5
+C:	450
+
+
+ Cumulative Diff:	6.30373801637
+epsilon:	0.6
+C:	450
+
+
+ Cumulative Diff:	6.1779173261
+epsilon:	0.7
+C:	450
+
+
+ Cumulative Diff:	6.06748034148
+epsilon:	0.7999999999999999
+C:	450
+
+
+ Cumulative Diff:	6.46162390101
+epsilon:	0.30000000000000004
+C:	460
+
+
+ Cumulative Diff:	6.15651229042
+epsilon:	0.4
+C:	460
+
+
+ Cumulative Diff:	6.37142675254
+epsilon:	0.5
+C:	460
+
+
+ Cumulative Diff:	6.30376844197
+epsilon:	0.6
+C:	460
+
+
+ Cumulative Diff:	6.17790009441
+epsilon:	0.7
+C:	460
+
+
+ Cumulative Diff:	6.06753619997
+epsilon:	0.7999999999999999
+C:	460
+
+
+ Cumulative Diff:	6.46157847843
+epsilon:	0.30000000000000004
+C:	470
+
+
+ Cumulative Diff:	6.1563541085
+epsilon:	0.4
+C:	470
+
+
+ Cumulative Diff:	6.37137276357
+epsilon:	0.5
+C:	470
+
+
+ Cumulative Diff:	6.30379757326
+epsilon:	0.6
+C:	470
+
+
+ Cumulative Diff:	6.17788358272
+epsilon:	0.7
+C:	470
+
+
+ Cumulative Diff:	6.06758901643
+epsilon:	0.7999999999999999
+C:	470
+
+
+ Cumulative Diff:	6.46153496537
+epsilon:	0.30000000000000004
+C:	480
+
+
+ Cumulative Diff:	6.15620215548
+epsilon:	0.4
+C:	480
+
+
+ Cumulative Diff:	6.37132099921
+epsilon:	0.5
+C:	480
+
+
+ Cumulative Diff:	6.3038254911
+epsilon:	0.6
+C:	480
+
+
+ Cumulative Diff:	6.17786774685
+epsilon:	0.7
+C:	480
+
+
+ Cumulative Diff:	6.06763964542
+epsilon:	0.7999999999999999
+C:	480
+
+
+ Cumulative Diff:	6.46149324434
+epsilon:	0.30000000000000004
+C:	490
+
+
+ Cumulative Diff:	6.15605583183
+epsilon:	0.4
+C:	490
+
+
+ Cumulative Diff:	6.37127132473
+epsilon:	0.5
+C:	490
+
+
+ Cumulative Diff:	6.30385226976
+epsilon:	0.6
+C:	490
+
+
+ Cumulative Diff:	6.17785254615
+epsilon:	0.7
+C:	490
+
+
+ Cumulative Diff:	6.06768822007
+epsilon:	0.7999999999999999
+C:	490
+
+
+ Cumulative Diff:	6.46145320725
+epsilon:	0.30000000000000004
+C:	500
+
+
+ Cumulative Diff:	6.1559151641
+epsilon:	0.4
+C:	500
+
+
+ Cumulative Diff:	6.37122361608
+epsilon:	0.5
+C:	500
+
+
+ Cumulative Diff:	6.30387797758
+epsilon:	0.6
+C:	500
+
+
+ Cumulative Diff:	6.17783794315
+epsilon:	0.7
+C:	500
+
+
+ Cumulative Diff:	6.06773486293
+epsilon:	0.7999999999999999
+C:	500
+
+
+ Cumulative Diff:	6.46141475453
+epsilon:	0.30000000000000004
+C:	510
+
+
+ Cumulative Diff:	6.15577983047
+epsilon:	0.4
+C:	510
+
+
+ Cumulative Diff:	6.37117775883
+epsilon:	0.5
+C:	510
+
+
+ Cumulative Diff:	6.30390267752
+epsilon:	0.6
+C:	510
+
+
+ Cumulative Diff:	6.17782390328
+epsilon:	0.7
+C:	510
+
+
+ Cumulative Diff:	6.06777968699
+epsilon:	0.7999999999999999
+C:	510
+
+
+ Cumulative Diff:	6.46137779425
+epsilon:	0.30000000000000004
+C:	520
+
+
+ Cumulative Diff:	6.15564953307
+epsilon:	0.4
+C:	520
+
+
+ Cumulative Diff:	6.37113364726
+epsilon:	0.5
+C:	520
+
+
+ Cumulative Diff:	6.30392642771
+epsilon:	0.6
+C:	520
+
+
+ Cumulative Diff:	6.1778103946
+epsilon:	0.7
+C:	520
+
+
+ Cumulative Diff:	6.06782279661
+epsilon:	0.7999999999999999
+C:	520
+
+
+ Cumulative Diff:	6.46134224148
+epsilon:	0.30000000000000004
+C:	530
+
+
+ Cumulative Diff:	6.15552399583
+epsilon:	0.4
+C:	530
+
+
+ Cumulative Diff:	6.37109118355
+epsilon:	0.5
+C:	530
+
+
+ Cumulative Diff:	6.3039492819
+epsilon:	0.6
+C:	530
+
+
+ Cumulative Diff:	6.17779738753
+epsilon:	0.7
+C:	530
+
+
+ Cumulative Diff:	6.0678642883
+epsilon:	0.7999999999999999
+C:	530
+
+
+ Cumulative Diff:	6.46130801756
+epsilon:	0.30000000000000004
+C:	540
+
+
+ Cumulative Diff:	6.15540296248
+epsilon:	0.4
+C:	540
+
+
+ Cumulative Diff:	6.37105027706
+epsilon:	0.5
+C:	540
+
+
+ Cumulative Diff:	6.30397128985
+epsilon:	0.6
+C:	540
+
+
+ Cumulative Diff:	6.17778485463
+epsilon:	0.7
+C:	540
+
+
+ Cumulative Diff:	6.06790425147
+epsilon:	0.7999999999999999
+C:	540
+
+
+ Cumulative Diff:	6.46127504958
+epsilon:	0.30000000000000004
+C:	550
+
+
+ Cumulative Diff:	6.15528619484
+epsilon:	0.4
+C:	550
+
+
+ Cumulative Diff:	6.37101084368
+epsilon:	0.5
+C:	550
+
+
+ Cumulative Diff:	6.3039924977
+epsilon:	0.6
+C:	550
+
+
+ Cumulative Diff:	6.17777277045
+epsilon:	0.7
+C:	550
+
+
+ Cumulative Diff:	6.06794276905
+epsilon:	0.7999999999999999
+C:	550
+
+
+ Cumulative Diff:	6.46124326987
+epsilon:	0.30000000000000004
+C:	560
+
+
+ Cumulative Diff:	6.15517347124
+epsilon:	0.4
+C:	560
+
+
+ Cumulative Diff:	6.37097280523
+epsilon:	0.5
+C:	560
+
+
+ Cumulative Diff:	6.30401294832
+epsilon:	0.6
+C:	560
+
+
+ Cumulative Diff:	6.17776111131
+epsilon:	0.7
+C:	560
+
+
+ Cumulative Diff:	6.06797991809
+epsilon:	0.7999999999999999
+C:	560
+
+
+ Cumulative Diff:	6.46121261549
+epsilon:	0.30000000000000004
+C:	570
+
+
+ Cumulative Diff:	6.1550645851
+epsilon:	0.4
+C:	570
+
+
+ Cumulative Diff:	6.37093608899
+epsilon:	0.5
+C:	570
+
+
+ Cumulative Diff:	6.30403268153
+epsilon:	0.6
+C:	570
+
+
+ Cumulative Diff:	6.17774985518
+epsilon:	0.7
+C:	570
+
+
+ Cumulative Diff:	6.06801577024
+epsilon:	0.7999999999999999
+C:	570
+
+
+ Cumulative Diff:	6.46118302788
+epsilon:	0.30000000000000004
+C:	580
+
+
+ Cumulative Diff:	6.1549593437
+epsilon:	0.4
+C:	580
+
+
+ Cumulative Diff:	6.3709006272
+epsilon:	0.5
+C:	580
+
+
+ Cumulative Diff:	6.30405173444
+epsilon:	0.6
+C:	580
+
+
+ Cumulative Diff:	6.17773898153
+epsilon:	0.7
+C:	580
+
+
+ Cumulative Diff:	6.06805039227
+epsilon:	0.7999999999999999
+C:	580
+
+
+ Cumulative Diff:	6.46115445247
+epsilon:	0.30000000000000004
+C:	590
+
+
+ Cumulative Diff:	6.15485731787
+epsilon:	0.4
+C:	590
+
+
+ Cumulative Diff:	6.37086626936
+epsilon:	0.5
+C:	590
+
+
+ Cumulative Diff:	6.30407014164
+epsilon:	0.6
+C:	590
+
+
+ Cumulative Diff:	6.17772847118
+epsilon:	0.7
+C:	590
+
+
+ Cumulative Diff:	6.0680838464
+epsilon:	0.7999999999999999
+C:	590
+
+
+ Cumulative Diff:	1.59850509129
+epsilon:	0.1
+C:	410
+
+
+ Cumulative Diff:	1.5984611628
+epsilon:	0.1
+C:	420
+
+
+ Cumulative Diff:	1.59841904962
+epsilon:	0.1
+C:	430
+
+
+ Cumulative Diff:	1.59837864251
+epsilon:	0.1
+C:	440
+
+
+ Cumulative Diff:	1.59833984074
+epsilon:	0.1
+C:	450
+
+
+ Cumulative Diff:	1.59830255127
+epsilon:	0.1
+C:	460
+
+
+ Cumulative Diff:	1.59826668804
+epsilon:	0.1
+C:	470
+
+
+ Cumulative Diff:	1.59823217136
+epsilon:	0.1
+C:	480
+
+
+ Cumulative Diff:	1.5981989273
+epsilon:	0.1
+C:	490
+
+
+ Cumulative Diff:	1.59816688722
+epsilon:	0.1
+C:	500
+
+
+ Cumulative Diff:	1.59813598727
+epsilon:	0.1
+C:	510
+
+
+ Cumulative Diff:	1.59810616802
+epsilon:	0.1
+C:	520
+
+
+ Cumulative Diff:	1.59807737407
+epsilon:	0.1
+C:	530
+
+
+ Cumulative Diff:	1.59804955371
+epsilon:	0.1
+C:	540
+
+
+ Cumulative Diff:	1.59802265865
+epsilon:	0.1
+C:	550
+
+
+ Cumulative Diff:	1.59799664371
+epsilon:	0.1
+C:	560
+
+
+ Cumulative Diff:	1.59797146657
+epsilon:	0.1
+C:	570
+
+
+ Cumulative Diff:	1.5979470876
+epsilon:	0.1
+C:	580
+
+
+ Cumulative Diff:	1.5979234696
+epsilon:	0.1
+C:	590
+
+
+ Cumulative Diff:	1.59850509129
+epsilon:	0.1
+C:	410
+
+
+ Cumulative Diff:	1.5984611628
+epsilon:	0.1
+C:	420
+
+
+ Cumulative Diff:	1.59841904962
+epsilon:	0.1
+C:	430
+
+
+ Cumulative Diff:	1.59837864251
+epsilon:	0.1
+C:	440
+
+
+ Cumulative Diff:	1.59833984074
+epsilon:	0.1
+C:	450
+
+
+ Cumulative Diff:	1.59830255127
+epsilon:	0.1
+C:	460
+
+
+ Cumulative Diff:	1.59826668804
+epsilon:	0.1
+C:	470
+
+
+ Cumulative Diff:	1.59823217136
+epsilon:	0.1
+C:	480
+
+
+ Cumulative Diff:	1.5981989273
+epsilon:	0.1
+C:	490
+
+
+ Cumulative Diff:	1.59816688722
+epsilon:	0.1
+C:	500
+
+
+ Cumulative Diff:	1.59813598727
+epsilon:	0.1
+C:	510
+
+
+ Cumulative Diff:	1.59810616802
+epsilon:	0.1
+C:	520
+
+
+ Cumulative Diff:	1.59807737407
+epsilon:	0.1
+C:	530
+
+
+ Cumulative Diff:	1.59804955371
+epsilon:	0.1
+C:	540
+
+
+ Cumulative Diff:	1.59802265865
+epsilon:	0.1
+C:	550
+
+
+ Cumulative Diff:	1.59799664371
+epsilon:	0.1
+C:	560
+
+
+ Cumulative Diff:	1.59797146657
+epsilon:	0.1
+C:	570
+
+
+ Cumulative Diff:	1.5979470876
+epsilon:	0.1
+C:	580
+
+
+ Cumulative Diff:	1.5979234696
+epsilon:	0.1
+C:	590
