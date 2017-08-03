@@ -335,7 +335,7 @@ while(1):
 
         print("angel1.3.1 \"Dual Squashing Edition\" ")
         print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
-        print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed AVG:", np.mean(squashed_vals), "squashed VAR:", np.var(squashed_vals))
+        print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
         #print("COMMISSION PROFITS:", profits)
         print("runtime:", time_cnt / 60, "minutes")
