@@ -202,17 +202,23 @@ def auto_ask(ticker, amount):
     goal_bal = bal - (amount / price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
-    while bal > goal_bal + (start_bal * 0.001):
-        tick = b.get_ticker('BTC-' + ticker)['result']
-        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-        bal = float(b.get_balance(ticker)['result']['Balance'])
-        clear_orders('BTC-' + ticker)
-        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
-        time_cnt += 1
-        print(ticker)
-        print("Time Count (10 seconds / cnt):", time_cnt)
-        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
-        time.sleep(10)
+    while bal > goal_bal + (start_bal * 0.01):
+        try:
+            tick = b.get_ticker('BTC-' + ticker)['result']
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            bal = float(b.get_balance(ticker)['result']['Balance'])
+            clear_orders('BTC-' + ticker)
+            if amount < 0.1:
+                my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+            else:
+                my_sell('BTC-' + ticker, 0.1, type='ask')
+            time_cnt += 1
+            print("Time Count (30 seconds / cnt):", time_cnt)
+            print("Balance:", bal, "Goal Balance:", goal_bal)
+            print("\n")
+            time.sleep(30)
+        except:
+            print("AUTO_ASK FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
 def auto_bid(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
@@ -220,17 +226,23 @@ def auto_bid(ticker, amount):
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
     goal_bal = bal + (amount / price)
     time_cnt = 0
-    while bal < goal_bal * 0.999:
-        tick = b.get_ticker('BTC-' + ticker)['result']
-        price = float(tick['Bid'])
-        bal = float(b.get_balance(ticker)['result']['Balance'])
-        clear_orders('BTC-' + ticker)
-        my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
-        time_cnt += 1
-        print(ticker)
-        print("Time Count (10 seconds / cnt):", time_cnt)
-        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
-        time.sleep(10)
+    while bal < goal_bal * 0.99:
+        try:
+            tick = b.get_ticker('BTC-' + ticker)['result']
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            bal = float(b.get_balance(ticker)['result']['Balance'])
+            clear_orders('BTC-' + ticker)
+            if amount < 0.1:
+                my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+            else:
+                my_buy('BTC-' + ticker, 0.1, type='bid')
+            time_cnt += 1
+            print("Time Count:", time_cnt, "(30 seconds / cnt)")
+            print("Balance:", bal, "Goal Balance:", goal_bal)
+            print("\n")
+            time.sleep(30)
+        except:
+            print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
 def squash(allocs, cuml):
     new_allocs = []

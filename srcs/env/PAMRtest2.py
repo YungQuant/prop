@@ -173,10 +173,12 @@ def simplex_proj1(a, y):
     return x
 
 def duz_i_buy(allocs, C, epsilon, diffs):
-    var = 2
+    var = 1
     cuml = sum(allocs)
     mean_diff = np.mean(diffs)
+    #print("mean diff:", mean_diff)
     le = max([0, np.dot(allocs, diffs) - epsilon])
+    #print("le:", le)
     if var == 0:
         lam = le / np.linalg.norm(diffs - mean_diff) ** 2
     elif var == 1:
@@ -185,9 +187,9 @@ def duz_i_buy(allocs, C, epsilon, diffs):
         lam = le / (np.linalg.norm(diffs - mean_diff) ** 2 + 0.5 / C)
 
     lam = min([100000, lam])
+    #print("lambda:", lam)
     allocs = allocs - lam * (diffs - mean_diff)
-    # print("lamda:", lam, "le:", le)
-    # print("mid-calc cuml:", sum(allocs), "mid-calc allocs:", allocs)
+    #print("mid-calc cuml:", sum(allocs), "mid-calc allocs:", allocs)
     # x_mean = np.mean(x)
     # le = max(0., np.dot(b, x) - eps)
     #
@@ -281,8 +283,6 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
                 allocs[g] += allocs[g] * diffs[g]
 
             pre_cuml = sum(allocs)
-            # print("allocs IN:", allocs)
-            # print("cuml IN:", pre_cuml)
             allocs = duz_i_buy(allocs, C, epsilon, diffs)
             post_cuml = sum(allocs)
             profits = pre_cuml - post_cuml

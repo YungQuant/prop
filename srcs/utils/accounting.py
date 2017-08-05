@@ -22,7 +22,7 @@ def check_commissions(hist_vals, t):
     return profits
 
 vals = []; adj_vals = []; basis = 0;
-with open("../../server_utils/hist_btc_val.txt") as file:
+with open("../server_utils/hist_btc_val.txt") as file:
     lines = file.readlines()
     for i in range(len(lines)):
         try:
@@ -31,9 +31,11 @@ with open("../../server_utils/hist_btc_val.txt") as file:
             i += 1
 
 file.close()
+#VVVV ADJUST FOR WITHDRAWALS AND PROFIT TAKING
+vals = vals[42000:]
 
 for i in range(len(vals)):          #VVVVVVVVVVVVVVVVVVVVVVVV  <- REBALENCES TRIP DEPOSIT FILTER
-    if vals[i] - vals[i - 1] > 0.4 and i < 17500 or i > 19500:
+    if vals[i] - vals[i - 1] > 0.4:
         basis += vals[i] - vals[i - 1]
     adj_vals.append(vals[i] - basis)
 
@@ -42,7 +44,7 @@ print("Basis Accumulated:", basis)
 plot(vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
 plot(adj_vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdings Value in BTC")
 
-t1 = 1000; t2 = 1400; t = t1; returns = [];
+t1 = 1000; t2 = 1600; t = t1; returns = [];
 while t < t2:
     returns.append(check_commissions(adj_vals[:], t))
     print(returns[-1])
@@ -50,6 +52,6 @@ while t < t2:
 
 plot(returns)
 print("MEAN RETURNS:", np.mean(returns))
-print("Profits last taken @ 7/12/17 ( 39000 )")
+print("Profits last taken @ 7/26/17 ( 56000 )")
 
 

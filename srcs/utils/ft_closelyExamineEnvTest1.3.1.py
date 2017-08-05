@@ -156,7 +156,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         if np.var(squash(allocs, cuml)) > np.mean(squash(allocs, cuml)) * rebal_tol:
         #STILL NEEDS NP.VAR AND SP.KURTOSIS TESTING
             rebalsss += 1
-            cumld.append(0)
+            cumld.append(sum(allocs))
             for m in range(len(allocs)):
                 allocs[m] = ((cuml / len(allocs)) * (1 - tradeCost))
         #print(allocs)
@@ -178,5 +178,5 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
 
-result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=0.025, plt_bool=True)
+result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=0.067, plt_bool=True)
 result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=215, plt_bool=True)

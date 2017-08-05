@@ -254,7 +254,8 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.5)):]):
+        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.5)):]):
+        for i, stocks in enumerate(stock1[-120:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -279,8 +280,7 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
             post_cuml = sum(allocs)
             profits = pre_cuml - post_cuml
             for i in range(len(allocs)):
-                allocs[i] += profits / len(allocs)
-                allocs[i] *= 1 - tradeCost
+                allocs[i] += (profits / len(allocs)) * (1 - tradeCost)
             # print("cuml OUT:", post_cuml)
             # print("allocs OUT:", allocs)
             # print("\n")
@@ -294,4 +294,4 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
 ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
 #ticker = ["BTC-ETH", "BTC-XMR", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC"]
 
-global_warming(ticker, 1, plt_bool=True, C=420, epsilon=0.1)
+global_warming(ticker, 1, plt_bool=True, C=31, epsilon=0.21)
