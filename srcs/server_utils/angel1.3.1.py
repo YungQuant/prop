@@ -202,7 +202,7 @@ def auto_ask(ticker, amount):
     goal_bal = bal - (amount / price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
-    while bal > goal_bal + (start_bal * 0.01):
+    while bal > goal_bal + (start_bal * 0.001):
         try:
             tick = b.get_ticker('BTC-' + ticker)['result']
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
@@ -226,7 +226,7 @@ def auto_bid(ticker, amount):
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
     goal_bal = bal + (amount / price)
     time_cnt = 0
-    while bal < goal_bal * 0.99:
+    while bal < goal_bal * 0.999:
         try:
             tick = b.get_ticker('BTC-' + ticker)['result']
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
