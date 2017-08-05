@@ -202,23 +202,17 @@ def auto_ask(ticker, amount):
     goal_bal = bal - (amount / price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
-    while bal > goal_bal + (start_bal * 0.01):
-        try:
-            tick = b.get_ticker('BTC-' + ticker)['result']
-            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-            bal = float(b.get_balance(ticker)['result']['Balance'])
-            clear_orders('BTC-' + ticker)
-            if amount < 0.1:
-                my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
-            else:
-                my_sell('BTC-' + ticker, 0.1, type='ask')
-            time_cnt += 1
-            print("Time Count (30 seconds / cnt):", time_cnt)
-            print("Balance:", bal, "Goal Balance:", goal_bal)
-            print("\n")
-            time.sleep(30)
-        except:
-            print("AUTO_ASK FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
+    while bal > goal_bal + (start_bal * 0.001):
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        clear_orders('BTC-' + ticker)
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        time_cnt += 1
+        print(ticker)
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
+        time.sleep(10)
 
 def auto_bid(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
@@ -226,23 +220,17 @@ def auto_bid(ticker, amount):
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
     goal_bal = bal + (amount / price)
     time_cnt = 0
-    while bal < goal_bal * 0.99:
-        try:
-            tick = b.get_ticker('BTC-' + ticker)['result']
-            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-            bal = float(b.get_balance(ticker)['result']['Balance'])
-            clear_orders('BTC-' + ticker)
-            if amount < 0.1:
-                my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
-            else:
-                my_buy('BTC-' + ticker, 0.1, type='bid')
-            time_cnt += 1
-            print("Time Count:", time_cnt, "(30 seconds / cnt)")
-            print("Balance:", bal, "Goal Balance:", goal_bal)
-            print("\n")
-            time.sleep(30)
-        except:
-            print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
+    while bal < goal_bal * 0.999:
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = float(tick['Bid'])
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        clear_orders('BTC-' + ticker)
+        my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+        time_cnt += 1
+        print(ticker)
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
+        time.sleep(10)
 
 def squash(allocs, cuml):
     new_allocs = []
@@ -343,9 +331,9 @@ while(1):
         #print(vals)
         if np.var(squashed_vals) > np.mean(squashed_vals) * REBAL_TOL:
             for i in range(20): print("NEEDS REBALANCING")
-            rebalence(cryptos)
+            #rebalence(cryptos)
 
-        print("angel1.3.1 \"Dual Squashing Edition\" ")
+        print("castrated_angel1.3.1 \"Dual Squashing Edition\" featuring Castration and Inabilty")
         print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
         print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
