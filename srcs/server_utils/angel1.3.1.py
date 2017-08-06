@@ -208,7 +208,7 @@ def auto_ask(ticker, amount):
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             bal = float(b.get_balance(ticker)['result']['Balance'])
             clear_orders('BTC-' + ticker)
-            if amount < 0.1:
+            if (bal - goal_bal) * price < 0.1:
                 my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
             else:
                 my_sell('BTC-' + ticker, 0.1, type='ask')
@@ -232,7 +232,7 @@ def auto_bid(ticker, amount):
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             bal = float(b.get_balance(ticker)['result']['Balance'])
             clear_orders('BTC-' + ticker)
-            if amount < 0.1:
+            if (goal_bal - bal) * price < 0.1:
                 my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
             else:
                 my_buy('BTC-' + ticker, 0.1, type='bid')
