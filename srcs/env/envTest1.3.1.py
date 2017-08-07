@@ -54,7 +54,7 @@ def getNum(str):
 def CryptoQuote1(the_symbol):
     class ohlcvObj():
         open, high, low, close, volume = [], [], [], [], []
-    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=86400".format(the_symbol)
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     print(the_symbol, response[0:10])
     for i, curr in enumerate(response):
@@ -137,8 +137,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.1)):]):
-        for i, stocks in enumerate(stock1[-120:]):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.6)):]):
+        #for i, stocks in enumerate(stock1[-120:]):
             try:
                 stock.append(float(stocks))
             except:
@@ -180,7 +180,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
     return cuml, rebalsss, mdd
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_GNT", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_GNT", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "USDT_BTC"]
 #ticker = ["BTC-ETH", "BTC-XEM", "BTC-XMR", "BTC-STORJ", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC", "BTC-QRL", "BTC-GNT"]
 k1 = 0.001; k2 = 1; k = k1; results = []; drawdowns = []; tols = []; rebals = [];
 while k < k2:
@@ -189,12 +189,14 @@ while k < k2:
     drawdowns.append(mdd)
     tols.append(k)
     rebals.append(rebalsss)
-    k += 0.0001
-    if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results):
+    k += 0.001
+    #if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results):
         #global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True)
-        write_that_shit("../../output/envTest1.3.1_dualSquashingVarEdition_poloData_output_7,26,17.txt", k, rebalsss, results[-1], mdd)
+        #write_that_shit("../../output/envTest1.3.1_dualSquashingVarEdition_poloData_output_7,26,17.txt", k, rebalsss, results[-1], mdd)
 
     print("rebal_tol:", k, "rebalsss", rebalsss, "result:", results[-1], "max drawdown:", mdd)
+    if rebalsss == 0:
+        k += 99999999
 
 
 

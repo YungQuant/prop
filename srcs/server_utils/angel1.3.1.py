@@ -316,24 +316,34 @@ while(1):
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
         pairs.append('USDT-BTC')
-        cryptos.append("USDT-BTC")
+        cryptos.append("USDT")
         bals = b.get_balances()
-        #print("bals:", bals)
+        # print("bals:", bals)
         for k in range(len(cryptos)):
             for i in range(len(bals['result'])):
                 if cryptos[k] in bals['result'][i]['Currency']:
-                    #print("found:", bals['result'][i])
+                    # print("found:", bals['result'][i])
                     vals.append(float(bals['result'][i]['Available']))
 
         for i in range(len(pairs)):
-            tick = b.get_ticker(pairs[i])
-            tick = tick['result']
-            #print(pairs[i], "ticker response ['result']:", tick)
-            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-            #print(tick['Bid'])
-            #price = float(tick['Bid'])
-            btc_vals.append(vals[i] * price)
-            tot_btc_val += vals[i] * price
+            if i < len(pairs) - 1:
+                tick = b.get_ticker(pairs[i])
+                tick = tick['result']
+                # print(pairs[i], "ticker response ['result']:", tick)
+                price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+                # print(tick['Bid'])
+                # price = float(tick['Bid'])
+                btc_vals.append(vals[i] * price)
+                tot_btc_val += vals[i] * price
+            else:
+                tick = b.get_ticker(pairs[i])
+                tick = tick['result']
+                # print(pairs[i], "ticker response ['result']:", tick)
+                price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+                # print(tick['Bid'])
+                # price = float(tick['Bid'])
+                btc_vals.append(vals[i] / price)
+                tot_btc_val += vals[i] / price
 
         tot = sum(btc_vals)
         squashed_vals = squash(btc_vals, tot)

@@ -1,6 +1,7 @@
 """
    See https://bittrex.com/Home/Api
 """
+from joblib import Parallel, delayed
 import numpy as np
 import time
 import hmac
@@ -12,7 +13,6 @@ except ImportError:
     from urllib.parse import urlencode
     from urllib.parse import urljoin
 import requests
-from joblib import Parallel, delayed
 
 BUY_ORDERBOOK = 'buy'
 SELL_ORDERBOOK = 'sell'
@@ -115,20 +115,20 @@ def my_buy(ticker, amount, type):
         price = b.get_ticker(ticker)['result']['Ask']
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'bid':
         price = b.get_ticker(ticker)['result']['Bid']
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'auto1':
         tick = b.get_ticker(ticker)['result']
@@ -142,20 +142,20 @@ def my_sell(ticker, amount, type):
         price = b.get_ticker(ticker)['result']['Ask']
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'bid':
         price = b.get_ticker(ticker)['result']['Bid']
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'auto1':
         while b.get_open_orders(ticker).result != []:
@@ -177,7 +177,7 @@ def clear_orders(ticker):
     else:
         print("No Orders (", orders,")\n")
 
-def liquidate(ticker):
+def liquidate(ticker, preference='ask'):
     bal = float(b.get_balance(ticker)['result']['Balance'])
     amount = bal
     goal_bal = 0
@@ -191,7 +191,7 @@ def liquidate(ticker):
         print(ticker)
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
-        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type=preference)
         time.sleep(10)
 
 def auto_ask(ticker, amount):
@@ -244,50 +244,132 @@ def auto_bid(ticker, amount):
         except:
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
+def squash(allocs, cuml):
+    new_allocs = []
+    for i in range(len(allocs)):
+        new_allocs.append(allocs[i] / cuml)
+    return new_allocs
 
-cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
 
-pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
+def rebalence(cryptos):
+    pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
+    for i in range(len(cryptos) - 1):
+        pairs.append("BTC-" + cryptos[i])
+    bals = b.get_balances()
+    print("bals:", bals)
 
-ext_perc = 0.17
+    for k in range(len(cryptos)):
+        for i in range(len(bals['result'])):
+            if cryptos[k] in bals['result'][i]['Currency']:
+                print("found:", bals['result'][i])
+                vals.append(float(bals['result'][i]['Available']))
 
-for i in range(len(cryptos)):
-    pairs.append('BTC-' + cryptos[i])
 
-cryptos.append('BTC')
+    tot_btc_val += vals[-1]
+    print("CRYPTOS, VALS", cryptos, vals)
 
-bals = b.get_balances()
-print("bals:", bals)
+    for i in range(len(vals) -1):
+        tick = b.get_ticker(pairs[i])
+        tick = tick['result']
+        print(pairs[i], "ticker response ['result']:", tick)
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        #price = float(tick['Bid'])
+        btc_vals.append(vals[i] * price)
+        tot_btc_val += vals[i] * price
 
-for k in range(len(cryptos)):
-    for i in range(len(bals['result'])):
-        if cryptos[k] in bals['result'][i]['Currency']:
-            #print("found:", bals['result'][i])
-            vals.append(float(bals['result'][i]['Available']))
+    btc_vals.append(vals[-1])
+    goal_val = tot_btc_val/len(btc_vals) * 0.99
+    print("CRYPTOS, BTC_VALS", cryptos, btc_vals)
+    print("tot_btc_val:", tot_btc_val)
+    print("goal_val:", goal_val)
+    buys = []; sells = []; buy_vals = []; sell_vals = [];
+    for i in range(len(btc_vals) -1):
+        if btc_vals[i] > goal_val:
+            sells.append(cryptos[i])
+            sell_vals.append(btc_vals[i] - goal_val)
+            #auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
 
-for i in range(len(vals) -1):
-    tick = b.get_ticker(pairs[i])
-    tick = tick['result']
-    #print(pairs[i], "ticker response ['result']:", tick)
-    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    #price = float(tick['Bid'])
-    btc_vals.append(vals[i] * price)
-    tot_btc_val += vals[i] * price
+    for i in range(len(btc_vals) - 1):
+        if btc_vals[i] < goal_val:
+            buys.append(cryptos[i])
+            buy_vals.append(goal_val - btc_vals[i])
+            #auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
 
-tot_crypto_val = tot_btc_val
-tot_btc_val += vals[-1]
-btc_vals.append(vals[-1])
-goal_val = tot_crypto_val * (1 - ext_perc)
-print("CRYPTOS:", cryptos, "\n", "BTC_VALS:", btc_vals)
-print("tot_btc_val:", tot_btc_val)
-print("tot_crypto_val:", tot_crypto_val)
-print("Extracting", ext_perc, "percent")
-print("Goal Val:", goal_val)
-# for i in range(len(btc_vals) -1):
-#     my_sell(pairs[i], btc_vals[i] * ext_perc, 'mid')
-indx = 0
-Parallel(n_jobs=8, verbose=10)(delayed(auto_ask)
-(cryptos[indx], btc_vals[indx] * ext_perc)
-    for indx in range(len(cryptos) - 1))
+    indx = 0
+    Parallel(n_jobs=8, verbose=10)(delayed(auto_ask)
+    (sells[indx], sell_vals[indx])
+        for indx in range(len(sells)))
+    indx = 0
+    Parallel(n_jobs=8, verbose=10)(delayed(auto_bid)
+    (buys[indx], buy_vals[indx])
+        for indx in range(len(buys)))
 
+
+
+
+time_cnt = 0; hist_vals = []; profits = 0;
+while(1):
+    cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+    REBAL_TOL = 0.0125
+    vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
+    for i in range(len(cryptos)):
+        pairs.append('BTC-' + cryptos[i])
+    pairs.append('USDT-BTC')
+    cryptos.append("USDT")
+    bals = b.get_balances()
+    #print("bals:", bals)
+    for k in range(len(cryptos)):
+        for i in range(len(bals['result'])):
+            if cryptos[k] in bals['result'][i]['Currency']:
+                #print("found:", bals['result'][i])
+                vals.append(float(bals['result'][i]['Available']))
+
+    for i in range(len(pairs)):
+        if i < len(pairs) - 1:
+            tick = b.get_ticker(pairs[i])
+            tick = tick['result']
+            #print(pairs[i], "ticker response ['result']:", tick)
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            #print(tick['Bid'])
+            #price = float(tick['Bid'])
+            btc_vals.append(vals[i] * price)
+            tot_btc_val += vals[i] * price
+        else:
+            tick = b.get_ticker(pairs[i])
+            tick = tick['result']
+            # print(pairs[i], "ticker response ['result']:", tick)
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            # print(tick['Bid'])
+            # price = float(tick['Bid'])
+            btc_vals.append(vals[i] / price)
+            tot_btc_val += vals[i] / price
+
+
+    tot = sum(btc_vals)
+    squashed_vals = squash(btc_vals, tot)
+    #print(vals)
+    if np.var(squashed_vals) > np.mean(squashed_vals) * REBAL_TOL:
+        for i in range(20): print("NEEDS REBALANCING")
+        #rebalence(cryptos)
+
+    print("angel1.3.1 \"Dual Squashing Edition\" ")
+    print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
+    print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
+    print("TOT_BTC_VAL:", tot_btc_val)
+    #print("COMMISSION PROFITS:", profits)
+    print("runtime:", time_cnt / 60, "minutes")
+    print("CRYPTOS:", cryptos)
+    print("HOLDINGS:", vals)
+    print("BTC VALS:", btc_vals)
+    print("\n")
+
+    if time_cnt % 60 == 0:
+        file = open("hist_btc_val.txt", 'a')
+        file.write(str(tot_btc_val))
+        file.write("\n")
+        file.close()
+
+
+    time.sleep(10)
+    time_cnt += 10
 
