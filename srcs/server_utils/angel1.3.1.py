@@ -199,7 +199,10 @@ def auto_ask(ticker, amount):
     start_bal = bal
     tick = b.get_ticker('BTC-' + ticker)['result']
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    goal_bal = bal - (amount / price)
+    if ticker != "USDT":
+        goal_bal = bal - (amount / price)
+    else:
+        goal_bal = bal - (amount * price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
     while bal > goal_bal + (start_bal * 0.001):
@@ -208,10 +211,16 @@ def auto_ask(ticker, amount):
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             bal = float(b.get_balance(ticker)['result']['Balance'])
             clear_orders('BTC-' + ticker)
-            if (bal - goal_bal) * price < 0.1:
-                my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+            if ticker != "USDT":
+                if (bal - goal_bal) * price < 0.1:
+                    my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+                else:
+                    my_sell('BTC-' + ticker, 0.1, type='ask')
             else:
-                my_sell('BTC-' + ticker, 0.1, type='ask')
+                if (bal - goal_bal) / price < 0.1:
+                    my_sell('BTC-' + ticker, ((bal - goal_bal) / price), type='ask')
+                else:
+                    my_sell('BTC-' + ticker, 0.1 * price, type='ask')
             time_cnt += 1
             print("Time Count (30 seconds / cnt):", time_cnt)
             print("Balance:", bal, "Goal Balance:", goal_bal)
@@ -224,7 +233,10 @@ def auto_bid(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
     tick = b.get_ticker('BTC-' + ticker)['result']
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    goal_bal = bal + (amount / price)
+    if ticker != "USDT":
+        goal_bal = bal + (amount / price)
+    else:
+        goal_bal = bal + (amount * price)
     time_cnt = 0
     while bal < goal_bal * 0.999:
         try:
@@ -232,10 +244,16 @@ def auto_bid(ticker, amount):
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             bal = float(b.get_balance(ticker)['result']['Balance'])
             clear_orders('BTC-' + ticker)
-            if (goal_bal - bal) * price < 0.1:
-                my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+            if ticker != "USDT":
+                if (goal_bal - bal) * price < 0.1:
+                    my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+                else:
+                    my_buy('BTC-' + ticker, 0.1, type='bid')
             else:
-                my_buy('BTC-' + ticker, 0.1, type='bid')
+                if (goal_bal - bal) * price < 0.1:
+                    my_buy('BTC-' + ticker, (goal_bal - bal) / price, type='bid')
+                else:
+                    my_buy('BTC-' + ticker, 0.1, type='bid')
             time_cnt += 1
             print("Time Count:", time_cnt, "(30 seconds / cnt)")
             print("Balance:", bal, "Goal Balance:", goal_bal)
@@ -310,7 +328,7 @@ def rebalence(cryptos):
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
-        cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+        cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
         REBAL_TOL = 0.0125
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):

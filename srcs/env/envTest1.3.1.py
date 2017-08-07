@@ -137,7 +137,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.6)):]):
+        for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
         #for i, stocks in enumerate(stock1[-120:]):
             try:
                 stock.append(float(stocks))
@@ -152,7 +152,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     for z in range(len(ticker)):
         allocs.append(cuml / len(ticker))
 
-    for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 1)) for f in range(len(cumulative_diffs))])):
+    for n in range(min([int(np.floor(len(cumulative_diffs[f]))) for f in range(len(cumulative_diffs))])):
         prices = [cumulative_prices[y][n] for y in range(len(cumulative_prices))]
         diffs = [cumulative_diffs[x][n] for x in range(len(cumulative_diffs))]
         #VVVVVV NORMALLY FOR G IN RANGE(LEN(ALLOCS)) WITHOUT -1, -1 ADDED IN DEBUGGING 7,17,2017
@@ -189,7 +189,7 @@ while k < k2:
     drawdowns.append(mdd)
     tols.append(k)
     rebals.append(rebalsss)
-    k += 0.001
+    k += 0.0001
     #if rebalsss > 1 and len(results) > 2 and results[-1] > np.mean(results):
         #global_warming(ticker, 1, tradeCost=0.005, rebal_tol=k, plt_bool=True)
         #write_that_shit("../../output/envTest1.3.1_dualSquashingVarEdition_poloData_output_7,26,17.txt", k, rebalsss, results[-1], mdd)
