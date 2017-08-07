@@ -311,12 +311,12 @@ time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
         cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
-        REBAL_TOL = 0.025
+        REBAL_TOL = 0.0125
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
-        pairs.append('BTC')
-        cryptos.append("BTC")
+        pairs.append('USDT-BTC')
+        cryptos.append("USDT-BTC")
         bals = b.get_balances()
         #print("bals:", bals)
         for k in range(len(cryptos)):
@@ -325,9 +325,7 @@ while(1):
                     #print("found:", bals['result'][i])
                     vals.append(float(bals['result'][i]['Available']))
 
-        tot_btc_val += vals[-1]
-
-        for i in range(len(pairs) - 1):
+        for i in range(len(pairs)):
             tick = b.get_ticker(pairs[i])
             tick = tick['result']
             #print(pairs[i], "ticker response ['result']:", tick)
@@ -337,7 +335,6 @@ while(1):
             btc_vals.append(vals[i] * price)
             tot_btc_val += vals[i] * price
 
-        btc_vals.append(vals[-1])
         tot = sum(btc_vals)
         squashed_vals = squash(btc_vals, tot)
         #print(vals)

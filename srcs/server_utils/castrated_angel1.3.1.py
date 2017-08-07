@@ -203,16 +203,22 @@ def auto_ask(ticker, amount):
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
     while bal > goal_bal + (start_bal * 0.001):
-        tick = b.get_ticker('BTC-' + ticker)['result']
-        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-        bal = float(b.get_balance(ticker)['result']['Balance'])
-        clear_orders('BTC-' + ticker)
-        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
-        time_cnt += 1
-        print(ticker)
-        print("Time Count (10 seconds / cnt):", time_cnt)
-        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
-        time.sleep(10)
+        try:
+            tick = b.get_ticker('BTC-' + ticker)['result']
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            bal = float(b.get_balance(ticker)['result']['Balance'])
+            clear_orders('BTC-' + ticker)
+            if (bal - goal_bal) * price < 0.1:
+                my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+            else:
+                my_sell('BTC-' + ticker, 0.1, type='ask')
+            time_cnt += 1
+            print("Time Count (30 seconds / cnt):", time_cnt)
+            print("Balance:", bal, "Goal Balance:", goal_bal)
+            print("\n")
+            time.sleep(30)
+        except:
+            print("AUTO_ASK FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
 def auto_bid(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
@@ -221,16 +227,22 @@ def auto_bid(ticker, amount):
     goal_bal = bal + (amount / price)
     time_cnt = 0
     while bal < goal_bal * 0.999:
-        tick = b.get_ticker('BTC-' + ticker)['result']
-        price = float(tick['Bid'])
-        bal = float(b.get_balance(ticker)['result']['Balance'])
-        clear_orders('BTC-' + ticker)
-        my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
-        time_cnt += 1
-        print(ticker)
-        print("Time Count (10 seconds / cnt):", time_cnt)
-        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
-        time.sleep(10)
+        try:
+            tick = b.get_ticker('BTC-' + ticker)['result']
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            bal = float(b.get_balance(ticker)['result']['Balance'])
+            clear_orders('BTC-' + ticker)
+            if (goal_bal - bal) * price < 0.1:
+                my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+            else:
+                my_buy('BTC-' + ticker, 0.1, type='bid')
+            time_cnt += 1
+            print("Time Count:", time_cnt, "(30 seconds / cnt)")
+            print("Balance:", bal, "Goal Balance:", goal_bal)
+            print("\n")
+            time.sleep(30)
+        except:
+            print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
 def squash(allocs, cuml):
     new_allocs = []
@@ -299,12 +311,12 @@ time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
     try:
         cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
-        REBAL_TOL = 0.025
+        REBAL_TOL = 0.0125
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
-        pairs.append('BTC')
-        cryptos.append("BTC")
+        pairs.append('USDT-BTC')
+        cryptos.append("USDT-BTC")
         bals = b.get_balances()
         #print("bals:", bals)
         for k in range(len(cryptos)):
@@ -313,9 +325,7 @@ while(1):
                     #print("found:", bals['result'][i])
                     vals.append(float(bals['result'][i]['Available']))
 
-        tot_btc_val += vals[-1]
-
-        for i in range(len(pairs) - 1):
+        for i in range(len(pairs)):
             tick = b.get_ticker(pairs[i])
             tick = tick['result']
             #print(pairs[i], "ticker response ['result']:", tick)
@@ -325,7 +335,6 @@ while(1):
             btc_vals.append(vals[i] * price)
             tot_btc_val += vals[i] * price
 
-        btc_vals.append(vals[-1])
         tot = sum(btc_vals)
         squashed_vals = squash(btc_vals, tot)
         #print(vals)
@@ -333,7 +342,7 @@ while(1):
             for i in range(20): print("NEEDS REBALANCING")
             #rebalence(cryptos)
 
-        print("castrated_angel1.3.1 \"Dual Squashing Edition\" featuring Castration and Inabilty")
+        print("angel1.3.1 \"Dual Squashing Edition\" ")
         print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
         print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
         print("TOT_BTC_VAL:", tot_btc_val)
