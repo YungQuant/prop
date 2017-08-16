@@ -309,7 +309,7 @@ def rebalence(cryptos):
 
 time_cnt = 0; hist_vals = []; profits = 0;
 while(1):
-    cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+    cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
     REBAL_TOL = 0.0125
     vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
     for i in range(len(cryptos)):
@@ -321,14 +321,14 @@ while(1):
     for k in range(len(cryptos)):
         for i in range(len(bals['result'])):
             if cryptos[k] in bals['result'][i]['Currency']:
-                #print("found:", bals['result'][i])
+                print("found:", bals['result'][i])
                 vals.append(float(bals['result'][i]['Available']))
 
     for i in range(len(pairs)):
         if i < len(pairs) - 1:
             tick = b.get_ticker(pairs[i])
             tick = tick['result']
-            #print(pairs[i], "ticker response ['result']:", tick)
+            print(pairs[i], "ticker response ['result']:", tick)
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             #print(tick['Bid'])
             #price = float(tick['Bid'])
