@@ -333,8 +333,6 @@ while(1):
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
-        pairs.append('BTC')
-        cryptos.append("BTC")
         bals = b.get_balances()
         # print("bals:", bals)
         for k in range(len(cryptos)):
@@ -342,8 +340,6 @@ while(1):
                 if cryptos[k] in bals['result'][i]['Currency']:
                     # print("found:", bals['result'][i])
                     vals.append(float(bals['result'][i]['Available']))
-
-        tot_btc_val += vals[-1]
 
         for i in range(len(pairs) - 1):
             tick = b.get_ticker(pairs[i])
@@ -355,7 +351,6 @@ while(1):
             btc_vals.append(vals[i] * price)
             tot_btc_val += vals[i] * price
 
-        btc_vals.append(vals[-1])
 
         tot = sum(btc_vals)
         squashed_vals = squash(btc_vals, tot)
