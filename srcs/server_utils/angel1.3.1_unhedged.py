@@ -341,7 +341,7 @@ while(1):
                     # print("found:", bals['result'][i])
                     vals.append(float(bals['result'][i]['Available']))
 
-        for i in range(len(pairs) - 1):
+        for i in range(len(pairs)):
             tick = b.get_ticker(pairs[i])
             tick = tick['result']
             # print(pairs[i], "ticker response ['result']:", tick)
