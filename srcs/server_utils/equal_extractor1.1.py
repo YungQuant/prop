@@ -249,7 +249,7 @@ cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'L
 
 pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
 
-ext_perc = 0.17
+ext_perc =
 
 for i in range(len(cryptos)):
     pairs.append('BTC-' + cryptos[i])
