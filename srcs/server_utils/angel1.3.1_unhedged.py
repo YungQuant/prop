@@ -213,12 +213,12 @@ def auto_ask(ticker, amount):
             clear_orders('BTC-' + ticker)
             if ticker != "USDT":
                 if (bal - goal_bal) * price < 0.1:
-                    my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+                    my_sell('BTC-' + ticker, ((bal - goal_bal) / price), type='ask')
                 else:
                     my_sell('BTC-' + ticker, 0.1, type='ask')
             else:
                 if (bal - goal_bal) / price < 0.1:
-                    my_sell('BTC-' + ticker, ((bal - goal_bal) / price), type='ask')
+                    my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
                 else:
                     my_sell('BTC-' + ticker, 0.1 * price, type='ask')
             time_cnt += 1
@@ -246,12 +246,12 @@ def auto_bid(ticker, amount):
             clear_orders('BTC-' + ticker)
             if ticker != "USDT":
                 if (goal_bal - bal) * price < 0.1:
-                    my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+                    my_buy('BTC-' + ticker, (goal_bal - bal) / price, type='bid')
                 else:
                     my_buy('BTC-' + ticker, 0.1, type='bid')
             else:
                 if (goal_bal - bal) * price < 0.1:
-                    my_buy('BTC-' + ticker, (goal_bal - bal) / price, type='bid')
+                    my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
                 else:
                     my_buy('BTC-' + ticker, 0.1, type='bid')
             time_cnt += 1
