@@ -314,11 +314,11 @@ def rebalence(cryptos):
             #auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
 
     indx = 0
-    Parallel(n_jobs=8, verbose=10)(delayed(auto_ask)
+    Parallel(n_jobs=20, verbose=10)(delayed(auto_ask)
     (sells[indx], sell_vals[indx])
         for indx in range(len(sells)))
     indx = 0
-    Parallel(n_jobs=8, verbose=10)(delayed(auto_bid)
+    Parallel(n_jobs=20, verbose=10)(delayed(auto_bid)
     (buys[indx], buy_vals[indx])
         for indx in range(len(buys)))
 

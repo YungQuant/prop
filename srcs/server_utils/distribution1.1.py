@@ -12,6 +12,7 @@ except ImportError:
     from urllib.parse import urlencode
     from urllib.parse import urljoin
 import requests
+from joblib import Parallel, delayed
 
 BUY_ORDERBOOK = 'buy'
 SELL_ORDERBOOK = 'sell'
@@ -107,7 +108,7 @@ class Bittrex(object):
         return self.api_query('getorderhistory', {'market':market, 'count': count})
 
 
-b = Bittrex('4c7632fcade64c4dbea18d79c3206739', '974c25d27f0545c390b77fe1068c6cd9')
+b = Bittrex('4d314f07d8fb4c6a89622846b30e918e', 'e67bdd178aba478d954f54b6e5afccf7')
 
 def my_buy(ticker, amount, type):
     if type == 'ask':
@@ -165,22 +166,103 @@ def my_sell(ticker, amount, type):
 
         print("SELL ticker, price, amount", ticker, price, amount)
 
+def clear_orders(ticker):
+    UUIDs = []
+    orders = b.get_open_orders(ticker)['result']
+    if orders != []:
+        for i in range(len(orders)):
+            UUIDs.append(orders[i]['OrderUuid'])
+            b.cancel(UUIDs[i])
+            print("CANCELED:", orders[i])
+    else:
+        print("No Orders (", orders,")\n")
+
+def liquidate(ticker):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    amount = bal
+    goal_bal = 0
+    time_cnt = 0
+    while bal > goal_bal:
+        tick = b.get_ticker('BTC-' + ticker)['result']
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        clear_orders('BTC-' + ticker)
+        bal = float(b.get_balance(ticker)['result']['Balance'])
+        time_cnt += 1
+        print(ticker)
+        print("Time Count (10 seconds / cnt):", time_cnt)
+        print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        time.sleep(10)
+
+def auto_ask(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    start_bal = bal
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal - (amount / price)
+    if goal_bal < 0: goal_bal = 0
+    time_cnt = 0
+    while bal > goal_bal + (start_bal * 0.001):
+        try:
+            tick = b.get_ticker('BTC-' + ticker)['result']
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            bal = float(b.get_balance(ticker)['result']['Balance'])
+            clear_orders('BTC-' + ticker)
+            if (bal - goal_bal) * price < 0.1:
+                my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+            else:
+                my_sell('BTC-' + ticker, 0.1, type='ask')
+            time_cnt += 1
+            print("Time Count (30 seconds / cnt):", time_cnt)
+            print("Balance:", bal, "Goal Balance:", goal_bal)
+            print("\n")
+            time.sleep(30)
+        except:
+            print("AUTO_ASK FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
+
+def auto_bid(ticker, amount):
+    bal = float(b.get_balance(ticker)['result']['Balance'])
+    tick = b.get_ticker('BTC-' + ticker)['result']
+    price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+    goal_bal = bal + (amount / price)
+    time_cnt = 0
+    while bal < goal_bal * 0.999:
+        try:
+            tick = b.get_ticker('BTC-' + ticker)['result']
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            bal = float(b.get_balance(ticker)['result']['Balance'])
+            clear_orders('BTC-' + ticker)
+            if (goal_bal - bal) * price < 0.1:
+                my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+            else:
+                my_buy('BTC-' + ticker, 0.1, type='bid')
+            time_cnt += 1
+            print("Time Count:", time_cnt, "(30 seconds / cnt)")
+            print("Balance:", bal, "Goal Balance:", goal_bal)
+            print("\n")
+            time.sleep(30)
+        except:
+            print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
+
+
 cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
 
 pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
 
-deposit_val = 0
+deposit_val = 0.125
 
 for i in range(len(cryptos)):
     pairs.append('BTC-' + cryptos[i])
 
-cryptos.append('BTC')
+#cryptos.append('BTC')
 
-for i in range(len(pairs)):
-    my_buy(pairs[i], deposit_val / len(cryptos), 'mid')
+indx = 0
+Parallel(n_jobs=20, verbose=10)(delayed(auto_bid)
+(cryptos[indx], deposit_val / len(pairs))
+    for indx in range(len(cryptos)))
 
 while 1:
     bals = b.get_balances()
     print("bals:", bals)
-    print("sleeping for 20 seconds")
-    time.sleep(20)
+    print("sleeping for 60 seconds")
+    time.sleep(60)

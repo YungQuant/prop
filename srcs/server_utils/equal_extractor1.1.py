@@ -245,11 +245,11 @@ def auto_bid(ticker, amount):
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
 
-cryptos = ['ANS', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
 
 pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
 
-ext_perc =
+ext_perc = 0.01
 
 for i in range(len(cryptos)):
     pairs.append('BTC-' + cryptos[i])

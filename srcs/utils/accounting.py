@@ -27,16 +27,21 @@ with open("../server_utils/hist_btc_val.txt") as file:
     for i in range(len(lines)):
         try:
             vals.append(float(lines[i]))
+            if vals[-1] < 0 or vals[-1] > 20:
+                print("VALS LINE", i, "IS FUCKED (==", vals[-1], ")")
+                vals[-1] = vals[-2]
         except:
             i += 1
 
 file.close()
 #VVVV ADJUST FOR WITHDRAWALS AND PROFIT TAKING
-vals = vals[42000:]
+#vals = vals[42000:]
 
 for i in range(len(vals)):          #VVVVVVVVVVVVVVVVVVVVVVVV  <- REBALENCES TRIP DEPOSIT FILTER
-    if vals[i] - vals[i - 1] > 0.4:
+    if vals[i] - vals[i - 1] > 0.1:
         basis += vals[i] - vals[i - 1]
+    if vals[i] - vals[i - 1] < -0.1:
+        basis -= abs(vals[i] - vals[i - 1])
     adj_vals.append(vals[i] - basis)
 
 print("Basis Accumulated:", basis)
@@ -46,12 +51,12 @@ plot(adj_vals, xLabel="Time (60 sec increments, 1440/day)", yLabel="Total Holdin
 
 t1 = 1000; t2 = 1600; t = t1; returns = [];
 while t < t2:
-    returns.append(check_commissions(adj_vals[:], t))
+    returns.append(check_commissions(adj_vals[42000:], t))
     print(returns[-1])
     t += 1
 
 plot(returns)
 print("MEAN RETURNS:", np.mean(returns))
-print("Profits last taken @ 7/26/17 ( 56000 )")
+print("Profits last taken @ 9/2/17 ( 86000 )")
 
 
