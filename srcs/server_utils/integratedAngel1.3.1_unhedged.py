@@ -1,6 +1,7 @@
 """
    See https://bittrex.com/Home/Api
 """
+from joblib import Parallel, delayed
 import numpy as np
 import time
 import hmac
@@ -12,7 +13,30 @@ except ImportError:
     from urllib.parse import urlencode
     from urllib.parse import urljoin
 import requests
-from joblib import Parallel, delayed
+import logging
+from pynamodb.models import Model
+from pynamodb.attributes import (
+    UnicodeAttribute, NumberAttribute, UnicodeSetAttribute, UTCDateTimeAttribute
+)
+from datetime import datetime
+
+logging.basicConfig()
+log = logging.getLogger("pynamodb")
+log.setLevel(logging.DEBUG)
+log.propagate = True
+
+
+class DB(Model):
+    class Meta:
+        read_capacity_units = 1
+        write_capacity_units = 1
+        table_name = "NPCDB"
+    main_account_name = UnicodeAttribute(hash_key=True)
+    sub_account_name = UnicodeAttribute(range_key=True)
+    main_account_balance = NumberAttribute()
+    sub_account_balance = NumberAttribute()
+    last_post_datetime = UTCDateTimeAttribute(null=True)
+
 
 BUY_ORDERBOOK = 'buy'
 SELL_ORDERBOOK = 'sell'
@@ -115,20 +139,20 @@ def my_buy(ticker, amount, type):
         price = b.get_ticker(ticker)['result']['Ask']
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'bid':
         price = b.get_ticker(ticker)['result']['Bid']
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
         b.buy_limit(ticker, amount, price)
-        print("BUY ticker, price, amount", ticker, price, amount)
+        print("BUY ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'auto1':
         tick = b.get_ticker(ticker)['result']
@@ -142,20 +166,20 @@ def my_sell(ticker, amount, type):
         price = b.get_ticker(ticker)['result']['Ask']
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'bid':
         price = b.get_ticker(ticker)['result']['Bid']
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'mid':
         tick = b.get_ticker(ticker)['result']
         price = np.mean([float(tick['Ask']), float(tick['Bid'])])
         amount /= price
         b.sell_limit(ticker, amount, price)
-        print("SELL ticker, price, amount", ticker, price, amount)
+        print("SELL ticker, price, amount", ticker, price, amount, "\n")
 
     if type == 'auto1':
         while b.get_open_orders(ticker).result != []:
@@ -177,7 +201,7 @@ def clear_orders(ticker):
     else:
         print("No Orders (", orders,")\n")
 
-def liquidate(ticker):
+def liquidate(ticker, preference='ask'):
     bal = float(b.get_balance(ticker)['result']['Balance'])
     amount = bal
     goal_bal = 0
@@ -191,7 +215,7 @@ def liquidate(ticker):
         print(ticker)
         print("Time Count (10 seconds / cnt):", time_cnt)
         print("Balance:", bal, "Goal Balance:", goal_bal, "\n")
-        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type='ask')
+        my_sell('BTC-' + ticker, (bal - goal_bal) * price, type=preference)
         time.sleep(10)
 
 def auto_ask(ticker, amount):
@@ -199,7 +223,10 @@ def auto_ask(ticker, amount):
     start_bal = bal
     tick = b.get_ticker('BTC-' + ticker)['result']
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    goal_bal = bal - (amount / price)
+    if ticker != "USDT":
+        goal_bal = bal - (amount / price)
+    else:
+        goal_bal = bal - (amount * price)
     if goal_bal < 0: goal_bal = 0
     time_cnt = 0
     while bal > goal_bal + (start_bal * 0.001):
@@ -208,10 +235,16 @@ def auto_ask(ticker, amount):
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             bal = float(b.get_balance(ticker)['result']['Balance'])
             clear_orders('BTC-' + ticker)
-            if (bal - goal_bal) * price < 0.1:
-                my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+            if ticker != "USDT":
+                if (bal - goal_bal) * price < 0.1:
+                    my_sell('BTC-' + ticker, ((bal - goal_bal) / price), type='ask')
+                else:
+                    my_sell('BTC-' + ticker, 0.1, type='ask')
             else:
-                my_sell('BTC-' + ticker, 0.1, type='ask')
+                if (bal - goal_bal) / price < 0.1:
+                    my_sell('BTC-' + ticker, ((bal - goal_bal) * price), type='ask')
+                else:
+                    my_sell('BTC-' + ticker, 0.1 * price, type='ask')
             time_cnt += 1
             print("Time Count (30 seconds / cnt):", time_cnt)
             print("Balance:", bal, "Goal Balance:", goal_bal)
@@ -224,7 +257,10 @@ def auto_bid(ticker, amount):
     bal = float(b.get_balance(ticker)['result']['Balance'])
     tick = b.get_ticker('BTC-' + ticker)['result']
     price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-    goal_bal = bal + (amount / price)
+    if ticker != "USDT":
+        goal_bal = bal + (amount / price)
+    else:
+        goal_bal = bal + (amount * price)
     time_cnt = 0
     while bal < goal_bal * 0.999:
         try:
@@ -232,10 +268,16 @@ def auto_bid(ticker, amount):
             price = np.mean([float(tick['Ask']), float(tick['Bid'])])
             bal = float(b.get_balance(ticker)['result']['Balance'])
             clear_orders('BTC-' + ticker)
-            if (goal_bal - bal) * price < 0.1:
-                my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+            if ticker != "USDT":
+                if (goal_bal - bal) * price < 0.1:
+                    my_buy('BTC-' + ticker, (goal_bal - bal) / price, type='bid')
+                else:
+                    my_buy('BTC-' + ticker, 0.1, type='bid')
             else:
-                my_buy('BTC-' + ticker, 0.1, type='bid')
+                if (goal_bal - bal) * price < 0.1:
+                    my_buy('BTC-' + ticker, (goal_bal - bal) * price, type='bid')
+                else:
+                    my_buy('BTC-' + ticker, 0.1, type='bid')
             time_cnt += 1
             print("Time Count:", time_cnt, "(30 seconds / cnt)")
             print("Balance:", bal, "Goal Balance:", goal_bal)
@@ -244,28 +286,138 @@ def auto_bid(ticker, amount):
         except:
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
-#ANONYMITY: XMR, ZEC, DASH
-#DIST COMP: NEO, GNT, ETH, MAID
-#AAA: BTC, LTC, ETH, XMR
+def squash(allocs, cuml):
+    new_allocs = []
+    for i in range(len(allocs)):
+        new_allocs.append(allocs[i] / cuml)
+    return new_allocs
 
-cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
 
-pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
-
-deposit_val = 0.125
-
-for i in range(len(cryptos)):
-    pairs.append('BTC-' + cryptos[i])
-
-#cryptos.append('BTC')
-
-indx = 0
-Parallel(n_jobs=20, verbose=10)(delayed(auto_bid)
-(cryptos[indx], deposit_val / len(pairs))
-    for indx in range(len(cryptos)))
-
-while 1:
+def rebalence(cryptos):
+    pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
+    for i in range(len(cryptos) - 1):
+        pairs.append("BTC-" + cryptos[i])
     bals = b.get_balances()
     print("bals:", bals)
-    print("sleeping for 60 seconds")
-    time.sleep(60)
+
+    for k in range(len(cryptos)):
+        for i in range(len(bals['result'])):
+            if cryptos[k] in bals['result'][i]['Currency']:
+                print("found:", bals['result'][i])
+                vals.append(float(bals['result'][i]['Available']))
+
+
+    tot_btc_val += vals[-1]
+    print("CRYPTOS, VALS", cryptos, vals)
+
+    for i in range(len(vals) -1):
+        tick = b.get_ticker(pairs[i])
+        tick = tick['result']
+        print(pairs[i], "ticker response ['result']:", tick)
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        #price = float(tick['Bid'])
+        btc_vals.append(vals[i] * price)
+        tot_btc_val += vals[i] * price
+
+    btc_vals.append(vals[-1])
+    goal_val = tot_btc_val/len(btc_vals) * 0.999
+    print("CRYPTOS, BTC_VALS", cryptos, btc_vals)
+    print("tot_btc_val:", tot_btc_val)
+    print("goal_val:", goal_val)
+    buys = []; sells = []; buy_vals = []; sell_vals = [];
+    for i in range(len(btc_vals) -1):
+        if btc_vals[i] > goal_val:
+            sells.append(cryptos[i])
+            sell_vals.append(btc_vals[i] - goal_val)
+            #auto_ask(cryptos[i], btc_vals[i] - goal_val, 'bid')
+
+    for i in range(len(btc_vals) - 1):
+        if btc_vals[i] < goal_val:
+            buys.append(cryptos[i])
+            buy_vals.append(goal_val - btc_vals[i])
+            #auto_bid(cryptos[i], goal_val - btc_vals[i], 'ask')
+
+    indx = 0
+    Parallel(n_jobs=20, verbose=10)(delayed(auto_ask)
+    (sells[indx], sell_vals[indx])
+        for indx in range(len(sells)))
+    indx = 0
+    Parallel(n_jobs=20, verbose=10)(delayed(auto_bid)
+    (buys[indx], buy_vals[indx])
+        for indx in range(len(buys)))
+
+
+
+
+time_cnt = 0; hist_vals = []; profits = 0;
+while(1):
+    try:
+        cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+        REBAL_TOL = 0.0125
+        vals = []; btc_vals = []; tot_btc_val = 0; pairs = []; hist_btc_ref_vals = [];
+        for i in range(len(cryptos)):
+            pairs.append('BTC-' + cryptos[i])
+        bals = b.get_balances()
+        # print("bals:", bals)
+        for k in range(len(cryptos)):
+            for i in range(len(bals['result'])):
+                if cryptos[k] in bals['result'][i]['Currency']:
+                    # print("found:", bals['result'][i])
+                    vals.append(float(bals['result'][i]['Available']))
+
+        for i in range(len(pairs)):
+            tick = b.get_ticker(pairs[i])
+            tick = tick['result']
+            # print(pairs[i], "ticker response ['result']:", tick)
+            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+            # print(tick['Bid'])
+            # price = float(tick['Bid'])
+            btc_vals.append(vals[i] * price)
+            tot_btc_val += vals[i] * price
+
+
+        tot = sum(btc_vals)
+        squashed_vals = squash(btc_vals, tot)
+        #print(vals)
+        if np.var(squashed_vals) > np.mean(squashed_vals) * REBAL_TOL:
+            for i in range(20): print("NEEDS REBALANCING")
+            rebalence(cryptos)
+
+        print("angel1.3.1 \"Dual Squashing Edition\" ")
+        print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
+        print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
+        print("TOT_BTC_VAL:", tot_btc_val)
+        #print("COMMISSION PROFITS:", profits)
+        print("runtime:", time_cnt / 60, "minutes")
+        print("CRYPTOS:", cryptos)
+        print("HOLDINGS:", vals)
+        print("BTC VALS:", btc_vals)
+        print("\n")
+
+        if time_cnt % 600 == 0:
+            file = open("hist_btc_val.txt", 'a')
+            file.write(str(tot_btc_val))
+            file.write("\n")
+            file.close()
+
+            hist_btc_ref_vals.append(tot_btc_val)
+
+            if len(hist_btc_ref_vals) > 2:
+                change = (hist_btc_ref_vals[-1] - hist_btc_ref_vals[-2]) / hist_btc_ref_vals[-2]
+
+                for item in DB.scan():
+                    print(item, item.main_account_balance)
+                    item.main_account_balance *= (1 + change)
+                    item.save()
+                    print(item, item.main_account_balance)
+
+            if len(hist_btc_ref_vals) > 5:
+                hist_btc_ref_vals = hist_btc_ref_vals[-5:]
+
+    except:
+        for i in range(10):
+            print("DUUUUUUDE WTF")
+
+    time.sleep(10)
+    time_cnt += 10
+

@@ -89,8 +89,8 @@ def get_the_shit(prices, alloc, lookback, n, len_buys):
     scaler = MinMaxScaler(feature_range=(-1, 1))
     X, Y = create_dataset(prices[:n], lookback)
     # X = scaler.fit_transform(X)
-    # R = Ridge(alpha=a, fit_intercept=True, normalize=True)
-    R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
+    R = Ridge(alpha=a, fit_intercept=True, normalize=True)
+    #R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
     R.fit(X, Y)
     predict = R.predict(prices[-lookback:])
     #predicts.append(predict)
@@ -155,7 +155,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, lookback=10, plt_bool=False
     for r, tick in enumerate(ticker):
         if len(tick) < 9:
             fileTicker.append("../../data/" + tick + ".txt")
-            fileOutput.append("../../output/" + tick + "envTest2.2_output.txt")
+            fileOutput.append("../../output/" + tick + "envTest2.2_ridgeEdition_9,13,17_output.txt")
         elif len(tick) > 9:
             fileTicker.append("../../data/" + "BITSTAMP_USD_BTC.txt")
             fileOutput.append("../../output/" + "BITSTAMP_USD_BTC_envTest1_output.txt")
@@ -216,8 +216,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, lookback=10, plt_bool=False
 
     return cuml
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC", "BCHARTS/BITSTAMPUSD"]
-k1 = 80; k2 = 200; k = k1; results = [];
+ticker = ["BTC_GNT", "BTC_ZEC", "BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+k1 = 2; k2 = 200; k = k1; results = [];
 while k < k2:
     results.append(global_warming(ticker, 1, tradeCost=0.005, lookback=int(np.floor(k)), plt_bool=False))
     k += 1

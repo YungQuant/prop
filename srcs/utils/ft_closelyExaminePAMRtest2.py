@@ -66,7 +66,7 @@ def sparsenPriceData(data, divisor=10):
 def CryptoQuote1(the_symbol):
     class ohlcvObj():
         open, high, low, close, volume = [], [], [], [], []
-    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=86400".format(the_symbol)
     response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
     print(the_symbol, response[0:10])
     for i, curr in enumerate(response):
@@ -254,8 +254,8 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0.5)):]):
-        for i, stocks in enumerate(stock1[-120:]):
+        #for i, stocks in enumerate(stock1[int(np.floor(len(stock1) * 0)):]):
+        for i, stocks in enumerate(stock1[-365:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -288,10 +288,13 @@ def global_warming(ticker, cuml=1, C=500, epsilon=0.5, plt_bool=False, tradeCost
 
     if plt_bool == True:
         plot(cumld, xLabel="Days", yLabel="Percent Gains (starts at 100%)")
+        print(cumld)
 
     return cumld[-1]
 
-ticker = ["BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+#['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+
+ticker = ["BTC_GNT", "BTC_ZEC", "BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
 #ticker = ["BTC-ETH", "BTC-XMR", "BTC-DASH", "BTC-XRP", "BTC-MAID", "BTC-LTC"]
 
-global_warming(ticker, 1, plt_bool=True, C=31, epsilon=0.21)
+global_warming(ticker, 1, plt_bool=True, C=1, epsilon=0.11)
