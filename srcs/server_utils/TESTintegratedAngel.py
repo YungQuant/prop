@@ -351,7 +351,7 @@ def rebalence(cryptos):
 
 time_cnt = 0; hist_vals = []; profits = 0; hist_btc_ref_vals = [];
 while(1):
-    try:
+    while(2):
         cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
         REBAL_TOL = 0.0125
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
@@ -410,7 +410,7 @@ while(1):
                     print(item, item.main_account_balance)
                     item.main_account_balance *= (1 + change)
                     item.save()
-                    db_total += item.main_account_balance
+                    #db_total += item.main_account_balance
                     print(item, item.main_account_balance)
 		
                 print("DB Total:", db_total)
@@ -421,9 +421,6 @@ while(1):
 
             print("\n\n")
 
-    except:
-        for i in range(10):
-            print("DUUUUUUDE WTF")
 
     time.sleep(10)
     time_cnt += 10
