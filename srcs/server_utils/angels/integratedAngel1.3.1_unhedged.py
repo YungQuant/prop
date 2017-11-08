@@ -405,14 +405,14 @@ while(1):
                 tmp_str = ""
                 for item in DB.scan():
                     print(item, item.main_account_balance)
-                    tmp_str += str(item + item.main_account_balance)
+                    tmp_str += (str(item) + " " + str(item.main_account_balance))
                     item.main_account_balance *= (1 + change)
                     item.save()
                     db_total += item.main_account_balance
                     print(item, item.main_account_balance)
 
                 file.write(str(tmp_str + "\n"))
-                file.write(str("db total:" + db_total + "  tot btc val:" + tot_btc_val + "\n"))
+                file.write(str("db total:" + str(db_total) + "  tot btc val:" + str(tot_btc_val) + "\n"))
                 file.close()
                 print("DB Total:", db_total)
 
