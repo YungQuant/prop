@@ -353,7 +353,7 @@ time_cnt = 0; hist_vals = []; profits = 0; hist_btc_ref_vals = [];
 while(1):
     try:
         cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
-        REBAL_TOL = 0.0125
+        REBAL_TOL = 9999
         vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
         for i in range(len(cryptos)):
             pairs.append('BTC-' + cryptos[i])
