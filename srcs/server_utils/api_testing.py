@@ -373,7 +373,7 @@ def auto_bid(ticker, amount):
 # ticker = "XRP"
 # print(b.get_balance(ticker)['result']['Balance'])
 # print(b.get_open_orders("BTC_XRP"))
-auto_bid("MAID", 0.09)
+auto_ask("ETH", 8)
 #my_sell("BTC-DOGE", 0.1, "bid")
 
 

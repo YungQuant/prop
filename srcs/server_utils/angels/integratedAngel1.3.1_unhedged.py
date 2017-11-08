@@ -395,29 +395,30 @@ while(1):
         print("\n")
 
         if time_cnt % 60 == 0:
-            file = open("hist_btc_val.txt", 'a')
-            file.write(str(tot_btc_val))
-            file.write("\n")
-            file.close()
-
             hist_btc_ref_vals.append(tot_btc_val)
-            print("**DEBUG*** hist_btc_ref_vals:", hist_btc_ref_vals, "\n")
+            #print("**DEBUG*** hist_btc_ref_vals:", hist_btc_ref_vals, "\n")
             if len(hist_btc_ref_vals) > 2:
+                file = open("hist_btc_val.txt", 'a')
                 db_total = 0
                 change = (hist_btc_ref_vals[-1] - hist_btc_ref_vals[-2]) / hist_btc_ref_vals[-2]
                 print("UPDATING DATABASE")
+                tmp_str = ""
                 for item in DB.scan():
                     print(item, item.main_account_balance)
+                    tmp_str += str(item + item.main_account_balance)
                     item.main_account_balance *= (1 + change)
                     item.save()
                     db_total += item.main_account_balance
                     print(item, item.main_account_balance)
-		
+
+                file.write(str(tmp_str + "\n"))
+                file.write(str("db total:" + db_total + "  tot btc val:" + tot_btc_val + "\n"))
+                file.close()
                 print("DB Total:", db_total)
 
             if len(hist_btc_ref_vals) > 5:
                 hist_btc_ref_vals = hist_btc_ref_vals[-5:]
-                print("Reallocating referance value memory")
+                print("Reallocating reference value memory")
 
             print("\n\n")
 

@@ -34,7 +34,7 @@ def plot(a, xLabel = 'Price', yLabel = 'Time Periods'):
     plt.show()
 
 vals = []; tick = "BTC-XRP"
-with open("hist_btc_val.txt") as file:
+with open("angels/hist_btc_val.txt") as file:
 #with open("../data/BTC_XRP.txt") as file:
 #with open("../../../../Desktop/comp/HD_60x100_outputs1/prices/" + tick + "_prices.txt") as file:
 #with open("../../../../Desktop/cluster_comp_prices_0/" + tick + "_prices.txt") as file:

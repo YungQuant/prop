@@ -351,76 +351,75 @@ def rebalence(cryptos):
 
 time_cnt = 0; hist_vals = []; profits = 0; hist_btc_ref_vals = [];
 while(1):
-    while(2):
-        cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
-        REBAL_TOL = 0.0125
-        vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
-        for i in range(len(cryptos)):
-            pairs.append('BTC-' + cryptos[i])
-        bals = b.get_balances()
-        # print("bals:", bals)
-        for k in range(len(cryptos)):
-            for i in range(len(bals['result'])):
-                if cryptos[k] in bals['result'][i]['Currency']:
-                    # print("found:", bals['result'][i])
-                    vals.append(float(bals['result'][i]['Available']))
+    cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
+    REBAL_TOL = 9999
+    vals = []; btc_vals = []; tot_btc_val = 0; pairs = [];
+    for i in range(len(cryptos)):
+        pairs.append('BTC-' + cryptos[i])
+    bals = b.get_balances()
+    # print("bals:", bals)
+    for k in range(len(cryptos)):
+        for i in range(len(bals['result'])):
+            if cryptos[k] in bals['result'][i]['Currency']:
+                # print("found:", bals['result'][i])
+                vals.append(float(bals['result'][i]['Available']))
 
-        for i in range(len(pairs)):
-            tick = b.get_ticker(pairs[i])
-            tick = tick['result']
-            # print(pairs[i], "ticker response ['result']:", tick)
-            price = np.mean([float(tick['Ask']), float(tick['Bid'])])
-            # print(tick['Bid'])
-            # price = float(tick['Bid'])
-            btc_vals.append(vals[i] * price)
-            tot_btc_val += vals[i] * price
+    for i in range(len(pairs)):
+        tick = b.get_ticker(pairs[i])
+        tick = tick['result']
+        # print(pairs[i], "ticker response ['result']:", tick)
+        price = np.mean([float(tick['Ask']), float(tick['Bid'])])
+        # print(tick['Bid'])
+        # price = float(tick['Bid'])
+        btc_vals.append(vals[i] * price)
+        tot_btc_val += vals[i] * price
 
 
-        tot = sum(btc_vals)
-        squashed_vals = squash(btc_vals, tot)
-        #print(vals)
-        if np.var(squashed_vals) > np.mean(squashed_vals) * REBAL_TOL:
-            for i in range(20): print("NEEDS REBALANCING")
-            rebalence(cryptos)
+    tot = sum(btc_vals)
+    squashed_vals = squash(btc_vals, tot)
+    #print(vals)
+    if np.var(squashed_vals) > np.mean(squashed_vals) * REBAL_TOL:
+        for i in range(20): print("NEEDS REBALANCING")
+        rebalence(cryptos)
 
-        print("angel1.3.1 \"Dual Squashing Edition\" ")
-        print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
-        print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
-        print("TOT_BTC_VAL:", tot_btc_val)
-        #print("COMMISSION PROFITS:", profits)
-        print("runtime:", time_cnt / 60, "minutes")
-        print("CRYPTOS:", cryptos)
-        print("HOLDINGS:", vals)
-        print("BTC VALS:", btc_vals)
-        print("\n")
-
-        if time_cnt % 60 == 0:
+    print("angel1.3.1 \"Dual Squashing Edition\" ")
+    print("Range:", max(btc_vals) - min(btc_vals), "AVG:", np.mean(btc_vals), "VAR:", np.var(btc_vals))
+    print("squashed Range:", max(squashed_vals) - min(squashed_vals), "squashed adjAVG:", np.mean(squashed_vals) * REBAL_TOL, "squashed VAR:", np.var(squashed_vals))
+    print("TOT_BTC_VAL:", tot_btc_val)
+    #print("COMMISSION PROFITS:", profits)
+    print("runtime:", time_cnt / 60, "minutes")
+    print("CRYPTOS:", cryptos)
+    print("HOLDINGS:", vals)
+    print("BTC VALS:", btc_vals)
+    print("\n")
+    #NORMALLY TIME_CNT % 60
+    if time_cnt % 6 == 0:
+        hist_btc_ref_vals.append(tot_btc_val)
+        #print("**DEBUG*** hist_btc_ref_vals:", hist_btc_ref_vals, "\n")
+        if len(hist_btc_ref_vals) > 2:
             file = open("hist_btc_val.txt", 'a')
-            file.write(str(tot_btc_val))
-            file.write("\n")
+            db_total = 0
+            change = (hist_btc_ref_vals[-1] - hist_btc_ref_vals[-2]) / hist_btc_ref_vals[-2]
+            print("UPDATING DATABASE")
+            tmp_str = ""
+            for item in DB.scan():
+                print(item, item.main_account_balance)
+                tmp_str += (str(item) + " " + str(item.main_account_balance))
+                item.main_account_balance *= (1 + change)
+                item.save()
+                db_total += item.main_account_balance
+                print(item, item.main_account_balance)
+
+            file.write(str(tmp_str + "\n"))
+            file.write(str("db total:" + str(db_total) + "  tot btc val:" + str(tot_btc_val) + "\n"))
             file.close()
+            print("DB Total:", db_total)
 
-            hist_btc_ref_vals.append(tot_btc_val)
-            print("**DEBUG*** hist_btc_ref_vals:", hist_btc_ref_vals, "\n")
-            if len(hist_btc_ref_vals) > 2:
-                db_total = 0
-                change = (hist_btc_ref_vals[-1] - hist_btc_ref_vals[-2]) / hist_btc_ref_vals[-2]
-                print("UPDATING DATABASE")
-                for item in DB.scan():
-                    print(item, item.main_account_balance)
-                    item.main_account_balance *= (1 + change)
-                    item.save()
-                    #db_total += item.main_account_balance
-                    print(item, item.main_account_balance)
-		
-                print("DB Total:", db_total)
+        if len(hist_btc_ref_vals) > 5:
+            hist_btc_ref_vals = hist_btc_ref_vals[-5:]
+            print("Reallocating reference value memory")
 
-            if len(hist_btc_ref_vals) > 5:
-                hist_btc_ref_vals = hist_btc_ref_vals[-5:]
-                print("Reallocating referance value memory")
-
-            print("\n\n")
-
+        print("\n\n")
 
     time.sleep(10)
     time_cnt += 10

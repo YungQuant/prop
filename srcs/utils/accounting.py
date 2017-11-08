@@ -22,7 +22,7 @@ def check_commissions(hist_vals, t):
     return profits
 
 vals = []; adj_vals = []; basis = 0;
-with open("../server_utils/hist_btc_val.txt") as file:
+with open("../server_utils/angels/hist_btc_val.txt") as file:
     lines = file.readlines()
     for i in range(len(lines)):
         try:

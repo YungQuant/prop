@@ -108,7 +108,8 @@ class Bittrex(object):
         return self.api_query('getorderhistory', {'market':market, 'count': count})
 
 
-b = Bittrex('4c7632fcade64c4dbea18d79c3206739', '974c25d27f0545c390b77fe1068c6cd9')
+#b = Bittrex('4c7632fcade64c4dbea18d79c3206739', '974c25d27f0545c390b77fe1068c6cd9')
+b = Bittrex('4d314f07d8fb4c6a89622846b30e918e', 'e67bdd178aba478d954f54b6e5afccf7')
 
 def my_buy(ticker, amount, type):
     if type == 'ask':
@@ -249,7 +250,7 @@ cryptos = ['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'L
 
 pairs = []; vals = []; btc_vals = []; tot_btc_val = 0.0;
 
-ext_perc = 0.01
+ext_perc = 1
 
 for i in range(len(cryptos)):
     pairs.append('BTC-' + cryptos[i])
