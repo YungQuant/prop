@@ -218,37 +218,26 @@ def alert_duncan(message):
 
 
 initTimeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-ticker = "BITG/BTC"
-file = "../../../data" + ticker[0] + "_cryptopiaData/"
-fileOutput = "../../output/" + ticker[0] + "_mani1_" + initTimeStr + "_output.txt"
+ticker = "BITG_BTC"
+file = "../../../data" + ticker + "_cryptopiaData/"
+fileOutput = "../../output/" + ticker + "_mani1_" + initTimeStr + "_output.txt"
 
 while(1):
     timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-    print("Mani1 start:" + timeStr)
+    print("||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "Mani1 start:" + timeStr)
     api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
     print("Using:\n" + ticker + "\n" + file + "\n" + fileOutput + "\n")
     print("BTC Balance:", api.get_balance("BTC"), "BITG :", api.get_balance("BITG")[0]['Total', 'Available'])
     fileCuml, dataset = [], []
-    buys, sells, price = file + "buys.txt", file + "sells.txt", file + "prices.txt"
-    for i in range(3):
-        print(api.get_history(ticker))
-        if i == 0:
-            if (os.path.isfile(buys) == False):
-                print("missing file:", file)
-                buysFP = open(buys, "w")
-                print("created file: ", file)
-            else:
-                buysFP = open(buys, "a")
-            dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-            for i, buy in enumerate(buys):
-                buysFP.write(str(buy) + ", ")
-            buysFP.write(time + "\n")
-        elif i == 1:
-            sellsFP = open(sells, "a")
+    buys, sells = file + "buys.txt", file + "sells.txt"
+    with open(buys, "r") as buyFP:
+        buyData = buyFP.readlines()
+    buyFP.close()
+    with open(sells, "r") as sellFP:
+        sellData = sellFP.readlines()
+    sellFP.close()
+    curr_bid, curr_ask = buyData[-2], sellData[-2]
 
-        elif i == 2:
-            priceFP = open(price, "a")
-
-    print("Mani1 end: " + timeStr + "\n\n")
+    print("Mani1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||")
     time.sleep(10)
 

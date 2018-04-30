@@ -250,7 +250,6 @@ while(1):
                 print("\t", datum)
                 buysFP.write(datum)
             buysFP.write("\n" + timeStr + "\n")
-
         elif i == 1:
             sellsFP = create_or_edit_file(sells)
             print("writing sell price + volume: \n")
@@ -259,8 +258,6 @@ while(1):
                 print("\t", datum)
                 sellsFP.write(datum)
             sellsFP.write("\n" + timeStr + "\n")
-
-
     print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
     time.sleep(10)
 
