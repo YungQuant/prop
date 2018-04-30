@@ -232,31 +232,33 @@ while(1):
           "\n")
     fileCuml, dataset = [], []
     buys, sells, price = file + "buys.txt", file + "sells.txt", file + "prices.txt"
+    dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
     for i in range(2):
-        mrktInfo = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-        print(mrktInfo[0][0]['Buy'])
-        # if i == 0:
-        #     if (os.path.isfile(buys) == False):
-        #         print("missing file:", file)
-        #         buysFP = open(buys, "w")
-        #         print("created file: ", file)
-        #     else:
-        #         buysFP = open(buys, "a")
-        #     dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-        #     for i, buy in enumerate(dataset[0][0]['Buy']):
-        #         buysFP.write(str(buy['Price) + " " + str(buy['Volume'])
-        #     buysFP.write(time + "\n")
-        # elif i == 1:
-        #      if (os.path.isfile(sells) == False):
-        #         print("missing file:", file)
-        #         sellsFP = open(sells, "w")
-        #         print("created file: ", file)
-        #     else:
-        #         sellsFP = open(sells, "a")
-        #     dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-        #     for i, sell in enumerate(dataset[0][0]['Sell']):
-        #         sellsFP.write(str(sell['Price) + " " + str(sell['Volume'])
-        #     sellsFP.write(time + "\n")
+        # mrktInfo = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
+        # print(mrktInfo[0][0]['Buy'])
+        if i == 0:
+            if (os.path.isfile(buys) == False):
+                print("missing file:", file)
+                buysFP = open(buys, "w")
+                print("created file: ", file)
+            else:
+                buysFP = open(buys, "a")
+
+            for i, buy in enumerate(dataset[0][0]['Buy']):
+                buysFP.write(str(buy['Price']) + " " + str(buy['Volume']))
+            buysFP.write(time + "\n")
+
+        elif i == 1:
+            if (os.path.isfile(sells) == False):
+                print("missing file:", file)
+                sellsFP = open(sells, "w")
+                print("created file: ", file)
+            else:
+                sellsFP = open(sells, "a")
+
+            for i, sell in enumerate(dataset[0][0]['Sell']):
+                sellsFP.write(str(sell['Price']) + " " + str(sell['Volume']))
+            sellsFP.write(time + "\n")
      
 
     print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
