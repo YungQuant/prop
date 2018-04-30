@@ -215,49 +215,50 @@ def alert_duncan(message):
 
     print(m)
 
+def create_or_edit_file(filename):
+    if (os.path.isfile(filename) == False):
+        print("missing file:", filename)
+        file = open(filename, 'w')
+        print("created file: ", filename)
+    else:
+        file = open(filename, 'a')
+    return file
 
 
 initTimeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 ticker = "BITG_BTC"
-file = "../../../data/" + ticker[0] + "_cryptopiaData/"
+
+folder = "../../data/" + ticker.split('_')[0] + "_cryptopiaData/"
 
 while(1):
     timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
     print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr)
     api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
-    print("Using:" + ticker + "\n" + file + "\n")
+    print("Using:" + ticker + "\n" + folder + "\n")
     print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
           "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
           "\n")
     fileCuml, dataset = [], []
-    buys, sells, price = file + "buys.txt", file + "sells.txt", file + "prices.txt"
+    buys, sells, price = folder + "buys.txt", folder + "sells.txt", folder + "prices.txt"
     dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
     for i in range(2):
-        # mrktInfo = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-        # print(mrktInfo[0][0]['Buy'])
         if i == 0:
-            if (os.path.isfile(buys) == False):
-                print("missing file:", file)
-                buysFP = open(buys, "w")
-                print("created file: ", file)
-            else:
-                buysFP = open(buys, "a")
-
+            buysFP = create_or_edit_file(buys)
+            print("writing buy price + volume: \n")
             for i, buy in enumerate(dataset[0][0]['Buy']):
-                buysFP.write(str(buy['Price']) + " " + str(buy['Volume']))
-            buysFP.write(time + "\n")
+                datum = str(buy['Price']) + " " + str(buy['Volume'])
+                print("\t", datum)
+                buysFP.write(datum)
+            buysFP.write(timeStr + "\n")
 
         elif i == 1:
-            if (os.path.isfile(sells) == False):
-                print("missing file:", file)
-                sellsFP = open(sells, "w")
-                print("created file: ", file)
-            else:
-                sellsFP = open(sells, "a")
-
+            sellsFP = create_or_edit_file(sells)
+            print("writing sell price + volume: \n")
             for i, sell in enumerate(dataset[0][0]['Sell']):
-                sellsFP.write(str(sell['Price']) + " " + str(sell['Volume']))
-            sellsFP.write(time + "\n")
+                datum = str(sell['Price']) + " " + str(sell['Volume'])
+                print("\t", datum)
+                sellsFP.write(datum)
+            sellsFP.write(timeStr + "\n")
 
 
     print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
