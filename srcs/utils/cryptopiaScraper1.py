@@ -246,19 +246,19 @@ while(1):
             buysFP = create_or_edit_file(buys)
             print("writing buy price + volume: \n")
             for i, buy in enumerate(dataset[0][0]['Buy']):
-                datum = str(buy['Price']) + " " + str(buy['Volume'])
+                datum = str(buy['Price']) + " " + str(buy['Volume']) + " "
                 print("\t", datum)
                 buysFP.write(datum)
-            buysFP.write(timeStr + "\n")
+            buysFP.write("\n" + timeStr + "\n")
 
         elif i == 1:
             sellsFP = create_or_edit_file(sells)
             print("writing sell price + volume: \n")
             for i, sell in enumerate(dataset[0][0]['Sell']):
-                datum = str(sell['Price']) + " " + str(sell['Volume'])
+                datum = str(sell['Price']) + " " + str(sell['Volume']) + " "
                 print("\t", datum)
                 sellsFP.write(datum)
-            sellsFP.write(timeStr + "\n")
+            sellsFP.write("\n" + timeStr + "\n")
 
 
     print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
