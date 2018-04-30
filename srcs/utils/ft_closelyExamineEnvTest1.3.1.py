@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
 from joblib import Parallel, delayed
-import yahoo_finance
+#import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -135,8 +135,8 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
         with open(fileTicker[y], 'r') as f:
             stock1 = f.readlines()
         f.close()
-        #for i, stocks in enumerate(stock1[int(len(stock1) * 0):]):
-        for i, stocks in enumerate(stock1[-365:]):
+        for i, stocks in enumerate(stock1[int(len(stock1) * 0):]):
+        #for i, stocks in enumerate(stock1[-365:]):
             stock.append(float(stocks))
         for u in range(len(stock) - 1):
             diffs.append((stock[u + 1] - stock[u]) / stock[u])
@@ -150,7 +150,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
     for n in range(min([int(np.floor(len(cumulative_diffs[f]) * 1)) for f in range(len(cumulative_diffs))])):
         prices = [cumulative_prices[y][n] for y in range(len(cumulative_prices))]
         diffs = [cumulative_diffs[x][n] for x in range(len(cumulative_diffs))]
-        for g in range(len(allocs)):
+        for g in range(len(allocs) - 1):
             allocs[g] += allocs[g] * diffs[g]
         cuml = sum(allocs)
         if np.var(squash(allocs, cuml)) > np.mean(squash(allocs, cuml)) * rebal_tol:
@@ -179,7 +179,7 @@ def global_warming(ticker, cuml=1, tradeCost=0.0025, rebal_tol=0.1, plt_bool=Fal
 
 #['NEO', 'GNT', 'ZEC', 'XMR', 'XEM', 'DASH', 'MAID', 'STORJ', 'XRP', 'LTC', 'ETH']
 
-ticker = ["BTC_GNT", "BTC_ZEC", "BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_SJCX", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
+ticker = ["BTC_GNT", "BTC_ZEC", "BTC_ETH", "BTC_XEM", "BTC_XMR", "BTC_STORJ", "BTC_DASH", "BTC_XRP", "BTC_MAID", "BTC_LTC"]
 
 result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=0.041, plt_bool=True)
-result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=215, plt_bool=True)
+result, rebalsss, mdd = global_warming(ticker, 1, tradeCost=0.005, rebal_tol=21500, plt_bool=True)

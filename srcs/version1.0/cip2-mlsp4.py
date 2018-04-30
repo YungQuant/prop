@@ -241,11 +241,11 @@ def fucking_paul(tik, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
         arr.append(closeData)
         if i > int(np.floor(len(stock) * 0.7)):
             pred_low, pred_high = L.predict(arr[-Kin:]), H.predict(arr[-Kin:])
-            if ((closeData > ub) and (stockBought == False and stopLoss == False)):
+            if ((closeData > pred_low) and (stockBought == False and stopLoss == False)):
                 buy.append(closeData * (1+tradeCost))
                 bull += 1
                 stockBought = True
-            elif (closeData < lb) and stockBought == True:
+            elif (closeData < pred_high) and stockBought == True:
                 sell.append(closeData * (1 - tradeCost))
                 maxP = 0
                 shit += 1

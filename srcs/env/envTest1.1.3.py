@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 import os.path
 from multiprocessing import Pool
 from joblib import Parallel, delayed
-import yahoo_finance
+#import yahoo_finance
 from sklearn.preprocessing import MinMaxScaler
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)

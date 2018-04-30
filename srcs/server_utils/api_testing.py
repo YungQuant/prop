@@ -339,10 +339,10 @@ def auto_ask(ticker, amount):
             else:
                 my_sell('BTC-' + ticker, 0.1, type='ask')
             time_cnt += 1
-            print("Time Count (30 seconds / cnt):", time_cnt)
+            print("Time Count (15 seconds / cnt):", time_cnt)
             print("Balance:", bal, "Goal Balance:", goal_bal)
             print("\n")
-            time.sleep(30)
+            time.sleep(15)
         except:
             print("AUTO_ASK FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
@@ -363,17 +363,18 @@ def auto_bid(ticker, amount):
             else:
                 my_buy('BTC-' + ticker, 0.1, type='bid')
             time_cnt += 1
-            print("Time Count:", time_cnt, "(30 seconds / cnt)")
+            print("Time Count:", time_cnt, "(15 seconds / cnt)")
             print("Balance:", bal, "Goal Balance:", goal_bal)
             print("\n")
-            time.sleep(30)
+            time.sleep(15)
         except:
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 #
 # ticker = "XRP"
 # print(b.get_balance(ticker)['result']['Balance'])
 # print(b.get_open_orders("BTC_XRP"))
-auto_ask("ETH", 8)
+auto_ask("BCC", 8)
+#auto_bid("BCC", 8.0)
 #my_sell("BTC-DOGE", 0.1, "bid")
 
 

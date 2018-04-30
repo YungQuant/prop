@@ -1,5 +1,6 @@
 import numpy as np
 from sklearn.linear_model import Ridge, LinearRegression
+from sklearn.svm import SVC
 import quandl
 import urllib.request
 import urllib, time, datetime
@@ -371,8 +372,9 @@ def fucking_paul(tick, log, a, lookback, save_max, max_len, bitchCunt, tradeCost
         stockBought = False
         stopLoss = False
         bull = 0; shit = 0; maxP = 0;
-        R = Ridge(alpha=a, fit_intercept=True, normalize=True)
+        #R = Ridge(alpha=a, fit_intercept=True, normalize=True)
         #R = LinearRegression(fit_intercept=True, normalize=True, n_jobs=8)
+        R = SVC()
         R.fit(X, Y)
         for i, closeData in enumerate(stock):
             arr.append(closeData)

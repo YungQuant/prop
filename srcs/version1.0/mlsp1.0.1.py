@@ -72,7 +72,7 @@ def rsiN(a, n): #GETS RSI VALUE FROM "N" PERIODS OF "A" ARRAY
 #THIS SHITS KINDA IFFY, IF ITS ACTING WIERD GRAB ME
 
 def SMAn(a, n):                         #GETS SIMPLE MOVING AVERAGE OF "N" PERIODS FROM "A" ARRAY
-    si = 0
+    si = 0  
     if (len(a) < n):
         n = len(a)
     n = int(np.floor(n))
