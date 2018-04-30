@@ -232,22 +232,22 @@ while(1):
     buys, sells, price = file + "buys.txt", file + "sells.txt", file + "prices.txt"
     for i in range(3):
         print(api.get_history(ticker))
-        # if i == 0:
-        #     if (os.path.isfile(buys) == False):
-        #         print("missing file:", file)
-        #         buysFP = open(buys, "w")
-        #         print("created file: ", file)
-        #     else:
-        #         buysFP = open(buys, "a")
-        #     dataset =
-        #     for i, buy in enumerate(buys):
-        #         buysFP.write(str(buy) + ", ")
-        #     buysFP.write(time + "\n")
-        # elif i == 1:
-        #     sellsFP = open(sells, "a")
-        #
-        # elif i == 2:
-        #     priceFP = open(price, "a")
+        if i == 0:
+            if (os.path.isfile(buys) == False):
+                print("missing file:", file)
+                buysFP = open(buys, "w")
+                print("created file: ", file)
+            else:
+                buysFP = open(buys, "a")
+            dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
+            for i, buy in enumerate(buys):
+                buysFP.write(str(buy) + ", ")
+            buysFP.write(time + "\n")
+        elif i == 1:
+            sellsFP = open(sells, "a")
+
+        elif i == 2:
+            priceFP = open(price, "a")
 
     print("Mani1 end: " + timeStr + "\n\n")
     time.sleep(10)

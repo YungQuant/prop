@@ -218,20 +218,23 @@ def alert_duncan(message):
 
 
 initTimeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-ticker = "BITG/BTC"
+ticker = "BITG_BTC"
 file = "../../../data" + ticker[0] + "_cryptopiaData/"
 fileOutput = "../../output/" + ticker[0] + "_mani1_" + initTimeStr + "_output.txt"
 
 while(1):
     timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-    print("Mani1 start:" + timeStr)
+    print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr)
     api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
-    print("Using:\n" + ticker + "\n" + file + "\n" + fileOutput + "\n")
-    print("BTC Balance:", api.get_balance("BTC"), "BITG :", api.get_balance("BITG")[0]['Total', 'Available'])
+    print("Using:" + ticker + "\n" + file + "\n")
+    print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
+          "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
+          "\n")
     fileCuml, dataset = [], []
     buys, sells, price = file + "buys.txt", file + "sells.txt", file + "prices.txt"
-    for i in range(3):
-        print(api.get_history(ticker))
+    for i in range(2):
+        mrktInfo = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
+        print(mrktInfo[0][0]['Buy'])
         # if i == 0:
         #     if (os.path.isfile(buys) == False):
         #         print("missing file:", file)
@@ -239,16 +242,23 @@ while(1):
         #         print("created file: ", file)
         #     else:
         #         buysFP = open(buys, "a")
-        #     dataset =
-        #     for i, buy in enumerate(buys):
-        #         buysFP.write(str(buy) + ", ")
+        #     dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
+        #     for i, buy in enumerate(dataset[0][0]['Buy']):
+        #         buysFP.write(str(buy['Price) + " " + str(buy['Volume'])
         #     buysFP.write(time + "\n")
         # elif i == 1:
-        #     sellsFP = open(sells, "a")
-        #
-        # elif i == 2:
-        #     priceFP = open(price, "a")
+        #      if (os.path.isfile(sells) == False):
+        #         print("missing file:", file)
+        #         sellsFP = open(sells, "w")
+        #         print("created file: ", file)
+        #     else:
+        #         sellsFP = open(sells, "a")
+        #     dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
+        #     for i, sell in enumerate(dataset[0][0]['Sell']):
+        #         sellsFP.write(str(sell['Price) + " " + str(sell['Volume'])
+        #     sellsFP.write(time + "\n")
+     
 
-    print("Mani1 end: " + timeStr + "\n\n")
+    print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
     time.sleep(10)
 
