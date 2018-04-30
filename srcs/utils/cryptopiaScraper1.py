@@ -219,8 +219,7 @@ def alert_duncan(message):
 
 initTimeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 ticker = "BITG_BTC"
-file = "../../../data" + ticker[0] + "_cryptopiaData/"
-fileOutput = "../../output/" + ticker[0] + "_mani1_" + initTimeStr + "_output.txt"
+file = "../../../data/" + ticker[0] + "_cryptopiaData/"
 
 while(1):
     timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
@@ -259,7 +258,7 @@ while(1):
             for i, sell in enumerate(dataset[0][0]['Sell']):
                 sellsFP.write(str(sell['Price']) + " " + str(sell['Volume']))
             sellsFP.write(time + "\n")
-     
+
 
     print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
     time.sleep(10)
