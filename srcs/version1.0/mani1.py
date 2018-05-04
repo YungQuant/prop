@@ -202,8 +202,15 @@ class Api(object):
 def plot(a):
     y = np.arange(len(a))
     plt.plot(y, a, 'g')
-    plt.ylabel('Price')
-    plt.xlabel('Time Periods')
+    plt.ylabel('Y')
+    plt.xlabel('X')
+    plt.show()
+
+def plot2(a, b):
+    y = np.arange(len(a))
+    plt.plot(y, a, 'g', y, b, 'r')
+    plt.ylabel('Y')
+    plt.xlabel('X')
     plt.show()
 
 
@@ -215,29 +222,68 @@ def alert_duncan(message):
 
     print(m)
 
+def adj_vol(vols, avg):
+    adjArr = []
+    for i in range(len(vols)):
+        adjArr.append(vols[i] * avg)
+    return adjArr
 
 
 initTimeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 ticker = "BITG_BTC"
-file = "../../../data" + ticker + "_cryptopiaData/"
-fileOutput = "../../output/" + ticker + "_mani1_" + initTimeStr + "_output.txt"
+file = "../../data/" + ticker[:4] + "_cryptopiaData/"
+#fileOutput = "../../output/" + ticker + "_mani1_" + initTimeStr + "_output.txt"
 
 while(1):
     timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-    print("||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "Mani1 start:" + timeStr)
+    # print("||||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "Mani1 start:" + timeStr)
     api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
-    print("Using:\n" + ticker + "\n" + file + "\n" + fileOutput + "\n")
-    print("BTC Balance:", api.get_balance("BTC"), "BITG :", api.get_balance("BITG")[0]['Total', 'Available'])
-    fileCuml, dataset = [], []
+    # print("Using:\n" + ticker + "\n" + file + "\n")
+    # print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
+    #       "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
+    #       "\n")
+    fileCuml, dataset, buyData, sellData, preBuyData, preSellData = [], [], [], [], [], []
     buys, sells = file + "buys.txt", file + "sells.txt"
+
     with open(buys, "r") as buyFP:
-        buyData = buyFP.readlines()
+        rawBuyData = buyFP.readlines()
     buyFP.close()
     with open(sells, "r") as sellFP:
-        sellData = sellFP.readlines()
+        rawSellData = sellFP.readlines()
     sellFP.close()
-    curr_bid, curr_ask = buyData[-2], sellData[-2]
 
-    print("Mani1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||")
-    time.sleep(10)
+    rawBuyData = rawBuyData[:int(np.floor(len(rawBuyData)))]
+    rawSellData = rawSellData[:int(np.floor(len(rawSellData)))]
 
+    for i in range(len(rawBuyData)):
+        if i % 2 == 0:
+
+
+    break
+
+print("rawBuyData:\n", rawBuyData[:100], "\nShape:", len(rawBuyData))
+print("preBuyData:\n", preBuyData[:100], "\nShape:")
+print("buyPrices:", buyPrices[1])
+
+
+
+
+
+    # print(buyPrices)
+    # print(sellPrices)
+    # curr_bid, curr_ask, curr_bid_vol, curr_ask_vol = buyPrices[0], sellPrices[0], buyVols[0], sellVols[0]
+    # avg_bid, avg_ask, min_bid, max_ask = np.mean(buyVols), np.mean(sellVols), np.min(buyPrices), np.max(sellPrices)
+    # total_bid, total_ask = sum(buyVols), sum(sellVols)
+    # bidPriceStdDev, askPriceStdDev, bidVolStdDev, askVolStdDev = np.std(buyPrices), np.std(sellPrices), np.std(buyVols), np.std(sellVols)
+    # adjBuyVols, adjSellVols = adj_vol(buyVols, np.mean(buyPrices)), adj_vol(sellVols, np.mean(sellPrices))
+    # # print("buyPrices shape: ", np.shape(buyPrices), "sellPrices shape: ", np.shape(sellPrices), "buyVols shape:", np.shape(buyVols), "sellVols shape", np.shape(sellVols))
+    # # plot2(buyPrices, sellPrices)
+    # # plot2(buyVols, sellVols)
+    # # plot2(adjBuyVols, adjSellVols)
+    # # print("\nCurrBid:", curr_bid, "X", curr_bid_vol, "CurrAsk:", curr_ask, "X", curr_ask_vol)
+    # # print("AvgBid:", avg_bid, "AvgAsk:", avg_ask, "MinBid:", min_bid, "MaxAsk", max_ask)
+    # # print("TotalBid:", total_bid, "(",  total_bid * np.mean(buyPrices), ")", "TotalAsk:", total_ask, "(", total_ask * np.mean(sellPrices), ")")
+    # # print("bidPriceStdDev:", bidPriceStdDev, "askPriceStdDev:", askPriceStdDev, "bidVolStdDev:", bidVolStdDev, "askVolStdDev:", askVolStdDev)
+    # print("Mani1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||||||")
+    # time.sleep(10)
+    #

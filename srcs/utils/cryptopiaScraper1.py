@@ -231,33 +231,36 @@ ticker = "BITG_BTC"
 folder = "../../data/" + ticker.split('_')[0] + "_cryptopiaData/"
 
 while(1):
-    timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-    print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr)
-    api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
-    print("Using:" + ticker + "\n" + folder + "\n")
-    print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
-          "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
-          "\n")
-    fileCuml, dataset = [], []
-    buys, sells, price = folder + "buys.txt", folder + "sells.txt", folder + "prices.txt"
-    dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-    for i in range(2):
-        if i == 0:
-            buysFP = create_or_edit_file(buys)
-            print("writing buy price + volume: \n")
-            for i, buy in enumerate(dataset[0][0]['Buy']):
-                datum = str(buy['Price']) + " " + str(buy['Volume']) + " "
-                print("\t", datum)
-                buysFP.write(datum)
-            buysFP.write("\n" + timeStr + "\n")
-        elif i == 1:
-            sellsFP = create_or_edit_file(sells)
-            print("writing sell price + volume: \n")
-            for i, sell in enumerate(dataset[0][0]['Sell']):
-                datum = str(sell['Price']) + " " + str(sell['Volume']) + " "
-                print("\t", datum)
-                sellsFP.write(datum)
-            sellsFP.write("\n" + timeStr + "\n")
-    print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
-    time.sleep(10)
+    try:
+        timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
+        print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr)
+        api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
+        print("Using:" + ticker + "\n" + folder + "\n")
+        print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
+              "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
+              "\n")
+        fileCuml, dataset = [], []
+        buys, sells, price = folder + "buys.txt", folder + "sells.txt", folder + "prices.txt"
+        dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
+        for i in range(2):
+            if i == 0:
+                buysFP = create_or_edit_file(buys)
+                print("writing buy price + volume...")
+                for i, buy in enumerate(dataset[0][0]['Buy']):
+                    datum = str(buy['Price']) + " " + str(buy['Volume']) + " "
+                    #print("\t", datum)
+                    buysFP.write(datum)
+                buysFP.write("\n" + timeStr + "\n")
+            elif i == 1:
+                sellsFP = create_or_edit_file(sells)
+                print("writing sell price + volume...")
+                for i, sell in enumerate(dataset[0][0]['Sell']):
+                    datum = str(sell['Price']) + " " + str(sell['Volume']) + " "
+                    #print("\t", datum)
+                    sellsFP.write(datum)
+                sellsFP.write("\n" + timeStr + "\n")
+        print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
+        time.sleep(10)
+    except:
+        print("FUUUUUUUUUUCK")
 
