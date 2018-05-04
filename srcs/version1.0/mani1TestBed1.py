@@ -242,23 +242,26 @@ while(1):
 
     with open(buys, "r") as buyFP:
         buyDataRaw = buyFP.readlines()
-    buyFP.close()
     with open(sells, "r") as sellFP:
         sellDataRaw = sellFP.readlines()
-    sellFP.close()
 
+    buyPrices, buyVols, sellPrices, sellVols = [],[],[],[]
     for i in range(len(buyDataRaw)):
         if i % 2 == 0:
             buyData = buyDataRaw[i].split(" ")
             sellData = sellDataRaw[i].split(" ")
-            buyPrices, buyVols, sellPrices, sellVols = [],[],[],[]
-            for i in range(int(np.floor(len(buyData) / 2))):
+            for i in range(int(np.floor(len(buyData))) - 1):
                 if i % 2 == 0:
                     buyPrices.append(float(buyData[i]))
-                    sellPrices.append(float(sellData[i]))
-                elif i % 2 != 0:
+                else:
                     buyVols.append(float(buyData[i]))
+            for i in range(int(np.floor(len(sellData))) - 1):
+                if i % 2 == 0:
+                    sellPrices.append(float(sellData[i]))
+                else:
                     sellVols.append(float(sellData[i]))
+
+
 
     #print(buyPrices)
     curr_bid, curr_ask, curr_bid_vol, curr_ask_vol = buyPrices[0], sellPrices[0], buyVols[0], sellVols[0]
