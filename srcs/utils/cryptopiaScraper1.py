@@ -243,14 +243,16 @@ def fetch_dynamo_table(table_name):
         return table
     # note: other things can go wrong other than table not existing
     except:
-        print(f'creating {table_name} table')
+        print(f'Creating {table_name} table')
         table = dynamodb.create_table(
             TableName=table_name,
             KeySchema=[
-                { 'AttributeName': 'timestamp', 'KeyType': 'HASH' }
+                { 'AttributeName': 'timestamp', 'KeyType': 'HASH' },
+                { 'AttributeName': 'price', 'KeyType': 'RANGE' }
             ],
             AttributeDefinitions=[
-                { 'AttributeName': 'timestamp', 'AttributeType': 'S' }
+                { 'AttributeName': 'timestamp', 'AttributeType': 'S' },
+                { 'AttributeName': 'price', 'AttributeType': 'N' }
             ],
             ProvisionedThroughput={
                 'ReadCapacityUnits': 5,
