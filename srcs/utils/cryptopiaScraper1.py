@@ -272,8 +272,8 @@ print('sells status: ', sellsTable.table_status)
 
 while(1):
     try:
-        timeStr = lambda: datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-        print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr())
+        timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
+        print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr)
         api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
         print("Using:" + ticker + "\n" + folder + "\n")
         print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
@@ -289,13 +289,13 @@ while(1):
         with buysTable.batch_writer() as batch:
             for i, buy in enumerate(dataset[0][0]['Buy']):
                 batch.put_item(Item={
-                    'timestamp': timeStr(),
+                    'timestamp': timeStr,
                     'price': Decimal(str(buy['Price'])),
                     'volume': Decimal(str(buy['Volume']))
                 })
                 datum = str(buy['Price']) + " " + str(buy['Volume']) + " "
                 buysFP.write(datum)
-            buysFP.write("\n" + timeStr() + "\n")
+            buysFP.write("\n" + timeStr + "\n")
 
         sells = []
         sellsFP = create_or_edit_file(sellsFile)
@@ -303,16 +303,16 @@ while(1):
         with sellsTable.batch_writer() as batch:
             for i, sell in enumerate(dataset[0][0]['Sell']):
                 batch.put_item(Item={
-                    'timestamp': timeStr(),
+                    'timestamp': timeStr,
                     'price': Decimal(str(sell['Price'])),
                     'volume': Decimal(str(sell['Volume']))
                 })
                 datum = str(sell['Price']) + " " + str(sell['Volume']) + " "
                 #print("\t", datum)
                 sellsFP.write(datum)
-            sellsFP.write("\n" + timeStr() + "\n")
+            sellsFP.write("\n" + timeStr + "\n")
 
-        print("cryptopiaScraper1 end: " + timeStr() + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
+        print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
         time.sleep(10)
     except:
         print("FUUUUUUUUUUCK",  sys.exc_info())
