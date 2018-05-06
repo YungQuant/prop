@@ -31,6 +31,7 @@ except ImportError:
 # using requests.compat to wrap urlparse (python cross compatibility over 9000!!!)
 from requests.compat import quote_plus
 
+import boto3
 
 class Api(object):
     """ Represents a wrapper for cryptopia API """
@@ -222,6 +223,35 @@ def alert_duncan(message):
 
     print(m)
 
+# Get or create the db
+dynamodb = boto3.resource('dynamodb', region_name='us-west-2')
+
+def fetch_dynamo_table(table_name):
+    try:
+        return dynamodb.Table(table_name)
+    except boto3.errorfactory.ResourceNotFoundException:
+        table = dynamodb.create_table(
+            TableName=table_name,
+            KeySchema=[
+                { 'AttributeName': 'timestamp', 'KeyType': 'HASH' },
+                { 'AttributeName': 'volume', 'KeyType': 'RANGE' },
+                { 'AttributeName': 'price', 'KeyType': 'RANGE' }
+            ],
+            AttributeDefinitions=[
+                { 'AttributeName': 'timestamp', 'AttributeType': 'S' },
+                { 'AttributeName': 'volume', 'AttributeType': 'N' },
+                { 'AttributeName': 'price', 'AttributeType': 'N' }
+            ],
+            ProvisionedThroughput={
+                'ReadCapacityUnits': 5,
+                'WriteCapacityUnits': 5
+            }
+        )
+        table.meta.client.get_waiter('table_exists').wait(TableName=table_name)
+        return table
+
+buysTable = fetch_dynamo_table('buys')
+sellsTable = fetch_dynamo_table('sells')
 
 
 initTimeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
@@ -238,30 +268,41 @@ while(1):
           "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
           "\n")
     fileCuml, dataset = [], []
-    buys, sells = file + "buys.txt", file + "sells.txt"
 
-    with open(buys, "r") as buyFP:
-        buyDataRaw = buyFP.readlines()
-    with open(sells, "r") as sellFP:
-        sellDataRaw = sellFP.readlines()
+    # # Load buys + sells from file
+    # buys, sells = file + "buys.txt", file + "sells.txt"
 
-    buyPrices, buyVols, sellPrices, sellVols = [],[],[],[]
-    for i in range(len(buyDataRaw)):
-        if i % 2 == 0:
-            buyData = buyDataRaw[i].split(" ")
-            sellData = sellDataRaw[i].split(" ")
-            for i in range(int(np.floor(len(buyData))) - 1):
-                if i % 2 == 0:
-                    buyPrices.append(float(buyData[i]))
-                else:
-                    buyVols.append(float(buyData[i]))
-            for i in range(int(np.floor(len(sellData))) - 1):
-                if i % 2 == 0:
-                    sellPrices.append(float(sellData[i]))
-                else:
-                    sellVols.append(float(sellData[i]))
+    # with open(buys, "r") as buyFP:
+    #     buyDataRaw = buyFP.readlines()
+    # with open(sells, "r") as sellFP:
+    #     sellDataRaw = sellFP.readlines()
 
+    # buyPrices, buyVols, sellPrices, sellVols = [],[],[],[]
+    # for i in range(len(buyDataRaw)):
+    #     if i % 2 == 0:
+    #         buyData = buyDataRaw[i].split(" ")
+    #         sellData = sellDataRaw[i].split(" ")
+    #         for i in range(int(np.floor(len(buyData))) - 1):
+    #             if i % 2 == 0:
+    #                 buyPrices.append(float(buyData[i]))
+    #             else:
+    #                 buyVols.append(float(buyData[i]))
 
+    # for i in range(len(sellDataRaw)):
+    #     if i % 2 == 0:
+    #         sellData = sellDataRaw[i].split(" ")
+    #         for i in range(int(np.floor(len(sellData))) - 1):
+    #             if i % 2 == 0:
+    #                 sellPrices.append(float(sellData[i]))
+    #             else:
+    #                 sellVols.append(float(sellData[i]))
+
+    buys = buysTable.scan()['Items']
+    sells = sellsTable.scan()['Items']
+    buyVols = [order["volume"] for order in buys]
+    sellVols = [order["volume"] for order in sells]
+    buyPrices = [order["price"] for order in buys]
+    sellPrices = [order["price"] for order in sells]
 
     #print(buyPrices)
     curr_bid, curr_ask, curr_bid_vol, curr_ask_vol = buyPrices[0], sellPrices[0], buyVols[0], sellVols[0]
@@ -270,8 +311,14 @@ while(1):
     bidPriceStdDev, askPriceStdDev, bidVolStdDev, askVolStdDev = np.std(buyPrices), np.std(sellPrices), np.std(buyVols), np.std(sellVols)
     #adjBuyVols, adjSellVols = buyVols * avg_bid, sellVols * avg_ask
     print("buyPrices shape: ", np.shape(buyPrices), "sellPrices shape: ", np.shape(sellPrices), "buyVols shape:", np.shape(buyVols), "sellVols shape", np.shape(sellVols))
-    plot2(buyPrices, sellPrices)
-    plot2(buyVols, sellVols)
+
+    # Plot the min length of things
+    prices_index = np.minimum(len(buyPrices), len(sellPrices)) - 1
+    plot2(buyPrices[:prices_index], sellPrices[:prices_index])
+
+    volumes_index = np.minimum(len(buyVols), len(sellVols)) - 1
+    plot2(buyVols[:volumes_index], sellVols[:volumes_index])
+
     #plot2(adjBuyVols, adjSellVols)
     print("\nCurrBid:", curr_bid, "X", curr_bid_vol, "CurrAsk:", curr_ask, "X", curr_ask_vol)
     print("AvgBid:", avg_bid, "AvgAsk:", avg_ask, "MinBid:", min_bid, "MaxAsk", max_ask)

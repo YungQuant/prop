@@ -1,3 +1,4 @@
+import sys
 import json
 import time
 import hmac
@@ -16,6 +17,7 @@ import numpy as np
 import time
 import hmac
 import hashlib
+from decimal import *
 from twilio.rest import Client
 # Your Account Sid and Auth Token from twilio.com/user/account
 account_sid = "AC822d03400a3abeb205e2ec520eb3dbd7"
@@ -30,6 +32,8 @@ except ImportError:
 
 # using requests.compat to wrap urlparse (python cross compatibility over 9000!!!)
 from requests.compat import quote_plus
+import boto3
+
 
 
 class Api(object):
@@ -230,37 +234,85 @@ ticker = "BITG_BTC"
 
 folder = "../../data/" + ticker.split('_')[0] + "_cryptopiaData/"
 
+# Get or create the db
+dynamodb = boto3.resource('dynamodb', region_name='us-west-2')
+def fetch_dynamo_table(table_name):
+    try:
+        table = dynamodb.Table(table_name)
+        table.table_status
+        return table
+    # note: other things can go wrong other than table not existing
+    except:
+        print(f'creating {table_name} table')
+        table = dynamodb.create_table(
+            TableName=table_name,
+            KeySchema=[
+                { 'AttributeName': 'timestamp', 'KeyType': 'HASH' }
+            ],
+            AttributeDefinitions=[
+                { 'AttributeName': 'timestamp', 'AttributeType': 'S' }
+            ],
+            ProvisionedThroughput={
+                'ReadCapacityUnits': 5,
+                'WriteCapacityUnits': 5
+            }
+        )
+        table.meta.client.get_waiter('table_exists').wait(TableName=table_name)
+        return table
+
+buysTable = fetch_dynamo_table('buys')
+sellsTable = fetch_dynamo_table('sells')
+
+# tables = dynamodb.list_tables()
+print("tables: ", buysTable, sellsTable)
+print('buy status: ', buysTable.table_status)
+print('sells status: ', sellsTable.table_status)
+
 while(1):
     try:
-        timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-        print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr)
+        timeStr = lambda: datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
+        print("||||||||||||||||||||||||||||||||||||||||||||||||||||||\n", "cryptopiaScraper1 start:" + timeStr())
         api = Api(key="3f8b7c40eeb04befb8d0cca362d8c017", secret="hws7Dbh/Nu1nHsRljYwtrdFydzmib6ihfTu2bva0xiE=")
         print("Using:" + ticker + "\n" + folder + "\n")
         print("BTC Avail./Total:", api.get_balance("BTC")[0]['Available'], api.get_balance("BTC")[0]['Total'], ticker[:4],
               "Avail./Total:", api.get_balance(ticker[:4])[0]['Available'], "/", api.get_balance(ticker[:4])[0]['Total'],
               "\n")
         fileCuml, dataset = [], []
-        buys, sells, price = folder + "buys.txt", folder + "sells.txt", folder + "prices.txt"
+        buysFile, sellsFile, price = folder + "buys.txt", folder + "sells.txt", folder + "prices.txt"
         dataset = api.api_query(feature_requested="GetMarketOrderGroups", get_parameters={'market': ticker})
-        for i in range(2):
-            if i == 0:
-                buysFP = create_or_edit_file(buys)
-                print("writing buy price + volume...")
-                for i, buy in enumerate(dataset[0][0]['Buy']):
-                    datum = str(buy['Price']) + " " + str(buy['Volume']) + " "
-                    #print("\t", datum)
-                    buysFP.write(datum)
-                buysFP.write("\n" + timeStr + "\n")
-            elif i == 1:
-                sellsFP = create_or_edit_file(sells)
-                print("writing sell price + volume...")
-                for i, sell in enumerate(dataset[0][0]['Sell']):
-                    datum = str(sell['Price']) + " " + str(sell['Volume']) + " "
-                    #print("\t", datum)
-                    sellsFP.write(datum)
-                sellsFP.write("\n" + timeStr + "\n")
-        print("cryptopiaScraper1 end: " + timeStr + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
+
+        buys = []
+        buysFP = create_or_edit_file(buysFile)
+        print("writing buy price + volume...")
+        with buysTable.batch_writer() as batch:
+            for i, buy in enumerate(dataset[0][0]['Buy']):
+                batch.put_item(Item={
+                    'timestamp': timeStr(),
+                    'price': Decimal(str(buy['Price'])),
+                    'volume': Decimal(str(buy['Volume']))
+                })
+                datum = str(buy['Price']) + " " + str(buy['Volume']) + " "
+                buysFP.write(datum)
+            buysFP.write("\n" + timeStr() + "\n")
+
+        sells = []
+        sellsFP = create_or_edit_file(sellsFile)
+        print("writing sell price + volume...")
+        with sellsTable.batch_writer() as batch:
+            for i, sell in enumerate(dataset[0][0]['Sell']):
+                batch.put_item(Item={
+                    'timestamp': timeStr(),
+                    'price': Decimal(str(sell['Price'])),
+                    'volume': Decimal(str(sell['Volume']))
+                })
+                datum = str(sell['Price']) + " " + str(sell['Volume']) + " "
+                #print("\t", datum)
+                sellsFP.write(datum)
+            sellsFP.write("\n" + timeStr() + "\n")
+
+        print("cryptopiaScraper1 end: " + timeStr() + "\n||||||||||||||||||||||||||||||||||||||||||||||||||||||")
         time.sleep(10)
     except:
-        print("FUUUUUUUUUUCK")
+        print("FUUUUUUUUUUCK",  sys.exc_info())
+        sys.exit()
 
