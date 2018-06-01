@@ -1,0 +1,21 @@
+#!/bin/bash
+set -v
+
+BIN_DIR=$(dirname "$0")
+
+cd "BIN_DIR"
+cd ..
+
+
+cd data
+rm *.txt
+
+cd ..
+cd output
+rm *.txt
+
+cd ..
+cd cuml
+rm *.txt
+
+cd ..

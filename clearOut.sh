@@ -1,2 +1,0 @@
-cd output
-rm *.txt
