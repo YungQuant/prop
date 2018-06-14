@@ -3,9 +3,7 @@
 """
 from joblib import Parallel, delayed
 import numpy as np
-import time
-import hmac
-import hashlib
+import ccxt
 try:
     from urllib import urlencode
     from urlparse import urljoin
@@ -13,6 +11,14 @@ except ImportError:
     from urllib.parse import urlencode
     from urllib.parse import urljoin
 import requests
+import json
+import time
+import hashlib
+import base64
+import hmac
+#import python-binance
+from binance.websockets import BinanceSocketManager
+from requests.compat import quote_plus
 
 BUY_ORDERBOOK = 'buy'
 SELL_ORDERBOOK = 'sell'
@@ -109,6 +115,224 @@ class Bittrex(object):
 
 
 b = Bittrex('4d314f07d8fb4c6a89622846b30e918e', 'e67bdd178aba478d954f54b6e5afccf7')
+
+def  getNum(str):
+    tmp = ""
+    for i, l in enumerate(str):
+        if l.isnumeric() or l == ".":
+            tmp += l
+    return float(tmp)
+
+def CryptoQuote1(the_symbol):
+    class ohlcvObj():
+        open, high, low, close, volume = [], [], [], [], []
+    the_url = "https://poloniex.com/public?command=returnChartData&currencyPair={0}&start=1435699200&end=9999999999&period=300".format(the_symbol)
+    response = urllib.request.urlopen(the_url).read().decode("utf-8").split(",")
+    print(the_symbol, "data samples:", response[1:10])
+    for i, curr in enumerate(response):
+        if curr.find('open') > 0:
+            ohlcvObj.open.append(getNum(curr))
+        elif curr.find('high') > 0:
+            ohlcvObj.high.append(getNum(curr))
+        elif curr.find('low') > 0:
+            ohlcvObj.low.append(getNum(curr))
+        elif curr.find('close') > 0:
+            ohlcvObj.close.append(getNum(curr))
+        elif curr.find('volume') > 0:
+            ohlcvObj.volume.append(getNum(curr))
+    return ohlcvObj
+
+def get_credentials(secret_file):
+    '''grabs API key and secret from JSON file and returns it'''
+
+    with open(secret_file) as secrets:
+        secrets_json = json.load(secrets)
+    return str(secrets_json['key']), str(secrets_json['secret'])
+
+
+class API(object):
+    '''cryptopia API wrapper'''
+
+    def __init__(self, key, secret):
+        '''constructor'''
+
+        self.key = key
+        self.secret = secret
+        self.public = ['GetCurrencies', 'GetTradePairs', 'GetMarkets', 'GetMarket', 'GetMarketHistory',
+                       'GetMarketOrders', 'GetMarketOrderGroups']
+        self.private = ['GetBalance', 'GetDepositAddress', 'GetOpenOrders', 'GetTradeHistory', 'GetTransactions',
+                        'SubmitTrade', 'CancelTrade', 'SubmitTip', 'SubmitWithdraw', 'SubmitTransfer']
+        self.minutely_req_ct = 0
+
+    def api_query(self, feature_requested, get_parameters=None, post_parameters=None):
+        '''performs a generic API request'''
+
+        time.sleep(0.002)  # limit <=500 requests/second
+
+        if feature_requested in self.private:
+            url = "https://www.cryptopia.co.nz/Api/" + feature_requested
+            post_data = json.dumps(post_parameters)
+            headers = self.secure_headers(url=url, post_data=post_data)
+            req = requests.post(url, data=post_data, headers=headers)
+            if req.status_code != 200:
+                try:
+                    req.raise_for_status()
+                except requests.exceptions.RequestException as ex:
+                    return None, "Status Code: " + str(ex)
+            req.encode = "utf-8-sig"
+            req = req.json()
+            if 'Success' in req and req['Success'] is True:
+                result = req['Data']
+                error = None
+            else:
+                result = None
+                error = req['Error'] if 'Error' in req else 'Unknown Error'
+            return (result, error)
+
+        elif feature_requested in self.public:
+            # url = "https://www.cryptopia.co.nz/Api/" + feature_requested + "/" + \
+            # ('/'.join(i for i in get_parameters.values()) if get_parameters is not None else "")
+            url = "https://www.cryptopia.co.nz/Api/" + feature_requested + "/" + \
+                  ('/'.join(i for i in get_parameters) if get_parameters is not None else "")
+            # print(url)
+
+            req = requests.get(url)
+            if req.status_code != 200:
+                try:
+                    req.raise_for_status()
+                except requests.exceptions.RequestException as ex:
+                    return None, "Status code: " + str(ex)
+            req = req.json()
+            if 'Success' in req and req['Success'] is True:
+                result = req['Data']
+                error = None
+            else:
+                result = None
+                error = req['Error'] if 'Error' in req else 'Unknown Error'
+            return (result, error)
+
+        else:
+            print("feature_requested: {} does not exist.".format(feature_requested))
+            return (None, "unknown feature")
+
+    def secure_headers(self, url, post_data):
+        '''creates secure headers for cryptopia private API'''
+
+        nonce = str(time.time())
+        md5 = hashlib.md5()
+        jsonparams = post_data.encode('utf-8')
+        md5.update(jsonparams)
+        rcb64 = base64.b64encode(md5.digest()).decode('utf-8')
+
+        signature = self.key + "POST" + quote_plus(url).lower() + nonce + rcb64
+        hmacsignature = base64.b64encode(hmac.new(base64.b64decode(self.secret),
+                                                  signature.encode('utf-8'),
+                                                  hashlib.sha256).digest())
+        header_value = "amx " + self.key + ":" + hmacsignature.decode('utf-8') + ":" + nonce
+        return {'Authorization': header_value, 'Content-Type': 'application/json; charset=utf-8'}
+
+    def get_currencies(self):
+        '''gets all the currencies'''
+        return self.api_query(feature_requested='GetCurrencies')
+
+    def get_tradepairs(self):
+        '''gets all the trade pairs'''
+        return self.api_query(feature_requested='GetTradePairs')
+
+    def get_markets(self):
+        '''gets data for all markets'''
+        return self.api_query(feature_requested='GetMarkets')
+
+    def get_market(self, market):
+        '''get data for a specific market'''
+        # return self.api_query(feature_requested='GetMarket',
+        # get_parameters={'market': market})
+        return self.api_query(feature_requested='GetMarket',
+                              get_parameters=[market])
+
+    def get_history(self, market, hours=24):
+        '''get the order history for a market (al users)'''
+        # return self.api_query(feature_requested='GetMarketHistory',
+        # 					  get_parameters={'market': market,
+        # 									  'hours': str(hours)})
+        return self.api_query(feature_requested='GetMarketHistory',
+                              get_parameters=[market, str(hours)])
+
+    def get_marketorders(self, market, orderCount=100):
+        '''get orderbook data'''
+        # return self.api_query(feature_requested='GetMarketOrders',
+        # 					  get_parameters={'market': market,
+        # 									  'orderCount': str(orderCount)})
+        return self.api_query(feature_requested='GetMarketOrders',
+                              get_parameters=[market, str(orderCount)])
+
+    def get_marketordergroups(self, markets, orderCount=100):
+        '''get orderbook data for multiple specified markets'''
+        return self.api_query(feature_requested='GetMarketOrderGroups',
+                              get_parameters=[markets, str(orderCount)])
+
+    def get_balance(self, currency):
+        '''get the user's balance of the specified currency'''
+        result, error = self.api_query(feature_requested='GetBalance',
+                                       post_parameters={'Currency': currency})
+        if error is None:
+            result = result[0]
+        return (result, error)
+
+    def get_openorders(self, market):
+        '''get the user's open orders for a specified market'''
+        return self.api_query(feature_requested='GetOpenOrders',
+                              post_parameters={'Market': market})
+
+    def get_depositaddress(self, currency):
+        '''return deposit address for a given currency'''
+        return self.api_query(feature_requested='GetDepositAddress',
+                              post_parameters={'Currency': currency})
+
+    def get_tradehistory(self, market, count=100):
+        '''get user's trade history for a given market'''
+        return self.api_query(feature_requested='GetTradeHistory',
+                              post_parameters={'Market': market,
+                                               'Count': str(count)})
+
+    def get_transactions(self, transaction_type, count=100):
+        '''gets all transactions for a user'''
+        return self.api_query(feature_requested='GetTransactions',
+                              post_parameters={'Type': transaction_type,
+                                               'Count': str(count)})
+
+    def submit_trade(self, market, trade_type, rate, amount):
+        '''submit a trade'''
+        return self.api_query(feature_requested='SubmitTrade',
+                              post_parameters={'Market': market,
+                                               'Type': trade_type,
+                                               'Rate': str(rate),
+                                               'Amount': str(amount)})
+
+    def cancel_trade(self, trade_type, order_id=None, tradepair_id=None):
+        '''Cancels a single order, all orders for a tradepair or all open orders
+           Type: The type of cancellation, Valid Types: 'All',  'Trade', 'TradePair'
+           OrderId: The order identifier of trade to cancel (required if type 'Trade')
+           TradePairId: The Cryptopia tradepair identifier of trades to cancel e.g. '100' (required if type 'TradePair')'''
+        return self.api_query(feature_requested='CancelTrade',
+                              post_parameters={'Type': trade_type,
+                                               'OrderID': str(order_id),
+                                               'TradePairID': str(tradepair_id)})
+
+    def submit_withdraw(self, currency, address, amount):
+        '''submits a withdraw request '''
+        return self.api_query(feature_requested='SubmitWithdraw',
+                              post_parameters={'Currency': currency,
+                                               'Address': address,
+                                               'Amount': amount})
+
+    def submit_transfer(self, currency, username, amount):
+        '''submits a transfer '''
+        return self.api_query(feature_requested='SubmitTransfer',
+                              post_parameters={'Currency': currency,
+                                               'Username': username,
+                                               'Amount': amount})
+
 
 def my_buy(ticker, amount, type):
     if type == 'ask':
@@ -369,12 +593,32 @@ def auto_bid(ticker, amount):
             time.sleep(15)
         except:
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
+
+exchange = ccxt.bittrex()
+market_data = exchange.fetch_ohlcv("ETH/BTC", "1h", 1502962946216)
+# Sort market lists
+# sorted_markets = {}
+# for market_pair in market_data:
+#     data = market_data[market_pair]
+#     base, quote = market_pair.split('/')
+#     if quote == 'NZDT':
+#         continue
+#     if base in sorted_markets:
+#         sorted_markets[base].append(market_pair)
+#     else:
+#         sorted_markets[base] = [market_pair]
 #
-# ticker = "XRP"
-# print(b.get_balance(ticker)['result']['Balance'])
-# print(b.get_open_orders("BTC_XRP"))
-auto_ask("BCC", 8)
-#auto_bid("BCC", 8.0)
-#my_sell("BTC-DOGE", 0.1, "bid")
+# # remove coins without a btc market, or without bids
+# for base in sorted_markets.copy():
+#     if f'{base}/BTC' not in sorted_markets[base]:
+#         del sorted_markets[base]
+#         continue
+#
+#     for market in sorted_markets[base]:
+#         if market_data[market]['bid'] <= 0:
+#             del sorted_markets[base]
+#             break
+
+print(len(market_data) / 24)
 
 

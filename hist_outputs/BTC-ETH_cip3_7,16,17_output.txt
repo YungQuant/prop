@@ -1,0 +1,28 @@
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-ETH_prices.txt
+K in:	1
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0001
+Len:	59
+
+Described Diff:
+DescribeResult(nobs=59, minmax=(-0.024835412283713273, 0.034686207757754647), mean=-0.00046066609373318884, variance=0.00017349213196604944, skewness=1.0062081698383147, kurtosis=0.5278706284395889)
+
+ [cip1.3, no buff] Cumulative Diff:	0.9683334059118495
+BAH:0.8967207301728153
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-ETH_prices.txt
+K in:	1
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0001
+Len:	20
+
+Described Diff:
+DescribeResult(nobs=20, minmax=(-0.019405273084786262, 0.026190386235456171), mean=-2.5789870961945143e-05, variance=0.00019552826731215713, skewness=0.6018417813659743, kurtosis=-0.7897396319961136)
+
+ [cip1.3, no buff] Cumulative Diff:	0.9976391543684863
+BAH:0.8967207301728153
+bitchCunt:	0.01
+

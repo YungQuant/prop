@@ -1,0 +1,1419 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0040999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0021
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0040999999999999995
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0040999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0040999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0040999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0040999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0040999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0060999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0060999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0060999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0060999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0060999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0081
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0081
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0081
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0081
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0101
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0101
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0101
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0121
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0121
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	3
+D in:	0.0141
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	1.0004650446643037
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0040999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0040999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0001
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0021
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0040999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0060999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0060999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0060999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0060999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0060999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0081
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0081
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0081
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0081
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0101
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0101
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0101
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0121
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0121
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	4
+D in:	0.0141
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985830927744916
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0040999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0001
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.008
+Buff:	0.0060999999999999995
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0021
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0040999999999999995
+F in:	-0.01
+Buff:	0.0081
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0040999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0040999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0040999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0040999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0040999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0060999999999999995
+F in:	-0.012
+Buff:	0.0101
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0060999999999999995
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0060999999999999995
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0060999999999999995
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0060999999999999995
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0081
+F in:	-0.014
+Buff:	0.0121
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0081
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0081
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0081
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0101
+F in:	-0.016
+Buff:	0.0141
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0101
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0101
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0121
+F in:	-0.018000000000000002
+Buff:	0.0161
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0121
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/prices/BTC-DASH_prices.txt
+K in:	5
+D in:	0.0141
+F in:	-0.020000000000000004
+Buff:	0.018099999999999998
+Len:	2
+
+ [cip1.3, no buff] Cumulative Diff:	0.9985867452656095
+BAH:0.9894084126725344
+bitchCunt:	0.01
+

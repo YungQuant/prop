@@ -1,0 +1,440 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.12999999999999998
+Lookback:	2
+Average Percent Error:	0.00442692432985
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.13999999999999999
+Lookback:	2
+Average Percent Error:	0.00467372244444
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.15
+Lookback:	2
+Average Percent Error:	0.00492241719263
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.16
+Lookback:	2
+Average Percent Error:	0.00517076549342
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.17
+Lookback:	2
+Average Percent Error:	0.00541867467044
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.18000000000000002
+Lookback:	2
+Average Percent Error:	0.00566691099399
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.19000000000000003
+Lookback:	2
+Average Percent Error:	0.00591623891119
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.20000000000000004
+Lookback:	2
+Average Percent Error:	0.00616424680046
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.21000000000000005
+Lookback:	2
+Average Percent Error:	0.00641000892384
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.22000000000000006
+Lookback:	2
+Average Percent Error:	0.00665448215842
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.23000000000000007
+Lookback:	2
+Average Percent Error:	0.00689858909961
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.24000000000000007
+Lookback:	2
+Average Percent Error:	0.00714277648576
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.25000000000000006
+Lookback:	2
+Average Percent Error:	0.00738545050877
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.26000000000000006
+Lookback:	2
+Average Percent Error:	0.00762775489852
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.2700000000000001
+Lookback:	2
+Average Percent Error:	0.00786925347661
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.2800000000000001
+Lookback:	2
+Average Percent Error:	0.00810865211732
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.2900000000000001
+Lookback:	2
+Average Percent Error:	0.0083465237058
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.3000000000000001
+Lookback:	2
+Average Percent Error:	0.00858350772828
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.3100000000000001
+Lookback:	2
+Average Percent Error:	0.00881947101657
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.3200000000000001
+Lookback:	2
+Average Percent Error:	0.00905462226882
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.3300000000000001
+Lookback:	2
+Average Percent Error:	0.00928779268202
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.34000000000000014
+Lookback:	2
+Average Percent Error:	0.00951943792232
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.35000000000000014
+Lookback:	2
+Average Percent Error:	0.00974916132556
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.36000000000000015
+Lookback:	2
+Average Percent Error:	0.00997693692491
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.37000000000000016
+Lookback:	2
+Average Percent Error:	0.0102027893887
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.38000000000000017
+Lookback:	2
+Average Percent Error:	0.0104267429705
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.3900000000000002
+Lookback:	2
+Average Percent Error:	0.0106488215176
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.4000000000000002
+Lookback:	2
+Average Percent Error:	0.0108690484798
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.4100000000000002
+Lookback:	2
+Average Percent Error:	0.0110874469174
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.4200000000000002
+Lookback:	2
+Average Percent Error:	0.0113040395095
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.4300000000000002
+Lookback:	2
+Average Percent Error:	0.0115188485614
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.4400000000000002
+Lookback:	2
+Average Percent Error:	0.0117318960128
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.45000000000000023
+Lookback:	2
+Average Percent Error:	0.011943203445
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.46000000000000024
+Lookback:	2
+Average Percent Error:	0.0121527920881
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.47000000000000025
+Lookback:	2
+Average Percent Error:	0.0123606828284
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.48000000000000026
+Lookback:	2
+Average Percent Error:	0.0125668962148
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.49000000000000027
+Lookback:	2
+Average Percent Error:	0.0127714524665
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5000000000000002
+Lookback:	2
+Average Percent Error:	0.0129743714784
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5100000000000002
+Lookback:	2
+Average Percent Error:	0.0131756728288
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5200000000000002
+Lookback:	2
+Average Percent Error:	0.0133753757846
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5300000000000002
+Lookback:	2
+Average Percent Error:	0.0135734993082
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5400000000000003
+Lookback:	2
+Average Percent Error:	0.0137700620633
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5500000000000003
+Lookback:	2
+Average Percent Error:	0.0139650824203
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5600000000000003
+Lookback:	2
+Average Percent Error:	0.014158578463
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5700000000000003
+Lookback:	2
+Average Percent Error:	0.0143505679931
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5800000000000003
+Lookback:	2
+Average Percent Error:	0.0145410685364
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.5900000000000003
+Lookback:	2
+Average Percent Error:	0.014730097348
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6000000000000003
+Lookback:	2
+Average Percent Error:	0.0149176714173
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6100000000000003
+Lookback:	2
+Average Percent Error:	0.015103807473
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6200000000000003
+Lookback:	2
+Average Percent Error:	0.0152885219887
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6300000000000003
+Lookback:	2
+Average Percent Error:	0.0154718311871
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6400000000000003
+Lookback:	2
+Average Percent Error:	0.0156537510449
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6500000000000004
+Lookback:	2
+Average Percent Error:	0.0158342972978
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6600000000000004
+Lookback:	2
+Average Percent Error:	0.0160134854445
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-DASH_prices.txt
+Alpha::	0.6700000000000004
+Lookback:	2
+Average Percent Error:	0.0161913307515
+Len:	1
+Cumulative Diff:	1.0095038835038963
+bitchCunt:	0.013785849184900006
+

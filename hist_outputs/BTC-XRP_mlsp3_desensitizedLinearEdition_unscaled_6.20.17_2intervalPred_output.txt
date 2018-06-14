@@ -1,0 +1,664 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.02470671519917
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.02470671519917
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.02470671519917
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.02470671519917
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.02470671519917
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.02470671519917
+bitchCunt:	0.003712930000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.019698690763406
+bitchCunt:	0.004826809000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.019698690763406
+bitchCunt:	0.006274851700000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.0113306665676145
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	35
+Average Percent Error:	0.00227416440652
+Len:	2
+Cumulative Diff:	1.0061737186470419
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	42
+Average Percent Error:	0.00228560841939
+Len:	3
+Cumulative Diff:	1.025256800339988
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	42
+Average Percent Error:	0.00228560841939
+Len:	3
+Cumulative Diff:	1.0163950621898388
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0285714372712584
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.025930814513544
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0228192357579953
+bitchCunt:	0.003712930000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0191922171914778
+bitchCunt:	0.004826809000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0191922171914778
+bitchCunt:	0.006274851700000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0601314339132522
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.053591192946042
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.042699353102977
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0324548008293934
+bitchCunt:	0.01792160394037001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0179371312896566
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	61
+Average Percent Error:	0.00232687884104
+Len:	2
+Cumulative Diff:	1.0102196405409005
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	3
+Cumulative Diff:	1.0068453982260344
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	3
+Cumulative Diff:	1.0068453982260344
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	3
+Cumulative Diff:	1.0068453982260344
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	3
+Cumulative Diff:	1.0068453982260344
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0253384880166982
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0225461307509418
+bitchCunt:	0.003712930000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0225461307509418
+bitchCunt:	0.004826809000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0225461307509418
+bitchCunt:	0.006274851700000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0635596333866466
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.057006494968876
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0460935535695783
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0358359817733056
+bitchCunt:	0.01792160394037001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0213180701285451
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	74
+Average Percent Error:	0.0023288786683
+Len:	2
+Cumulative Diff:	1.0135938776715523
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0285714372712584
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.025930814513544
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0228192357579953
+bitchCunt:	0.003712930000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0191922171914778
+bitchCunt:	0.004826809000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0191922171914778
+bitchCunt:	0.006274851700000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0601314339132522
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.053591192946042
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.042699353102977
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0324548008293934
+bitchCunt:	0.01792160394037001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0179371312896566
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	89
+Average Percent Error:	0.00237720689276
+Len:	2
+Cumulative Diff:	1.0102196405409005
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0291957914240863
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0285714372712584
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.025930814513544
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0228192357579953
+bitchCunt:	0.003712930000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0191922171914778
+bitchCunt:	0.004826809000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0191922171914778
+bitchCunt:	0.006274851700000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0601314339132522
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.053591192946042
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.042699353102977
+bitchCunt:	0.013785849184900006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0324548008293934
+bitchCunt:	0.01792160394037001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0179885552417298
+bitchCunt:	0.02329808512248101
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	106
+Average Percent Error:	0.00240519483999
+Len:	2
+Cumulative Diff:	1.0102706746222616
+bitchCunt:	0.030287510659225317
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.0097001749668961
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.0097001749668961
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.0097001749668961
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.0090876476882145
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.007913637070741
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.0076073734314002
+bitchCunt:	0.003712930000000001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.0074620498308038
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	154
+Average Percent Error:	0.00247275713693
+Len:	2
+Cumulative Diff:	1.002317232208915
+bitchCunt:	0.010604499373000004
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252522031232
+Len:	3
+Cumulative Diff:	1.006486480963348
+bitchCunt:	0.001
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252522031232
+Len:	3
+Cumulative Diff:	1.006486480963348
+bitchCunt:	0.0013000000000000002
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252522031232
+Len:	3
+Cumulative Diff:	1.006486480963348
+bitchCunt:	0.0016900000000000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252522031232
+Len:	3
+Cumulative Diff:	1.0058759032487958
+bitchCunt:	0.0021970000000000006
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252522031232
+Len:	3
+Cumulative Diff:	1.0031965315930533
+bitchCunt:	0.0028561000000000007
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252640551765
+Len:	3
+Cumulative Diff:	1.025720812286116
+bitchCunt:	0.008157307210000003
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs/prices/BTC-XRP_prices.txt
+Alpha::	0.01
+Lookback:	184
+Average Percent Error:	0.00252640551765
+Len:	3
+Cumulative Diff:	1.0168618826499727
+bitchCunt:	0.010604499373000004
+

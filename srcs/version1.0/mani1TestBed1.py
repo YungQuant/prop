@@ -305,7 +305,7 @@ while(1):
     sellPrices = [order["price"] for order in sells]
 
     #print(buyPrices)
-    curr_bid, curr_ask, curr_bid_vol, curr_ask_vol = buyPrices[0], sellPrices[0], buyVols[0], sellVols[0]
+    curr_bid, curr_ask, curr_bid_vol, curr_ask_vol = buyPrices[-1], sellPrices[-1], buyVols[-1], sellVols[-1]
     avg_bid, avg_ask, min_bid, max_ask = np.mean(buyVols), np.mean(sellVols), np.min(buyPrices), np.max(sellPrices)
     total_bid, total_ask = sum(buyVols), sum(sellVols)
     bidPriceStdDev, askPriceStdDev, bidVolStdDev, askVolStdDev = np.std(buyPrices), np.std(sellPrices), np.std(buyVols), np.std(sellVols)

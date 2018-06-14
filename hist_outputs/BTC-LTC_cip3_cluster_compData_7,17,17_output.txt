@@ -1,0 +1,165 @@
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	1
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.149465372269088
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	1
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0021
+Len:	10
+
+ [cip1.3, no buff] Cumulative Diff:	1.1259196293993539
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	1
+D in:	0.0001
+F in:	-0.008
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.1280052404370902
+BAH:1.1167502932161097
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	1
+D in:	0.0021
+F in:	-0.008
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.1413263045576625
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	1
+D in:	0.0021
+F in:	-0.008
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.120018126381939
+BAH:1.1167502932161097
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	1
+D in:	0.0040999999999999995
+F in:	-0.008
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.1354671149332336
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	2
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.1520167080085864
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	2
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0021
+Len:	8
+
+ [cip1.3, no buff] Cumulative Diff:	1.129421221143713
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	2
+D in:	0.0001
+F in:	-0.006
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.1305089435965752
+BAH:1.1167502932161097
+bitchCunt:	0.05
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	2
+D in:	0.0021
+F in:	-0.006
+Buff:	0.0001
+Len:	4
+
+ [cip1.3, no buff] Cumulative Diff:	1.1295842405194478
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	2
+D in:	0.0021
+F in:	-0.006
+Buff:	0.0021
+Len:	8
+
+ [cip1.3, no buff] Cumulative Diff:	1.1283929891931177
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	3
+D in:	0.0001
+F in:	-0.004
+Buff:	0.0001
+Len:	6
+
+ [cip1.3, no buff] Cumulative Diff:	1.1463850388578454
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	8
+D in:	0.0001
+F in:	-0.002
+Buff:	0.0001
+Len:	10
+
+ [cip1.3, no buff] Cumulative Diff:	1.1712691199656242
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.002
+Buff:	0.0001
+Len:	7
+
+ [cip1.3, no buff] Cumulative Diff:	1.2148807297059374
+BAH:1.1167502932161097
+bitchCunt:	0.03
+
+Tick:	../../../../../Desktop/cluster_comp_prices_0/BTC-LTC_prices.txt
+K in:	9
+D in:	0.0001
+F in:	-0.002
+Buff:	0.0001
+Len:	7
+
+ [cip1.3, no buff] Cumulative Diff:	1.1308396913002847
+BAH:1.1167502932161097
+bitchCunt:	0.05
+

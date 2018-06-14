@@ -1,0 +1,611 @@
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.04617642491
+meanPredict:0.016458
+Described Diff:
+DescribeResult(nobs=1185, minmax=(-0.00011046603, 0.022819204), mean=0.016457975, variance=1.869936e-06, skewness=-3.82942533493042, kurtosis=31.029060349817534)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.462837837838
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0344761168424
+meanPredict:0.0166724
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0070924675, 0.024124462), mean=0.016672449, variance=9.3440917e-07, skewness=-1.3293089866638184, kurtosis=21.934184521608472)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.464527027027
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0324611594139
+meanPredict:0.0167198
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0079680029, 0.026026946), mean=0.016719816, variance=7.0219284e-07, skewness=0.4607548713684082, kurtosis=31.232996416574665)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.477195945946
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	400
+avg % error:0.0333893415837
+meanPredict:0.0165958
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0098284688, 0.018840471), mean=0.016595848, variance=5.8880966e-07, skewness=-2.6951382160186768, kurtosis=13.502293662141714)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.472128378378
+
+                                                                                                Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                                N in:	3
+                                                                                                numBatch:	len(trainX)
+                                                                                                numEpoch:	800
+                                                                                                avg % error:0.0285587006896
+                                                                                                meanPredict:0.0166287
+                                                                                                Described Diff:
+                                                                                                DescribeResult(nobs=1185, minmax=(0.012745564, 0.017999591), mean=0.016628694, variance=3.7138085e-07, skewness=-2.61814284324646, kurtosis=10.246204027397726)
+                                                                                                dropout:	0.2
+                                                                                                opt:	adam
+                                                                                                errorMetric:	mean_absolute_error
+                                                                                                mean directional inverse error:	0.45777027027
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0312670926231
+meanPredict:0.0165719
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.010325091, 0.022785924), mean=0.016571868, variance=4.7687132e-07, skewness=-2.282050848007202, kurtosis=21.594427459548864)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.469594594595
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0308997433698
+meanPredict:0.0168616
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.012938203, 0.023095697), mean=0.01686164, variance=5.833403e-07, skewness=1.2858538627624512, kurtosis=12.983286213260964)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.451013513514
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	1
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0444563874344
+meanPredict:0.0167172
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.00011628121, 0.025839763), mean=0.016717214, variance=2.3280184e-06, skewness=-2.288325548171997, kurtosis=27.548227914018305)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.493243243243
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	1
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0402257692087
+meanPredict:0.016785
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.00032196753, 0.024480516), mean=0.016784951, variance=2.076436e-06, skewness=-3.7323360443115234, kurtosis=40.079504824305374)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.482263513514
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	400
+avg % error:0.0465147065895
+meanPredict:0.0166196
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0049256897, 0.026184633), mean=0.016619574, variance=1.6809582e-06, skewness=-0.8793798089027405, kurtosis=16.677783497353186)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.495777027027
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0339627230621
+meanPredict:0.0165009
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0099974927, 0.020121299), mean=0.01650089, variance=5.5007274e-07, skewness=-2.9885241985321045, kurtosis=18.39165587233278)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.444256756757
+
+                                                                                                    Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                                    N in:	2
+                                                                                                    numBatch:	len(trainX)
+                                                                                                    numEpoch:	1600
+                                                                                                    avg % error:0.0290767075797
+                                                                                                    meanPredict:0.0166583
+                                                                                                    Described Diff:
+                                                                                                    DescribeResult(nobs=1185, minmax=(0.0087688295, 0.023098372), mean=0.016658273, variance=5.1212999e-07, skewness=-1.6971931457519531, kurtosis=27.43969298579396)
+                                                                                                    dropout:	0.4
+                                                                                                    opt:	adam
+                                                                                                    errorMetric:	mean_absolute_error
+                                                                                                    mean directional inverse error:	0.475506756757
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0330471949814
+meanPredict:0.0167614
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0037112776, 0.028506925), mean=0.016761383, variance=1.182864e-06, skewness=2.7894792556762695, kurtosis=57.66186259764566)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.455236486486
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	400
+avg % error:0.0325150748531
+meanPredict:0.0165549
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0094901621, 0.018174009), mean=0.016554898, variance=6.4163271e-07, skewness=-3.3586795330047607, kurtosis=16.807442214708676)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.470439189189
+
+                                                                                            Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                            N in:	3
+                                                                                            numBatch:	len(trainX)
+                                                                                            numEpoch:	800
+                                                                                            avg % error:0.0255387715051
+                                                                                            meanPredict:0.0166523
+                                                                                            Described Diff:
+                                                                                            DescribeResult(nobs=1185, minmax=(0.0108296, 0.018692737), mean=0.016652264, variance=3.3889091e-07, skewness=-3.6436429023742676, kurtosis=20.477544657670414)
+                                                                                            dropout:	0.4
+                                                                                            opt:	adam
+                                                                                            errorMetric:	mean_absolute_error
+                                                                                            mean directional inverse error:	0.463682432432
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.03204527793
+meanPredict:0.0165501
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.011607717, 0.018875238), mean=0.01655009, variance=4.6360199e-07, skewness=-2.4086720943450928, kurtosis=9.278284720273662)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.473817567568
+
+                                                                                            Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                            N in:	3
+                                                                                            numBatch:	len(trainX)
+                                                                                            numEpoch:	3200
+                                                                                            avg % error:0.0292731618755
+                                                                                            meanPredict:0.016648
+                                                                                            Described Diff:
+                                                                                            DescribeResult(nobs=1185, minmax=(0.011672136, 0.020392798), mean=0.016648008, variance=3.6294136e-07, skewness=-1.0802425146102905, kurtosis=12.889779317679306)
+                                                                                            dropout:	0.4
+                                                                                            opt:	adam
+                                                                                            errorMetric:	mean_absolute_error
+                                                                                            mean directional inverse error:	0.462837837838
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	1
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0494437520444
+meanPredict:0.0170257
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0017783223, 0.048147835), mean=0.017025735, variance=4.2160132e-06, skewness=5.188984394073486, kurtosis=71.84207656925125)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.47972972973
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	400
+avg % error:0.0394247569707
+meanPredict:0.0165303
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0062799621, 0.022219427), mean=0.016530294, variance=1.363253e-06, skewness=-3.1140270233154297, kurtosis=20.24722621139647)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.474662162162
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0328207106229
+meanPredict:0.0166202
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0066747889, 0.022091141), mean=0.0166202, variance=8.0589541e-07, skewness=-3.131655216217041, kurtosis=37.670176150603034)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.475506756757
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0354149587409
+meanPredict:0.0164617
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0071560675, 0.020330464), mean=0.016461678, variance=8.5512403e-07, skewness=-4.212437629699707, kurtosis=27.12978196267025)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.472972972973
+
+                                                                                    Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                    N in:	2
+                                                                                    numBatch:	len(trainX)
+                                                                                    numEpoch:	3200
+                                                                                    avg % error:0.0287929351649
+                                                                                    meanPredict:0.0166797
+                                                                                    Described Diff:
+                                                                                    DescribeResult(nobs=1185, minmax=(0.0066987751, 0.02344884), mean=0.016679674, variance=1.0120636e-06, skewness=-3.543231725692749, kurtosis=35.43911839208977)
+                                                                                    dropout:	0.6
+                                                                                    opt:	adam
+                                                                                    errorMetric:	mean_absolute_error
+                                                                                    mean directional inverse error:	0.465371621622
+
+                                                                                    Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                    N in:	3
+                                                                                    numBatch:	len(trainX)
+                                                                                    numEpoch:	400
+                                                                                    avg % error:0.0236501582772
+                                                                                    meanPredict:0.0167079
+                                                                                    Described Diff:
+                                                                                    DescribeResult(nobs=1185, minmax=(0.012572767, 0.020876337), mean=0.016707893, variance=2.8599652e-07, skewness=-1.9807891845703125, kurtosis=15.322174539891762)
+                                                                                    dropout:	0.6
+                                                                                    opt:	adam
+                                                                                    errorMetric:	mean_absolute_error
+                                                                                    mean directional inverse error:	0.475506756757
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0302730153098
+meanPredict:0.0165618
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0080496026, 0.017575555), mean=0.016561791, variance=6.0384588e-07, skewness=-4.919368743896484, kurtosis=36.84866011197681)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.451858108108
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.034342693992
+meanPredict:0.0164606
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0081308717, 0.018210664), mean=0.016460609, variance=5.0151795e-07, skewness=-4.459303379058838, kurtosis=33.849109685872705)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.461993243243
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0312664889459
+meanPredict:0.0165838
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.011491064, 0.019254401), mean=0.016583784, variance=4.2684081e-07, skewness=-2.091728687286377, kurtosis=9.678408848890545)
+dropout:	0.6
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.456081081081
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	1
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0409485413884
+meanPredict:0.0168648
+Described Diff:
+DescribeResult(nobs=1185, minmax=(-0.0089699756, 0.035139203), mean=0.016864801, variance=2.6593098e-06, skewness=-4.320184230804443, kurtosis=100.53611797231355)
+dropout:	0.05
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.478040540541
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0381197322356
+meanPredict:0.0165932
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0058931774, 0.025224935), mean=0.016593205, variance=9.4483187e-07, skewness=-1.8629156351089478, kurtosis=27.733697976345574)
+dropout:	0.05
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.456081081081
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0427715039575
+meanPredict:0.0163703
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0091062365, 0.020585768), mean=0.016370276, variance=9.3041433e-07, skewness=-2.6114912033081055, kurtosis=12.633872494996657)
+dropout:	0.05
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.456081081081
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0464691477812
+meanPredict:0.0166981
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0085167149, 0.022667523), mean=0.016698053, variance=1.3491428e-06, skewness=-1.087408423423767, kurtosis=7.310558143073603)
+dropout:	0.05
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.455236486486
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0344019351707
+meanPredict:0.0164815
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.010151561, 0.018896855), mean=0.016481524, variance=4.8622451e-07, skewness=-3.128948211669922, kurtosis=17.89919047167999)
+dropout:	0.05
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.46875
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0340321695923
+meanPredict:0.0166267
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.011156449, 0.023428069), mean=0.016626718, variance=5.7955907e-07, skewness=-0.9965763092041016, kurtosis=14.046472813021897)
+dropout:	0.05
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.453547297297
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0381900366097
+meanPredict:0.0166809
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0069619436, 0.035721548), mean=0.016680943, variance=1.5936424e-06, skewness=4.249728679656982, kurtosis=71.46519711745721)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.47972972973
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0393159904297
+meanPredict:0.0164705
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0097852014, 0.020682229), mean=0.016470529, variance=8.3663917e-07, skewness=-2.22336483001709, kurtosis=12.067072243791205)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.473817567568
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0331737755063
+meanPredict:0.016663
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0095377229, 0.025982151), mean=0.016663035, variance=8.166781e-07, skewness=-0.8063821792602539, kurtosis=22.247688619415893)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.466216216216
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	400
+avg % error:0.0474716442625
+meanPredict:0.0167057
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0089830318, 0.021436797), mean=0.016705712, variance=1.4350259e-06, skewness=-2.011605739593506, kurtosis=7.406140589489759)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.464527027027
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0312169473389
+meanPredict:0.0165648
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0060722446, 0.019784229), mean=0.016564796, variance=5.1239277e-07, skewness=-4.606134414672852, kurtosis=47.21181340554178)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.450168918919
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0323545068671
+meanPredict:0.0166018
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.012063009, 0.020934939), mean=0.016601833, variance=4.7462203e-07, skewness=-0.9291704893112183, kurtosis=7.990168953531503)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.458614864865
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0385418044833
+meanPredict:0.0164851
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0094165932, 0.022008754), mean=0.016485145, variance=6.3179414e-07, skewness=-1.4194103479385376, kurtosis=12.503116258813256)
+dropout:	0.2
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.471283783784
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	1
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0444786381429
+meanPredict:0.0172031
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0077605685, 0.052823499), mean=0.017203081, variance=3.1546203e-06, skewness=7.964799404144287, kurtosis=141.94012202717425)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.471283783784
+
+                                                                                    Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                    N in:	2
+                                                                                    numBatch:	len(trainX)
+                                                                                    numEpoch:	800
+                                                                                    avg % error:0.0293919899832
+                                                                                    meanPredict:0.0166535
+                                                                                    Described Diff:
+                                                                                    DescribeResult(nobs=1185, minmax=(0.012403438, 0.019639874), mean=0.016653465, variance=4.0786804e-07, skewness=-1.5365427732467651, kurtosis=10.302991179747488)
+                                                                                    dropout:	0.4
+                                                                                    opt:	adam
+                                                                                    errorMetric:	mean_absolute_error
+                                                                                    mean directional inverse error:	0.45777027027
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	2
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.034876314786
+meanPredict:0.0165895
+Described Diff:
+DescribeResult(nobs=1185, minmax=(-0.006648317, 0.021469081), mean=0.016589457, variance=1.3151072e-06, skewness=-8.554779052734375, kurtosis=150.71090486904183)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.447635135135
+
+                                                                                    Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+                                                                                    N in:	2
+                                                                                    numBatch:	len(trainX)
+                                                                                    numEpoch:	3200
+                                                                                    avg % error:0.0296518155233
+                                                                                    meanPredict:0.0168043
+                                                                                    Described Diff:
+                                                                                    DescribeResult(nobs=1185, minmax=(0.0096870428, 0.021560391), mean=0.016804324, variance=5.8396256e-07, skewness=-1.1981127262115479, kurtosis=21.88265862779429)
+                                                                                    dropout:	0.4
+                                                                                    opt:	adam
+                                                                                    errorMetric:	mean_absolute_error
+                                                                                    mean directional inverse error:	0.45777027027
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	400
+avg % error:0.0338704383656
+meanPredict:0.0164758
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.010722077, 0.017553156), mean=0.016475825, variance=4.7298391e-07, skewness=-2.8817296028137207, kurtosis=12.038831577050843)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.436655405405
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	800
+avg % error:0.0332085329331
+meanPredict:0.0165102
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.010799902, 0.022124274), mean=0.01651017, variance=4.5481451e-07, skewness=-2.033989191055298, kurtosis=15.037209112355459)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.445945945946
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	1600
+avg % error:0.0322330544534
+meanPredict:0.0165116
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0093301497, 0.017812917), mean=0.01651164, variance=4.7942837e-07, skewness=-3.5835278034210205, kurtosis=21.576858915970032)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.463682432432
+
+Tick:	../../../../../Desktop/comp/HD_60x100_outputs1/books/BTC-LTC_buy_books.txt
+N in:	3
+numBatch:	len(trainX)
+numEpoch:	3200
+avg % error:0.0332189791057
+meanPredict:0.0165374
+Described Diff:
+DescribeResult(nobs=1185, minmax=(0.0095109437, 0.019567713), mean=0.016537385, variance=5.1288424e-07, skewness=-2.7412736415863037, kurtosis=15.399224317377357)
+dropout:	0.4
+opt:	adam
+errorMetric:	mean_absolute_error
+mean directional inverse error:	0.453547297297
+

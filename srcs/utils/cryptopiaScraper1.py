@@ -316,5 +316,4 @@ while(1):
         time.sleep(10)
     except:
         print("FUUUUUUUUUUCK",  sys.exc_info())
-        sys.exit()
 
