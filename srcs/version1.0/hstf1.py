@@ -12,6 +12,9 @@ def hs1(prof_goal):
     currencies = binance_client.fetch_markets()
     currencies = [currency['symbol'] for currency in currencies]
     currencies = filter_non_btc(currencies)
+
+
+
     print(currencies)
 
 hs1(1)

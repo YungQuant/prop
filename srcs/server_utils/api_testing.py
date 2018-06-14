@@ -595,7 +595,7 @@ def auto_bid(ticker, amount):
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
 exchange = ccxt.bittrex()
-market_data = exchange.fetch_ohlcv("ETH/BTC", "1h", 1502962946216)
+market_data = exchange.fetch_ohlcv("ETH/BTC", "5m")
 # Sort market lists
 # sorted_markets = {}
 # for market_pair in market_data:
@@ -619,6 +619,6 @@ market_data = exchange.fetch_ohlcv("ETH/BTC", "1h", 1502962946216)
 #             del sorted_markets[base]
 #             break
 
-print(len(market_data) / 24)
+print(market_data)
 
 
