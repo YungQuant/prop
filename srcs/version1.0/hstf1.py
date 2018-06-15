@@ -1,5 +1,6 @@
 import numpy as np
 import ccxt
+import time
 import os
 
 def getNum(str):
@@ -42,19 +43,34 @@ def process_data(data):
 def hs1_sym(start_cap, currencies, interval, prof_goal):
     data = get_data(currencies, interval)
     data = process_data(data)
+    print(f'data length in days (@ 5m interval): {len(data[0]) / 12 / 24}')
+    cap = 0
+    sells = []
     for i in range(len(currencies)):
         idv_invst = start_cap / len(currencies)
+        iDv_invst = idv_invst
+        sold_bool = False
+        idv_sells = []
         print(f'sym_buying {idv_invst} worth of {currencies[i]}')
-        for k in range(1, len(data[i]):
+        for k in range(1, len(data[i])):
             lcp = data[i][k-1][-2]
             cp = data[i][k][-2]
             diffP = (cp - lcp) / lcp
-            iDv_invest *= diffP
+            iDv_invst *= 1 + diffP
+            print(f'lcp = {lcp}, cp = {cp}, diffP = {diffP}, iDv_invst = {iDv_invst} (post diffP)')
+            if iDv_invst - idv_invst > idv_invst + (prof_goal * idv_invst):
+                print("SOLD")
+                idv_sells.append(currencies[i])
+                idv_sells.append(cp)
+                sold_bool = True
+                cap += iDv_invst
+                break
+        if sold_bool == False: cap += iDv_invst
+        if idv_sells != []: sells.append(idv_sells)
+        print(f'{currencies[i]} ended w/{iDv_invst} & cap = {cap}')
+        time.sleep(5)
 
-
-
-    print(type(data[0][0]))
-    #return(prof, trades,
+    return cap, sells
 
 
 #def hstf():
@@ -64,7 +80,4 @@ currencies = ['ETH/BTC', 'LTC/BTC', 'BNB/BTC', 'NEO/BTC', 'BCH/BTC', 'GAS/BTC', 
 Tinterval= "5m"
 start_cap = 1
 
-hs1_sym(start_cap, currencies, Tinterval, 0.01)
-
-#hs1 should go through every currency available, buy a bag, wait fon an x% gain in price, and sell that position
-#hstf1 should simulate that ^ process on historical data and record metrics (namely profitability)
+cap, sells = hs1_sym(start_cap, currencies, Tinterval, 0.00001)
