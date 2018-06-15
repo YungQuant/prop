@@ -17,10 +17,13 @@ interval = "5m"
 for i in range(len(currencies)):
     data = binance_client.fetch_ohlcv(currencies[i], interval)
     fileName = f'../../data/{currencies[i][:-4]}_{interval}_OHLCV.txt'
+
     if os.path.isfile(fileName) == False:
         aw_bool = "w"
     else:
-        aw_bool = "a"
+        print(f'{fileName} data file already exists')
+        break
+
     fileWrite = open(fileName, aw_bool)
     fileWrite.write(str([datum for datum in data]))
     fileWrite.close()
