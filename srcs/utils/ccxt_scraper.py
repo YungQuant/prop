@@ -12,14 +12,15 @@ binance_client = ccxt.binance()
 currencies = binance_client.fetch_markets()
 currencies = [currency['symbol'] for currency in currencies]
 currencies = filter_non_btc(currencies)
+interval = "5m"
 
 for i in range(len(currencies)):
-    data = binance_client.fetch_ohlcv(currencies[i], "5m")
-    fileName = f'../../data/{currencies[i][:-4]}_5m_OHLCV.txt'
+    data = binance_client.fetch_ohlcv(currencies[i], interval)
+    fileName = f'../../data/{currencies[i][:-4]}_{interval}_OHLCV.txt'
     if os.path.isfile(fileName) == False:
         aw_bool = "w"
     else:
         aw_bool = "a"
     fileWrite = open(fileName, aw_bool)
-    fileWrite.write([data[i]] for)
+    fileWrite.write(str([datum for datum in data]))
     fileWrite.close()
