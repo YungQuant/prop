@@ -31,24 +31,29 @@ def process_data(data):
         s2_data = []
         for j in range(len(s1_data)):
             if j % 6 == 0 and j != 0:
-                s2_data.append(s1_data[j-6:j])
-                print(s1_data[j-6:j])
-
-            # for k in range(len(s2_data)):
-            #     s2_data[k] = getNum(s2_data[k])
-
-            # print(s2_data, "\n")
+                datum = s1_data[j-6:j]
+                for k in range(len(datum)):
+                    datum[k] = getNum(datum[k])
+                s2_data.append(datum)
+        processed_data.append(s2_data)
+    return processed_data
 
 
 def hs1_sym(start_cap, currencies, interval, prof_goal):
     data = get_data(currencies, interval)
     data = process_data(data)
-    # for i in range(len(currencies)):
-    #     idv_invst = start_cap / len(currencies)
-    #     print(f'sym_buying {idv_invst} worth of {currencies[i]}')
-    #     for i in range(len(str(data[i]))
+    for i in range(len(currencies)):
+        idv_invst = start_cap / len(currencies)
+        print(f'sym_buying {idv_invst} worth of {currencies[i]}')
+        for k in range(1, len(data[i]):
+            lcp = data[i][k-1][-2]
+            cp = data[i][k][-2]
+            diffP = (cp - lcp) / lcp
+            iDv_invest *= diffP
 
-    #print(str(data[0]).split(",")[0])
+
+
+    print(type(data[0][0]))
     #return(prof, trades,
 
 
