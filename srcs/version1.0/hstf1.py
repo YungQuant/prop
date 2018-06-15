@@ -3,13 +3,18 @@ import os
 
 def get_data(currencies):
     data = []
-    for i in range(len(currencies)):
-        if os.path.isfile(f'*{currencies[i]}*') == False:
-            print(f'could not source {currencies[i][:-4]} data')
+    for i, currency in enumerate(currencies):
+        quote = currency.split('/')[0]
+        filename = f'../../data/{quote}_5m_OHLCV.txt'
+
+        if os.path.isfile(filename) == False:
+            print(f'could not source {quote} data')
         else:
-            fileP = open(f'*{currencies[i]}*', "r")
+            fileP = open(filename, "r")
             lines = fileP.readlines()
             data.append(lines)
+
+    return data
 
 def hs1_sym(currencies, prof_goal):
     data = get_data(currencies)
