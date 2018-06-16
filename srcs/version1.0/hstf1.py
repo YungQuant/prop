@@ -4,7 +4,7 @@ import time
 import os
 
 def get_data(currencies, interval):
-    data = []
+    data = {}
     for i, currency in enumerate(currencies):
         quote = currency.split('/')[0]
         filename = f'../../data/{quote}_{interval}_OHLCV.txt'
@@ -14,28 +14,26 @@ def get_data(currencies, interval):
         else:
             fileP = open(filename, "r")
             lines = fileP.readlines()
-            data.append(lines)
-
+            data[quote] = eval(lines[0])
     return data
-
-def process_data(data):
-    return list(map(eval, data[0]))
 
 def hs1_sym(start_cap, currencies, interval, prof_goal):
     data = get_data(currencies, interval)
-    data = process_data(data)
-    print(f'data length in days (@ 5m interval): {len(data[0]) / 12 / 24}')
+    first_quote = data[currencies[0].split('/')[0]]
+    print(f'data length in days (@ 5m interval): {len(first_quote) / 12 / 24}')
+    print('len currencies: ', len(currencies))
     cap = 0
     sells = []
-    for i in range(len(currencies)):
+    for i, currency in enumerate(currencies):
         idv_invst = start_cap / len(currencies)
+        quote = currency.split('/')[0]
         iDv_invst = idv_invst
         sold_bool = False
         idv_sells = []
-        print(f'sym_buying {idv_invst} worth of {currencies[i]}')
-        for k in range(1, len(data[i])):
-            lcp = data[i][k-1][-2]
-            cp = data[i][k][-2]
+        print(f'sym_buying {idv_invst} worth of {currency}')
+        for k in range(len(data[quote])):
+            lcp = data[quote][k-1][-2]
+            cp = data[quote][k][-2]
             diffP = (cp - lcp) / lcp
             iDv_invst *= 1 + diffP
             print(f'lcp = {lcp}, cp = {cp}, diffP = {diffP}, iDv_invst = {iDv_invst} (post diffP)')
