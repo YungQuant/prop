@@ -3,13 +3,6 @@ import ccxt
 import time
 import os
 
-def getNum(str):
-    tmp = ""
-    for i, l in enumerate(str):
-        if l.isnumeric() or l == ".":
-            tmp += l
-    return float(tmp)
-
 def get_data(currencies, interval):
     data = []
     for i, currency in enumerate(currencies):
@@ -26,19 +19,7 @@ def get_data(currencies, interval):
     return data
 
 def process_data(data):
-    processed_data = []
-    for i in range(len(data)):
-        s1_data = str(data[i]).split(",")
-        s2_data = []
-        for j in range(len(s1_data)):
-            if j % 6 == 0 and j != 0:
-                datum = s1_data[j-6:j]
-                for k in range(len(datum)):
-                    datum[k] = getNum(datum[k])
-                s2_data.append(datum)
-        processed_data.append(s2_data)
-    return processed_data
-
+    return list(map(eval, data[0]))
 
 def hs1_sym(start_cap, currencies, interval, prof_goal):
     data = get_data(currencies, interval)
