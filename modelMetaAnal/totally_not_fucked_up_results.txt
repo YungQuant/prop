@@ -448,3 +448,1553 @@ Location: 56
 Cumulative Diff: 	1.0550750763876526
 
 
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 440
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 432
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 424
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 416
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 408
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17175
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17164
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17153
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17142
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17131
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13174
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13166
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13158
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13150
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13142
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 20000
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19989
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19978
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19967
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19956
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 184
+Cumulative Diff: 	1.008561016881685
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 48
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4152
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4144
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4136
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4128
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4120
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 112
+Cumulative Diff: 	1.0151765424092132
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0151765424092132
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 120
+Cumulative Diff: 	1.0118221265023795
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0118221265023795
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 96
+Cumulative Diff: 	1.0073975738816445
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4316
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4305
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4294
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4283
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4272
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13630
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13619
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13608
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13597
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13586
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 264
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 136
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 8
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 384
+Cumulative Diff: 	1.0030520097600426
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 376
+Cumulative Diff: 	1.0030520097600426
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 976
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 968
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 960
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 952
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 944
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 128
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 48
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 8
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 136
+Cumulative Diff: 	1.0099769182810538
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 657
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 646
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 635
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 624
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 613
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17159
+Cumulative Diff: 	4.613759706749763
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17148
+Cumulative Diff: 	4.613759706749763
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17676
+Cumulative Diff: 	4.237732449130057
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17302
+Cumulative Diff: 	3.8393471755307917
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17291
+Cumulative Diff: 	3.8393471755307917
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 90
+Cumulative Diff: 	1.0465113716051693
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 101
+Cumulative Diff: 	1.0374305757480453
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 134
+Cumulative Diff: 	1.025577744531503
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 112
+Cumulative Diff: 	1.0249004459414282
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 24
+Cumulative Diff: 	1.0181530956170042
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0530724736033403
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 480
+Cumulative Diff: 	1.0446860054034137
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 304
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 256
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 208
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23711
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23700
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23689
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23557
+Cumulative Diff: 	1.5139924394325284
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23546
+Cumulative Diff: 	1.5139924394325284
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 280
+Cumulative Diff: 	1.0635596333866466
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 504
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 392
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 168
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 288
+Cumulative Diff: 	1.057006494968876
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 440
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 432
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 424
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 416
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 408
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17175
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17164
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17153
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17142
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17131
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13174
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13166
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13158
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13150
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13142
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 20000
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19989
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19978
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19967
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19956
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 184
+Cumulative Diff: 	1.008561016881685
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 48
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4152
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4144
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4136
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4128
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4120
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 112
+Cumulative Diff: 	1.0151765424092132
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0151765424092132
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 120
+Cumulative Diff: 	1.0118221265023795
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0118221265023795
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 96
+Cumulative Diff: 	1.0073975738816445
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4316
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4305
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4294
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4283
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4272
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13630
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13619
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13608
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13597
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13586
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 264
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 136
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 8
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 384
+Cumulative Diff: 	1.0030520097600426
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 376
+Cumulative Diff: 	1.0030520097600426
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 976
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 968
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 960
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 952
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 944
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 128
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 48
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 8
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 136
+Cumulative Diff: 	1.0099769182810538
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 657
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 646
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 635
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 624
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 613
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17159
+Cumulative Diff: 	4.613759706749763
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17148
+Cumulative Diff: 	4.613759706749763
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17676
+Cumulative Diff: 	4.237732449130057
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17302
+Cumulative Diff: 	3.8393471755307917
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17291
+Cumulative Diff: 	3.8393471755307917
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 90
+Cumulative Diff: 	1.0465113716051693
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 101
+Cumulative Diff: 	1.0374305757480453
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 134
+Cumulative Diff: 	1.025577744531503
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 112
+Cumulative Diff: 	1.0249004459414282
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 24
+Cumulative Diff: 	1.0181530956170042
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0530724736033403
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 480
+Cumulative Diff: 	1.0446860054034137
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 304
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 256
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 208
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23711
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23700
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23689
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23557
+Cumulative Diff: 	1.5139924394325284
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23546
+Cumulative Diff: 	1.5139924394325284
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 280
+Cumulative Diff: 	1.0635596333866466
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 504
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 392
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 168
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 288
+Cumulative Diff: 	1.057006494968876
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 440
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 432
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 424
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 416
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 408
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17175
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17164
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17153
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17142
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC_FCT_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17131
+Cumulative Diff: 	1.180474428719294
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13174
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13166
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13158
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13150
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC-LTC_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 13142
+Cumulative Diff: 	1.067387193915714
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 20000
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19989
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19978
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19967
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC_ETH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 19956
+Cumulative Diff: 	1.6613232804007527
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 184
+Cumulative Diff: 	1.008561016881685
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-DASH_mlsp3_linearEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 48
+Cumulative Diff: 	1.0064949962404366
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4152
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4144
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4136
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4128
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-XMR_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4120
+Cumulative Diff: 	1.0034624734856952
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 112
+Cumulative Diff: 	1.0151765424092132
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0151765424092132
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 120
+Cumulative Diff: 	1.0118221265023795
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0118221265023795
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 96
+Cumulative Diff: 	1.0073975738816445
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4316
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4305
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4294
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4283
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_XMR_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 4272
+Cumulative Diff: 	1.2176442784838364
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13630
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13619
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13608
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13597
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC_LTC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 13586
+Cumulative Diff: 	1.6618032081138558
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 264
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 136
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 8
+Cumulative Diff: 	1.0031483227860891
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 384
+Cumulative Diff: 	1.0030520097600426
+
+
+File Name: BTC-XRP_mlsp3_inverseRidgeEdition_unscaled_6.14.17_1dx0.8_5intervalPred_output.txt
+Location: 376
+Cumulative Diff: 	1.0030520097600426
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 976
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 968
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 960
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 952
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC_ZEC_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 944
+Cumulative Diff: 	1.0202454861276746
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 128
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 48
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 8
+Cumulative Diff: 	1.0120297168954462
+
+
+File Name: BTC-MAID_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 136
+Cumulative Diff: 	1.0099769182810538
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 657
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 646
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 635
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 624
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_DASH_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 613
+Cumulative Diff: 	1.6164905250918495
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17159
+Cumulative Diff: 	4.613759706749763
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17148
+Cumulative Diff: 	4.613759706749763
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17676
+Cumulative Diff: 	4.237732449130057
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17302
+Cumulative Diff: 	3.8393471755307917
+
+
+File Name: BTC_XRP_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 17291
+Cumulative Diff: 	3.8393471755307917
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 90
+Cumulative Diff: 	1.0465113716051693
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 101
+Cumulative Diff: 	1.0374305757480453
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 134
+Cumulative Diff: 	1.025577744531503
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 112
+Cumulative Diff: 	1.0249004459414282
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 24
+Cumulative Diff: 	1.0181530956170042
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0530724736033403
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 480
+Cumulative Diff: 	1.0446860054034137
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 304
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 256
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC-ETH_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 208
+Cumulative Diff: 	1.04457928933158
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23711
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23700
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23689
+Cumulative Diff: 	1.708720587543004
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23557
+Cumulative Diff: 	1.5139924394325284
+
+
+File Name: BTC_MAID_mlsp3_desensitizedRidgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 23546
+Cumulative Diff: 	1.5139924394325284
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 280
+Cumulative Diff: 	1.0635596333866466
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 504
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 392
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 168
+Cumulative Diff: 	1.0601314339132522
+
+
+File Name: BTC-XRP_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 288
+Cumulative Diff: 	1.057006494968876
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_1intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0550750763876526
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 440
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 432
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 424
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 416
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-DASH_mlsp3_ridgeEdition_unscaled_6.22.17_compData_5intervalPred_output.txt
+Location: 408
+Cumulative Diff: 	1.0095038835038963
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 88
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 80
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 72
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 64
+Cumulative Diff: 	1.0413505225484638
+
+
+File Name: BTC-LTC_mlsp3_desensitizedLinearEdition_unscaled_6.20.17_2intervalPred_output.txt
+Location: 56
+Cumulative Diff: 	1.0413505225484638
+
+

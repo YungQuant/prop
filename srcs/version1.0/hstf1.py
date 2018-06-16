@@ -61,4 +61,18 @@ Tinterval= "5m"
 slippage = 0.005
 start_cap = 1
 
-cap, sells = hs1_sym(start_cap, currencies, Tinterval, 0.00001)
+profGoalMin = 0.005
+profGoal = profGoalMin
+profGoalMax = 0.1
+profGoalIter = 0.005
+
+tot_caps, tot_sells = [],[]
+
+while profGoal <= profGoalMax:
+    cap, sells = hs1_sym(start_cap, currencies, Tinterval, 0.00001)
+    profGoal += profGoalIter
+    tot_caps.append(cap)
+    tot_sells.append(sells)
+
+
+#write tot_caps & tot_sells to file in /output/
