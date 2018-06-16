@@ -17,7 +17,7 @@ def get_data(currencies, interval):
             data[quote] = eval(lines[0])
     return data
 
-def hs1_sym(start_cap, currencies, interval, prof_goal):
+def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
     data = get_data(currencies, interval)
     first_quote = data[currencies[0].split('/')[0]]
     print(f'data length in days (@ 5m interval): {len(first_quote) / 12 / 24}')
@@ -36,18 +36,19 @@ def hs1_sym(start_cap, currencies, interval, prof_goal):
             cp = data[quote][k][-2]
             diffP = (cp - lcp) / lcp
             iDv_invst *= 1 + diffP
-            print(f'lcp = {lcp}, cp = {cp}, diffP = {diffP}, iDv_invst = {iDv_invst} (post diffP)')
+            #print(f'lcp = {lcp}, cp = {cp}, diffP = {diffP}, iDv_invst = {iDv_invst} (post diffP)')
             if iDv_invst - idv_invst > idv_invst + (prof_goal * idv_invst):
                 print("SOLD")
                 idv_sells.append(currencies[i])
                 idv_sells.append(cp)
                 sold_bool = True
-                cap += iDv_invst
+                cap += iDv_invst * (1 - slippage)
                 break
+
         if sold_bool == False: cap += iDv_invst
         if idv_sells != []: sells.append(idv_sells)
         print(f'{currencies[i]} ended w/{iDv_invst} & cap = {cap}')
-        time.sleep(5)
+        #time.sleep(5)
 
     return cap, sells
 
@@ -57,6 +58,7 @@ def hs1_sym(start_cap, currencies, interval, prof_goal):
 
 currencies = ['ETH/BTC', 'LTC/BTC', 'BNB/BTC', 'NEO/BTC', 'BCH/BTC', 'GAS/BTC', 'HSR/BTC', 'MCO/BTC', 'WTC/BTC', 'LRC/BTC', 'QTUM/BTC', 'YOYOW/BTC', 'OMG/BTC', 'ZRX/BTC', 'STRAT/BTC', 'SNGLS/BTC', 'BQX/BTC', 'KNC/BTC', 'FUN/BTC', 'SNM/BTC', 'IOTA/BTC', 'LINK/BTC', 'XVG/BTC', 'SALT/BTC', 'MDA/BTC', 'MTL/BTC', 'SUB/BTC', 'EOS/BTC', 'SNT/BTC', 'ETC/BTC', 'MTH/BTC', 'ENG/BTC', 'DNT/BTC', 'ZEC/BTC', 'BNT/BTC', 'AST/BTC', 'DASH/BTC', 'OAX/BTC', 'ICN/BTC', 'BTG/BTC', 'EVX/BTC', 'REQ/BTC', 'VIB/BTC', 'TRX/BTC', 'POWR/BTC', 'ARK/BTC', 'XRP/BTC', 'MOD/BTC', 'ENJ/BTC', 'STORJ/BTC', 'VEN/BTC', 'KMD/BTC', 'RCN/BTC', 'NULS/BTC', 'RDN/BTC', 'XMR/BTC', 'DLT/BTC', 'AMB/BTC', 'BAT/BTC', 'BCPT/BTC', 'ARN/BTC', 'GVT/BTC', 'CDT/BTC', 'GXS/BTC', 'POE/BTC', 'QSP/BTC', 'BTS/BTC', 'XZC/BTC', 'LSK/BTC', 'TNT/BTC', 'FUEL/BTC', 'MANA/BTC', 'BCD/BTC', 'DGD/BTC', 'ADX/BTC', 'ADA/BTC', 'PPT/BTC', 'CMT/BTC', 'XLM/BTC', 'CND/BTC', 'LEND/BTC', 'WABI/BTC', 'TNB/BTC', 'WAVES/BTC', 'GTO/BTC', 'ICX/BTC', 'OST/BTC', 'ELF/BTC', 'AION/BTC', 'NEBL/BTC', 'BRD/BTC', 'EDO/BTC', 'WINGS/BTC', 'NAV/BTC', 'LUN/BTC', 'TRIG/BTC', 'APPC/BTC', 'VIBE/BTC', 'RLC/BTC', 'INS/BTC', 'PIVX/BTC', 'IOST/BTC', 'CHAT/BTC', 'STEEM/BTC', 'XRB/BTC', 'VIA/BTC', 'BLZ/BTC', 'AE/BTC', 'RPX/BTC', 'NCASH/BTC', 'POA/BTC', 'ZIL/BTC', 'ONT/BTC', 'STORM/BTC', 'XEM/BTC', 'WAN/BTC', 'WPR/BTC', 'QLC/BTC', 'SYS/BTC', 'GRS/BTC', 'CLOAK/BTC', 'GNT/BTC', 'LOOM/BTC', 'BCN/BTC', 'REP/BTC', 'TUSD/BTC', 'ZEN/BTC', 'SKY/BTC', 'CVC/BTC', 'THETA/BTC', 'IOTX/BTC', 'QKC/BTC', 'AGI/BTC', 'NXS/BTC', 'DATA/BTC', 'SC/BTC']
 Tinterval= "5m"
+slippage = 0.005
 start_cap = 1
 
 cap, sells = hs1_sym(start_cap, currencies, Tinterval, 0.00001)
