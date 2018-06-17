@@ -1,7 +1,27 @@
 import numpy as np
+import datetime
 import ccxt
 import time
 import os
+
+
+def write_that_shit(algo_name, log, cap, sells, profGoal, currencies):
+    if os.path.isfile(log):
+        th = 'a'
+    else:
+        th = 'w'
+    file = open(log, th)
+    # if len(perc) > 10:
+    #     desc = sp.describe(perc)
+    #     file.write("\n\nDescribed Diff:\n")
+    #     file.write(str(desc))
+    file.write(f'{algo_name}')
+    file.write(f'profGoal: {profGoal}')
+    file.write(f'cap: {cap}')
+    file.write(f'currencies: {currencies}')
+    file.write(f'sells: \n {sells}')
+    file.close()
+
 
 def get_data(currencies, interval):
     data = {}
@@ -57,6 +77,9 @@ def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
 
 
 currencies = ['ETH/BTC', 'LTC/BTC', 'BNB/BTC', 'NEO/BTC', 'BCH/BTC', 'GAS/BTC', 'HSR/BTC', 'MCO/BTC', 'WTC/BTC', 'LRC/BTC', 'QTUM/BTC', 'YOYOW/BTC', 'OMG/BTC', 'ZRX/BTC', 'STRAT/BTC', 'SNGLS/BTC', 'BQX/BTC', 'KNC/BTC', 'FUN/BTC', 'SNM/BTC', 'IOTA/BTC', 'LINK/BTC', 'XVG/BTC', 'SALT/BTC', 'MDA/BTC', 'MTL/BTC', 'SUB/BTC', 'EOS/BTC', 'SNT/BTC', 'ETC/BTC', 'MTH/BTC', 'ENG/BTC', 'DNT/BTC', 'ZEC/BTC', 'BNT/BTC', 'AST/BTC', 'DASH/BTC', 'OAX/BTC', 'ICN/BTC', 'BTG/BTC', 'EVX/BTC', 'REQ/BTC', 'VIB/BTC', 'TRX/BTC', 'POWR/BTC', 'ARK/BTC', 'XRP/BTC', 'MOD/BTC', 'ENJ/BTC', 'STORJ/BTC', 'VEN/BTC', 'KMD/BTC', 'RCN/BTC', 'NULS/BTC', 'RDN/BTC', 'XMR/BTC', 'DLT/BTC', 'AMB/BTC', 'BAT/BTC', 'BCPT/BTC', 'ARN/BTC', 'GVT/BTC', 'CDT/BTC', 'GXS/BTC', 'POE/BTC', 'QSP/BTC', 'BTS/BTC', 'XZC/BTC', 'LSK/BTC', 'TNT/BTC', 'FUEL/BTC', 'MANA/BTC', 'BCD/BTC', 'DGD/BTC', 'ADX/BTC', 'ADA/BTC', 'PPT/BTC', 'CMT/BTC', 'XLM/BTC', 'CND/BTC', 'LEND/BTC', 'WABI/BTC', 'TNB/BTC', 'WAVES/BTC', 'GTO/BTC', 'ICX/BTC', 'OST/BTC', 'ELF/BTC', 'AION/BTC', 'NEBL/BTC', 'BRD/BTC', 'EDO/BTC', 'WINGS/BTC', 'NAV/BTC', 'LUN/BTC', 'TRIG/BTC', 'APPC/BTC', 'VIBE/BTC', 'RLC/BTC', 'INS/BTC', 'PIVX/BTC', 'IOST/BTC', 'CHAT/BTC', 'STEEM/BTC', 'XRB/BTC', 'VIA/BTC', 'BLZ/BTC', 'AE/BTC', 'RPX/BTC', 'NCASH/BTC', 'POA/BTC', 'ZIL/BTC', 'ONT/BTC', 'STORM/BTC', 'XEM/BTC', 'WAN/BTC', 'WPR/BTC', 'QLC/BTC', 'SYS/BTC', 'GRS/BTC', 'CLOAK/BTC', 'GNT/BTC', 'LOOM/BTC', 'BCN/BTC', 'REP/BTC', 'TUSD/BTC', 'ZEN/BTC', 'SKY/BTC', 'CVC/BTC', 'THETA/BTC', 'IOTX/BTC', 'QKC/BTC', 'AGI/BTC', 'NXS/BTC', 'DATA/BTC', 'SC/BTC']
+log = f'../../output/hstf1_{datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")}.txt'
+algo_name = "---HSTF1---"
+globProfGoal = 1.00001
 Tinterval= "5m"
 slippage = 0.005
 start_cap = 1
@@ -69,10 +92,13 @@ profGoalIter = 0.005
 tot_caps, tot_sells = [],[]
 
 while profGoal <= profGoalMax:
-    cap, sells = hs1_sym(start_cap, currencies, Tinterval, 0.00001)
+    cap, sells = hs1_sym(start_cap, currencies, Tinterval, profGoal, slippage)
     profGoal += profGoalIter
     tot_caps.append(cap)
     tot_sells.append(sells)
 
+    if cap >= globProfGoal:
+        write_that_shit(algo_name, log, cap, sells, profGoal)
+        print(f'YEEEEEE BOIIIIS: {cap}')
 
 #write tot_caps & tot_sells to file in /output/
