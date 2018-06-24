@@ -3,17 +3,13 @@ from itertools import islice
 
 def seriously_hugo_you_better_not_fuck_this_up():
     # with all the files
-    output_dir = '../hist_outputs'
-    model_output_files = os.listdir(output_dir)
-    sort_key = 'Results'
-    top_metadata_count = 5
 
     result_file = 'totally_not_fucked_up_results.txt'
 
     # only files that show a cumulative diffwith all the files
-    output_dir = '../hist_outputs'
+    output_dir = '../output'
     model_output_files = os.listdir(output_dir)
-    sort_key = 'Cumulative Diff'
+    sort_key = 'cap'
     top_metadata_count = 5
 
     result_file = 'totally_not_fucked_up_results.txt'

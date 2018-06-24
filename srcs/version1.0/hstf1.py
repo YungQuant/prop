@@ -41,7 +41,7 @@ def get_data(currencies, interval):
 def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
     data = get_data(currencies, interval)
     first_quote = data[currencies[0].split('/')[0]]
-    print(f'data length in days (@ 30m interval): {len(first_quote) / 12 / 24}')
+    print(f'data length in days (@ 5m interval): {len(first_quote) / 12 / 24}')
     print('len currencies: ', len(currencies))
     cap = 0
     sells = []
@@ -53,8 +53,9 @@ def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
         idv_sells = []
         #print(f'sym_buying {idv_invst} worth of {currency}')
         for k in range(len(data[quote])):
-            lcp = data[quote][k-1][-2]
-            cp = data[quote][k][-2]
+            #print(f'data[quote][k-1]: {data[quote][k-1]} data[quote][k-1][3]: {data[quote][k-1][2]}')
+            lcp = data[quote][k-1][2]
+            cp = data[quote][k][2]
             diffP = (cp - lcp) / lcp
             iDv_invst *= 1 + diffP
             #print(f'lcp = {lcp}, cp = {cp}, diffP = {diffP}, iDv_invst = {iDv_invst} (post diffP)')
@@ -70,7 +71,7 @@ def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
         if sold_bool == False: cap += iDv_invst
         if idv_sells != []: sells.append(idv_sells)
         print(f'{currencies[i]} ended w/{iDv_invst} & cap = {cap}')
-        #time.sleep(5)
+        time.sleep(5)
 
     return cap, sells
 
@@ -80,7 +81,7 @@ date = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.
 log = f'../../output/hstf1_{date}.txt'
 algo_name = "---HSTF1---"
 globProfGoal = 1.00001
-Tinterval= "30m"
+Tinterval= "5m"
 slippage = 0.005
 start_cap = 1
 profGoalMin = 0.005
@@ -96,9 +97,9 @@ while profGoal <= profGoalMax:
     tot_sells.append(sells)
 
     if cap >= globProfGoal:
-        #write_that_shit(algo_name, date, log, cap, sells, profGoal, Tinterval, currencies)
+        write_that_shit(algo_name, date, log, cap, sells, profGoal, Tinterval, currencies)
         print(f'\n\tYEEEEEE BOIIIIS: profGoal: {profGoal} cap: {cap}\n')
 
     profGoal += profGoalIter
 
-#write tot_caps & tot_sells to file in /output/
+#multithread/processing

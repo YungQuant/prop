@@ -3,7 +3,7 @@ import time
 import datetime
 import numpy as np
 
-client = ccxt.bitmex({
+client = ccxt.binance({
     'apiKey': 'BewB2ElWDT8E6ujjvLFaaWoKHcpdBauHMM8MGdLN5GAmGcSnYB95cMu8ZJB6RYVW',
     'secret': 'eIwUpHArqkyQaKY66Is8L1YrPXNpZFu1LK4mqdt6mWgG1mBwl58CpE6QDtgPl6NT',
     'enableRateLimit': True,
@@ -12,10 +12,17 @@ client = ccxt.bitmex({
 
 def getVals(currencies):
     holdings = {}
+    holdingDatum = client.fetch_balance()
     for i in range(len(currencies)):
-        holding = client.fetch_balance(currencies[i])
-        price = client.
-def hs1(currencies, profGoal):
+        holding = holdingDatum[currencies[i].split("/")[0]]['total']
+        price = client.fetch_ticker(currencies[i])['last']
+        value = holding * price
+        holdings[currencies[i]] = [holding, value]
+
+    return holdings
+
+
+# def hs1(currencies, profGoal):
 
 
 
@@ -41,7 +48,7 @@ currencies = ['ETH/BTC', 'LTC/BTC', 'BNB/BTC', 'NEO/BTC', 'BCH/BTC', 'GAS/BTC', 
 startDate = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 
 while(1):
-    print(f'---HS1--- credits: yungquant, killabit, buffman\n startDate: {startDate}\n')
-    holdings, val = getVals(currencies)
-
-    print()
+    date = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
+    print(f'---HS1--- credits: yungquant, killabit, buffman\n startDate: {startDate}\n currentDate: {date}\n')
+    holdings = getVals(currencies)
+    print(holdings)

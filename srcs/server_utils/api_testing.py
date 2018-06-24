@@ -594,8 +594,6 @@ def auto_bid(ticker, amount):
         except:
             print("AUTO_BID FAILED ON TIME_CNT:", time_cnt, "(30 seconds / cnt)")
 
-exchange = ccxt.bittrex()
-market_data = exchange.fetch_ohlcv("ETH/BTC", "5m")
 # Sort market lists
 # sorted_markets = {}
 # for market_pair in market_data:
@@ -619,6 +617,15 @@ market_data = exchange.fetch_ohlcv("ETH/BTC", "5m")
 #             del sorted_markets[base]
 #             break
 
+client = ccxt.binance({
+    'apiKey': 'BewB2ElWDT8E6ujjvLFaaWoKHcpdBauHMM8MGdLN5GAmGcSnYB95cMu8ZJB6RYVW',
+    'secret': 'eIwUpHArqkyQaKY66Is8L1YrPXNpZFu1LK4mqdt6mWgG1mBwl58CpE6QDtgPl6NT',
+    'enableRateLimit': True,
+})
+#currencies = client.fetch_markets()
+#print(currencies)
+#market_data = client.fetch_ticker("ETH/BTC")['last']
+market_data = client.fetch_balance()
 print(market_data)
 
 
