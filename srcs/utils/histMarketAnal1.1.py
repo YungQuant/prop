@@ -24,14 +24,22 @@ def getRecentOrders(currency):
     else:
         fileP = open(filename, "r")
         lines = fileP.readlines()
-        #print(f'lines[0][0]: {lines[0][0]}')
 
-    for i in range(len(lines)):
-        data.append(lines[i])
-        if len(data) > 20 and len(data) % 50 == 0:
-            retdata.append(np.array(data[-50:]))
+    data = []
+    temp = ""
+    for line in lines:
+        if 'array' in line:
+            temp += line.split('array')[1][1:]
+        elif "dtype='<U21')}" in line:
+            print(temp[:-2])
+            data.append(eval(temp[:-2])) # -2 for ,\n
+            temp = ""
+        else:
+            temp += line
 
-    return retdata
+    print('done')
+    print(data)
+    return data
 
 def get_data(currency):
     data = {}
