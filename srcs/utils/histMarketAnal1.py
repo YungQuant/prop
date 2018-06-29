@@ -16,11 +16,17 @@ def get_data(currencies, interval):
             data[quote] = eval(lines[0])
     return data
 
-def anal(currencies, interval):
+def gravity(bvolume, avolume, bprice, aprice):
+    mid_volume = bvolume + avolume
+    w1 = bvolume/mid_volume
+    w2 = avolume/mid_volume
+    return sum((w1*aprice), (w2*bprice))
+
+def anal(currencies, interval, live=False, n=0):
     data = get_data(currencies, interval)
 
     for i in range(len(currencies)):
-        hist_bestBid, hist_bestAsk, hist_spread, hist_midpoint, hist_volume = [], [], [], [], []
+        hist_bestBid, hist_bestAsk, hist_spread, hist_midpoint, hist_volume, hist_midpointVolume, hist_gravity = [], [], [], [], [], [], []
         idv_data = data[i]
         for k in range(len(idv_data)):
             buys, sells = idv_data[k]['buys'], idv_data[k]['sells']
@@ -28,7 +34,16 @@ def anal(currencies, interval):
             hist_bestAsk.append(sells[0][0])
             hist_midpoint.append(np.mean([hist_bestAsk[-1], hist_bestBid[-1]]))
             hist_spread.append(hist_bestAsk[-1] - hist_bestBid[-1])
-            hist_volume.append(sum([order for ]) + sum())
+            hist_volume.append(sum([order[2] for order in buys]) + sum([order[2] for order in sells]))
+            hist_midpointVolume.append(sum([buys[0][2], sells[0][2]]))
+            hist_gravity.append(gravity(buys[0][2], sells[0][2], buys[0][0], sells[0][0]))
+
+            if live == True and len(hist_midpoint) > n:
+                print(f'rolling volume (midpoint, total): {hist_midpointVolume[-1]}, {hist_volume[-1]}')
+                print(f'rolling log volume (midpoint, total): {np.log(hist_midpointVolume[-1])}, {np.log(hist_volume[-1])}')
+                print(f'{n} window midpoint std: {np.std(hist_midpointVolume[-n:])}')
+                print(f'{n} window volume std (midpoint, total): {np.std(hist_midpointVolume[-n:])}, {np.std(hist_volume[-n:])}')
+                print(f'rolling and {n} period historical gravity: {hist_gravity[-1]}, {hist_gravity[-n:]}')
 
 
 
