@@ -18,7 +18,10 @@ n = 60
 
 while(1):
     time = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-    market_data = client.get_order_book('KCS-BTC', limit=50)
+    market_data = client.get_order_book('OMX-BTC', limit=9999)
+    recent_orders = client.get_recent_orders('OMX-BTC', limit=9999)
+    print(recent_orders)
+    break
     buys, sells = market_data['BUY'], market_data['SELL']
     hist_bestBid.append(buys[0][0])
     hist_bestAsk.append(sells[0][0])
@@ -27,14 +30,24 @@ while(1):
     hist_volume.append(sum([order[2] for order in buys]) + sum([order[2] for order in sells]))
     hist_midpointVolume.append(sum([buys[0][2], sells[0][2]]))
     hist_gravity.append(gravity(buys[0][2], sells[0][2], buys[0][0], sells[0][0]))
+    buy_cnt, sell_cnt = 0, 0
+    exec_orderVol = []
+
+    for k in range(len(recent_orders)):
+        if recent_orders[k][1] == 'BUY':
+            buy_cnt += 1
+        elif recent_orders[k][1] == 'SELL':
+            sell_cnt += 1
+
+        exec_orderVol.append(recent_orders[k][-1])
 
     if len(hist_midpoint) > n:
         print(f'starttime: {starttime}, curr_time: {time}')
+        print(f'buy_cnt: {buy_cnt}, sell_cnt: {sell_cnt}, avg_execOrderVol: {np.mean(exec_orderVol)}')
         print(f'rolling volume (midpoint, total): {hist_midpointVolume[-1]}, {hist_volume[-1]}')
         print(f'rolling log volume (midpoint, total): {np.log(hist_midpointVolume[-1])}, {np.log(hist_volume[-1])}')
         print(f'{n} window midpoint std: {np.std(hist_midpointVolume[-n:])}')
-        print(
-            f'{n} window volume std (midpoint, total): {np.std(hist_midpointVolume[-n:])}, {np.std(hist_volume[-n:])}')
+        print(f'{n} window volume std (midpoint, total): {np.std(hist_midpointVolume[-n:])}, {np.std(hist_volume[-n:])}')
         print(f'rolling and {n} period historical gravity: {hist_gravity[-1]}, {hist_gravity[-n:]}\n\n')
     else:
         print("Accumlating Data..")
