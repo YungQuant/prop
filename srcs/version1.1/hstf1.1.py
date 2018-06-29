@@ -41,8 +41,8 @@ def get_data(currencies, interval):
 
 def hs1_distSym(start_cap, currencies, Tinterval, prof_goal, slippage, globProfGoal):
     date = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-    log = f'../../output/hstf1_{date}.txt'
-    algo_name = "---HSTF1---"
+    log = f'../../output/hstf1.1_{date}.txt'
+    algo_name = "---HSTF1.1---"
     data = get_data(currencies, Tinterval)
     first_quote = data[currencies[0].split('/')[0]]
     print(f'data length in days (@ 5m interval): {len(first_quote) / 12 / 24}')
@@ -107,7 +107,7 @@ def pillowcaseAssassination(profGoals):
     tot_caps, tot_sells = [], []
 
     n_proc = 8; verbOS = 0; inc = 0
-    Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(hst_distSym)
+    Parallel(n_jobs=n_proc, verbose=verbOS)(delayed(hs1_distSym)
             (start_cap, currencies, Tinterval, profGoals[i], slippage, globProfGoal)
             for i in range(len(profGoals)))
 

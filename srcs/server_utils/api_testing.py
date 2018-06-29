@@ -13,6 +13,7 @@ except ImportError:
 import requests
 import json
 import time
+from kucoin.client import Client
 import hashlib
 import base64
 import hmac
@@ -617,15 +618,30 @@ def auto_bid(ticker, amount):
 #             del sorted_markets[base]
 #             break
 
-client = ccxt.binance({
-    'apiKey': 'BewB2ElWDT8E6ujjvLFaaWoKHcpdBauHMM8MGdLN5GAmGcSnYB95cMu8ZJB6RYVW',
-    'secret': 'eIwUpHArqkyQaKY66Is8L1YrPXNpZFu1LK4mqdt6mWgG1mBwl58CpE6QDtgPl6NT',
-    'enableRateLimit': True,
-})
+# client = ccxt.binance({
+#     'apiKey': 'BewB2ElWDT8E6ujjvLFaaWoKHcpdBauHMM8MGdLN5GAmGcSnYB95cMu8ZJB6RYVW',
+#     'secret': 'eIwUpHArqkyQaKY66Is8L1YrPXNpZFu1LK4mqdt6mWgG1mBwl58CpE6QDtgPl6NT',
+#     'enableRateLimit': True,
+# })
+
+# client = ccxt.kucoin({
+#     'apiKey': '5b35631b09e5a168abec621a',
+#     'secret': 'd564e70a-f45e-49cd-b13c-a31fa5bbbb9d'
+#
+# })
+
+client = Client(
+    api_key= '5b35631b09e5a168abec621a',
+    api_secret= 'd564e70a-f45e-49cd-b13c-a31fa5bbbb9d')
+
+
 #currencies = client.fetch_markets()
 #print(currencies)
-#market_data = client.fetch_ticker("ETH/BTC")['last']
-market_data = client.fetch_balance()
+#market_data = client.fetch_ticker("ETH/BTC")
+#market_data = client.fetch_closed_orders("ETH/BTC")
+#market_data = client.fetch_balance()
+market_data = client.get_order_book('KCS-BTC', limit=50)
+#market_data = client.fetch_orde
 print(market_data)
 
 

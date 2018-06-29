@@ -41,8 +41,8 @@ def get_data(currencies, interval):
 def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
     data = get_data(currencies, interval)
     first_quote = data[currencies[0].split('/')[0]]
-    print(f'data length in days (@ 5m interval): {len(first_quote) / 12 / 24}')
-    print('len currencies: ', len(currencies))
+    # print(f'data length in days (@ 1h interval): {len(first_quote) / 24}')
+    # print('len currencies: ', len(currencies))
     cap = 0
     sells = []
     for i, currency in enumerate(currencies):
@@ -71,7 +71,7 @@ def hs1_sym(start_cap, currencies, interval, prof_goal, slippage):
         if sold_bool == False: cap += iDv_invst
         if idv_sells != []: sells.append(idv_sells)
         print(f'{currencies[i]} ended w/{iDv_invst} & cap = {cap}')
-        time.sleep(5)
+        #time.sleep(5)
 
     return cap, sells
 
@@ -81,7 +81,7 @@ date = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.
 log = f'../../output/hstf1_{date}.txt'
 algo_name = "---HSTF1---"
 globProfGoal = 1.00001
-Tinterval= "5m"
+Tinterval= "1d"
 slippage = 0.005
 start_cap = 1
 profGoalMin = 0.005
