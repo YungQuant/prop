@@ -78,15 +78,19 @@ def get_diffs(idv_data, k):
     print(f' SHAPES currBuys: {currBuys.shape}, currSells: {currSells.shape}, lastBuys: {lastBuys.shape}, lastSells: {lastSells.shape}')
     print(f'len(currBuys): {len(currBuys)}, len(lastBuys): {len(lastBuys)}')
     if len(currBuys) < len(lastBuys):
-        for y in range(len(lastBuys) - len(currBuys)): np.append(currBuys, [0, 0, 0])
+        for y in range(len(lastBuys) - len(currBuys)):
+            currBuys = np.insert(currBuys, 0, [0, 0, 0], axis=0)
     elif len(lastBuys) < len(currBuys):
-        print("len(lastBuys) < len(currBuys)")
-        for u in range(len(currBuys) - len(lastBuys)): np.append(lastBuys, [0, 0, 0])
-
+        for u in range(len(currBuys) - len(lastBuys)):
+            print('woot', len(lastBuys))
+            lastBuys = np.insert(lastBuys, 0, [0, 0, 0], axis=0)
     if len(currSells) < len(lastSells):
-        for y in range(len(lastSells) - len(currSells)): np.append(currSells, [0, 0, 0])
+        for y in range(len(lastSells) - len(currSells)):
+            currSells = np.append([0, 0, 0], currSells)
+            currSells = np.insert(currSells, 0, [0, 0, 0], axis=0)
     elif len(lastSells) < len(currSells):
-        for u in range(len(currSells) - len(lastSells)): np.append(lastSells, [0, 0, 0])
+        for u in range(len(currSells) - len(lastSells)):
+            lastSells = np.insert(lastSells, 0, [0, 0, 0], axis=0)
 
     print(f' paddedSHAPES currBuys: {currBuys.shape}, currSells: {currSells.shape}, lastBuys: {lastBuys.shape}, lastSells: {lastSells.shape}')
     print(f'padded len(currBuys): {len(currBuys)}, len(lastBuys): {len(lastBuys)}')
@@ -129,7 +133,7 @@ def anal(currencies, logfile, live=False, n=0):
         avgExecSellVol = np.mean([float(order[-1]) for order in execSells])
         buys, sells = idv_data[k]['buys'], idv_data[k]['sells']
         buy_diff, sell_diff = get_diffs(idv_data, k)
-        print(f'buy diff: {buy_diff}')
+        print(f'buy_diff: {buy_diff}')
         #print(f'buys: {buys}, sells: {sells}')
         break
         hist_buyCount.append(buyCnt)
