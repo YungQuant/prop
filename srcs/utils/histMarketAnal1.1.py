@@ -12,6 +12,16 @@ def searchOutliers(string):
             return True
     return False
 
+def sort_execOrders(orders):
+    execBuys, execSells = [], []
+    for i in range(len(orders)):
+        if orders[i][1] == 'BUY':
+            execBuys.append(orders[i])
+        else:
+            execSells.append(orders[i])
+
+    return execBuys, execSells
+
 def getRecentOrders(currency):
     data = []
     retdata = []
@@ -31,14 +41,12 @@ def getRecentOrders(currency):
         if 'array' in line:
             temp += line.split('array')[1][1:]
         elif "dtype='<U21')}" in line:
-            print(temp[:-2])
+            #print(temp[:-2])
             data.append(eval(temp[:-2])) # -2 for ,\n
             temp = ""
         else:
             temp += line
 
-    print('done')
-    print(data)
     return data
 
 def get_data(currency):
@@ -76,14 +84,21 @@ def anal(currencies, logfile, live=False, n=0):
     for i in range(len(orders)):
         if searchOutliers(orders[i]) == False:
             recent_orders.append(orders[i])
-    print("recent orders:", recent_orders[0])
-    return
-    hist_bestBid, hist_bestAsk, hist_spread, hist_midpoint, hist_volume, hist_midpointVolume, hist_gravity, hist_buyVolume, hist_sellVolume = [], [], [], [], [], [], [], [], []
+    hist_bestBid, hist_bestAsk, hist_spread, hist_midpoint, hist_volume, hist_midpointVolume, hist_gravity, hist_buyVolume, hist_sellVolume, hist_buyCount, hist_sellCount, hist_avgExecBuyVol, hist_avgExecSellVol = [], [], [], [], [], [], [], [], [], [], [], [], []
     hist_midpointLogvolume, hist_logVolume, hist_midpointStd, hist_midpointVolumeStd, hist_volumeStd, hist_midpointVolumeVar, hist_volumeVar, hist_meanVolume, hist_meanVolumePerOrder = [], [], [], [], [], [], [], [], []
     idv_data = data
     for k in range(len(idv_data)):
+        recOrders = recent_orders[k]
+        execBuys, execSells = sort_execOrders(recOrders)
+        buyCnt, sellCnt = len(execBuys), len(execSells)
+        avgExecBuyVol = np.mean([float(order[-1]) for order in execBuys])
+        avgExecSellVol = np.mean([float(order[-1]) for order in execSells])
         buys, sells = idv_data[k]['buys'], idv_data[k]['sells']
         #print(f'buys: {buys}, sells: {sells}')
+        hist_buyCount.append(buyCnt)
+        hist_sellCount.append(sellCnt)
+        hist_avgExecBuyVol.append(avgExecBuyVol)
+        hist_avgExecSellVol.append(avgExecSellVol)
         hist_bestBid.append(buys[0][0])
         hist_bestAsk.append(sells[0][0])
         hist_midpoint.append(np.mean([hist_bestAsk[-1], hist_bestBid[-1]]))
@@ -113,8 +128,8 @@ def anal(currencies, logfile, live=False, n=0):
             hist_meanVolume.append(np.mean(hist_volume[-n:]))
             hist_meanVolumePerOrder.append(np.mean(hist_volume[-n:]) / (len(buys) + len(sells)))
 
-    logs = [hist_bestBid, hist_bestAsk, hist_midpoint, hist_spread, hist_volume, hist_midpointVolume, hist_gravity,  hist_midpointLogvolume, hist_logVolume, hist_midpointStd, hist_midpointVolumeStd, hist_volumeStd, hist_midpointVolumeVar, hist_volumeVar, hist_meanVolume, hist_meanVolumePerOrder, hist_buyVolume, hist_sellVolume]
-    lognames = ["hist_bestBid", "hist_bestAsk", "hist_midpoint", "hist_spread", "hist_volume", "hist_midpointVolume", "hist_gravity", "hist_midpointLogvolume", "hist_logVolume", "hist_midpointStd", "hist_midpointVolumeStd", "hist_volumeStd", "hist_midpointVolumeVar", "hist_volumeVar", "hist_meanVolume", "hist_meanVolumePerOrder", "hist_buyVolume", "hist_sellVolume"]
+    logs = [hist_bestBid, hist_bestAsk, hist_midpoint, hist_spread, hist_volume, hist_midpointVolume, hist_gravity,  hist_midpointLogvolume, hist_logVolume, hist_midpointStd, hist_midpointVolumeStd, hist_volumeStd, hist_midpointVolumeVar, hist_volumeVar, hist_meanVolume, hist_meanVolumePerOrder, hist_buyVolume, hist_sellVolume, hist_buyCount, hist_sellCount, hist_avgExecBuyVol, hist_avgExecSellVol]
+    lognames = ["hist_bestBid", "hist_bestAsk", "hist_midpoint", "hist_spread", "hist_volume", "hist_midpointVolume", "hist_gravity", "hist_midpointLogvolume", "hist_logVolume", "hist_midpointStd", "hist_midpointVolumeStd", "hist_volumeStd", "hist_midpointVolumeVar", "hist_volumeVar", "hist_meanVolume", "hist_meanVolumePerOrder", "hist_buyVolume", "hist_sellVolume", "hist_buyCount", "hist_sellCount", "hist_avgExecBuyVol", "hist_avgExecSellVol"]
 
     if os.path.isfile(logfile):
         th = "a"

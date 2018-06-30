@@ -14,10 +14,10 @@ def plot(a):
 
 def plot2(a, b):
     y = np.arange(len(a))
-    plt.plot(y, a, 'r', y, b, 'g')
+    plt.plot(y, a, 'g', y, b, 'r')
     plt.ylabel('Volume (BTC)')
     plt.xlabel('Seconds')
-    plt.title("OMX Buy / Sell Volume")
+    plt.title("OMX Buy / Sell Order Count")
     plt.show()
 
 def plot3(a, b, c):
@@ -31,7 +31,7 @@ def plot3(a, b, c):
 def get_data():
     retdata = []
     buys, sells = [], []
-    filename = f'../../output/histMarketAnal1_2018-06-29T06:33:10.056385UTC.txt'
+    filename = f'../../output/histMarketAnal1.1_2018-06-29T22:16:09.244328UTC.txt'
 
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
@@ -47,4 +47,4 @@ def get_data():
     return retdata
 
 data = get_data()
-plot2(data[-1], data[-2])
+plot2(data[-4], data[-3])
