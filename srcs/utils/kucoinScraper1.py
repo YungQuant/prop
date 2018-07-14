@@ -72,7 +72,7 @@ while(1):
         print(f'Kucoin scraper wrote {len(orders["BUY"])} buys and {len(orders["SELL"])} sells')
         #print(f'Kucoin scraper wrote {len(recent_orders)} recent orders')
 
-        time.sleep(1)
+        time.sleep(60)
     except:
         print("FUUUUUUUUUUCK",  sys.exc_info())
 

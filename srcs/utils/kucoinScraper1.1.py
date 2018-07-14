@@ -29,16 +29,20 @@ client = Client(
     api_key= '5b35631b09e5a168abec621a',
     api_secret= 'd564e70a-f45e-49cd-b13c-a31fa5bbbb9d')
 
+args = sys.argv
 
-ticker = "OMX-BTC"
-
+ticker = args[1]
+starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 
 while(1):
     try:
-        filename = ticker.split('-')[0] + '_order_book1.txt'
+        filename = ticker.split('-')[0] + f'_order_book.txt'
         filepath = os.path.join('kucoin_data', filename)
-        filename1 = ticker.split('-')[0] + '_recentOrders1.txt'
+        filename1 = ticker.split('-')[0] + f'_recentOrders.txt'
         filepath1 = os.path.join('kucoin_data', filename1)
+
+        print(f'Kucoin scraper 1.1 aggregating data to {filename} and {filename1}')
+
         with open(filepath, 'r') as f:
             data = f.read()
             if data == "":
@@ -49,8 +53,10 @@ while(1):
         data1 = {}
 
         timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-        orders = client.get_order_book(ticker, limit=99999)
+        orders = client.get_order_book(ticker, limit=999999)
+        #print("Orders:", orders)
         recent_orders = client.get_recent_orders(ticker, limit=99999)
+        #print("recent orders", recent_orders)
 
         #print(recent_orders)
 
@@ -60,6 +66,8 @@ while(1):
         }
 
         data1[timeStr] = np.array(recent_orders)
+
+        #print(f'DEBUG writing data: {data} \n data1: {data1}')
 
         with open(filepath, 'w') as f:
             f.write(json.dumps(data))
@@ -72,7 +80,6 @@ while(1):
         print(f'Kucoin scraper 1.1 wrote {len(orders["BUY"])} buys and {len(orders["SELL"])} sells')
         print(f'Kucoin scraper 1.1 wrote {len(recent_orders)} recent orders')
 
-        time.sleep(1)
+        time.sleep(60)
     except:
         print("FUUUUUUUUUUCK",  sys.exc_info())
-
