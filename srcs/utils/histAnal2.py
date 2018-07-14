@@ -69,8 +69,7 @@ def create_ohlcv_training_set(data, lookback):
             x.append(datum)
             # x.append(data[i - lookback:i])
             y.append(data[i+1][-2])
-
-    return np.array(x), np.array(y)
+    return x, y
 
 
 def create_orderbook_magnitude_training_set(buy_arr, sell_arr, lookback):
@@ -102,8 +101,6 @@ def books2arrays(buy_tick, sell_tick):
                 buy_arr.append(float(bv))
                 sell_arr.append(float(sp))
                 sell_arr.append(float(sv))
-    bf.close()
-    sf.close()
     return buy_arr, sell_arr
 
 
@@ -191,6 +188,7 @@ def liveAnal2(currencies, interval, lookback):
 
                 # print(f'{currency} data: {data}')
                 if k > lookback * 2:
+                    print("arr: ", arr)
                     trainX, trainY = create_ohlcv_training_set(arr, lookback)
                     print(len(trainX), len(trainY))
                     print(f'trainX: {trainX}, trainY: {trainY}')
