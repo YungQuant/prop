@@ -60,7 +60,8 @@ def get_data(currency):
     retdata = []
     buys, sells = [], []
     print(f'currency: {currency}')
-    filename = f'../../kucoin_data/OMX_order_book2.txt'
+    quote = currency.split("/")[1]
+    filename = f'../../kucoin_data/{quote}_order_book2.txt'
 
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
@@ -243,9 +244,10 @@ def anal(currencies, logfile, live=False, n=0):
             f.write(json.dumps(results))
             f.write("\n")
 
+ticker = "OMX/BTC"
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-logfile = f'../../output/histMarketAnal1.2_{starttime}.txt'
-anal("OMX/BTC", logfile, live=True, n=60)
+logfile = f'../../output/histMarketAnal1.2_{ticker}_{starttime}.txt'
+anal(ticker, logfile, live=True, n=60)
 
 
 #rolling log volume
