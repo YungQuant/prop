@@ -33,9 +33,10 @@ def getRecentOrders(currency):
 
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
-    else:
-        fileP = open(filename, "r")
-        lines = fileP.readlines()
+        return data
+    
+    fileP = open(filename, "r")
+    lines = fileP.readlines()
 
     data = []
     temp = ""
@@ -44,8 +45,12 @@ def getRecentOrders(currency):
             if 'array' in line:
                 temp += line.split('array')[1][1:]
             elif "dtype='<U21')}" in line:
-                #print(temp[:-2])
-                data.append(eval(temp[:-2]))  # -2 for ,\n
+                if temp[-2:] == ",\n":
+                    temp = temp[:-2]
+                if temp[-2:] != "]]":
+                    temp += "]"
+                new_data = eval(temp)
+                data.append(new_data)  # -2 for ,\n
                 temp = ""
             else:
                 temp += line
@@ -246,7 +251,7 @@ def anal(currencies, logfile, live=False, n=0):
 
 ticker = "OMX/BTC"
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-logfile = f'../../output/histMarketAnal1.2_{ticker}_{starttime}.txt'
+logfile = f'../../output/histMarketAnal1.2_{ticker.replace("/", "_")}_{starttime}.txt'
 anal(ticker, logfile, live=True, n=60)
 
 
