@@ -115,3 +115,28 @@
   -0.2bp per cuml dir for 10d.intraday w/1min fidelity -or- 0.05bp per year for Ny.daily w/1day fidelity
 
 
+LOL @ OLD SHIT ^
+LOL, NEW SHIT v
+
+
+MM Model Architecture
+
+Dashboard
+-market metrics: volume, volaltility, aggression, gravity, daily liquidity & bias, avg order size (& vs pre-MM), attempt anal organic volume, midpoint & midrange volume metrics, volume volatility
+-algo effectivness metrics: price change, capital burn (total & rate)
+-effect of actions (order impact and liquidity profile response) on market env (to optimize algo during runtime)
+-plug effectiveness metrics into optimization framework (w/human hueristic?)
+-give client dashboard (limited?) access
+
+Model
+-initial ask wipe <-size (% of wc)?, maintenence strategy (wipe wc size vs maintence wc size)
+-bid/ask impact, order sizing?, walls/spoofing?, spread crossing above n%
+-trad bi-directional marketmaking (w/bias (from predictive model?)?)
+-sell-off amelioration (<- contingency fund?) <- to ameliorate or to not, and recover instead?
+
+Backend & Backtesting
+-aws scraping server, (indpendent? more work for approach 0 chance of aws fail) backend server
+-backtesting framework (and server?)
+-hyperparameter optimization (in backtesting framework?^), identify exact avg relationship between aggression and wc burn
+-full exchange simulator (w/entropic order sim)
+
