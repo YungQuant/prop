@@ -24,18 +24,19 @@ def sort_execOrders(orders):
 
     return execBuys, execSells
 
-def getRecentOrders(currency):
+def getRecentOrders(ticker):
     data = []
     retdata = []
     buys, sells = [], []
-    print(f'currency: {currency}')
-    filename = f'../../kucoin_data/{currency.split("/")[0]}_recentOrders2.txt'
+    print(f'ticker: {ticker}')
+    filename = f'../../kucoin_data/{ticker.split("/")[0]}_recentOrders2.txt'
 
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
-    else:
-        fileP = open(filename, "r")
-        lines = fileP.readlines()
+        return data
+    
+    fileP = open(filename, "r")
+    lines = fileP.readlines()
 
     data = []
     temp = ""
@@ -44,8 +45,12 @@ def getRecentOrders(currency):
             if 'array' in line:
                 temp += line.split('array')[1][1:]
             elif "dtype='<U21')}" in line:
-                #print(temp[:-2])
-                data.append(eval(temp[:-2]))  # -2 for ,\n
+                if temp[-2:] == ",\n":
+                    temp = temp[:-2]
+                if temp[-2:] != "]]":
+                    temp += "]"
+                new_data = eval(temp)
+                data.append(new_data)  # -2 for ,\n
                 temp = ""
             else:
                 temp += line
@@ -55,12 +60,12 @@ def getRecentOrders(currency):
 
     return data
 
-def get_data(currency):
+def get_data(ticker):
     data = {}
     retdata = []
     buys, sells = [], []
-    print(f'currency: {currency}')
-    quote = currency.split("/")[1]
+    print(f'ticker: {ticker}')
+    quote = ticker.split("/")[0]
     filename = f'../../kucoin_data/{quote}_order_book2.txt'
 
     if os.path.isfile(filename) == False:
@@ -148,10 +153,10 @@ def procDiffs(buy_diff, sell_diff, buys, sells):
     return newBuys, canceledBuys, newSells, canceledSells
 
 
-def anal(currencies, logfile, live=False, n=0):
+def anal(ticker, logfile, live=False, n=0):
     recent_orders = []
-    data = get_data(currencies)
-    orders = getRecentOrders(currencies)
+    data = get_data(ticker)
+    orders = getRecentOrders(ticker)
     for i in range(len(orders)):
         if searchOutliers(orders[i]) == False:
             recent_orders.append(orders[i])
@@ -243,10 +248,11 @@ def anal(currencies, logfile, live=False, n=0):
         with open(logfile, th) as f:
             f.write(json.dumps(results))
             f.write("\n")
+        print(f'Wrote results to {logfile}')
 
 ticker = "OMX/BTC"
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-logfile = f'../../output/histMarketAnal1.2_{ticker}_{starttime}.txt'
+logfile = f'../../output/histMarketAnal1.2_{ticker.replace("/", "_")}_{starttime}.txt'
 anal(ticker, logfile, live=True, n=60)
 
 
