@@ -59,7 +59,7 @@ def create_binary_orderbook_training_set(buy_arr, sell_arr, lookback):
 
 def create_ohlcv_training_set(data, lookback):
     x, y = [], []
-    for i in range(len(data)-2):
+    for i in range(len(data)-1):
         data[i] = data[i][1:]
         if i > lookback:
             #print(data[i][0])
@@ -68,7 +68,10 @@ def create_ohlcv_training_set(data, lookback):
                 datum += data[i-lookback:i][k]
             x.append(datum)
             # x.append(data[i - lookback:i])
-            y.append(data[i+1][-2])
+            try:
+                y.append(data[i+1][-2])
+            except:
+                print("DEBUG PREPROCESSING FAILURE", data[i+1])
     return x, y
 
 

@@ -27,3 +27,5 @@ def CryptoQuote1(the_symbol):
         elif curr.find('volume') > 0:
             ohlcvObj.volume.append(getNum(curr))
     return ohlcvObj
+
+print(CryptoQuote1("BTC_USD").close)

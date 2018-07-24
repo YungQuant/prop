@@ -24,18 +24,20 @@ def sort_execOrders(orders):
 
     return execBuys, execSells
 
-def getRecentOrders(currency):
+def getRecentOrders(ticker):
     data = []
     retdata = []
     buys, sells = [], []
+
     print(f'currency: {currency}')
-    filename = f'../../kucoin_data/{currency.split("/")[0]}_recentOrders2.txt'
+    filename = f'../../kucoin_data/{currency.split("/")[0]}_recentOrders3.txt'
 
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
-    else:
-        fileP = open(filename, "r")
-        lines = fileP.readlines()
+        return data
+    
+    fileP = open(filename, "r")
+    lines = fileP.readlines()
 
     data = []
     temp = ""
@@ -44,8 +46,12 @@ def getRecentOrders(currency):
             if 'array' in line:
                 temp += line.split('array')[1][1:]
             elif "dtype='<U21')}" in line:
-                #print(temp[:-2])
-                data.append(eval(temp[:-2]))  # -2 for ,\n
+                if temp[-2:] == ",\n":
+                    temp = temp[:-2]
+                if temp[-2:] != "]]":
+                    temp += "]"
+                new_data = eval(temp)
+                data.append(new_data)  # -2 for ,\n
                 temp = ""
             else:
                 temp += line
@@ -59,8 +65,10 @@ def get_data(currency):
     data = {}
     retdata = []
     buys, sells = [], []
+
     print(f'currency: {currency}')
-    filename = f'../../kucoin_data/OMX_order_book2.txt'
+    quote = currency.split("/")[0]
+    filename = f'../../kucoin_data/{quote}_order_book3.txt'
 
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
@@ -118,11 +126,72 @@ def get_diffs(idv_data, k):
 
     return buy_diffs, sell_diffs
 
+def getImpacts(rawBuys, rawSells, size=1):
+    bidImpacts, askImpacts = [], []
+
+    for i in range(len(rawBuys)):
+        bidVol = 0
+        bidInitPrice = rawBuys[i][0][0]
+        for k in range(len(rawBuys[i])):
+            bidVol += rawBuys[i][k][-1]
+            #print(f'bidVol: {bidVol}')
+            if bidVol >= size:
+                #print("bidVol >= size")
+                askImpacts.append(bidInitPrice-rawBuys[i][k][0])
+                break
+            elif k == len(rawBuys[i]) - 1:
+                askImpacts.append(bidInitPrice)
+                break
+
+    for i in range(len(rawSells)):
+        askVol = 0
+        askInitPrice = rawSells[i][0][0]
+        for k in range(len(rawSells[i])):
+            askVol += rawSells[i][k][-1]
+            #print(f'askvol:{askVol}')
+            if askVol >= size:
+                #print("askVol >= size")
+                bidImpacts.append(rawSells[i][k][0]-askInitPrice)
+                break
+            elif k == len(rawSells[i]) - 1:
+                bidImpacts.append(1)
+                break
+
+    return bidImpacts, askImpacts
+
 def gravity(bvolume, avolume, bprice, aprice):
     mid_volume = bvolume + avolume
     w1 = bvolume/mid_volume
     w2 = avolume/mid_volume
     return sum([(w1*aprice), (w2*bprice)])
+
+def midrangeVolume(buyOrders, sellOrders, midpoints, std, n):
+    midPStd = np.std(midpoints[-n:]) * std
+    buyVol, sellVol = 0, 0
+
+    for i in range(len(buyOrders)):
+        startPrice = float(buyOrders[0][0])
+        currPrice = float(buyOrders[i][0])
+        while currPrice > starttime - midPStd:
+            buyVol += buyOrders[i][-1]
+
+    for i in range(len(sellOrders)):
+        startPrice = float(sellOrders[0][0])
+        currPrice = float(sellOrders[i][0])
+        while currPrice > starttime + midPStd:
+            sellVol += sellOrders[i][-1]
+
+    return buyVol + sellVol
+
+def gravityN(buys, sells, n):
+    wBuys, wSells = []
+    totVol = sum([order[-1] for order in buys]) + sum([order[-1] for order in sells])
+    buyWeights, sellWeights = [order[-1] / totVol for order in buys], [order[-1] / totVol for order in sells]
+    for i in range(len(buys)):
+        wBuys.append(buys[i][0] * sellWeights[i])
+    for i in range(len(sells)):
+        wSells.append(sells[i][0] * buyWeights[i])
+    return sum(wBuys) + sum(wSells)
 
 def procDiffs(buy_diff, sell_diff, buys, sells):
     newBuys, canceledBuys, newSells, canceledSells = [], [], [], []
@@ -147,16 +216,17 @@ def procDiffs(buy_diff, sell_diff, buys, sells):
     return newBuys, canceledBuys, newSells, canceledSells
 
 
-def anal(currencies, logfile, live=False, n=0):
+def anal(ticker, logfile, live=False, n=0):
     recent_orders = []
-    data = get_data(currencies)
-    orders = getRecentOrders(currencies)
+    data = get_data(ticker)
+    orders = getRecentOrders(ticker)
     for i in range(len(orders)):
         if searchOutliers(orders[i]) == False:
             recent_orders.append(orders[i])
     hist_bestBid, hist_bestAsk, hist_spread, hist_midpoint, hist_volume, hist_midpointVolume, hist_gravity, hist_buyVolume, hist_sellVolume, hist_buyCount, hist_sellCount, hist_avgExecBuyVol, hist_avgExecSellVol = [], [], [], [], [], [], [], [], [], [], [], [], []
     hist_midpointLogvolume, hist_logVolume, hist_midpointStd, hist_midpointVolumeStd, hist_volumeStd, hist_midpointVolumeVar, hist_volumeVar, hist_meanVolume, hist_meanVolumePerOrder = [], [], [], [], [], [], [], [], []
     idv_data = data
+
     for k in range(1, len(idv_data) - 2):
         recOrders = recent_orders[k]
         execBuys, execSells = sort_execOrders(recOrders)
@@ -202,8 +272,8 @@ def anal(currencies, logfile, live=False, n=0):
         #print(f'buys: {buys}, sells: {sells}')
 
         results = {
-            "buys": buys,
-            "sells": sells,
+            # "buys": buys,
+            # "sells": sells,
             "newBuys": newBuys,
             "newSells": newSells,
             "execBuys": execBuys,
@@ -242,10 +312,12 @@ def anal(currencies, logfile, live=False, n=0):
         with open(logfile, th) as f:
             f.write(json.dumps(results))
             f.write("\n")
+        print(f'Wrote results to {logfile}')
 
+ticker = "GO/BTC"
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-logfile = f'../../output/histMarketAnal1.2_{starttime}.txt'
-anal("OMX/BTC", logfile, live=True, n=60)
+logfile = f'../../output/histMarketAnal1.2_{ticker.split("/")[0]}_lag{n}_{starttime}.txt'
+anal(ticker, logfile, live=True, n=60)
 
 
 #rolling log volume
