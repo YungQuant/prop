@@ -61,7 +61,7 @@ def getRecentOrders(ticker):
 
     return data
 
-def get_data(currency):
+def get_data(ticker):
     data = {}
     retdata = []
     buys, sells = [], []
@@ -313,6 +313,7 @@ def anal(ticker, logfile, live=False, n=0):
             f.write(json.dumps(results))
             f.write("\n")
         print(f'Wrote results to {logfile}')
+
 
 ticker = "GO/BTC"
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
