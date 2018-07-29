@@ -140,3 +140,9 @@ Backend & Backtesting
 -hyperparameter optimization (in backtesting framework?^), identify exact avg relationship between aggression and wc burn
 -full exchange simulator (w/entropic order sim)
 
+
+histMarketAnal1.2 additions:
+condensed (hourly) volume, variance of volatility, beta, asym beta, mean & std log returns, sum of n log rets, autocorr of log rets, durbin watson of autocorred log rets,
+
+execution notes:
+
