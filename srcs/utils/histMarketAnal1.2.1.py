@@ -6,15 +6,17 @@ import numpy as np
 import datetime
 from matplotlib import pyplot as plt
 
+
 def searchOutliers(string):
     datum = []
     for i in range(len(string)):
         if i > 3:
-            datum = string[i-3:i]
-            #print("datum:", datum)
+            datum = string[i - 3:i]
+            # print("datum:", datum)
         if str(datum) == "arr" or str(datum) == "UTC":
             return True
     return False
+
 
 def sort_execOrders(orders):
     execBuys, execSells = [], []
@@ -25,6 +27,7 @@ def sort_execOrders(orders):
             execSells.append(orders[i])
 
     return execBuys, execSells
+
 
 def getRecentOrders(currency):
     data = []
@@ -37,7 +40,7 @@ def getRecentOrders(currency):
     if os.path.isfile(filename) == False:
         print(f'could not source {filename} data')
         return data
-    
+
     fileP = open(filename, "r")
     lines = fileP.readlines()
 
@@ -63,6 +66,7 @@ def getRecentOrders(currency):
 
     return data
 
+
 def get_data(currency):
     data = {}
     retdata = []
@@ -77,58 +81,40 @@ def get_data(currency):
     else:
         fileP = open(filename, "r")
         lines = fileP.readlines()
-        #print(f'lines[0][0]: {lines[0][0]}')
+        # print(f'lines[0][0]: {lines[0][0]}')
         data = eval(lines[0])
 
     keys = list(data.keys())
     for i in range(len(keys)):
-        #print("data[keys[i]]: ", data[keys[i]])
+        # print("data[keys[i]]: ", data[keys[i]])
         retdata.append(data[keys[i]])
 
     return retdata
 
+
 def get_diffs(idv_data, k):
-    buy_diffs, sell_diffs, buyDatum, sellDatum = [], [], [], []
-    currBuys, currSells, lastBuys, lastSells = np.array(idv_data[k]['buys'][:10]), np.array(idv_data[k]['sells'][:10]), np.array(idv_data[k-1]['buys'][:10]), np.array(idv_data[k-1]['sells'][:10])
-    # currBuys, currSells, lastBuys, lastSells = idv_data[k]['buys'], idv_data[k]['sells'], idv_data[k - 1]['buys'], idv_data[k - 1]['sells']
-    # print(f' SHAPES currBuys: {currBuys.shape}, currSells: {currSells.shape}, lastBuys: {lastBuys.shape}, lastSells: {lastSells.shape}')
-    # print(f'currBuys: {currBuys} \n lastBuys: {lastBuys} \n currSells: {currSells}\n lastSells: {lastSells}\n')
-
-    if len(currBuys) < len(lastBuys):
-        for y in range(len(lastBuys) - len(currBuys)):
-            #print("len(currBuys) < len(lastBuys)")
-            currBuys = np.insert(currBuys, 0, [0, 0, 0], axis=0)
-    elif len(lastBuys) < len(currBuys):
-        for u in range(len(currBuys) - len(lastBuys)):
-            #print("len(lastBuys) < len(currBuys)")
-            lastBuys = np.insert(lastBuys, 0, [0, 0, 0], axis=0)
-    if len(currSells) < len(lastSells):
-        for y in range(len(lastSells) - len(currSells)):
-            #print("len(currSells) < len(lastSells)")
-            currSells = np.insert(currSells, 0, [0, 0, 0], axis=0)
-    elif len(lastSells) < len(currSells):
-        for u in range(len(currSells) - len(lastSells)):
-            #print("len(lastSells) < len(currSells)")
-            lastSells = np.insert(lastSells, 0, [0, 0, 0], axis=0)
-
-    print(f' PADDED SHAPES currBuys: {currBuys.shape}, currSells: {currSells.shape}, lastBuys: {lastBuys.shape}, lastSells: {lastSells.shape}')
-    print(f'PADDED currBuys: {currBuys} \n lastBuys: {lastBuys} \n currSells: {currSells}\n lastSells: {lastSells}\n')
+    new_buys, cancelled_buys, new_sells, cancelled_sells = [], [], [], []
+    currBuys, currSells, lastBuys, lastSells = np.array(idv_data[k]['buys']), np.array(
+        idv_data[k]['sells']), np.array(idv_data[k - 1]['buys']), np.array(idv_data[k - 1]['sells'])
 
     for i in range(len(currBuys)):
-        for j in range(len(currBuys[i])):
-            buyDatum.append(currBuys[i][j] - lastBuys[i][j])
-            if len(buyDatum) > 2 and len(buyDatum) % 3 == 0:
-                buy_diffs.append(buyDatum[-3:])
+        if currBuys[i] not in lastBuys:
+            new_buys.append(currBuys[i])
 
-    for p in range(len(currSells)):
-        for l in range(len(currSells[p])):
-            sellDatum.append(currSells[p][l] - lastSells[p][l])
-            if len(sellDatum) > 2 and len(sellDatum) % 3 == 0:
-                sell_diffs.append(sellDatum[-3:])
+    for i in range(len(currSells)):
+        if currSells[i] not in lastSells:
+            new_sells.append(currSells[i])
 
-    print("Buy Diffs:", buy_diffs, "\nSell Diffs:", sell_diffs)
+    for i in range(len(lastSells)):
+        if lastSells[i] not in currSells and lastSells[i][0] > min([currSells[0][0], lastSells[0][0]]):
+            cancelled_sells.append(lastSells[i])
 
-    return buy_diffs, sell_diffs
+    for i in range(len(lastBuys)):
+        if lastBuys[i] not in currBuys and lastBuys[i][0] > min([currBuys[0][0], lastBuys[0][0]]):
+            cancelled_buys.append(lastBuys[i])
+
+    return new_buys, cancelled_buys, new_sells, cancelled_sells
+
 
 def getImpacts(rawBuys, rawSells, size=1):
     bidImpacts, askImpacts = [], []
@@ -138,10 +124,10 @@ def getImpacts(rawBuys, rawSells, size=1):
         bidInitPrice = rawBuys[i][0][0]
         for k in range(len(rawBuys[i])):
             bidVol += rawBuys[i][k][-1]
-            #print(f'bidVol: {bidVol}')
+            # print(f'bidVol: {bidVol}')
             if bidVol >= size:
-                #print("bidVol >= size")
-                askImpacts.append(bidInitPrice-rawBuys[i][k][0])
+                # print("bidVol >= size")
+                askImpacts.append(bidInitPrice - rawBuys[i][k][0])
                 break
             elif k == len(rawBuys[i]) - 1:
                 askImpacts.append(bidInitPrice)
@@ -152,10 +138,10 @@ def getImpacts(rawBuys, rawSells, size=1):
         askInitPrice = rawSells[i][0][0]
         for k in range(len(rawSells[i])):
             askVol += rawSells[i][k][-1]
-            #print(f'askvol:{askVol}')
+            # print(f'askvol:{askVol}')
             if askVol >= size:
-                #print("askVol >= size")
-                bidImpacts.append(rawSells[i][k][0]-askInitPrice)
+                # print("askVol >= size")
+                bidImpacts.append(rawSells[i][k][0] - askInitPrice)
                 break
             elif k == len(rawSells[i]) - 1:
                 bidImpacts.append(1)
@@ -163,11 +149,13 @@ def getImpacts(rawBuys, rawSells, size=1):
 
     return bidImpacts, askImpacts
 
+
 def gravity(bvolume, avolume, bprice, aprice):
     mid_volume = bvolume + avolume
-    w1 = bvolume/mid_volume
-    w2 = avolume/mid_volume
-    return sum([(w1*aprice), (w2*bprice)])
+    w1 = bvolume / mid_volume
+    w2 = avolume / mid_volume
+    return sum([(w1 * aprice), (w2 * bprice)])
+
 
 def midrangeVolume(buyOrders, sellOrders, midpoints, std, n):
     midPStd = np.std(midpoints[-n:]) * std
@@ -187,6 +175,7 @@ def midrangeVolume(buyOrders, sellOrders, midpoints, std, n):
 
     return buyVol + sellVol
 
+
 def gravityN(buys, sells, n):
     wBuys, wSells = []
     totVol = sum([order[-1] for order in buys]) + sum([order[-1] for order in sells])
@@ -197,6 +186,7 @@ def gravityN(buys, sells, n):
         wSells.append(sells[i][0] * buyWeights[i])
     return sum(wBuys) + sum(wSells)
 
+
 def plot(a):
     y = np.arange(len(a))
     plt.plot(y, a, 'g')
@@ -204,29 +194,6 @@ def plot(a):
     plt.xlabel('x')
     plt.title("Title")
     plt.show()
-
-def procDiffs(buy_diff, sell_diff, buys, sells):
-    newBuys, canceledBuys, newSells, canceledSells = [], [], [], []
-
-    for k in range(20):
-        buys.append([0, 0, 0])
-        sells.append([0, 0, 0])
-
-    for i, order in enumerate(buy_diff):
-        #print(f'order: {order}, len(buys): {len(buys)}, len(buy_diff): {len(buy_diff)}, i: {i}')
-        if order[0] != 0 and order[1] != 0 and order[2] != 0:
-            newBuys.append(order)
-        elif order[0] == 0 - buys[i][0] and order[1] == 0 - buys[i][1] and order[2] == 0 - buys[i][2]:
-            canceledBuys.append(order)
-
-    for i, order in enumerate(sell_diff):
-        if order[0] != 0 and order[1] != 0 and order[2] != 0:
-            newSells.append(order)
-        elif order[0] == 0 - sells[i][0] and order[1] == 0 - sells[i][1] and order[2] == 0 - sells[i][2]:
-            canceledSells.append(order)
-
-    return newBuys, canceledBuys, newSells, canceledSells
-
 
 def anal(ticker, logfile, live=False, n=0):
     recent_orders = []
@@ -247,13 +214,12 @@ def anal(ticker, logfile, live=False, n=0):
         avgExecSellVol = np.mean([float(order[-1]) for order in execSells])
         buys, sells = idv_data[k]['buys'], idv_data[k]['sells']
         # print("buys[:10", buys[:10], "sells[:10]", sells[:10])
-        buy_diff, sell_diff = get_diffs(idv_data, k + 1)
+        newBuys, cancelledBuys, newSells, cancelledSells = get_diffs(idv_data, k + 1)
         hist_midpoint.append(buys[0][0])
-        newBuys, cancelledBuys, newSells, cancelledSells = procDiffs(buy_diff, sell_diff, buys, sells)
         newOrderCnt = len(newBuys) + len(newSells)
         cancelledOrderCnt = len(cancelledBuys) + len(cancelledSells)
 
-    # plot(hist_midpoint)
+        # plot(hist_midpoint)
 
         print("newBuys:", newBuys, "\ncancelledBuys:", cancelledBuys, "\nnewSells:", newSells, "\ncancelledSells:",
               cancelledSells, "newOrderCnt:", newOrderCnt, "cancelledOrderCnt:", cancelledOrderCnt)
@@ -339,13 +305,13 @@ logfile = f'../../output/histMarketAnal1.2_{ticker.split("/")[0]}_{starttime}.tx
 anal(ticker, logfile, live=True, n=60)
 
 
-#rolling log volume
-#rolling and moment std
-#??garch &or ewma
-#best bid&ask, spread, midpoint
-#hist buy & sell count/ratio
+# rolling log volume
+# rolling and moment std
+# ??garch &or ewma
+# best bid&ask, spread, midpoint
+# hist buy & sell count/ratio
 
-#gravity?
+# gravity?
 # def gravity(Data):
 # bvolume = bid_volume[0]
 # avolume = ask_volume[0]
@@ -356,9 +322,9 @@ anal(ticker, logfile, live=True, n=60)
 # W2 = avolume/mid_volume
 # Gravity = sum((w1*aprice),(w2*bprice)
 
-#time of day volume trends
+# time of day volume trends
 
-#diff orderbooks for order cancelation metrics
+# diff orderbooks for order cancelation metrics
 
 # bid_agression = mrkt_buys / new_quotes
 # Ask_agression = mrkt_sells/new_bids
