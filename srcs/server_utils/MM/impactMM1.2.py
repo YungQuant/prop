@@ -28,9 +28,13 @@ sys.path.append("..")
 from kucoin.client import Client
 kucoin_api_key = 'api_key'
 kucoin_api_secret = 'api_secret'
+# client = Client(
+#     api_key= '5b579193857b873dcbd2eceb',
+#     api_secret= '0ca53c55-39d2-45aa-8a75-cbeb7c735d26')
 client = Client(
-    api_key= '5b579193857b873dcbd2eceb',
-    api_secret= '0ca53c55-39d2-45aa-8a75-cbeb7c735d26')
+    api_key= '5b648d9908d8b114d114636f',
+    api_secret= '7a0c3a0e-1fc8-4f24-9611-e227bde6e6e0')
+
 
 
 def getMaximalImpact(buys, sells, size):
@@ -106,9 +110,10 @@ def filterBalances(balances):
 
 args = sys.argv
 ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = args[1], float(args[2]), float(args[3]), float(args[4]), float(args[5]), float(args[6]), float(args[7])
-#ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = "OMX-BTC", 5, 2, 2, 60, 1, 60
+#ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = "OMX-BTC", 5, 2, 2, 6, 1, 6
 sQuantity = quantity
 initBook = client.get_order_book(ticker, limit=99999)
+bidImpacts, askImpacts, midpoints = [], [], []
 timeCnt = 0
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 sPrice = np.mean([initBook['BUY'][0][0], initBook['SELL'][0][0]])
@@ -116,7 +121,6 @@ logfile = "output/impactMM1.1_" + ticker.split("/")[0] + "_" + starttime + ".txt
 
 while (1):
     try:
-        bidImpacts, askImpacts, midpoints = [], [], []
         orders = client.get_order_book(ticker, limit=99999)
         recent_orders = client.get_recent_orders(ticker, limit=99999)
         bidImpact, askImpact = getImpact(orders['BUY'], orders['SELL'], size=ref)
@@ -146,6 +150,8 @@ while (1):
                 minp, mins = getMinimalImpact(orders['BUY'], orders['SELL'], ref)
             else:
                 minp, mins = 0, 0
+            print("BidIT:", bidIM + (bidIS * bidAggression), "AskIT:", askIM - (askIS * askAggression))
+            print("Bid Impact Max, Min", max(bidImpacts), ",", min(bidImpacts), "Ask Impact Max, Min", max(askImpacts), ",", min(askImpacts))
             print("BidIV:", np.var(bidImpacts), "askIV:", np.var(askImpacts))
             print("bidIM:", bidIM, "bidIS:", bidIS, "askIM:", askIM, "askIS:", askIS)
             print("MAXIMAL:", maxp, maxs, "MINIMAL:", minp, mins)
@@ -167,6 +173,8 @@ while (1):
                 "sPrice": sPrice,
                 "bidImpact": bidImpact,
                 "askImpact": askImpact,
+                "bidIT": bidIM + (bidIS * bidAggression),
+                "askIT": askIM - (askIS * askAggression),
                 "bidIM": bidIM,
                 "askIM": askIM,
                 "bidIS": bidIS,
@@ -181,37 +189,45 @@ while (1):
 
             if timeCnt % ovAgg == 0:
                 border, aorder, bResp, aResp = "None", "None", "None", "None"
-                if bidImpact > bidIM + (bidIS * bidAggression):
-                    if maxp > ask + bidImpact and maxs > ref and maxs < ref * 1.95:
-                        border = str("client.create_buy_order(" + str(ticker) + "," + str(maxp) + "," + str((maxs * 1.03)) + ")")
-                        write['border'] = border
-                        print("client.create_buy_order(", ticker, maxp, (maxs * 1.03), ")")
-                        # bResp = client.create_buy_order(ticker, maxp, str(np.floor((maxs * 1.03)  / np.mean([ask, maxp]))))
-                        # write['bResp'] = bResp
-                        quantity -= maxs * 1.03
-                    else:
-                        border = str("client.create_buy_order(" + str(ticker) + "," + str(ask + bidImpact) + "," + str(ref * 1.03) + ")")
-                        write['border'] = border
-                        print("client.create_buy_order(", ticker, ask + bidImpact, ref * 1.03, ")")
-                        # bResp = client.create_buy_order(ticker, ask + bidImpact, str(np.floor((ref * 1.03) / np.mean([ask, ask + bidImpact))))
-                        # write['bResp'] = bResp
-                        quantity -= ref * 1.03
 
-                if askImpact < askIM - (askIS * askAggression):
+                if askImpact <= askIM - (askIS * askAggression):
                     if minp < bid - askImpact and mins > ref and mins < ref * 1.95:
-                        aorder = str("client.create_sell_order(" + str(ticker) + "," + str(minp) + "," + str(mins * 1.03) + ")")
+                        aorder = str(
+                            "MINIMAL client.create_sell_order(" + str(ticker) + "," + str(minp) + "," + str(mins * 1.03) + ")")
                         write['aorder'] = aorder
-                        print("client.create_sell_order(", ticker, minp, mins * 1.03, ")")
-                        # aResp = client.create_sell_order(ticker, minp, str(np.floor((mins * 1.03) / np.mean([bid, minp]))))
-                        # write['aResp'] = aResp
+                        print("MINIMAL client.create_sell_order(", ticker, minp,
+                              str((mins * 1.03 / np.mean([bid, minp])))[:6], ")")
+                        aResp = client.create_sell_order(ticker, minp,
+                                                         str((mins * 1.03 / np.mean([bid, minp])))[:6])
+                        write['aResp'] = aResp
                         quantity += mins * 1.03
                     else:
-                        aorder = str("client.create_sell_order(" + str(ticker) + str(bid - askImpact) + str(ref * 1.03) + ")")
+                        aorder = str(
+                            "NON_MINIMALclient.create_sell_order(" + str(ticker) + str(bid - askImpact) + str(ref * 1.03) + ")")
                         write['aorder'] = aorder
-                        print("client.create_sell_order(", ticker, bid - askImpact, ref * 1.03, ")")
-                        # aResp = client.create_sell_order(ticker, bid - askImpact, str(np.floor((ref * 1.03) / np.mean([bid, bid - askImpact])))
-                        # write['aResp'] = aResp
+                        print("NON_MINIMAL client.create_sell_order(", ticker, bid - askImpact,
+                              str((ref * 1.03 / np.mean([bid, bid - askImpact])))[:6], ")")
+                        aResp = client.create_sell_order(ticker, bid - askImpact,
+                                                         str((ref * 1.03 / np.mean([bid, bid - askImpact])))[
+                                                         :6])
+                        write['aResp'] = aResp
                         quantity += ref * 1.03
+
+                if bidImpact >= bidIM + (bidIS * bidAggression):
+                    if maxp > ask + bidImpact and maxs > ref: #and maxs < ref * 1.95:
+                        border = str("MAXIMAL client.create_buy_order(" + str(ticker) + "," + str(maxp) + "," + str((maxs * 1.03)) + ")")
+                        write['border'] = border
+                        print("MAXIMAL client.create_buy_order(", ticker, maxp, str((maxs * 1.03 / np.mean([ask, maxp])))[:5], ")")
+                        bResp = client.create_buy_order(ticker, maxp, str((maxs * 1.03 / np.mean([ask, maxp])))[:5])
+                        write['bResp'] = bResp
+                        quantity -= maxs * 1.03
+                    else:
+                        border = str("NON_MAXIMAL client.create_buy_order(" + str(ticker) + "," + str(ask + bidImpact) + "," + str(ref * 1.03) + ")")
+                        write['border'] = border
+                        print("NON_MAXIMAL client.create_buy_order(", ticker, ask + bidImpact, str(ref * 1.03 / np.mean([ask, ask + bidImpact]))[:6], ")")
+                        bResp = client.create_buy_order(ticker, ask + bidImpact, str(ref * 1.03 / np.mean([ask, ask + bidImpact]))[:6])
+                        write['bResp'] = bResp
+                        quantity -= ref * 1.03
 
             th = ("a" if os.path.isfile(logfile) else 'w')
 
@@ -220,11 +236,12 @@ while (1):
                 f.write("\n")
             print("Wrote results to", logfile)
 
-        if quantity < ref * 2:
-            exit(code=0)
+        # if quantity < ref * 2:
+        #     exit(code=0)
         time.sleep(1)
         timeCnt += 1
         print("timeCnt:", timeCnt, ",", timeCnt / 60, "minutes\n")
-    except Exception as e:
-        print("FUUUUUUUUUUCK", e)
+    except:
+        print("FUUUUUUUUUUCK", sys.exc_info())
+        time.sleep(1)
 
