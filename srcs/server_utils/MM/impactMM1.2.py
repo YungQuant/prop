@@ -117,7 +117,7 @@ bidImpacts, askImpacts, midpoints = [], [], []
 timeCnt, execTrades = 0, 0
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 sPrice = np.mean([initBook['BUY'][0][0], initBook['SELL'][0][0]])
-logfile = "output/impactMM1.1_" + ticker.split("/")[0] + "_" + starttime + ".txt"
+logfile = "output/impactMM1.2_" + ticker.split("/")[0] + "_" + starttime + ".txt"
 
 while (1):
     try:

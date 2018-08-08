@@ -109,7 +109,7 @@ def filterBalances(balances):
     return retBals
 
 args = sys.argv
-ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = args[1], float(args[2]), float(args[3]), float(args[4]), float(args[5]), float(args[6]), float(args[7])
+ticker, quantity, bidAggression, askAggression, window, ref, ovAgg, pt = args[1], float(args[2]), float(args[3]), float(args[4]), float(args[5]), float(args[6]), float(args[7]), float(args[8])
 #ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = "OMX-BTC", 5, 2, 2, 6, 1, 6
 sQuantity = quantity
 initBook = client.get_order_book(ticker, limit=99999)
@@ -117,7 +117,7 @@ bidImpacts, askImpacts, midpoints = [], [], []
 timeCnt, execTrades = 0, 0
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
 sPrice = np.mean([initBook['BUY'][0][0], initBook['SELL'][0][0]])
-logfile = "output/impactMM1.1_" + ticker.split("/")[0] + "_" + starttime + ".txt"
+logfile = "output/impactMM1.c_" + ticker.split("/")[0] + "_" + starttime + ".txt"
 
 while (1):
     try:
@@ -130,7 +130,7 @@ while (1):
         bals = filterBalances(client.get_all_balances())
         print("ImpactMM Version 1.2 -yungquant")
         print("Ticker:", ticker, "sQuantity:", sQuantity, "Quantity:", quantity, "sPrice:", sPrice, "price:", midpoints[-1], "bidAggression:", bidAggression,
-              "askAggression:", askAggression, "Window:", window, "ovAgg:", ovAgg)
+              "askAggression:", askAggression, "Window:", window, "ovAgg:", ovAgg, "pt:", pt)
         print("starttime:", starttime, "time:", timeStr)
         print("balances:", bals)
         print("price:", midpoints[-1], "ref:", ref, "bidImpact:", bidImpact, "askImpact:", askImpact)
@@ -188,7 +188,7 @@ while (1):
 
             }
 
-            if timeCnt % ovAgg == 0:
+            if timeCnt % ovAgg == 0 and midpoints[-1] < pt:
                 border, aorder, bResp, aResp = "None", "None", "None", "None"
 
                 if askImpact <= askIM - (askIS * askAggression):
