@@ -130,7 +130,7 @@ while (1):
         bals = filterBalances(client.get_all_balances())
         print("ImpactMM Version 1.2 -yungquant")
         print("Ticker:", ticker, "sQuantity:", sQuantity, "Quantity:", quantity, "sPrice:", sPrice, "price:", midpoints[-1], "bidAggression:", bidAggression,
-              "askAggression:", askAggression, "Window:", window, "ovAgg:", ovAgg)
+              "askAggression:", askAggression, "Window:", window, "ovAgg:", ovAgg, "pt:", pt)
         print("starttime:", starttime, "time:", timeStr)
         print("balances:", bals)
         print("price:", midpoints[-1], "ref:", ref, "bidImpact:", bidImpact, "askImpact:", askImpact)
@@ -191,7 +191,7 @@ while (1):
             if timeCnt % ovAgg == 0 and midpoints[-1] < pt:
                 border, aorder, bResp, aResp = "None", "None", "None", "None"
 
-                if askImpact <= askIM - (askIS * askAggression):
+                if askImpact < bidImpact and askImpact <= askIM - (askIS * askAggression):
                     if minp < bid - askImpact and mins > ref and mins < ref * 1.95:
                         aorder = str(
                             "MINIMAL client.create_sell_order(" + str(ticker) + "," + str(minp) + "," + str(mins * 1.03) + ")")
