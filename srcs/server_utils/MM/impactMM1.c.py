@@ -109,7 +109,7 @@ def filterBalances(balances):
     return retBals
 
 args = sys.argv
-ticker, quantity, bidAggression, askAggression, window, ref, ovAgg, pt = args[1], float(args[2]), float(args[3]), float(args[4]), float(args[5]), float(args[6]), float(args[7]), float(args[8])
+ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = args[1], float(args[2]), float(args[3]), float(args[4]), float(args[5]), float(args[6]), float(args[7])
 #ticker, quantity, bidAggression, askAggression, window, ref, ovAgg = "OMX-BTC", 5, 2, 2, 6, 1, 6
 sQuantity = quantity
 initBook = client.get_order_book(ticker, limit=99999)
@@ -188,51 +188,30 @@ while (1):
 
             }
 
-            if timeCnt % ovAgg == 0 and midpoints[-1] < pt:
+            if timeCnt % ovAgg == 0:
                 border, aorder, bResp, aResp = "None", "None", "None", "None"
 
                 if askImpact <= askIM - (askIS * askAggression):
-                    if minp < bid - askImpact and mins > ref and mins < ref * 1.95:
-                        aorder = str(
-                            "MINIMAL client.create_sell_order(" + str(ticker) + "," + str(minp) + "," + str(mins * 1.03) + ")")
-                        write['aorder'] = aorder
-                        print("MINIMAL client.create_sell_order(", ticker, minp,
-                              str((mins * 1.03 / np.mean([bid, minp])))[:6], ")")
-                        aResp = client.create_sell_order(ticker, minp,
-                                                         str((mins * 1.03 / np.mean([bid, minp])))[:6])
-                        write['aResp'] = aResp
-                        quantity += mins * 1.03
-                        execTrades += 1
-                    else:
-                        aorder = str(
-                            "NON_MINIMALclient.create_sell_order(" + str(ticker) + str(bid - askImpact) + str(ref * 1.03) + ")")
-                        write['aorder'] = aorder
-                        print("NON_MINIMAL client.create_sell_order(", ticker, bid - askImpact,
-                              str((ref * 1.03 / np.mean([bid, bid - askImpact])))[:6], ")")
-                        aResp = client.create_sell_order(ticker, bid - askImpact,
-                                                         str((ref * 1.03 / np.mean([bid, bid - askImpact])))[
-                                                         :6])
-                        write['aResp'] = aResp
-                        quantity += ref * 1.03
-                        execTrades += 1
+                    aorder = str(
+                        "NON_MINIMALclient.create_sell_order(" + str(ticker) + str(bid - askImpact) + str(ref * 1.03) + ")")
+                    write['aorder'] = aorder
+                    print("NON_MINIMAL client.create_sell_order(", ticker, bid - askImpact,
+                          str((ref * 1.03 / np.mean([bid, bid - askImpact])))[:6], ")")
+                    aResp = client.create_sell_order(ticker, bid - askImpact,
+                                                     str((ref * 1.03 / np.mean([bid, bid - askImpact])))[
+                                                     :6])
+                    write['aResp'] = aResp
+                    quantity += ref * 1.03
+                    execTrades += 1
 
                 if bidImpact >= bidIM + (bidIS * bidAggression):
-                    if maxp > ask + bidImpact and maxs > ref: #and maxs < ref * 1.95:
-                        border = str("MAXIMAL client.create_buy_order(" + str(ticker) + "," + str(maxp) + "," + str((maxs * 1.03)) + ")")
-                        write['border'] = border
-                        print("MAXIMAL client.create_buy_order(", ticker, maxp, str((maxs * 1.03 / np.mean([ask, maxp])))[:5], ")")
-                        bResp = client.create_buy_order(ticker, maxp, str((maxs * 1.03 / np.mean([ask, maxp])))[:5])
-                        write['bResp'] = bResp
-                        quantity -= maxs * 1.03
-                        execTrades += 1
-                    else:
-                        border = str("NON_MAXIMAL client.create_buy_order(" + str(ticker) + "," + str(ask + bidImpact) + "," + str(ref * 1.03) + ")")
-                        write['border'] = border
-                        print("NON_MAXIMAL client.create_buy_order(", ticker, ask + bidImpact, str(ref * 1.03 / np.mean([ask, ask + bidImpact]))[:6], ")")
-                        bResp = client.create_buy_order(ticker, ask + bidImpact, str(ref * 1.03 / np.mean([ask, ask + bidImpact]))[:6])
-                        write['bResp'] = bResp
-                        quantity -= ref * 1.03
-                        execTrades += 1
+                    border = str("NON_MAXIMAL client.create_buy_order(" + str(ticker) + "," + str(ask + bidImpact) + "," + str(ref * 1.03) + ")")
+                    write['border'] = border
+                    print("NON_MAXIMAL client.create_buy_order(", ticker, ask + bidImpact, str(ref * 1.03 / np.mean([ask, ask + bidImpact]))[:6], ")")
+                    bResp = client.create_buy_order(ticker, ask + bidImpact, str(ref * 1.03 / np.mean([ask, ask + bidImpact]))[:6])
+                    write['bResp'] = bResp
+                    quantity -= ref * 1.03
+                    execTrades += 1
 
             th = ("a" if os.path.isfile(logfile) else 'w')
 
