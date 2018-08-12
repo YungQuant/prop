@@ -188,7 +188,7 @@ while (1):
 
             }
 
-            if timeCnt % ovAgg == 0 and midpoints[-1] < pt:
+            if midpoints[-1] < pt:
                 border, aorder, bResp, aResp = "None", "None", "None", "None"
 
                 if askImpact < bidImpact and askImpact <= askIM - (askIS * askAggression):
@@ -243,9 +243,9 @@ while (1):
 
         # if quantity < ref * 2:
         #     exit(code=0)
-        time.sleep(1)
+        time.sleep(ovAgg)
         timeCnt += 1
-        print("timeCnt:", timeCnt, ",", timeCnt / 60, "minutes\n")
+        print("timeCnt:", timeCnt, "\n")
     except:
         print("FUUUUUUUUUUCK", sys.exc_info())
         time.sleep(1)
