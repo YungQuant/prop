@@ -191,7 +191,7 @@ while (1):
             if midpoints[-1] < pt:
                 border, aorder, bResp, aResp = "None", "None", "None", "None"
 
-                if askImpact < bidImpact and askImpact <= askIM - (askIS * askAggression):
+                if askImpact < bidImpact and askImpact < askIM - (askIS * askAggression):
                     if minp < bid - askImpact and mins > ref and mins < ref * 1.95:
                         aorder = str(
                             "MINIMAL client.create_sell_order(" + str(ticker) + "," + str(minp) + "," + str(mins * 1.03) + ")")
