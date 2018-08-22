@@ -116,6 +116,7 @@ initBook = client.get_order_book(ticker, limit=99999)
 bidImpacts, askImpacts, midpoints = [], [], []
 timeCnt, execTrades = 0, 0
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
+sBals = filterBalances(client.get_all_balances())
 sPrice = np.mean([initBook['BUY'][0][0], initBook['SELL'][0][0]])
 logfile = "output/impactMM1.2_" + ticker.split("/")[0] + "_" + starttime + ".txt"
 
@@ -127,12 +128,11 @@ while (1):
         bid, ask = orders['BUY'][0][0], orders['SELL'][0][0]
         midpoints.append(np.mean([bid, ask]))
         timeStr = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
-        bals = filterBalances(client.get_all_balances())
         print("ImpactMM Version 1.2 -yungquant")
         print("Ticker:", ticker, "sQuantity:", sQuantity, "Quantity:", quantity, "sPrice:", sPrice, "price:", midpoints[-1], "bidAggression:", bidAggression,
               "askAggression:", askAggression, "Window:", window, "ovAgg:", ovAgg, "pt:", pt)
         print("starttime:", starttime, "time:", timeStr)
-        print("balances:", bals)
+        print("sBals:", sBals, "bals:", filterBalances(client.get_all_balances()))
         print("price:", midpoints[-1], "ref:", ref, "bidImpact:", bidImpact, "askImpact:", askImpact)
         bidImpacts.append(bidImpact)
         askImpacts.append(askImpact)
@@ -205,7 +205,7 @@ while (1):
                         execTrades += 1
                     else:
                         aorder = str(
-                            "NON_MINIMALclient.create_sell_order(" + str(ticker) + str(bid - askImpact) + str(ref * 1.03) + ")")
+                            "NON_MINIMAL client.create_sell_order(" + str(ticker) + ',' + str(bid - askImpact) + ',' + str(ref * 1.03) + ")")
                         write['aorder'] = aorder
                         print("NON_MINIMAL client.create_sell_order(", ticker, bid - askImpact,
                               str((ref * 1.03 / np.mean([bid, bid - askImpact])))[:6], ")")
@@ -217,7 +217,7 @@ while (1):
                         execTrades += 1
 
                 if bidImpact >= bidIM + (bidIS * bidAggression):
-                    if maxp > ask + bidImpact and maxs > ref: #and maxs < ref * 1.95:
+                    if maxp > ask + bidImpact and maxs > ref and maxs < ref * 1.95:
                         border = str("MAXIMAL client.create_buy_order(" + str(ticker) + "," + str(maxp) + "," + str((maxs * 1.03)) + ")")
                         write['border'] = border
                         print("MAXIMAL client.create_buy_order(", ticker, maxp, str((maxs * 1.03 / np.mean([ask, maxp])))[:5], ")")

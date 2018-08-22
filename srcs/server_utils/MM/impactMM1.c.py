@@ -116,6 +116,7 @@ initBook = client.get_order_book(ticker, limit=99999)
 bidImpacts, askImpacts, midpoints = [], [], []
 timeCnt, execTrades = 0, 0
 starttime = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%f%Z")
+sBals = filterBalances(client.get_all_balances())
 sPrice = np.mean([initBook['BUY'][0][0], initBook['SELL'][0][0]])
 logfile = "output/impactMM1.c_" + ticker.split("/")[0] + "_" + starttime + ".txt"
 
@@ -132,7 +133,7 @@ while (1):
         print("Ticker:", ticker, "sQuantity:", sQuantity, "Quantity:", quantity, "sPrice:", sPrice, "price:", midpoints[-1], "bidAggression:", bidAggression,
               "askAggression:", askAggression, "Window:", window, "ovAgg:", ovAgg, "pt:", pt)
         print("starttime:", starttime, "time:", timeStr)
-        print("balances:", bals)
+        print("sBals:", sBals, "bals:", filterBalances(client.get_all_balances()))
         print("price:", midpoints[-1], "ref:", ref, "bidImpact:", bidImpact, "askImpact:", askImpact)
         bidImpacts.append(bidImpact)
         askImpacts.append(askImpact)
