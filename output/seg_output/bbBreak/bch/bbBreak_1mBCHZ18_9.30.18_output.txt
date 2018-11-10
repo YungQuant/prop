@@ -1,0 +1,24 @@
+
+K in:	20
+D in:	0.1
+bitchCunt:	0.019435
+Len:	15
+MDD:	0.1454810853543771
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0379952403696817
+
+
+K in:	20
+D in:	0.1
+bitchCunt:	0.032845150000000004
+Len:	12
+MDD:	0.12080606725450038
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0389716703995064
+
+
+K in:	20
+D in:	0.1
+bitchCunt:	0.04269869500000001
+Len:	10
+MDD:	0.12080606725450038
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.059390785302515
+

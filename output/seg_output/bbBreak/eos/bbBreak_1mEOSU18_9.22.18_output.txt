@@ -1,0 +1,9976 @@
+
+K in:	20
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.023105544830137225
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0258718092980394
+
+
+K in:	20
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.023105544830137225
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0258718092980394
+
+
+K in:	20
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.023105544830137225
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0258718092980394
+
+
+K in:	20
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.023105544830137225
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0258718092980394
+
+
+K in:	20
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.023105544830137225
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0258718092980394
+
+
+K in:	24
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0381435398410783
+
+
+K in:	24
+D in:	2.6999999999999984
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0302583350028758
+
+
+K in:	24
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0381435398410783
+
+
+K in:	24
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0302583350028758
+
+
+K in:	24
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0381435398410783
+
+
+K in:	24
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0302583350028758
+
+
+K in:	24
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0381435398410783
+
+
+K in:	24
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0302583350028758
+
+
+K in:	24
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0381435398410783
+
+
+K in:	24
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0302583350028758
+
+
+K in:	28
+D in:	0.2
+bitchCunt:	0.0045000000000000005
+Len:	14
+MDD:	0.032930307709687134
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0207727861244276
+
+
+K in:	28
+D in:	0.25
+bitchCunt:	0.0045000000000000005
+Len:	13
+MDD:	0.01948218284996688
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0359985135825753
+
+
+K in:	28
+D in:	0.25
+bitchCunt:	0.01495
+Len:	11
+MDD:	0.024881758435236833
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.022717918466169
+
+
+K in:	28
+D in:	0.25
+bitchCunt:	0.019435
+Len:	11
+MDD:	0.024881758435236833
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.022717918466169
+
+
+K in:	28
+D in:	0.3
+bitchCunt:	0.0045000000000000005
+Len:	14
+MDD:	0.023194047761460557
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.027340499660493
+
+
+K in:	28
+D in:	0.35
+bitchCunt:	0.0045000000000000005
+Len:	14
+MDD:	0.023490874839194875
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.021147835764718
+
+
+K in:	28
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	28
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	28
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	28
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	28
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	28
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	28
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	28
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	28
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	28
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	28
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	28
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.01495
+Len:	9
+MDD:	0.019700019493433526
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0408553967356569
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.019435
+Len:	9
+MDD:	0.019700019493433526
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0408553967356569
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.025265500000000003
+Len:	9
+MDD:	0.019700019493433533
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0290126071613563
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.04269869500000001
+Len:	9
+MDD:	0.01970001949343375
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026770542556286
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.055508303500000016
+Len:	9
+MDD:	0.01970001949343375
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026770542556286
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.07216079455000002
+Len:	9
+MDD:	0.01970001949343375
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026770542556286
+
+
+K in:	34
+D in:	0.15000000000000002
+bitchCunt:	0.09380903291500002
+Len:	9
+MDD:	0.01970001949343375
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026770542556286
+
+
+K in:	34
+D in:	0.2
+bitchCunt:	0.0045000000000000005
+Len:	11
+MDD:	0.027831468120401225
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0470194048800223
+
+
+K in:	34
+D in:	0.2
+bitchCunt:	0.01495
+Len:	9
+MDD:	0.02251012460631388
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0310149054191098
+
+
+K in:	34
+D in:	0.2
+bitchCunt:	0.019435
+Len:	9
+MDD:	0.02251012460631388
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0310149054191098
+
+
+K in:	34
+D in:	0.25
+bitchCunt:	0.0045000000000000005
+Len:	12
+MDD:	0.03699992950791162
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0240713342245589
+
+
+K in:	34
+D in:	0.3
+bitchCunt:	0.0045000000000000005
+Len:	12
+MDD:	0.02977162864517747
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.051489170941598
+
+
+K in:	34
+D in:	0.3
+bitchCunt:	0.01495
+Len:	10
+MDD:	0.035210377707227875
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0259029912927848
+
+
+K in:	34
+D in:	0.3
+bitchCunt:	0.019435
+Len:	10
+MDD:	0.035210377707227875
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0259029912927848
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.0045000000000000005
+Len:	11
+MDD:	0.01945634125771023
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0637502604399314
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.008
+Len:	11
+MDD:	0.031610408772899036
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0286932978774332
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.0115
+Len:	10
+MDD:	0.02469286635331855
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0241997287153128
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.01495
+Len:	9
+MDD:	0.024692866353318403
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0396895076035517
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.019435
+Len:	9
+MDD:	0.024692866353318403
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0396895076035517
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.025265500000000003
+Len:	9
+MDD:	0.024692866353318688
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0280370436131252
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.04269869500000001
+Len:	8
+MDD:	0.013826209816049938
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266191394686395
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.055508303500000016
+Len:	8
+MDD:	0.013826209816049938
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266191394686395
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.07216079455000002
+Len:	8
+MDD:	0.013826209816049938
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266191394686395
+
+
+K in:	34
+D in:	0.35
+bitchCunt:	0.09380903291500002
+Len:	8
+MDD:	0.013826209816049938
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266191394686395
+
+
+K in:	34
+D in:	0.39999999999999997
+bitchCunt:	0.0045000000000000005
+Len:	11
+MDD:	0.023779272557136966
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0565074038429598
+
+
+K in:	34
+D in:	0.39999999999999997
+bitchCunt:	0.008
+Len:	11
+MDD:	0.03415338094739062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0217065926538025
+
+
+K in:	34
+D in:	0.39999999999999997
+bitchCunt:	0.01495
+Len:	9
+MDD:	0.027745863732754672
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0303747156977099
+
+
+K in:	34
+D in:	0.39999999999999997
+bitchCunt:	0.019435
+Len:	9
+MDD:	0.027745863732754672
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0303747156977099
+
+
+K in:	34
+D in:	0.44999999999999996
+bitchCunt:	0.0045000000000000005
+Len:	11
+MDD:	0.023779272557136966
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0574466880042972
+
+
+K in:	34
+D in:	0.44999999999999996
+bitchCunt:	0.008
+Len:	11
+MDD:	0.033293049688730564
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0226166813795894
+
+
+K in:	34
+D in:	0.44999999999999996
+bitchCunt:	0.01495
+Len:	9
+MDD:	0.027203624473674318
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0312926708217822
+
+
+K in:	34
+D in:	0.44999999999999996
+bitchCunt:	0.019435
+Len:	9
+MDD:	0.027203624473674318
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0312926708217822
+
+
+K in:	34
+D in:	0.49999999999999994
+bitchCunt:	0.0045000000000000005
+Len:	12
+MDD:	0.02745460521765708
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.052077346917617
+
+
+K in:	34
+D in:	0.49999999999999994
+bitchCunt:	0.01495
+Len:	9
+MDD:	0.02731275904145723
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0243674220689445
+
+
+K in:	34
+D in:	0.49999999999999994
+bitchCunt:	0.019435
+Len:	9
+MDD:	0.02731275904145723
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0243674220689445
+
+
+K in:	34
+D in:	0.5499999999999999
+bitchCunt:	0.0045000000000000005
+Len:	12
+MDD:	0.02745460521765708
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0516161932465267
+
+
+K in:	34
+D in:	1.900000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.02554052621118392
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0226832623788267
+
+
+K in:	34
+D in:	1.900000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.900000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.900000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.900000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.950000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.02554052621118392
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0226832623788267
+
+
+K in:	34
+D in:	1.950000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.950000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.950000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	1.950000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	34
+D in:	2.000000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.000000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.000000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.000000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.0500000000000007
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.0500000000000007
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.0500000000000007
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.0500000000000007
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.1000000000000005
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.1000000000000005
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.1000000000000005
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.1000000000000005
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	34
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.5999999999999988
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.5999999999999988
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.6499999999999986
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.6499999999999986
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.6999999999999984
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.6999999999999984
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	34
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	34
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	34
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	0.49999999999999994
+bitchCunt:	0.0045000000000000005
+Len:	10
+MDD:	0.024462683045186395
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0226891822756943
+
+
+K in:	41
+D in:	1.950000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	1.950000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	1.950000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	1.950000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	2.000000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	2.000000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	2.000000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	2.000000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	41
+D in:	2.0500000000000007
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.0500000000000007
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.0500000000000007
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.0500000000000007
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1000000000000005
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1000000000000005
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1000000000000005
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1000000000000005
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.2
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.2
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.2
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.2
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.25
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.25
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.25
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.25
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3499999999999996
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3499999999999996
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3499999999999996
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.3499999999999996
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	41
+D in:	2.499999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.499999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.499999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.549999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.549999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.549999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.5999999999999988
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.5999999999999988
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.6499999999999986
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.6499999999999986
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.6999999999999984
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.6999999999999984
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	41
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	41
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	41
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	49
+D in:	0.7000000000000001
+bitchCunt:	0.0045000000000000005
+Len:	10
+MDD:	0.0381816986804403
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0216787475875286
+
+
+K in:	49
+D in:	0.9500000000000003
+bitchCunt:	0.0045000000000000005
+Len:	9
+MDD:	0.027086909294721573
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.021285691451276
+
+
+K in:	49
+D in:	1.0000000000000002
+bitchCunt:	0.0045000000000000005
+Len:	9
+MDD:	0.027086909294721573
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.021285691451276
+
+
+K in:	49
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	49
+D in:	2.5999999999999988
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	49
+D in:	2.5999999999999988
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246279035575228
+
+
+K in:	49
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0477883751323616
+
+
+K in:	49
+D in:	2.6499999999999986
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	49
+D in:	2.6499999999999986
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024389803890929
+
+
+K in:	49
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0477883751323616
+
+
+K in:	49
+D in:	2.6999999999999984
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	49
+D in:	2.6999999999999984
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024389803890929
+
+
+K in:	49
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	49
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	49
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	49
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	49
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	49
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	49
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	49
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	49
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	49
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	49
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	49
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	59
+D in:	0.8000000000000002
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.027199770406145962
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.021862174729891
+
+
+K in:	59
+D in:	0.8500000000000002
+bitchCunt:	0.0045000000000000005
+Len:	9
+MDD:	0.027199770406145962
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0301867065179149
+
+
+K in:	59
+D in:	0.9000000000000002
+bitchCunt:	0.0045000000000000005
+Len:	9
+MDD:	0.030606315215383484
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0265792061587722
+
+
+K in:	59
+D in:	0.9500000000000003
+bitchCunt:	0.0045000000000000005
+Len:	9
+MDD:	0.030606315215383484
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020971382473659
+
+
+K in:	59
+D in:	1.0500000000000003
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.016689318200563557
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.035660423434879
+
+
+K in:	59
+D in:	1.1000000000000003
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.02207718208071787
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029985719101027
+
+
+K in:	59
+D in:	1.1500000000000004
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.024213461104504543
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277357083167435
+
+
+K in:	59
+D in:	1.2000000000000004
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.024213461104504005
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0269057512302302
+
+
+K in:	59
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	59
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	59
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	59
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	59
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	59
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	59
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	59
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	59
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	59
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	59
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	59
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	0.15000000000000002
+bitchCunt:	0.019435
+Len:	5
+MDD:	0.007852216981996325
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0248458336571757
+
+
+K in:	71
+D in:	0.9500000000000003
+bitchCunt:	0.0045000000000000005
+Len:	7
+MDD:	0.009912720185247838
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344344587906178
+
+
+K in:	71
+D in:	1.0000000000000002
+bitchCunt:	0.0045000000000000005
+Len:	7
+MDD:	0.009912720185247888
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0335570988453937
+
+
+K in:	71
+D in:	1.0500000000000003
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.013518252244256289
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041366798008391
+
+
+K in:	71
+D in:	1.1000000000000003
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.025107094197772815
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0286869007243067
+
+
+K in:	71
+D in:	1.1500000000000004
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.027672241079185873
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251516711864113
+
+
+K in:	71
+D in:	1.2000000000000004
+bitchCunt:	0.0045000000000000005
+Len:	8
+MDD:	0.02821059165603058
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0240289840607075
+
+
+K in:	71
+D in:	1.800000000000001
+bitchCunt:	0.001
+Len:	5
+MDD:	0.012246191099277604
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0285019647898772
+
+
+K in:	71
+D in:	1.850000000000001
+bitchCunt:	0.001
+Len:	5
+MDD:	0.012246191099277604
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0285019647898772
+
+
+K in:	71
+D in:	1.900000000000001
+bitchCunt:	0.001
+Len:	5
+MDD:	0.012246191099277604
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0285019647898772
+
+
+K in:	71
+D in:	2.0500000000000007
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.0500000000000007
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.0500000000000007
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.1000000000000005
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.1000000000000005
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.1000000000000005
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.1500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.1500000000000004
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.1500000000000004
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.2
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.2
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.2
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.25
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.25
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.25
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.3
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.3
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.3
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.3499999999999996
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.3499999999999996
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.3499999999999996
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.3999999999999995
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.3999999999999995
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.3999999999999995
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.4499999999999993
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.4499999999999993
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.4499999999999993
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.499999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.499999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.499999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.549999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	71
+D in:	2.549999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	71
+D in:	2.549999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	71
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.5999999999999988
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.5999999999999988
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	71
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.6499999999999986
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.6499999999999986
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	71
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.6999999999999984
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.6999999999999984
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	71
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	71
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	71
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	71
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	71
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	71
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	85
+D in:	1.1000000000000003
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.014160324661819471
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0313169242036762
+
+
+K in:	85
+D in:	1.1000000000000003
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1000000000000003
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1000000000000003
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1000000000000003
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1500000000000004
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.014160324661819471
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0313169242036762
+
+
+K in:	85
+D in:	1.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.001
+Len:	10
+MDD:	0.01799127407874866
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0307594389006074
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.0045000000000000005
+Len:	7
+MDD:	0.03065404459015685
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0290316372206514
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.014834316700534304
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0368110396507697
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.01483431670053431
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.025096420328368
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2000000000000004
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.0045000000000000005
+Len:	7
+MDD:	0.028652125988671905
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034705131576023
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.009795138188431324
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0471149278336365
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.00979513818843132
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0353694796261657
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.2500000000000004
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.0045000000000000005
+Len:	7
+MDD:	0.031211482297189373
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031978838373755
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.009795138188431324
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0471149278336365
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.00979513818843132
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0353694796261657
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.3000000000000005
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.017236617921073352
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0511220438832733
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.013776431504423287
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0499629572171152
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.010681099648555598
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0452583305260041
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.010681099648555561
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0335337076997204
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	85
+D in:	1.3500000000000005
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.017236617921073297
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0508787560349955
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.013776431504423226
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0497227635599162
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.010681099648555546
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0450192131177174
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.01068109964855554
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033295973378047
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4000000000000006
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.018316863876988606
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0497236381835726
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.013776431504423226
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0497227635599162
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.010681099648555546
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0450192131177174
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.01068109964855554
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033295973378047
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.4500000000000006
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0317165226192906
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.02090463700791771
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456254098434175
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.013776431504423326
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0484036729045627
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.010681099648555504
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0437060329843137
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.01068109964855546
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319903888516577
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0304019125789574
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0304019125789574
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0304019125789574
+
+
+K in:	85
+D in:	1.5000000000000007
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0304019125789574
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.015938760373125853
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0509287204173927
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.013776431504423326
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0484036729045627
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.010681099648555504
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0437060329843137
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.01068109964855546
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0283796636774556
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026796745161231
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026796745161231
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026796745161231
+
+
+K in:	85
+D in:	1.5500000000000007
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026796745161231
+
+
+K in:	85
+D in:	1.6000000000000008
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.02973451627242889
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0304096427402654
+
+
+K in:	85
+D in:	1.6000000000000008
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.021190361129630107
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0329967116437233
+
+
+K in:	85
+D in:	1.6000000000000008
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.022077446345696007
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0242215159104862
+
+
+K in:	85
+D in:	1.6500000000000008
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.024684296941090044
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0258794311527049
+
+
+K in:	85
+D in:	1.7000000000000008
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	1.7000000000000008
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	1.7000000000000008
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	1.7500000000000009
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	1.7500000000000009
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	1.7500000000000009
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	1.800000000000001
+bitchCunt:	0.0045000000000000005
+Len:	5
+MDD:	0.021672373590693038
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0293142976911487
+
+
+K in:	85
+D in:	1.800000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	1.800000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	1.800000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	1.850000000000001
+bitchCunt:	0.001
+Len:	6
+MDD:	0.018629306763287477
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026340649624473
+
+
+K in:	85
+D in:	1.850000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	1.850000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	1.850000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	1.900000000000001
+bitchCunt:	0.001
+Len:	5
+MDD:	0.009142472201156542
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0309126047321702
+
+
+K in:	85
+D in:	1.900000000000001
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.021412180532872773
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0205715080484965
+
+
+K in:	85
+D in:	1.900000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	1.900000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	1.900000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	1.950000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	1.950000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	1.950000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	2.000000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	85
+D in:	2.000000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	85
+D in:	2.000000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	85
+D in:	2.0500000000000007
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	85
+D in:	2.0500000000000007
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	85
+D in:	2.0500000000000007
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	85
+D in:	2.1000000000000005
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	85
+D in:	2.1000000000000005
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	85
+D in:	2.1000000000000005
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	85
+D in:	2.1500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	85
+D in:	2.1500000000000004
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	85
+D in:	2.1500000000000004
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	85
+D in:	2.2
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	85
+D in:	2.2
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	85
+D in:	2.2
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	85
+D in:	2.25
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	85
+D in:	2.25
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	85
+D in:	2.25
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	85
+D in:	2.3
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.044891067611334
+
+
+K in:	85
+D in:	2.3
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0369546120196682
+
+
+K in:	85
+D in:	2.3
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215411358559836
+
+
+K in:	85
+D in:	2.3499999999999996
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.044891067611334
+
+
+K in:	85
+D in:	2.3499999999999996
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0369546120196682
+
+
+K in:	85
+D in:	2.3499999999999996
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215411358559836
+
+
+K in:	85
+D in:	2.3999999999999995
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.044891067611334
+
+
+K in:	85
+D in:	2.3999999999999995
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0369546120196682
+
+
+K in:	85
+D in:	2.3999999999999995
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215411358559836
+
+
+K in:	85
+D in:	2.4499999999999993
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.044891067611334
+
+
+K in:	85
+D in:	2.4499999999999993
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0369546120196682
+
+
+K in:	85
+D in:	2.4499999999999993
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215411358559836
+
+
+K in:	85
+D in:	2.499999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.499999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.549999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.549999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.5999999999999988
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.6499999999999986
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.6999999999999984
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	85
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.042368988290357
+
+
+K in:	85
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0344516891171447
+
+
+K in:	103
+D in:	0.44999999999999996
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02219092957138247
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0217692046423021
+
+
+K in:	103
+D in:	0.44999999999999996
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.44999999999999996
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.44999999999999996
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.44999999999999996
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0365081354405863
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0535208434170196
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0416362159426449
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.49999999999999994
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033750691065764
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.0004788614017543737
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0347261597726511
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.051717181389901
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398378968944078
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.5499999999999999
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.0004788614017543737
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0347261597726511
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.051717181389901
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398378968944078
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.6
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.0004788614017543737
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0347261597726511
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.051717181389901
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398378968944078
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.65
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.0008060139184630347
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0340519347535755
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.051717181389901
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398378968944078
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7000000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0597666240639982
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.051717181389901
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398378968944078
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.7500000000000001
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.031955900399807
+
+
+K in:	103
+D in:	0.8000000000000002
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8000000000000002
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8000000000000002
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8000000000000002
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8500000000000002
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8500000000000002
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8500000000000002
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.8500000000000002
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9000000000000002
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.023437042551591483
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0269021098932263
+
+
+K in:	103
+D in:	0.9000000000000002
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9000000000000002
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9000000000000002
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9000000000000002
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9500000000000003
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019184866376568285
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.035577259492299
+
+
+K in:	103
+D in:	0.9500000000000003
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.019184866376568285
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277115468008426
+
+
+K in:	103
+D in:	0.9500000000000003
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9500000000000003
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9500000000000003
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	0.9500000000000003
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0000000000000002
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.020497113217882057
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0329000037431286
+
+
+K in:	103
+D in:	1.0000000000000002
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.020497113217882057
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.025054626110531
+
+
+K in:	103
+D in:	1.0000000000000002
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0000000000000002
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0000000000000002
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0000000000000002
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0500000000000003
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0500000000000003
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0500000000000003
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.0500000000000003
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.1000000000000003
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.1000000000000003
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.1000000000000003
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.1000000000000003
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020366243627876
+
+
+K in:	103
+D in:	1.3500000000000005
+bitchCunt:	0.0045000000000000005
+Len:	5
+MDD:	0.01951086113525565
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0315884598582594
+
+
+K in:	103
+D in:	1.3500000000000005
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	103
+D in:	1.3500000000000005
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	103
+D in:	1.3500000000000005
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266743383618782
+
+
+K in:	103
+D in:	1.4000000000000006
+bitchCunt:	0.001
+Len:	9
+MDD:	0.02111862993234946
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.021884118448305
+
+
+K in:	103
+D in:	1.4000000000000006
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.027824250684228575
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0281454982868987
+
+
+K in:	103
+D in:	1.4000000000000006
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.02457548331583697
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0261010830029471
+
+
+K in:	103
+D in:	1.4500000000000006
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.02371792446453631
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0373882369300294
+
+
+K in:	103
+D in:	1.4500000000000006
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.4500000000000006
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.5000000000000007
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.03063510706445948
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0247206339149317
+
+
+K in:	103
+D in:	1.5000000000000007
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.5000000000000007
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.5500000000000007
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.03063510706445948
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0247206339149317
+
+
+K in:	103
+D in:	1.5500000000000007
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.5500000000000007
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.6000000000000008
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.03063510706445948
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0247206339149317
+
+
+K in:	103
+D in:	1.6000000000000008
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.6000000000000008
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.6500000000000008
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.03170707683250645
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0235874491377068
+
+
+K in:	103
+D in:	1.6500000000000008
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.6500000000000008
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.7000000000000008
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.029347187958315396
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026082099852575
+
+
+K in:	103
+D in:	1.7000000000000008
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.7000000000000008
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.7500000000000009
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.02848763102181947
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026990741928713
+
+
+K in:	103
+D in:	1.7500000000000009
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.7500000000000009
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.800000000000001
+bitchCunt:	0.0045000000000000005
+Len:	6
+MDD:	0.02848763102181947
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.026990741928713
+
+
+K in:	103
+D in:	1.800000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.019544078743036382
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0363503808845365
+
+
+K in:	103
+D in:	1.800000000000001
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02043189071437731
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0275474988284823
+
+
+K in:	103
+D in:	1.850000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.023267852384246022
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0287647376222657
+
+
+K in:	103
+D in:	1.850000000000001
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.02415402048685667
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020024482637525
+
+
+K in:	103
+D in:	1.900000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	103
+D in:	1.900000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	103
+D in:	1.900000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	103
+D in:	1.950000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	103
+D in:	1.950000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	103
+D in:	1.950000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	103
+D in:	2.000000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	103
+D in:	2.000000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	103
+D in:	2.000000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	103
+D in:	2.0500000000000007
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	103
+D in:	2.0500000000000007
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	103
+D in:	2.0500000000000007
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	103
+D in:	2.1000000000000005
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0456138967450264
+
+
+K in:	103
+D in:	2.1000000000000005
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0376719509147148
+
+
+K in:	103
+D in:	2.1000000000000005
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222518302620596
+
+
+K in:	103
+D in:	2.1500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0243191075210167
+
+
+K in:	103
+D in:	2.2
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	103
+D in:	2.25
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	103
+D in:	2.3
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	103
+D in:	2.3499999999999996
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	103
+D in:	2.3999999999999995
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	103
+D in:	2.4499999999999993
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.499999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.549999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	103
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	0.1
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.010020453297348745
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.030216167286153
+
+
+K in:	123
+D in:	0.1
+bitchCunt:	0.019435
+Len:	4
+MDD:	0.010020453297348745
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.022391174696089
+
+
+K in:	123
+D in:	0.15000000000000002
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.010020453297348745
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.030216167286153
+
+
+K in:	123
+D in:	0.15000000000000002
+bitchCunt:	0.019435
+Len:	4
+MDD:	0.010020453297348745
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.022391174696089
+
+
+K in:	123
+D in:	0.25
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0346395527267696
+
+
+K in:	123
+D in:	0.25
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0267809623740272
+
+
+K in:	123
+D in:	0.3
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0335568844569953
+
+
+K in:	123
+D in:	0.3
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0257065174960591
+
+
+K in:	123
+D in:	0.35
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0252261318716118
+
+
+K in:	123
+D in:	0.39999999999999997
+bitchCunt:	0.019435
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0252261318716118
+
+
+K in:	123
+D in:	0.65
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.0062044076759292304
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0232195552879948
+
+
+K in:	123
+D in:	0.65
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	123
+D in:	0.65
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0282254559948543
+
+
+K in:	123
+D in:	0.7000000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.0062044076759292304
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0232195552879948
+
+
+K in:	123
+D in:	0.7000000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	123
+D in:	0.7000000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0282254559948543
+
+
+K in:	123
+D in:	0.7500000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.006204407675929062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0229831231922495
+
+
+K in:	123
+D in:	0.7500000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	123
+D in:	0.7500000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0279865203408423
+
+
+K in:	123
+D in:	0.8000000000000002
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.006531560192637756
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0223146214687853
+
+
+K in:	123
+D in:	0.8000000000000002
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	123
+D in:	0.8000000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0279865203408423
+
+
+K in:	123
+D in:	0.8500000000000002
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0477883751323616
+
+
+K in:	123
+D in:	0.8500000000000002
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	123
+D in:	0.8500000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0279865203408423
+
+
+K in:	123
+D in:	0.9000000000000002
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	123
+D in:	0.9000000000000002
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	123
+D in:	0.9000000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266743383618782
+
+
+K in:	123
+D in:	0.9500000000000003
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	123
+D in:	0.9500000000000003
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	123
+D in:	0.9500000000000003
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0266743383618782
+
+
+K in:	123
+D in:	1.1000000000000003
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.01918486637656825
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0340353372551323
+
+
+K in:	123
+D in:	1.1000000000000003
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.023171463289294432
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0220103449558515
+
+
+K in:	123
+D in:	1.4000000000000006
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251549015014407
+
+
+K in:	123
+D in:	1.4500000000000006
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251549015014407
+
+
+K in:	123
+D in:	1.5000000000000007
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251549015014407
+
+
+K in:	123
+D in:	1.5000000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	123
+D in:	1.5000000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	123
+D in:	1.5000000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	123
+D in:	1.5000000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	123
+D in:	1.5500000000000007
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0243191075210167
+
+
+K in:	123
+D in:	1.5500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.5500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.5500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.5500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6500000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6500000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6500000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.6500000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7500000000000009
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7500000000000009
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7500000000000009
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.7500000000000009
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.800000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.800000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.800000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.800000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.850000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.850000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.850000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.850000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	123
+D in:	1.900000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.900000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.900000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.900000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.950000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.950000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.950000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	1.950000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	123
+D in:	2.000000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403597251847996
+
+
+K in:	123
+D in:	2.000000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403597251847996
+
+
+K in:	123
+D in:	2.000000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403597251847996
+
+
+K in:	123
+D in:	2.000000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403597251847996
+
+
+K in:	123
+D in:	2.0500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.0500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.0500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.0500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1000000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1000000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1000000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1000000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	123
+D in:	2.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	123
+D in:	2.2
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.2
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.2
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.2
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.2
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.25
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.25
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.25
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.25
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.25
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.3
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.3
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.3
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.3
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.3
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	123
+D in:	2.3499999999999996
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.3999999999999995
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.4499999999999993
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.499999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.549999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.5999999999999988
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.6499999999999986
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.6999999999999984
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	123
+D in:	2.8999999999999977
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0246479770043435
+
+
+K in:	123
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0441249715838667
+
+
+K in:	123
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0441249715838667
+
+
+K in:	123
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.038085615096478
+
+
+K in:	123
+D in:	2.8999999999999977
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0239557999184359
+
+
+K in:	148
+D in:	0.39999999999999997
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0487577051556238
+
+
+K in:	148
+D in:	0.39999999999999997
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0407918805721934
+
+
+K in:	148
+D in:	0.39999999999999997
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0289429236845895
+
+
+K in:	148
+D in:	0.44999999999999996
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	148
+D in:	0.44999999999999996
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	148
+D in:	0.44999999999999996
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0282254559948543
+
+
+K in:	148
+D in:	0.49999999999999994
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0480305402236654
+
+
+K in:	148
+D in:	0.49999999999999994
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0400702388113765
+
+
+K in:	148
+D in:	0.49999999999999994
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0282254559948543
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0477883751323616
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0282113151189618
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0205762886297822
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0205762886297822
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0205762886297822
+
+
+K in:	148
+D in:	0.5499999999999999
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0205762886297822
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.006204407675929062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0232068238533456
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0282113151189618
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208012504720718
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208012504720718
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208012504720718
+
+
+K in:	148
+D in:	0.6
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208012504720718
+
+
+K in:	148
+D in:	0.8500000000000002
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.006204407675929165
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.023472024015662
+
+
+K in:	148
+D in:	0.8500000000000002
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	148
+D in:	0.8500000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0284704010574601
+
+
+K in:	148
+D in:	0.9500000000000003
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251549015014407
+
+
+K in:	148
+D in:	1.0000000000000002
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251549015014407
+
+
+K in:	148
+D in:	1.0500000000000003
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0251549015014407
+
+
+K in:	148
+D in:	1.1000000000000003
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0243191075210167
+
+
+K in:	148
+D in:	1.6000000000000008
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	148
+D in:	1.6000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	148
+D in:	1.6000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	148
+D in:	1.6000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	148
+D in:	1.6000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.041045074147372
+
+
+K in:	148
+D in:	1.6500000000000008
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	148
+D in:	1.6500000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.6500000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.6500000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.6500000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7000000000000008
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	148
+D in:	1.7000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7500000000000009
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	148
+D in:	1.7500000000000009
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7500000000000009
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7500000000000009
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.7500000000000009
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.800000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.800000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.800000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.800000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.850000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.850000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.850000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.850000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.900000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.900000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.900000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.900000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385414155860921
+
+
+K in:	148
+D in:	1.950000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	1.950000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	1.950000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	1.950000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	2.000000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	2.000000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	2.000000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	2.000000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0378577148516708
+
+
+K in:	148
+D in:	2.0500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.0500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.0500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.0500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1000000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1000000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1000000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1000000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.2
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.2
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.2
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.2
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.25
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.25
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.25
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.25
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3499999999999996
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	148
+D in:	2.3499999999999996
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3499999999999996
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3499999999999996
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3499999999999996
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3999999999999995
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	148
+D in:	2.3999999999999995
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3999999999999995
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3999999999999995
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.3999999999999995
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	148
+D in:	2.4499999999999993
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0203969728485351
+
+
+K in:	148
+D in:	2.7499999999999982
+bitchCunt:	0.001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029340060321908
+
+
+K in:	148
+D in:	2.7499999999999982
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208537824044608
+
+
+K in:	148
+D in:	2.7499999999999982
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.7499999999999982
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.7499999999999982
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034295252284624
+
+
+K in:	148
+D in:	2.7499999999999982
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020217029311705
+
+
+K in:	148
+D in:	2.799999999999998
+bitchCunt:	0.001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029340060321908
+
+
+K in:	148
+D in:	2.799999999999998
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208537824044608
+
+
+K in:	148
+D in:	2.799999999999998
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.799999999999998
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.799999999999998
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034295252284624
+
+
+K in:	148
+D in:	2.799999999999998
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020217029311705
+
+
+K in:	148
+D in:	2.849999999999998
+bitchCunt:	0.001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029340060321908
+
+
+K in:	148
+D in:	2.849999999999998
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208537824044608
+
+
+K in:	148
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034295252284624
+
+
+K in:	148
+D in:	2.849999999999998
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020217029311705
+
+
+K in:	148
+D in:	2.8999999999999977
+bitchCunt:	0.001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029340060321908
+
+
+K in:	148
+D in:	2.8999999999999977
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208537824044608
+
+
+K in:	148
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	148
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034295252284624
+
+
+K in:	148
+D in:	2.8999999999999977
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020217029311705
+
+
+K in:	178
+D in:	0.6
+bitchCunt:	0.01495
+Len:	3
+MDD:	0.030788011359457936
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0213025029016463
+
+
+K in:	178
+D in:	0.65
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0477883751323616
+
+
+K in:	178
+D in:	0.65
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0398299130816602
+
+
+K in:	178
+D in:	0.65
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024389803890929
+
+
+K in:	178
+D in:	0.7000000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0464584577951752
+
+
+K in:	178
+D in:	0.7000000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	178
+D in:	0.7000000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	178
+D in:	0.7500000000000001
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	178
+D in:	0.7500000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	178
+D in:	0.8000000000000002
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0385100971131374
+
+
+K in:	178
+D in:	0.8000000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230822129707149
+
+
+K in:	178
+D in:	0.9000000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.022198193184386
+
+
+K in:	178
+D in:	0.9000000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	178
+D in:	0.9000000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	178
+D in:	0.9000000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	178
+D in:	0.9000000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0426010164288064
+
+
+K in:	178
+D in:	0.9500000000000003
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0206530157427354
+
+
+K in:	178
+D in:	0.9500000000000003
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	0.9500000000000003
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	0.9500000000000003
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	0.9500000000000003
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	1.0000000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	1.0000000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	1.0000000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	1.0000000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0419146431461013
+
+
+K in:	178
+D in:	1.0500000000000003
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	178
+D in:	1.0500000000000003
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	178
+D in:	1.0500000000000003
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	178
+D in:	1.0500000000000003
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0417626238825684
+
+
+K in:	178
+D in:	1.1000000000000003
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1000000000000003
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1000000000000003
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1000000000000003
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0243191075210167
+
+
+K in:	178
+D in:	1.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0406195883066602
+
+
+K in:	178
+D in:	1.2000000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	178
+D in:	1.2000000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2000000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2000000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2000000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	178
+D in:	1.2500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.2500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.039902825876418
+
+
+K in:	178
+D in:	1.3000000000000005
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0236037818039372
+
+
+K in:	178
+D in:	1.3000000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3000000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3000000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3000000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3500000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3500000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3500000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.3500000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0355622824467934
+
+
+K in:	178
+D in:	1.4000000000000006
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4000000000000006
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4000000000000006
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4000000000000006
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4500000000000006
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4500000000000006
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4500000000000006
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.4500000000000006
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5000000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5000000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5000000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5000000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.5500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6500000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6500000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6500000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.6500000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7500000000000009
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7500000000000009
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7500000000000009
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.7500000000000009
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.800000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	178
+D in:	1.800000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.800000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.800000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.800000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.850000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	178
+D in:	1.850000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.850000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.850000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.850000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.900000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	178
+D in:	1.900000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.900000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.900000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.900000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.950000000000001
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0211078832371572
+
+
+K in:	178
+D in:	1.950000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.950000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.950000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	1.950000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	2.000000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	2.000000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	2.000000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	2.000000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.033071809710721
+
+
+K in:	178
+D in:	2.0500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.0500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.0500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.0500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1000000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1000000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1000000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1000000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0305404947233656
+
+
+K in:	178
+D in:	2.2
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.2
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.2
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.2
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.25
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.25
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.25
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.25
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	178
+D in:	2.3
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3499999999999996
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3499999999999996
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3499999999999996
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3499999999999996
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	178
+D in:	2.3999999999999995
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.3999999999999995
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.3999999999999995
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.3999999999999995
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.4499999999999993
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.4499999999999993
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.4499999999999993
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.4499999999999993
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.499999999999999
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.499999999999999
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.499999999999999
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.499999999999999
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.549999999999999
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.549999999999999
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.549999999999999
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.549999999999999
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.5999999999999988
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.5999999999999988
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.5999999999999988
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.5999999999999988
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	178
+D in:	2.849999999999998
+bitchCunt:	0.001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029340060321908
+
+
+K in:	178
+D in:	2.849999999999998
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208537824044608
+
+
+K in:	178
+D in:	2.849999999999998
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	178
+D in:	2.849999999999998
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	178
+D in:	2.849999999999998
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034295252284624
+
+
+K in:	178
+D in:	2.849999999999998
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020217029311705
+
+
+K in:	178
+D in:	2.8999999999999977
+bitchCunt:	0.001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.029340060321908
+
+
+K in:	178
+D in:	2.8999999999999977
+bitchCunt:	0.0045000000000000005
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208537824044608
+
+
+K in:	178
+D in:	2.8999999999999977
+bitchCunt:	0.01495
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	178
+D in:	2.8999999999999977
+bitchCunt:	0.019435
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0403125572649845
+
+
+K in:	178
+D in:	2.8999999999999977
+bitchCunt:	0.025265500000000003
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034295252284624
+
+
+K in:	178
+D in:	2.8999999999999977
+bitchCunt:	0.032845150000000004
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.020217029311705
+
+
+K in:	213
+D in:	0.1
+bitchCunt:	0.01495
+Len:	4
+MDD:	0.018201854605055023
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0320508210955541
+
+
+K in:	213
+D in:	0.1
+bitchCunt:	0.025265500000000003
+Len:	3
+MDD:	0.018201854605054957
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0280147527051073
+
+
+K in:	213
+D in:	0.1
+bitchCunt:	0.04269869500000001
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024948332515313
+
+
+K in:	213
+D in:	0.1
+bitchCunt:	0.055508303500000016
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024948332515313
+
+
+K in:	213
+D in:	0.1
+bitchCunt:	0.07216079455000002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024948332515313
+
+
+K in:	213
+D in:	0.1
+bitchCunt:	0.09380903291500002
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024948332515313
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0431321406539154
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.01046375499934747
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.027205439974627
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0389845075167226
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.045168683527145
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.045168683527145
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.045168683527145
+
+
+K in:	213
+D in:	0.15000000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.045168683527145
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0374701846079235
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.01134368654548633
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.021622901595253
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0333334509173406
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.2
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0597831484443212
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.0003444444594407205
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0436838997784885
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0557024632889118
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.032845150000000004
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0276237194509088
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.25
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0554628146401839
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.0024741326458248354
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0394122120105502
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0513713447430937
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.032845150000000004
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0233226669129531
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.3
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0554628146401839
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.0024741326458248354
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0394122120105502
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0513713447430937
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.032845150000000004
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0233226669129531
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.35
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0361335046523041
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.012002620568451564
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.02030137363708
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.39999999999999997
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0361335046523041
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.012002620568451564
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.02030137363708
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.44999999999999996
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0361335046523041
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.012002620568451564
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.02030137363708
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.49999999999999994
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0361335046523041
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.012002620568451564
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.02030137363708
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.5499999999999999
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0361335046523041
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.019435
+Len:	3
+MDD:	0.012002620568451564
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.02030137363708
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.6
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0412841475367731
+
+
+K in:	213
+D in:	0.65
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.035451389112704
+
+
+K in:	213
+D in:	0.65
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.65
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.65
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.65
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.65
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.7000000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0352115798650197
+
+
+K in:	213
+D in:	0.7000000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0333334509173406
+
+
+K in:	213
+D in:	0.7000000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.7000000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.7000000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.7000000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.040598641185531
+
+
+K in:	213
+D in:	0.7500000000000001
+bitchCunt:	0.01495
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.034756941490024
+
+
+K in:	213
+D in:	0.7500000000000001
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0333334509173406
+
+
+K in:	213
+D in:	0.7500000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.7500000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.7500000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.7500000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0554923367879276
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.019435
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.047475359403471
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319933855567958
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.8000000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0401416369513696
+
+
+K in:	213
+D in:	0.8500000000000002
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0238421141944596
+
+
+K in:	213
+D in:	0.8500000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.8500000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.8500000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.8500000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9000000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9000000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9000000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9000000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9500000000000003
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9500000000000003
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9500000000000003
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	0.9500000000000003
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0000000000000002
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0000000000000002
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0000000000000002
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0000000000000002
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0500000000000003
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0248760908717682
+
+
+K in:	213
+D in:	1.0500000000000003
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0500000000000003
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0500000000000003
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.0500000000000003
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1000000000000003
+bitchCunt:	0.025265500000000003
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0208944752056972
+
+
+K in:	213
+D in:	1.1000000000000003
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1000000000000003
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1000000000000003
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1000000000000003
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0358000967268362
+
+
+K in:	213
+D in:	1.2000000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2000000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2000000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2000000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2500000000000004
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230084293518205
+
+
+K in:	213
+D in:	1.2500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.2500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.3000000000000005
+bitchCunt:	0.01495
+Len:	2
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230084293518205
+
+
+K in:	213
+D in:	1.3000000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.3000000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.3000000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.3000000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0349682242306122
+
+
+K in:	213
+D in:	1.3500000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0307110423210712
+
+
+K in:	213
+D in:	1.3500000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0307110423210712
+
+
+K in:	213
+D in:	1.3500000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0307110423210712
+
+
+K in:	213
+D in:	1.3500000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0307110423210712
+
+
+K in:	213
+D in:	1.4000000000000006
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4000000000000006
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4000000000000006
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4000000000000006
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4500000000000006
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4500000000000006
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4500000000000006
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.4500000000000006
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5000000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5000000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5000000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5000000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.5500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6500000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6500000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6500000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.6500000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.7000000000000008
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.7000000000000008
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.7000000000000008
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.7000000000000008
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0288920067290641
+
+
+K in:	213
+D in:	1.7500000000000009
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.7500000000000009
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.7500000000000009
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.7500000000000009
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.800000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.800000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.800000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.800000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.850000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.850000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.850000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.850000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0277551094840596
+
+
+K in:	213
+D in:	1.900000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.900000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.900000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.900000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.950000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.950000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.950000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	1.950000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	2.000000000000001
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	2.000000000000001
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	2.000000000000001
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	2.000000000000001
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0270729711370568
+
+
+K in:	213
+D in:	2.0500000000000007
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.0500000000000007
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.0500000000000007
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.0500000000000007
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1000000000000005
+bitchCunt:	0.001
+Len:	4
+MDD:	0.014092321894108892
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215636154944494
+
+
+K in:	213
+D in:	2.1000000000000005
+bitchCunt:	0.0045000000000000005
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024442717791377
+
+
+K in:	213
+D in:	2.1000000000000005
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1000000000000005
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1000000000000005
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1000000000000005
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1500000000000004
+bitchCunt:	0.001
+Len:	4
+MDD:	0.014092321894108892
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215636154944494
+
+
+K in:	213
+D in:	2.1500000000000004
+bitchCunt:	0.0045000000000000005
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024442717791377
+
+
+K in:	213
+D in:	2.1500000000000004
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1500000000000004
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1500000000000004
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.1500000000000004
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.2
+bitchCunt:	0.001
+Len:	4
+MDD:	0.014092321894108892
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0215636154944494
+
+
+K in:	213
+D in:	2.2
+bitchCunt:	0.0045000000000000005
+Len:	3
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.024442717791377
+
+
+K in:	213
+D in:	2.2
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.2
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.2
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.2
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.25
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.01770059408563032
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0319526885187553
+
+
+K in:	213
+D in:	2.25
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.25
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.25
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.25
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0249128663715483
+
+
+K in:	213
+D in:	2.3
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.02110853419405062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.023544290919233
+
+
+K in:	213
+D in:	2.3
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230553807175353
+
+
+K in:	213
+D in:	2.3
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230553807175353
+
+
+K in:	213
+D in:	2.3
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230553807175353
+
+
+K in:	213
+D in:	2.3
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0230553807175353
+
+
+K in:	213
+D in:	2.3499999999999996
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.02110853419405062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.023544290919233
+
+
+K in:	213
+D in:	2.3499999999999996
+bitchCunt:	0.04269869500000001
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222606423239027
+
+
+K in:	213
+D in:	2.3499999999999996
+bitchCunt:	0.055508303500000016
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222606423239027
+
+
+K in:	213
+D in:	2.3499999999999996
+bitchCunt:	0.07216079455000002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222606423239027
+
+
+K in:	213
+D in:	2.3499999999999996
+bitchCunt:	0.09380903291500002
+Len:	1
+MDD:	0
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0222606423239027
+
+
+K in:	213
+D in:	2.3999999999999995
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.02110853419405062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.023544290919233
+
+
+K in:	213
+D in:	2.4499999999999993
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.02110853419405062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.023544290919233
+
+
+K in:	213
+D in:	2.499999999999999
+bitchCunt:	0.0045000000000000005
+Len:	4
+MDD:	0.02110853419405062
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.023544290919233
+
+
+K in:	256
+D in:	0.25
+bitchCunt:	0.001
+Len:	5
+MDD:	0.008571285663969532
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0318561789241996
+
+
+K in:	256
+D in:	0.3
+bitchCunt:	0.001
+Len:	5
+MDD:	0.008571285663969664
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0239061472972366
+
+
+K in:	256
+D in:	0.35
+bitchCunt:	0.001
+Len:	5
+MDD:	0.008571285663969664
+ [BBbreak, static bitchcunt distance] Cumulative Diff:	1.0239061472972366
+
