@@ -3,12 +3,12 @@ import numpy as np
 import re
 
 #tickers = ["BTC_ETH", "BTC_XMR", "BTC_DASH", "BTC_XRP", "BTC_FCT", "BTC_MAID", "BTC_ZEC", "BTC_LTC"]
-tickers = ["BTC_ETH"]
+tickers = ["BTC_USD"]
 outputs = []
 fileCuml = []
 best = {}; kurt = []; bests = []
 env = "../../output/"
-run = "elastic2.1OhlcvDe-Fucked_1hADABTC_10.24.18_output.txt"
+run = "elastic2.1CDDOhlcvDe-Fucked_1hBTCUSD_10.24.18_output.txt"
 
 for i, tik in enumerate(tickers):
     outputs.append("" + env + run)  # + tik + "_output.txt")

@@ -13,8 +13,8 @@ warnings.filterwarnings(action="ignore", module="sklearn", message="^internal ge
 
 exchange = ccxt.bitmex()
 ''' TESTNET BITMEX 0'''
-exchange.apiKey = 'XisZrCcq4qDmLhs2T53MpFMJ'
-exchange.secret = 'ApEVapMkwqiEhV3FGr7NPjZHPG7P8xPAbtHxrbEs5RxA8NDz'
+exchange.apiKey = 'm8X0sm0w39dvB1pcXvTaKk6w'
+exchange.secret = 'VuIEg6j2JtJ1M7mvIuGJmySAAtOOz6IGNnlvxM3ccNNYkWt0'
 
 
 def load_bitmex_data(symbol, time_frequency, n_periods=500, baseURI='https://www.bitmex.com/api/v1'):
@@ -25,8 +25,6 @@ def load_bitmex_data(symbol, time_frequency, n_periods=500, baseURI='https://www
     endpoint = '/trade/bucketed/'
     if time_frequency == 'half_hour':
         bin_size = '5m'
-    elif time_frequency == '1m':
-        bin_size = '1m'
     elif time_frequency == 'bi_hourly' or time_frequency == 'hourly':
         bin_size = '1h'
     elif time_frequency == 'daily':
@@ -246,6 +244,23 @@ def create_binary_ohlcv_dataset(dataset, look_back):
                 dataY.append(0)
     return np.array(dataX), np.array(dataY)
 
+def create_binary_h2d_ohlcv_dataset(dataset, look_back, ohlcv=-1):
+    look_back *= 24
+    dataX, dataY = [], []
+    for i in range(len(dataset)-1):
+        datum = []
+        if i > look_back:
+            for k in range(len(dataset[i-look_back:i])):
+                for j in range(len(dataset[i-look_back:i][k])):
+                    datum.append(dataset[i-look_back:i][k][j])
+            dataX.append(datum)
+            # if dataset[i+1][-1] > dataset[i][-1]:
+            if np.mean([d[ohlcv] for d in dataset[i+1:i+25]]) > dataset[i][ohlcv]:
+                dataY.append(1)
+            else:
+                dataY.append(0)
+    return np.array(dataX), np.array(dataY)
+
 def create_binary_dataset(dataset, look_back):
     dataX, dataY = [], []
     for i in range(len(dataset)):
@@ -448,11 +463,11 @@ def fucking_paul(stock, log, Kin, Din, save_max, max_len, bitchCunt, tradeCost):
     #time.sleep(60)
 
     if cuml > save_max and len(perc) <= max_len:
-        write_that_shit(log, Kin, Din, perc, cuml, mdd, bitchCunt)
+        # write_that_shit(log, Kin, Din, perc, cuml, mdd, bitchCunt)
         print(f'\tYEEEEEE BOIIIIS: Log: {log} Kin: {Kin} Din: {Din} BitchCunt: {bitchCunt} MDD = {mdd} LEN = {len(perc)} CUML = {cuml}')
         # DONT FUCKING MOVE/INDENT WRITE_THAT_SHIT!!!!
-        # if mdd < 0.5:
-        #     plot(cumld)
+        if mdd < 0.5:
+            plot(cumld)
         # plot2(s1ar, s2ar)
     return cuml
 
@@ -463,20 +478,25 @@ def pillowcaseAssassination(data, k, i, fileOutput, save_max, max_len, bitchCunt
             (data[inc], fileOutput[inc], k, i, save_max, max_len, bitchCunt, tradeCost)
             for inc in range(len(data)))
 
+def disectPanda(panda):
+    bodyParts = []
+    for i in range(len(panda.ix[:, 'close'])):
+        bodyParts.append([panda.ix[i, 'open'], panda.ix[i, 'high'], panda.ix[i, 'low'], panda.ix[i, 'close']])
+    return bodyParts
 
 
-ticker = ["BTCUSD", "ETHUSD", "LTCBTC", "XRPBTC", "ADABTC"]
+#ticker = ["BTCUSD", "ETHUSD", "LTCBTC", "XRPBTC", "ADABTC"]
 #ticker = ["ETHUSD", "XRPU18", "TRXU18", "LTCU18", "EOSU18", "ADAU18", "BCHU18", "XRPU18"]
-#ticker = ["XBTUSD", "ETHUSD", "XRPZ18", "TRXZ18", "LTCZ18", "EOSZ18", "ADAZ18", "BCHZ18", "XRPZ18"]
+ticker = ["XBTUSD", "ETHUSD", "XRPZ18", "TRXZ18", "LTCZ18", "EOSZ18", "ADAZ18", "BCHZ18", "XRPZ18"]
 fileTicker = []
 fileOutput = []
 fileCuml = []
 dataset = []
 for i, tick in enumerate(ticker):
-    #orders = load_bitmex_data(tick, "daily", n_periods=666)
-    orders = get_CDD_data(tick)
+    orders = disectPanda(load_bitmex_data(tick, "hourly", n_periods=666))
+    # orders = get_CDD_data(tick)
     # orders = decompose(orders)
-    orders = [[float(order[0]), float(order[1]), float(order[2]), float(order[3])] for order in orders]
+    # orders = [[float(order[0]), float(order[1]), float(order[2]), float(order[3])] for order in orders]
     print(tick, ":", len(orders))
     print(orders[1])
     #ps = [order[-2] for order in orders if isFloat(order[-2])]
@@ -490,7 +510,7 @@ for i, tick in enumerate(ticker):
 
 for i, tick in enumerate(ticker):
     #fileOutput.append(tick)
-    fileOutput.append("../../output/elastic2.1CDDOhlcvDe-Fucked_1h" + tick + "_10.24.18_output.txt")
+    fileOutput.append("../../output/elastic2.1MEXOhlcvDe-Fucked_1h" + tick + "_12.9.18_output.txt")
 #
 # for i, file in enumerate(fileTicker):
 #     if (os.path.isfile(file) == False):
@@ -500,8 +520,8 @@ for i, tick in enumerate(ticker):
 
 
 def run():
-    k1 = len(dataset[0]) * 0.7
-    k2 = len(dataset[0]) * 0.71
+    k1 = len(dataset[0]) * 0.299
+    k2 = len(dataset[0]) * 0.301
     l1 = 3; l2 = 30
     # d1 = 2; d2 = 300
     # s1 = 2; s2 = 30
